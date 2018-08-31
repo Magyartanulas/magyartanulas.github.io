@@ -1,4 +1,4 @@
-### Welcome!
+## Welcome!
 
 This repository is the most complete **and errorless** guide to the Hungarian Language.
 
@@ -9,14 +9,20 @@ websites listed below for further resources.
 The goal here is clarification, seeing as most native english speakers aren't given a thorough grammer education, these concepts
 shall be explained where relevant.
 
-# Where can I start?
+### Where can I start?
 
 The Alphabet & Pronunciation
+
 Vowel Harmony
+
 The Copular Verb & Introductions
+
 The Accusative Case & Objects
+
 The Definite & Indefinite Conjugation
 
-# Further resources
-
-# What's new?
+### Further resources
+Memrise
+Babadum
+Discord
+### What's new?
