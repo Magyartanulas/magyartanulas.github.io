@@ -12,6 +12,7 @@ shall be explained where relevant.
 # Where can I start?
 
 The Alphabet & Pronunciation
+Vowel Harmony
 The Copular Verb & Introductions
 The Accusative Case & Objects
 The Definite & Indefinite Conjugation
