@@ -7,35 +7,23 @@ this will be made as fun and readable as possible, it shouldn't replace your lea
 websites listed below for further resources for practicing vocabulary and other aspects with the language.
 
 The goal here is clarification. Seeing as most native english speakers aren't given a thorough grammer education, these concepts
-shall be explained where relevant. The grammar will be explained in a progression route starting from the basics.
+shall be explained where relevant. The grammar will be explained in a progression route with sections from beginner to advanced.
 
 ### Progression Route
 
-The Alphabet & Vowel Harmony
-
-The Copular Verb & Introductions
-
-Nouns, Postpositions & Articles
-
-The Accusative Case & Plurals
-
-Definite & Indefinite Conjugation
-
-Negaiton
-
-The Dative Case & Possession
-
-Tetszik & Vonz
-
-The Conjugated Infinitive & Expressing need
-
-Making Comparisons
-
-Locative cases & Triadic Pronouns
-
-More Noun Cases
-
-Hogy
+1. The Alphabet & Vowel Harmony
+2. The Copular Verb (van) & Introductions
+3. Nouns, Postpositions & Articles
+4. The Accusative Case (-t) & Plurals (-k)
+5. Definite & Indefinite Conjugation
+6. Negation
+7. The Dative Case (-nak/-nek) & Possession
+8. Tetszik & Vonz
+9. The Conjugated Infinitive & Expressing need
+10. Making Comparisons (-bb, leg-, ilyen/olyan, így/úgy, mint)
+11. Locative cases & Triadic Pronouns
+12. More Noun Cases (-kor, -ért, -ig)
+13. Hogy
 
 stay tuned for more!
 
