@@ -25,12 +25,12 @@ shall be explained where relevant. The grammar will be explained in a progressio
 12. More Noun Cases (-kor, -ért, -ig)
 13. Hogy
 
-stay tuned for more!
+Stay tuned for more!
 
 ### Further resources for practicing Vocabulary
-Memrise - Monolingual flashcards written to help better your recall!
 
-Babadum - Fun monolingual minigames!
+* [Memrise - Monolingual flashcards written to help better your recall!](www.memrise.com/group/262696/)
+* [Babadum - Fun monolingual minigames!](https://babadum.com/)
+* [Discord - Talk with native speakers and other learners!](https://discord.gg/wSg45QS)
 
-Discord - Talk with native speakers and other learners!
 ### What's new?
