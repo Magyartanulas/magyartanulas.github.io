@@ -4,11 +4,11 @@ The best place to start with learning any language is the alphabet With 14 vowel
 the hungarian alphabet is a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
 every wor that you can read first time every time!
 
-A Á B C Cs D Dz Dzs E É F
-a á b c cs d dz dzs e é f
+> A Á B C Cs D Dz Dzs E É F
+> a á b c cs d dz dzs e é f
 
-G Gy H I Í J K L Ly M N
-g gy h i í j k l ly m n
+> G Gy H I Í J K L Ly M N
+> g gy h i í j k l ly m n
 
 Ny O Ó Ö Ő P Q R S Sz T 
 ny o ó ö ő p q r s sz t  
