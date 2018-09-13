@@ -30,7 +30,7 @@ Consonants can be paired together for a longer consonant sound. Here are some ex
 * Sebe**ss**ég - Speed
 * A**ssz**ony - Mrs. (Long sz)
 
-You get the idea.
+Note that only the first letter of a diagraph (double-letter) is lengthened.
 
 When some consonants are combined, the pronunciation changes slightly. Try to recognise the base words to see which consonants really are there.
 
