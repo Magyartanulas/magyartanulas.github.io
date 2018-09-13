@@ -20,9 +20,9 @@ ty u ú ü ű v w x y z zs
 
 ### Videos to help pronunciation
 
-[Pronouncing Sounds (No Speling)](https://www.youtube.com/watch?v=tjSQ3E1zSxo)
-[Spelling the Letters](https://www.youtube.com/watch?v=Wll1C4_JVCo)
-[Both + Vocab](https://www.youtube.com/watch?v=UusKeY47FPc)
+* [Pronouncing Sounds (No Speling)](https://www.youtube.com/watch?v=tjSQ3E1zSxo)
+* [Spelling the Letters](https://www.youtube.com/watch?v=Wll1C4_JVCo)
+* [Both + Vocab](https://www.youtube.com/watch?v=UusKeY47FPc)
 
 
 ### Need to add:
