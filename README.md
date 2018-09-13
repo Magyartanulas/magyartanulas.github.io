@@ -12,7 +12,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 ### Progression Route
 
 1. [The Alphabet & Vowel Harmony](/Section1.html)
-2. The Copular Verb (van) & Introductions
+2. [The Copular Verb (van) & Introductions](/Section1.md)
 3. Nouns, Postpositions & Articles
 4. The Accusative Case (-t) & Plurals (-k)
 5. Definite & Indefinite Conjugation
