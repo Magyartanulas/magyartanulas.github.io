@@ -1,4 +1,6 @@
-# The Alphabet & Pronunciation
+### Section 1
+
+## The Alphabet
 
 The best place to start with learning any language is the alphabet With 14 vowels and 30 consonants
 the hungarian alphabet is a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
@@ -18,16 +20,33 @@ Ty U Ú Ü Ű V W X Y Z Zs
 ty u ú ü ű v w x y z zs
 ```
 
+It should be noted that the hungarian language has gemination, or consonant lengthening.
+Consonants can be paired together for a longer consonant sound. Here are some examples:
+
+* Legsze**bb** - Most beautiful
+* U**jj** - Finger
+* Á**ll**  - He/She stands
+* Kö**nny** - Tear (Long ny)
+* Sebe**ss**ég - Speed
+* A**ssz**ony - Mrs. (Long sz)
+
+You get the idea.
+
+When some consonants are combined, the pronunciation changes slightly. Try to recognise the base words to see which consonants really are there.
+
+* Igazság (Igaz - true) becomes Iga*ss*ág
+* Állj meg! (Áll) becomes Á*jj* meg!
+* Egészség (Egész - whole) becomes Egé*ss*ég 
+
 ### Videos to help pronunciation
 
 * [Pronouncing Sounds (No Speling)](https://www.youtube.com/watch?v=tjSQ3E1zSxo)
 * [Spelling the Letters](https://www.youtube.com/watch?v=Wll1C4_JVCo)
 * [Both + Vocab](https://www.youtube.com/watch?v=UusKeY47FPc)
 
+## Vowel Harmony
 
-### Need to add:
-
-* Sounds
+To be continued...
 
 ### Progression Route
 
