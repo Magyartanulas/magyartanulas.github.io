@@ -45,6 +45,14 @@
       {{ content }}
 
       </section>
+      <section>
+        {% assign doclist = site.data.sitelist.docs | sort: 'title'  %}
+            <ol>
+                  {% for item in doclist %}
+                  <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+                  {% endfor %}
+                  </ol>
+      </section>
       <!--<footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
