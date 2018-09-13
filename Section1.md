@@ -18,9 +18,15 @@ Ty U Ú Ü Ű V W X Y Z Zs
 ty u ú ü ű v w x y z zs
 ```
 
-# Need to add:
+### Videos to help pronunciation
 
-* Links
+[Pronouncing Sounds (No Speling)](https://www.youtube.com/watch?v=tjSQ3E1zSxo)
+[Spelling the Letters](https://www.youtube.com/watch?v=Wll1C4_JVCo)
+[Both + Vocab](https://www.youtube.com/watch?v=UusKeY47FPc)
+
+
+### Need to add:
+
 * Sounds
 
 ### Progression Route
