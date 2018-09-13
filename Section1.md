@@ -23,7 +23,7 @@ ty u ú ü ű v w x y z zs
 
 ### Progression Route
 
-1. **The Alphabet & Vowel Harmony**
+**1. The Alphabet & Vowel Harmony**
 2. [Van & Introductions](Section2.md)
 3. Nouns, Postpositions & Articles
 4. The Accusative Case & Plurals
