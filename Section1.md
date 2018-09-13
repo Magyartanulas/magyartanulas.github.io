@@ -21,7 +21,7 @@ ty u ú ü ű v w x y z zs
 ```
 
 It should be noted that the hungarian language has gemination, or consonant lengthening.
-Consonants can be paired together for a longer consonant sound. Here are some examples:
+Consonants can be paired together for a longer consonant sound. Every word in hungarian is stressed on the first syllable.
 
 * Legsze**bb** - Most beautiful
 * U**jj** - Finger
@@ -46,7 +46,13 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 
 ## Vowel Harmony
 
-To be continued...
+The vowels in hungarian are paired.
+```
+a e i o ö u ü
+á é í ó ő ú ű
+```
+
+The accents mark elongation on the vowels (and a change in sound for á and é).
 
 ### Progression Route
 
