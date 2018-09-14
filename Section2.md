@@ -57,9 +57,11 @@ Van is the verb for existence. Naturally, it is an irregular verb, but one of th
 | ti (you pl.)     | voltatok | vagytok | lesztek |
 | ők (they)        | voltak   | ---     | lesznek |
 
-`én, te, ő` are singular, and `mi, ti, ők` are plural. Pronouns aren't used except for emphasis or describing a third person.
+`én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns aren't used except for emphasis or describing a third person.
 
-You may have noticed that the third persons have been omitted, this is because they are only used for stating the existence of a thing/things, this will be touched on in the next section.
+> Hungarian does not distinguish between he or she, ő is used to describe both.
+
+You may have noticed that the third person present tenses have been omitted, this is because they are only used for stating the existence of a thing/things, this will be elaborated upon in the next section.
 
 Using the verb van, you can describe people.
 
@@ -71,6 +73,11 @@ Using the verb van, you can describe people.
 | Sportolók vagyunk / Hol vagyunk?     | We are athletes      / Where are we?      | 
 | Ügyesek vagytok   / Kik vagytok?     | You (pl.) are clever / Who are you (pl.)? |
 | Ők színészek      / Ők híresek       | They are actors      / They are famous    |
+
+There are two things to notice here:
+
+1. When stating someone's occupation, no article is needed.
+2. Plural adjectives are used to describe groups of people.
 
 ### Progression Route
 
