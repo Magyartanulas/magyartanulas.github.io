@@ -40,7 +40,7 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 
 ### Videos to help pronunciation
 
-* [Pronouncing Sounds (No Speling)](https://www.youtube.com/watch?v=tjSQ3E1zSxo)
+* [Pronouncing Sounds (No Spelling)](https://www.youtube.com/watch?v=tjSQ3E1zSxo)
 * [Spelling the Letters](https://www.youtube.com/watch?v=Wll1C4_JVCo)
 * [Both + Vocab](https://www.youtube.com/watch?v=UusKeY47FPc)
 
