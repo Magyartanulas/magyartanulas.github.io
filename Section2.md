@@ -1,4 +1,10 @@
-# Van & Greetings
+### Section 2
+
+## Phrases
+
+Now that you've mastered pronunciation, here are some basic phrases to get you started!
+
+\*insert table here\*
 
 ### Progression Route
 
