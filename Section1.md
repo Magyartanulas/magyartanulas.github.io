@@ -34,9 +34,9 @@ Note that only the first letter of a diagraph (double-letter) is lengthened.
 
 When some consonants are combined, the pronunciation changes slightly. Try to recognise the base words to see which consonants really are there.
 
-* Igazság (Igaz - true) becomes Iga*ss*ág
-* Állj meg! (Áll) becomes Á*jj* meg!
-* Egészség (Egész - whole) becomes Egé*ss*ég 
+* Igazság (Igaz - true) becomes [Iga*ss*ág]
+* Állj meg! (Áll) becomes [Á*jj* meg!]
+* Egészség (Egész - whole) becomes [Egé*ss*ég] 
 
 ### Videos to help pronunciation
 
