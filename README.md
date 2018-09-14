@@ -1,6 +1,6 @@
 ## Welcome!
 
-This repository is the most complete **and errorless** guide to the Hungarian Language.
+This repository is a guide to the Hungarian Language.
 
 For all intents and purposes, this repository shall serve as a supplement to Hungarian grammar study. Even though
 this will be made as fun and readable as possible, it shouldn't replace your learning. In light of this, there will be
