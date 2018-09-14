@@ -79,6 +79,41 @@ There are two things to notice here:
 1. When stating someone's occupation, no article is needed.
 2. Plural adjectives are used to describe groups of people.
 
+## Examples of Regular Verb Conjugation (incomplete)
+
+örül
+
+| Pronoun | Past      | Present | Future        |
+|---------|-----------|---------|---------------|
+| én      | örültem   | örülök  | fogok örülni  |
+| te      | örültél   | örülsz  | fogsz örülni  |
+| ő       | örült     | örül    | fog örülni    |
+| mi      | örültünk  | örülünk | fogunk örülni |
+| ti      | örültetek | örültök | fogtok örülni |
+| ők      | örültek   | örülnek | fognak örulni |
+
+kel
+
+| Pronoun | Past     | Present | Future       |
+|---------|----------|---------|--------------|
+| én      | keltem   | kelek   | fogok kelni |
+| te      | keltél   | kelsz   | fogsz kelni  |
+| ő       | kelt     | kel     | fog kelni    |
+| mi      | keltünk  | kelünk  | fogunk kelni |
+| ti      | keltetek | keltek  | fogtok kelni |
+| ők      | keltek   | kelnek  | fognak kelni |
+
+sír
+
+| Pronoun | Past     | Present | Future       |
+|---------|----------|---------|--------------|
+| én      | sírtam   | sírok   | fogok sírni  |
+| te      | sírtál   | sírsz   | fogsz sírni  |
+| ő       | sírt     | sír     | fog sírni    |
+| mi      | sírtunk  | sírunk  | fogunk sírni |
+| ti      | sírtatok | sírtok  | fogtok sírni |
+| ők      | sírtak   | sírnak  | fognak sírni |
+
 ### Progression Route
 
 0. [Home](/README.md)
