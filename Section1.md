@@ -73,7 +73,7 @@ That's it for now, but stay tuned for later sections where vowel harmony will be
 
 0. [Home](README.md)
 1. **The Alphabet & Vowel Harmony**
-2. [Van & Introductions](Section2.md)
+2. [Phrases & Introductions to Verbs](Section2.md)
 3. Nouns, Postpositions & Articles
 4. The Accusative Case & Plurals
 5. Definite & Indefinite Conjugation
