@@ -63,7 +63,7 @@ Van is the verb for existence. Naturally, it is an irregular verb, but one of th
 
 You may have noticed that the third person present tenses have been omitted, this is because they are only used for stating the existence of a thing/things, this will be elaborated upon in the next section.
 
-Using the verb van, you can describe people.
+**Using the verb van, you can describe people.**
 
 | Magyar                               | English                                   |
 |--------------------------------------|-------------------------------------------|
