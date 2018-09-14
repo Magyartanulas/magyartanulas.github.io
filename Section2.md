@@ -4,11 +4,18 @@
 
 Now that you've mastered pronunciation, here are some basic phrases to get you started!
 
-| Magyar     | English      |
-|------------|--------------|
-| Jó reggelt | Good morning |
-| Jó napot   | Good day     |
-| Jó estét   | Good evening |
+| Magyar       | English      |
+|--------------|--------------|
+| Jó reggelt* (kívánok) | Good morning |
+| Jó napot*    | Good day     |
+| Jó estét*    | Good evening |
+| Jó ejszakát  | Good night   |
+| Szia/Szevasz | Hi/Hey/Bye   |
+| 
+|
+|
+|
+
 
 
 ### Progression Route
