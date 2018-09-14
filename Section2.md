@@ -2,7 +2,7 @@
 
 ## Phrases
 
-Now that you've mastered pronunciation, here are some basic informal phrases to get you started!
+Now that you've mastered pronunciation, here are some basic **informal** phrases to get you started!
 Note, everything here is simplified and not much is explained, but as the sections progress, everything will start to click.
 
 | Magyar                                             | English                       |
@@ -11,10 +11,13 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Jó napot  (kívánok)                                | Good day                      |
 | Jó estét  (kívánok)                                | Good evening                  |
 | Jó éjszakát                                        | Good night                    |
+| Jó étvágyat                                        | Bon Appetit                   |
+| Szép napot                                         | Have a nice day               |
 | Neked is* (to one person)                          | to you as well                |
 | Nektek is* (to many)                               | to you as well                |
 | Helló/Szia/Szevasz (to one person)                 | Hi/Hey/Bye                    |
 | Helló/Sziasztok/Szevasztok (to many)               | Hi/Hey/Bye                    |
+| Viszlát/Visontlátásra                              | Goodbye                       |
 | Hogy vagy? (to one person)                         | How are you?                  |
 | Hogy vagytok? (to many)                            | How are you?                  |
 | Igen                                               | Yes                           |
@@ -35,6 +38,11 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Tűz! / Tűz van!                                    | Fire! / There's a fire!       |
 | Beszélsz angolul?                                  | Do you speak english?         |
 | Igen, csak egy kicsit*                             | Yes, only a litte             | 
+
+* *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
+* *Igen, csak egy kicsit* is a reponse to *beszélsz angolul/magyarul?*
+
+## Van
 
 ### Progression Route
 
