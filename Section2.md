@@ -2,8 +2,9 @@
 
 ### Progression Route
 
-1. [The Alphabet & Vowel Harmony](Section1.md)
-2. **Phrases and Introduction to Verbs**
+0. [Home](/README.md)
+1. [The Alphabet & Vowel Harmony](README.md)
+2. **Phrases & Introduction to Verbs**
 3. Nouns, Postpositions & Articles
 4. The Accusative Case & Plurals
 5. Definite & Indefinite Conjugation
