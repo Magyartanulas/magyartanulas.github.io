@@ -4,7 +4,12 @@
 
 Now that you've mastered pronunciation, here are some basic phrases to get you started!
 
-\*insert table here\*
+Magyar         |        English
+--------------------------------
+test1 | test 2
+test 3| test 4
+---------------
+
 
 ### Progression Route
 
