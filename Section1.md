@@ -56,6 +56,7 @@ The accents mark elongation on the vowels (and a change in sound for á and é).
 
 ### Progression Route
 
+0. [Home](README.md)
 1. **The Alphabet & Vowel Harmony**
 2. [Van & Introductions](Section2.md)
 3. Nouns, Postpositions & Articles
