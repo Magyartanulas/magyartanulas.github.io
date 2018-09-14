@@ -44,6 +44,34 @@ Note, everything here is simplified and not much is explained, but as the sectio
 
 ## Van
 
+Van is the verb for existence. Naturally, it is an irregular verb, but one of the most important as well.
+
+### Conjugation
+
+| Pronoun          | Past     | Present | Future  |
+|------------------|----------|---------|---------|
+| én (I)           | voltam   | vagyok  | leszek  |
+| te (you)         | voltál   | vagy    | leszel  |
+| ő  (3rd. person) | volt     | ---     | lesz    |
+| mi (we)          | voltunk  | vagyunk | leszünk |
+| ti (you pl.)     | voltatok | vagytok | lesztek |
+| ők (they)        | voltak   | ---     | lesznek |
+
+`én, te, ő` are singular, and `mi, ti, ők` are plural. Pronouns aren't used except for emphasis or describing a third person.
+
+You may have noticed that the third persons have been omitted, this is because they are only used for stating the existence of a thing/things, this will be touched on in the next section.
+
+Using the verb van, you can describe people.
+
+| Magyar                               | English                                   |
+|--------------------------------------|-------------------------------------------|
+| Diák vagyok       / Magas vagyok     | I am a student       / I am tall          |
+| Tanár vagy?       / Ki vagy?         | Are you a teacher?   / Who are you?       |
+| Ő István          / Ő énekes         | He is István         / He is a singer     |
+| Sportolók vagyunk / Hol vagyunk?     | We are athletes      / Where are we?      | 
+| Ügyesek vagytok   / Kik vagytok?     | You (pl.) are clever / Who are you (pl.)? |
+| Ők színészek      / Ők híresek       | They are actors      / They are famous    |
+
 ### Progression Route
 
 0. [Home](/README.md)
