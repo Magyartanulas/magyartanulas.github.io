@@ -15,6 +15,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 
 ### Progression Route
 
+0. **Home**
 1. [The Alphabet & Vowel Harmony](/Section1.md)
 2. [Phrases & Introduction to Verbs](/Section2.md)
 3. Nouns, Postpositions & Articles
