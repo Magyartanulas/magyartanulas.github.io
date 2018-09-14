@@ -11,6 +11,8 @@ shall be explained where relevant. The grammar will be explained in a progressio
 
 ### What's new?
 
+* Added first version of section 1
+
 ### Progression Route
 
 1. [The Alphabet & Vowel Harmony](/Section1.md)
