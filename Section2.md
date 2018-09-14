@@ -6,9 +6,10 @@ Now that you've mastered pronunciation, here are some basic phrases to get you s
 
 Magyar         |        English
 --------------------------------
-test1 | test 2
-test 3| test 4
----------------
+Jó reggelt  (kívánok) | Good morning
+Jó napot    (kívánok) | Good day
+Jó estét    (kívánok) | Good evening
+Jó éjszakát           | Good night
 
 
 ### Progression Route
