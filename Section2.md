@@ -82,7 +82,7 @@ There are two things to notice here:
 ### Progression Route
 
 0. [Home](/README.md)
-1. [The Alphabet & Vowel Harmony](README.md)
+1. [The Alphabet & Vowel Harmony](Section1.md)
 2. **Phrases & Introduction to Verbs**
 3. Nouns, Postpositions & Articles
 4. The Accusative Case & Plurals
