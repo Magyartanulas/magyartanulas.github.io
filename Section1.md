@@ -1,4 +1,4 @@
-### Section 1
+# Section 1
 
 ## The Alphabet
 
@@ -46,13 +46,28 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 
 ## Vowel Harmony
 
-The vowels in hungarian are paired.
+Grammarwise, hungarian solves all their problems with prefixes and suffixes, the way these attachments sound depends on vowel harmony. 
+
+The vowels in hungarian are paired. The accents mark elongation on the vowels (and a change in sound for á and é).
 ```
 a e i o ö u ü
 á é í ó ő ú ű
 ```
 
-The accents mark elongation on the vowels (and a change in sound for á and é).
+For vowel harmony, these vowels are sorted as either front of back. Here are some sentences to remember each.
+
+```
+Front: e é i í ö ő ü ű (Öt üveg-űző épít itt.)
+Back:  a á o ó u ú     (A Zuzmó-Háború.)
+```
+
+* If a word contains only front-vowels, then it should be conjugated with front-vowels. (épület)
+* Likewise, if a word contains only back-vowels, then it should be conjugated with back vowels. (darázs)
+* If a word contains a mixture of front and back, the last vowel will specify what kind it is. (dzsungel)
+
+However, if the word contains only *i* or *í* then it is considered a back-vowel word. (híd)
+
+That's it for now, but stay tuned for later sections where vowel harmony will be discussed again.
 
 ### Progression Route
 
