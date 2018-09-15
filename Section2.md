@@ -82,7 +82,7 @@ There are two things to notice here:
 1. When stating someone's occupation, no article is needed.
 2. Plural adjectives are used to describe groups of people.
 
-## Examples of Regular Verb Conjugation (incomplete)
+## Examples of Regular Verb Conjugation
 
 In hungarian, verbs are described using the 3rd person singular form (he/she runs, he/she jumps),
 instead of the infinitive (to run, to jump). Thus, if you want to look up a verb in a dictionary 
