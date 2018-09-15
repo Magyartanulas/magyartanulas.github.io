@@ -1,4 +1,7 @@
-### Section 2
+---
+layout: page
+title: Section 1
+---
 
 ## Phrases
 
