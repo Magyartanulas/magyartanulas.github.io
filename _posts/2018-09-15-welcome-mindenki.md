@@ -11,3 +11,4 @@ websites listed below for further resources for practicing vocabulary and other 
 
 The goal here is clarification. Seeing as most native english speakers aren't given a thorough grammer education, these concepts
 shall be explained where relevant. The grammar will be explained in a progression route with sections from beginner to advanced.
+
