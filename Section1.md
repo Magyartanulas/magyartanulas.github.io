@@ -1,3 +1,8 @@
+---
+layout: post
+title: What's Jekyll?
+---
+
 ### Section 1
 
 ## The Alphabet
