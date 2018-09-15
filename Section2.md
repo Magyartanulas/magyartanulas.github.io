@@ -36,9 +36,9 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Elnézést                                           | Excuse me                     |
 | Mennyibe kerül ez?                                 | How much is this?             |
 | Hol van a mosdó?                                   | Where is the toilet?          |
-| Hány órá van? / Mennyi az ido?                     | What's the time?              |
+| Hány órá van? / Mennyi az idő?                     | What's the time?              |
 | Segítség!                                          | Help!                         |
-| Tuz! / Tuz van!                                    | Fire! / There's a fire!       |
+| Tűz! / Tűz van!                                    | Fire! / There's a fire!       |
 | Beszélsz angolul?                                  | Do you speak english?         |
 | Igen, csak egy kicsit*                             | Yes, only a litte             | 
 
@@ -75,7 +75,7 @@ You may have noticed that the third person present tenses have been omitted, thi
 | Ő István          / Ő énekes         | He is István         / He is a singer     |
 | Sportolók vagyunk / Hol vagyunk?     | We are athletes      / Where are we?      | 
 | Ügyesek vagytok   / Kik vagytok?     | You (pl.) are clever / Who are you (pl.)? |
-| Ok színészek      / Ok híresek       | They are actors      / They are famous    |
+| Ők színészek      / Ők híresek       | They are actors      / They are famous    |
 
 There are two things to notice here:
 
