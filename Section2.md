@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 1
+title: Section 2
 ---
 
 ## Phrases
