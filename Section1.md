@@ -1,9 +1,7 @@
 ---
-layout: post
-title: What's Jekyll?
+layout: page
+title: Section 1
 ---
-
-### Section 1
 
 ## The Alphabet
 
