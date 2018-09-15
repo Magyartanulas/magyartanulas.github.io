@@ -72,7 +72,7 @@ You may have noticed that the third person present tenses have been omitted, thi
 |--------------------------------------|-------------------------------------------|
 | Diák vagyok       / Magas vagyok     | I am a student       / I am tall          |
 | Tanár vagy?       / Ki vagy?         | Are you a teacher?   / Who are you?       |
-| O István          / O énekes         | He is István         / He is a singer     |
+| Ő István          / Ő énekes         | He is István         / He is a singer     |
 | Sportolók vagyunk / Hol vagyunk?     | We are athletes      / Where are we?      | 
 | Ügyesek vagytok   / Kik vagytok?     | You (pl.) are clever / Who are you (pl.)? |
 | Ok színészek      / Ok híresek       | They are actors      / They are famous    |
@@ -84,35 +84,59 @@ There are two things to notice here:
 
 ## Examples of Regular Verb Conjugation (incomplete)
 
-örül
+In hungarian, verbs are described using the 3rd person singular form (he/she runs, he/she jumps),
+instead of the infinitive (to run, to jump). Thus, if you want to look up a verb in a dictionary 
+[for example SZTAKI](http://szotar.sztaki.hu/english-hungarian) then you use the 3rd person singular.
+
+Below are some examples of regular verbs, that have the same regular conjugation but with different vowel harmony.
+
+### Front vowel conjugation
+---
+
+Örül - (He/she is happy) *Front-vowel (type 1)*
 
 | Pronoun | Past      | Present | Future        |
 |---------|-----------|---------|---------------|
 | én      | örültem   | örülök  | fogok örülni  |
 | te      | örültél   | örülsz  | fogsz örülni  |
-| o       | örült     | örül    | fog örülni    |
+| ő       | örült     | örül    | fog örülni    |
 | mi      | örültünk  | örülünk | fogunk örülni |
 | ti      | örültetek | örültök | fogtok örülni |
 | ok      | örültek   | örülnek | fognak örulni |
 
-kel
+Kel - (He/she rises or gets up) *Front-vowel (type 2)*
 
 | Pronoun | Past     | Present | Future       |
 |---------|----------|---------|--------------|
 | én      | keltem   | kelek   | fogok kelni |
 | te      | keltél   | kelsz   | fogsz kelni  |
-| o       | kelt     | kel     | fog kelni    |
+| ő       | kelt     | kel     | fog kelni    |
 | mi      | keltünk  | kelünk  | fogunk kelni |
 | ti      | keltetek | keltek  | fogtok kelni |
 | ok      | keltek   | kelnek  | fognak kelni |
 
-sír
+### Back vowel conjugation
+---
+
+Sír - (He/she cries) *back-vowel conjugation*
 
 | Pronoun | Past     | Present | Future       |
 |---------|----------|---------|--------------|
 | én      | sírtam   | sírok   | fogok sírni  |
 | te      | sírtál   | sírsz   | fogsz sírni  |
-| o       | sírt     | sír     | fog sírni    |
+| ő       | sírt     | sír     | fog sírni    |
 | mi      | sírtunk  | sírunk  | fogunk sírni |
 | ti      | sírtatok | sírtok  | fogtok sírni |
 | ok      | sírtak   | sírnak  | fognak sírni |
+
+Keep track of the similarities and differences. Strictly speaking there is no future tense in hungarian, the auxiliary verb `fog` is used 
+with the verb in infinitive form alongside it.
+
+---
+### Exercises
+
+### Answers
+
+>! test1
+
+>! test2
