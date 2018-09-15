@@ -17,7 +17,7 @@ author:
   name:           'The Magyar Tanulás Community'
   url:            https://discord.gg/wSg45QS
 #if error set to 5
-paginate:         0
+paginate:         5
 
 # Custom vars
 version:          2.1.0
