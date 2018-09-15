@@ -1,12 +1,17 @@
 ---
 layout: page
-title: What's Jekyll?
+title: Welcome
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+This repository is a guide to the Hungarian Language.
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+For all intents and purposes, this repository shall serve as a supplement to Hungarian grammar study. Even though
+this will be made as fun and readable as possible, it shouldn't replace your learning. In light of this, there will be
+websites listed below for further resources for practicing vocabulary and other aspects with the language.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
+The goal here is clarification. Seeing as most native english speakers aren't given a thorough grammer education, these concepts
+shall be explained where relevant. The grammar will be explained in a progression route with sections from beginner to advanced.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+### What's new?
+
+* Added first version of section 1
