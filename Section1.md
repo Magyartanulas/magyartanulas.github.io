@@ -5,9 +5,9 @@ title: Section 1
 
 ## The Alphabet
 
-The best place to start with learning any language is the alphabet With 14 vowels and 30 consonants
+The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants
 the hungarian alphabet is a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
-every wor that you can read first time every time!
+every word that you can read first time every time!
 
 ```
 A Á B C Cs D Dz Dzs E É F
@@ -16,14 +16,14 @@ a á b c cs d dz dzs e é f
 G Gy H I Í J K L Ly M N
 g gy h i í j k l ly m n
 
-Ny O Ó Ö O P Q R S Sz T 
-ny o ó ö o p q r s sz t  
+Ny O Ó Ö Ő P Q R S Sz T 
+ny o ó ö ő p q r s sz t  
 
-Ty U Ú Ü U V W X Y Z Zs
-ty u ú ü u v w x y z zs
+Ty U Ú Ü Ű V W X Y Z Zs
+ty u ú ü ű v w x y z zs
 ```
 
-It should be noted that the hungarian language has gemination, or consonant lengthening.
+It should be noted that the hungarian language has **gemination**, or consonant lengthening.
 Consonants can be paired together for a longer consonant sound. Every word in hungarian is stressed on the first syllable.
 
 * Legsze**bb** - Most beautiful
@@ -33,7 +33,7 @@ Consonants can be paired together for a longer consonant sound. Every word in hu
 * Sebe**ss**ég - Speed
 * A**ssz**ony - Mrs. (Long sz)
 
-Note that only the first letter of a diagraph (double-letter) is lengthened.
+See how only the first letter of a diagraph (double-letter) is lengthened.
 
 When some consonants are combined, the pronunciation changes slightly. Try to recognise the base words to see which consonants really are there.
 
@@ -54,13 +54,13 @@ Grammarwise, hungarian solves all their problems with prefixes and suffixes, the
 The vowels in hungarian are paired. The accents mark elongation on the vowels (and a change in sound for á and é).
 ```
 a e i o ö u ü
-á é í ó o ú u
+á é í ó ő ú ű
 ```
 
 For vowel harmony, these vowels are sorted as either front of back. Here are some sentences to remember each.
 
 ```
-Front: e é i í ö o ü u (Öt üveg-uzo épít itt. PSA: This sentence is non-sensical.)
+Front: e é i í ö ő ü ű (Öt üveg-uzo épít itt. PSA: This sentence is non-sensical.)
 Back:  a á o ó u ú     (A Zuzmó-Háború.)
 ```
 
