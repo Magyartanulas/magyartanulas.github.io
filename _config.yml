@@ -2,7 +2,7 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Permalinks
+# Permalinks 
 permalink:        pretty
 relative_permalinks: false
 
@@ -14,10 +14,10 @@ url:              magyartanulas.github.io
 baseurl:          https://magyartanulas.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+  name:           'The Magyar Tanulás Community'
+  url:            https://discord.gg/wSg45QS
+#if error set to 5
+paginate:         0
 
 # Custom vars
 version:          2.1.0
