@@ -62,7 +62,7 @@ Van is the verb for existence. Naturally, it is an irregular verb, but one of th
 
 `én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns aren't used except for emphasis or describing a third person.
 
-> Hungarian does not distinguish between he or she, o is used to describe both.
+> Hungarian does not distinguish between he or she, ő is used to describe both.
 
 You may have noticed that the third person present tenses have been omitted, this is because they are only used for stating the existence of a thing/things, this will be elaborated upon in the next section.
 
@@ -118,7 +118,7 @@ Kel - (He/she rises or gets up) *Front-vowel (type 2)*
 ### Back vowel conjugation
 ---
 
-Sír - (He/she cries) *back-vowel conjugation*
+Sír - (He/she cries) (*back-vowel conjugation due to í being the only vowel)*
 
 | Pronoun | Past     | Present | Future       |
 |---------|----------|---------|--------------|
@@ -136,7 +136,7 @@ with the verb in infinitive form alongside it.
 
 There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is changed.
 
-Lesz (he/she becomes)
+Lesz (he/she becomes) *front-vowel*
 
 | Pronoun | Past     | Present |
 |---------|----------|---------|
