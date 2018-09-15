@@ -71,22 +71,3 @@ Back:  a á o ó u ú     (A Zuzmó-Háború.)
 However, if the word contains only *i* or *í* then it is considered a back-vowel word. (híd)
 
 That's it for now, but stay tuned for later sections where vowel harmony will be discussed again.
-
-### Progression Route
-
-0. [Home](README.md)
-1. **The Alphabet & Vowel Harmony**
-2. [Phrases & Introductions to Verbs](Section2.md)
-3. Nouns, Postpositions & Articles
-4. The Accusative Case & Plurals
-5. Definite & Indefinite Conjugation
-6. Negation
-7. The Conditional Mood
-8. The Dative Case & Possession
-9. Tetszik & Vonz
-10. The Locative Cases + Adverbs & Pronouns
-11. Making Comparisons
-12. More Noun Cases (-kor, -ért, -ig)
-13. Hogy
-14. The Imperative & Subjunctive Mood
-15. The Conjugated Infinitive & Expressing need
