@@ -60,7 +60,7 @@ a e i o ö u ü
 For vowel harmony, these vowels are sorted as either front of back. Here are some sentences to remember each.
 
 ```
-Front: e é i í ö o ü u (Öt üveg-uzo épít itt.)
+Front: e é i í ö o ü u (Öt üveg-uzo épít itt. PSA: This sentence is non-sensical.)
 Back:  a á o ó u ú     (A Zuzmó-Háború.)
 ```
 
