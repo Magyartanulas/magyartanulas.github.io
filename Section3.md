@@ -1,7 +1,6 @@
 ---
-Title: Section 3
-
-Layout: page
+layout: page
+title: Section 3
 ---
 
 ### Nouns & Postpositions (incomplete)
