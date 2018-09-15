@@ -55,12 +55,12 @@ Van is the verb for existence. Naturally, it is an irregular verb, but one of th
 |------------------|----------|---------|---------|
 | én (I)           | voltam   | vagyok  | leszek  |
 | te (you)         | voltál   | vagy    | leszel  |
-| o  (3rd. person) | volt     | ---     | lesz    |
+| ő  (3rd. person) | volt     | ---     | lesz    |
 | mi (we)          | voltunk  | vagyunk | leszünk |
 | ti (you pl.)     | voltatok | vagytok | lesztek |
-| ok (they)        | voltak   | ---     | lesznek |
+| ők (they)        | voltak   | ---     | lesznek |
 
-`én, te, o` are singular, and `mi, ti, ok` are their respective plurals. These pronouns aren't used except for emphasis or describing a third person.
+`én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns aren't used except for emphasis or describing a third person.
 
 > Hungarian does not distinguish between he or she, o is used to describe both.
 
@@ -102,7 +102,7 @@ Below are some examples of regular verbs, that have the same regular conjugation
 | ő       | örült     | örül    | fog örülni    |
 | mi      | örültünk  | örülünk | fogunk örülni |
 | ti      | örültetek | örültök | fogtok örülni |
-| ok      | örültek   | örülnek | fognak örulni |
+| ők      | örültek   | örülnek | fognak örulni |
 
 Kel - (He/she rises or gets up) *Front-vowel (type 2)*
 
@@ -113,7 +113,7 @@ Kel - (He/she rises or gets up) *Front-vowel (type 2)*
 | ő       | kelt     | kel     | fog kelni    |
 | mi      | keltünk  | kelünk  | fogunk kelni |
 | ti      | keltetek | keltek  | fogtok kelni |
-| ok      | keltek   | kelnek  | fognak kelni |
+| ők      | keltek   | kelnek  | fognak kelni |
 
 ### Back vowel conjugation
 ---
@@ -127,16 +127,28 @@ Sír - (He/she cries) *back-vowel conjugation*
 | ő       | sírt     | sír     | fog sírni    |
 | mi      | sírtunk  | sírunk  | fogunk sírni |
 | ti      | sírtatok | sírtok  | fogtok sírni |
-| ok      | sírtak   | sírnak  | fognak sírni |
+| ők      | sírtak   | sírnak  | fognak sírni |
 
 Keep track of the similarities and differences. Strictly speaking there is no future tense in hungarian, the auxiliary verb `fog` is used 
 with the verb in infinitive form alongside it.
 
 ---
-### Exercises
 
-### Answers
+There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is changed.
 
->! test1
+Lesz (he/she becomes)
 
->! test2
+| Pronoun | Past     | Present |
+|---------|----------|---------|
+| én      | lettem   | leszek  |
+| te      | lettél   | leszel  |
+| ő       | lett     | lesz    |
+| mi      | lettünk  | leszünk |
+| ti      | lettetek | lesztek |
+| ők      | lettek   | lesznek |
+
+Lesz is the verb used as the future of van, so they are closely related.
+
+Notice how it says lesz*el* and not lesz*sz*, vowel harmony chips in to make it sound nicer.
+
+We'll jump onto verbs at a later date.
