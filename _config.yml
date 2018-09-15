@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            The Magyartanulás Repository
 tagline:          'Free resource for learning hungarian'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Your Number #1 Repository for Hungarian Grammar!'
 url:              magyartanulas.github.io
 baseurl:          https://magyartanulas.github.io/
 
