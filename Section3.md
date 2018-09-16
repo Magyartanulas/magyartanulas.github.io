@@ -21,7 +21,7 @@ Similar to English, `a` is used when the noun begins with a consonant and `az` w
 * Az autó - *The car*
 * Egy virág - *A flower*
 
-### Spatial Postpositions
+## Spatial Postpositions
 ---
 
 In English, there are prepositions. They dictate relationships between nouns. Here are some examples of spatial relationships.
