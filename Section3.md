@@ -15,7 +15,7 @@ and `an` is used when that noun begins with a vowel (an icecream).
 * **A** flower - *we are talking about one of many flowers out there, it is **not definite**.*
 
 In Hungarian the articles are `egy, a/az`. Article `egy` is indefinite (it is also the number one as well), whereas `a/az`.
-Similar to English, `a` is used when the noun begins with a consonant and `az` with a noun beginning with a vowel (an icecream).
+Similar to English, `a` is used when the noun begins with a consonant and `az` with a noun beginning with a vowel.
 
 * A kutya - *The dog*
 * Az autó - *The car*
