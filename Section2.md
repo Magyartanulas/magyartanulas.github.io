@@ -39,7 +39,7 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Hány órá van? / Mennyi az idő?                     | What's the time?              |
 | Segítség!                                          | Help!                         |
 | Tűz! / Tűz van!                                    | Fire! / There's a fire!       |
-| Beszélsz angolul?                                  | Do you speak english?         |
+| Beszélsz angolul?                                  | Do you speak English?         |
 | Igen, csak egy kicsit*                             | Yes, only a litte             | 
 
 * *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
@@ -79,7 +79,7 @@ You may have noticed that the third person present tenses have been omitted, thi
 
 There are two things to notice here:
 
-1. When stating someone's occupation, no article is needed.
+1. When stating someone's occupation, we don't need to say a.
 2. Plural adjectives are used to describe groups of people.
 
 ## Examples of Regular Verb Conjugation
@@ -129,7 +129,7 @@ Sír - (He/she cries) (*back-vowel conjugation due to í being the only vowel)*
 | ti      | sírtatok | sírtok  | fogtok sírni |
 | ők      | sírtak   | sírnak  | fognak sírni |
 
-Keep track of the similarities and differences. Strictly speaking there is no future tense in hungarian, the auxiliary verb `fog` is used 
+Keep track of the similarities and differences. Strictly speaking there is no future tense in Hungarian, the auxiliary verb `fog` is used 
 with the verb in infinitive form alongside it.
 
 ---
