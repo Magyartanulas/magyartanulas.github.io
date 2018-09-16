@@ -136,7 +136,7 @@ As we learn more noun cases, we'll keep referring to this list.
 | Gyümölcs                 |                    |                  |                  | Gyümölcs**öt** |             |
 | Macska                   |                    |                  |                  |                | Macsk**át** |
 | Bagoly                   |                    | Bagly**ot**      |                  |                |             |
-| Férfit                   |                    |                  |                  |                | Férfit      |
+| Férfit                   |                    |                  |                  |                | Férfi**t**  |
 | Bőrönd                   |                    |                  |                  | Bőrönd**öt**   |             |
 | Fiú                      |                    |                  |                  |                | Fiú**t**    |
 | Sör                      |                    |                  |                  | Sör**ök**      |             |
