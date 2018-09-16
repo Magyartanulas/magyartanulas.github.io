@@ -14,7 +14,7 @@ and `an` is used when that noun begins with a vowel (an icecream).
 * **The** flower - *there is **definitely** only one flower being talked about.*
 * **A** flower - *we are talking about one of many flowers out there, it is **not definite**.*
 
-In Hungarian the articles are `egy, a/az`. Article `egy` is indefinite (it is also the number one as well), whereas `a/az`.
+In Hungarian the articles are `egy, a/az`. Article `egy` is indefinite (it is also the number one as well), whereas `a/az` is definite.
 Similar to English, `a` is used when the noun begins with a consonant and `az` with a noun beginning with a vowel.
 
 * A kutya - *The dog*
@@ -49,6 +49,8 @@ These postpositions don't indicate relative movement between the nouns, i.e. at 
 | Behind        | Mögé                | Mögött               | Mögül              |
 | Between/Among | Közé                | Között               | Közül              |
 
+Felett and fölött were a result of dialectual differences, however now they are virtually interchangeable.
+
 **IMPORTANT NOTE**
 
 Postpositions cannot be used with standalone pronouns, you have to attach the personal pronoun ending instead 
@@ -60,4 +62,4 @@ Postpositions cannot be used with standalone pronouns, you have to attach the pe
   
 * The man came out from behind you
   * ~~A férfi te mögül kijött~~
-  * A férfi mögül**ed** kijött.
+  * A férfi kijött mögül**ed**.
