@@ -44,6 +44,8 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Ez                                                 | This                          |
 | Az                                                 | That                          |
 
+---
+
 * *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
 * *Igen, csak egy kicsit* is a reponse to *beszélsz angolul/magyarul?*
 
