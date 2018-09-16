@@ -70,6 +70,8 @@ But wait! There's more!
 
 In Hungarian, when a noun becomes quaintified (either by numbers or by adjectives) it becomes singular.
 
+* Három kutya
+
 
 *paired exception*
 
