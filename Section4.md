@@ -38,35 +38,39 @@ Naturally, when adding the plural to our nominal noun, we have to obey vowel har
 | Ló (horse)          | Lov**ak**   |               |              |                |             |
 | Egér (mouse)        |             |               | Eger**ek**   |                |             |
 | Gyöngy (pearl)      |             |               |              | Gyöngy**ök**   |             |
-| Csillag             |             | Csillag**ok** |              |                |             |
-| Tó                  | Tav**ak**   |               |              |                |             |
+| Csillag (star)      |             | Csillag**ok** |              |                |             |
+| Tó (lake)           | Tav**ak**   |               |              |                |             |
 
 ---
 There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
 
-* Some two-letter-long nouns lose the accent and get a `v` attached as well as a `k`
+1. Some two-letter-long nouns lose the accent and get a `v` attached as well as a `k`
   * Fű - Füvek
   * Ló - Lovak
   * Kő - Kövek
   * Szó - Szavak
   * Tó - Tavak
-* Most nouns ending in i only get a `k` attached.
+2. Most nouns ending in i only get a `k` attached.
   * Férfi - Férfik
   * Kiwi - Kiwik
-* Most nouns ending in other un-accented vowels become accented in the plural.
+3. Most nouns ending in other un-accented vowels become accented in the plural.
   * Kutya - Kutyák
   * Macska - Macskák
   * Bögre - Bögrék (Mug)
-* Most nouns ending in accented vowels only get a `k` attached.
+4. Most nouns ending in accented vowels only get a `k` attached.
   * Betű - Betűk (Letter)
   * Fiú - Fiúk
   * Író - Írók (Writer)
-* Most nouns having an accent in the second syllable will lose it in the plural.
+5. Most nouns having an accent in the second syllable will lose it in the plural.
   * Madár - Madarak
   * Tehén - Tehenek (Cow)
   * Darázs - Darazsak (Wasp)
+6. Some nouns become reduced if there is a repeated vowel
+  * Bokor - Bokrok
+  * Tükör - Tükrök
+  * Dolog - Dolgok (thing)
 
-But wait! There's more!
+But wait, there's more!
 
 In Hungarian, when a noun becomes quaintified (either by numbers or by adjectives) it becomes singular.
 
@@ -88,26 +92,73 @@ To single them out, one can describe them or use egyik (one of).
 
 ## The Accusative Case (incomplete)
 
-The Accusative case marks the direct object. Whenever something/someone does something to `something/someone else`, 
-the `something/someone else` becomes the direct object. The Accusative case is simply marked with a -t at the end.
+The accusative case marks the direct object. Whenever something/someone does something to `something/someone else`, 
+the `something/someone else` becomes the direct object. The accusative case is simply marked with a -t at the end.
 
 In English this only happens a few times. 
 
 * Can you see me? (me is the direct object)
 * Whom did you see? (whom is the direct object)
 
-Látom a fát - I see the tree
-Hallom azokat a madarakat - I hear those birds
-Megettem a tortát - I ate the cake
+**Note, there is a noun-case hierarchy.**
+
+* Plural
+* Accusative
+
+As we learn more noun cases, we'll keep referring to this list.
+
+| Noun                     | -at                | -ot              | -et              | -öt            | -t          |
+|--------------------------|--------------------|------------------|------------------|----------------|-------------|
+| Játékok                  | Játékok**at**      |                  |                  |                |             |
+| Gyerek                   |                    |                  | Gyerek**ek**     |                |             |
+| Kutyák                   | Kutyák**at**       |                  |                  |                |             |
+| Fű                       |                    |                  | Füv**et**        |                |             |
+| Magyarázat (explanation) |                    | Magyarázat**ot** |                  |                |             |
+| Ember                    |                    |                  |                  |                | Ember**t**  |  
+| Hörcsög (hamster)        |                    |                  |                  | Hörcsög**öt**  |             |
+| Tükrök                   |                    | Tükrök**et**     |                  |                |             |
+| Madár                    | Madar**at**        |                  |                  |                |             |
+| Kiwi                     |                    |                  |                  |                | Kiwi**t**   |
+| Kövek                    |                    |                  | Kövek**et**      |                |             |
+| Bokor                    | Bokrok**at**       |                  |                  |                |             |
+| Gyümölcs                 |                    |                  |                  | Gyümölcs**öt** |             |
+| Macska                   |                    |                  |                  |                | Macsk**át** |
+| Bagoly                   |                    | Bagly**ot**      |                  |                |             |
+| Férfit                   |                    |                  |                  |                | Férfit      |
+| Bőrönd                   |                    |                  |                  | Bőrönd**öt**   |             |
+| Fiú                      |                    |                  |                  |                | Fiú**t**    |
+| Sör                      |                    |                  |                  | Sör**ök**      |             |
+| Polc                     |                    | Polc**ok**       |                  |                |             |
+| Festmények (paintings)   |                    |                  | Festmények**et** |                |             |
+| Gyöngy                   |                    |                  |                  | Gyöngy**öt**   |             |
+| Egerek                   |                    |                  | Egerek**et**     |                |             |
+| Csillag                  |                    | Csillag**ot**    |                  |                |             |
+| Magyarázatok             | Magyarázatok**at** |                  |                  |                |             |
+
+---
+All the vowel harmony rules stated for the plural apply for the accusative as well.
+
+It is also interesting to note how some vowel harmony for back-vowel words alternates between `o` and `a`.
+
+* Magyarázat**o**k**a**t
+* Játék**o**k**a**t
+* Dolg**o**k**a**t and so on and so forth...
+
+Let's see some hungarian sentences!
+
+* Látom a fát. - I see the tree
+* Hallom azokat a madarakat. - I hear those birds
+* Megettem a tortát. - I ate the cake
 
 This can be done in the format of questions
 
-Mit csinálsz? What are you doing?
-Kit látsz? Whom do you see?
-Látod azt? Do you see that?
-Etc
+* Mit csinálsz? What are you doing?
+* Kit látsz? Whom do you see?
+* Látod azt? Do you see that?
 
-Note that if what you want to say is: I verb you then the verb takes the -lek ending and no object is required
+If the verb is happening between I and you, then we use the special verb conjugation -lak/-lek.
 
-Szeretlek - I love you
-Látlak - I see you
+* Szeretlek - I love you
+* Látlak - I see you
+
+*Definitely* head over to the next section where we explain these new verb conjugations you haven't seen before :wink:
