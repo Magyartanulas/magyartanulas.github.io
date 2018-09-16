@@ -13,33 +13,33 @@ this is done by adding `-k`.
 
 Naturally, when adding the plural to our nominal noun, we have to obey vowel harmony. Here's a collection of nouns.
 
-| Noun     | -ak         | -ok           | -ek          | -ök            | -k          |
-|----------|-------------|---------------|--------------|----------------|-------------|
-| Játék    |             | Játék**ok**   |              |                |             |
-| Gyerek   |             |               | Gyerek**ek** |                |             |
-| Kutya    |             |               |              |                | Kuty**ák**  |
-| Fű       |             |               | Füv**ek**    |                |             |
-| Férfi    |             |               |              |                | Férfi**k**  |
-| Ember    |             |               | Ember**ek**  |                |             |
-| Szó      | Szav**ak**  |               |              |                |             |
-| Tükör    |             |               |              | Tükr**ök**     |             |
-| Madár    | Madar**ak** |               |              |                |             |
-| Kiwi     |             |               |              |                | Kiwi**k**   |
-| Kő       |             |               | Köv**ek**    |                |             |
-| Bokor    |             | Bokr**ok**    |              |                |             |
-| Gyümölcs |             |               |              | Gyümölcs**ök** |             |
-| Macska   |             |               |              |                | Macsk**ák** |
-| Bagoly   |             | Bagly**ok**   |              |                |             |
-| Híd      | Hid**ak**   |               |              |                |             |
-| Bőrönd   |             |               |              | Bőrönd**ök**   |             |
-| Fiú      |             |               |              |                | Fiú**k**    |
-| Sör      |             |               |              | Sör**ök**      |             |
-| Polc     |             | Polc**ok**    |              |                |             |
-| Ló       | Lov**ak**   |               |              |                |             |
-| Egér     |             |               | Eger**ek**   |                |             |
-| Gyöngy   |             |               |              | Gyöngy**ök**   |             |
-| Csillag  |             | Csillag**ok** |              |                |             |
-| Tó       | Tav**ak**   |               |              |                |             |
+| Noun                | -ak         | -ok           | -ek          | -ök            | -k          |
+|---------------------|-------------|---------------|--------------|----------------|-------------|
+| Játék (toy/game)    |             | Játék**ok**   |              |                |             |
+| Gyerek (child)      |             |               | Gyerek**ek** |                |             |
+| Kutya (dog)         |             |               |              |                | Kuty**ák**  |
+| Fű  (grass)         |             |               | Füv**ek**    |                |             |
+| Férfi (man)         |             |               |              |                | Férfi**k**  |
+| Ember (person)      |             |               | Ember**ek**  |                |             |
+| Szó (word)          | Szav**ak**  |               |              |                |             |
+| Tükör (mirror)      |             |               |              | Tükr**ök**     |             |
+| Madár (bird)        | Madar**ak** |               |              |                |             |
+| Kiwi                |             |               |              |                | Kiwi**k**   |
+| Kő (stone)          |             |               | Köv**ek**    |                |             |
+| Bokor (bush)        |             | Bokr**ok**    |              |                |             |
+| Gyümölcs (fruit)    |             |               |              | Gyümölcs**ök** |             |
+| Macska (cat)        |             |               |              |                | Macsk**ák** |
+| Bagoly (owl)        |             | Bagly**ok**   |              |                |             |
+| Híd (bridge)        | Hid**ak**   |               |              |                |             |
+| Bőrönd (suitcase)   |             |               |              | Bőrönd**ök**   |             |
+| Fiú (boy)           |             |               |              |                | Fiú**k**    |
+| Sör (beer)          |             |               |              | Sör**ök**      |             |
+| Polc (shelf)        |             | Polc**ok**    |              |                |             |
+| Ló (horse)          | Lov**ak**   |               |              |                |             |
+| Egér (mouse)        |             |               | Eger**ek**   |                |             |
+| Gyöngy (pearl)      |             |               |              | Gyöngy**ök**   |             |
+| Csillag             |             | Csillag**ok** |              |                |             |
+| Tó                  | Tav**ak**   |               |              |                |             |
 
 ---
 There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
@@ -56,22 +56,34 @@ There's a lot to be taken away from here. We can make some rules, but **there wi
 * Most nouns ending in other un-accented vowels become accented in the plural.
   * Kutya - Kutyák
   * Macska - Macskák
-  * Bögre - Bögrék
+  * Bögre - Bögrék (Mug)
 * Most nouns ending in accented vowels only get a `k` attached.
-  * Betű - Betűk
+  * Betű - Betűk (Letter)
   * Fiú - Fiúk
-  * Író - Írók
+  * Író - Írók (Writer)
 * Most nouns having an accent in the second syllable will lose it in the plural.
   * Madár - Madarak
-  * Tehén - Tehenek
-  * Darázs - Darazsak
+  * Tehén - Tehenek (Cow)
+  * Darázs - Darazsak (Wasp)
 
 But wait! There's more!
 
 In Hungarian, when a noun becomes quaintified (either by numbers or by adjectives) it becomes singular.
 
-* Három kutya
+* Fák (trees)
+* Két fa (Two trees)
+* Sok fa (Many trees)
+* Néhány fa (Some trees)
 
+Finally nouns that usually come in pairs are considered singular.
 
-*paired exception*
+* Zokni (socks)
+* Cipő (shoes)
+* Szem (eyes)
 
+To single them out, one can describe them or use egyik (one of).
+
+* A bal zokni (the left sock)
+* Egyik cipő (one of the shoes)
+
+## The Accusative Case (incomplete)
