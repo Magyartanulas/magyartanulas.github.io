@@ -11,3 +11,11 @@ this is done by adding `-k`.
 
 > Watch out! Some nouns end in `-k` in their base state (nominal). E.g. gyerek (child), játék (toy, game).
 
+Naturally, when adding the plural to our nominal noun, we have to obey vowel harmony.
+
+*insert vowel harmony table here*
+
+*quaintification with numbers exception*
+
+*v exception*
+
