@@ -140,7 +140,7 @@ All the vowel harmony rules stated for the plural apply for the accusative as we
 
 It is also interesting to note how some vowel harmony for back-vowel words alternates between `o` and `a`.
 
-* Magyarázat**o**k**a**t
+* Magyarázat`o`k`a`t
 * Játék**o**k**a**t
 * Dolg**o**k**a**t and so on and so forth...
 
