@@ -45,14 +45,14 @@ Naturally, when adding the plural to our nominal noun, we have to obey vowel har
 There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
 
 1. Some two-letter-long nouns lose the accent and get a `v` attached as well as a `k`
-  * Fű - Füvek
-  * Ló - Lovak
-  * Kő - Kövek
-  * Szó - Szavak
-  * Tó - Tavak
+ * Fű - Füvek
+ * Ló - Lovak
+ * Kő - Kövek
+ * Szó - Szavak
+ * Tó - Tavak
 2. Most nouns ending in i only get a `k` attached.
-  * Férfi - Férfik
-  * Kiwi - Kiwik
+ * Férfi - Férfik
+ * Kiwi - Kiwik
 3. Most nouns ending in other un-accented vowels become accented in the plural.
   * Kutya - Kutyák
   * Macska - Macskák
