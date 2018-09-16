@@ -38,16 +38,16 @@ In Hungarian, there are postpositions. They are placed after the noun relationsh
 * A férfi a híd alatt van.
 * A fiú az épület előtt van.
 
-These postpositions indicate a static relationship between the nouns, i.e. at that *specifc* point of time, they are not moving away from each other. Spatial postpositions can also represent the relationship of a noun moving towards the other noun or away from that noun.
+These postpositions don't indicate relative movement between the nouns, i.e. at that *specifc* point of time, they are not moving away from each other. Spatial postpositions can also represent the relationship of a noun moving towards the other noun or away from that noun.
 
-| Postposition  | Moving towards (to) | Static        | Moving away (from) |
-|---------------|---------------------|---------------|--------------------|
-| Next to       | Mellé               | Mellett       | Mellől             |
-| Above         | Fölé                | Felett/Fölött | Fölül              |
-| Below         | Alá                 | Alatt         | Alól               |
-| Infront of    | Elé                 | Előtt         | Elől               |
-| Behind        | Mögé                | Mögött        | Mögül              |
-| Between/Among | Közé                | Között        | Közül              |
+| Postposition  | Moving towards (to) | No relative movement | Moving away (from) |
+|---------------|---------------------|----------------------|--------------------|
+| Next to       | Mellé               | Mellett              | Mellől             |
+| Above         | Fölé                | Felett/Fölött        | Fölül              |
+| Below         | Alá                 | Alatt                | Alól               |
+| Infront of    | Elé                 | Előtt                | Elől               |
+| Behind        | Mögé                | Mögött               | Mögül              |
+| Between/Among | Közé                | Között               | Közül              |
 
 **IMPORTANT NOTE**
 
