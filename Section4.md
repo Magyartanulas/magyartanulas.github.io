@@ -42,12 +42,34 @@ Naturally, when adding the plural to our nominal noun, we have to obey vowel har
 | Tó       | Tav**ak**   |               |              |                |             |
 
 ---
-There's a lot to be taken away from here.
+There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
 
-* Any noun ending in i only gets a `k` attached to it
-*continue*
+* Some two-letter-long nouns lose the accent and get a `v` attached as well as a `k`
+  * Fű - Füvek
+  * Ló - Lovak
+  * Kő - Kövek
+  * Szó - Szavak
+  * Tó - Tavak
+* Most nouns ending in i only get a `k` attached.
+  * Férfi - Férfik
+  * Kiwi - Kiwik
+* Most nouns ending in other un-accented vowels become accented in the plural.
+  * Kutya - Kutyák
+  * Macska - Macskák
+  * Bögre - Bögrék
+* Most nouns ending in accented vowels only get a `k` attached.
+  * Betű - Betűk
+  * Fiú - Fiúk
+  * Író - Írók
+* Most nouns having an accent in the second syllable will lose it in the plural.
+  * Madár - Madarak
+  * Tehén - Tehenek
+  * Darázs - Darazsak
 
-*quaintification with numbers exception*
+But wait! There's more!
+
+In Hungarian, when a noun becomes quaintified (either by numbers or by adjectives) it becomes singular.
+
 
 *paired exception*
 
