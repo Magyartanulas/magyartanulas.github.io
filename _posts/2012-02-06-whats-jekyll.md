@@ -20,7 +20,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 
 1. The Alphabet & Vowel Harmony
 2. Phrases & Introduction to Verbs
-3. Nouns, Postpositions & Articles
+3. Nouns, Introduction to Postpositions & Articles
 4. The Accusative Case & Plurals
 5. Definite & Indefinite Conjugation
 6. Negation
