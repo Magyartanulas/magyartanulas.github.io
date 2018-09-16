@@ -60,4 +60,4 @@ Postpositions cannot be used with standalone pronouns, you have to attach the pe
   
 * The man came out from behind you
   * ~~A férfi te mögül kijött~~
-  * A férfi mögüled kijött.
+  * A férfi mögül**ed** kijött.
