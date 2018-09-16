@@ -18,7 +18,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 0. **Home**
 1. [The Alphabet & Vowel Harmony](/Section1.md)
 2. [Phrases & Introduction to Verbs](/Section2.md)
-3. Nouns, Introduction to Postpositions & Articles
+3. [Nouns, Introduction to Postpositions & Articles](/Section3.md)
 4. The Accusative Case & Plurals
 5. Definite & Indefinite Conjugation
 6. Negation
