@@ -3,7 +3,7 @@ layout: page
 title: Section 4
 ---
 
-## Plurals (incomplete)
+## Plurals
 ---
 
 In English, the plural form of a noun is generally given by adding an `-s` onto the end of a word, in Hungarian 
@@ -87,3 +87,27 @@ To single them out, one can describe them or use egyik (one of).
 * Egyik cipő (one of the shoes)
 
 ## The Accusative Case (incomplete)
+
+The Accusative case marks the direct object. Whenever something/someone does something to `something/someone else`, 
+the `something/someone else` becomes the direct object. The Accusative case is simply marked with a -t at the end.
+
+In English this only happens a few times. 
+
+* Can you see me? (me is the direct object)
+* Whom did you see? (whom is the direct object)
+
+Látom a fát - I see the tree
+Hallom azokat a madarakat - I hear those birds
+Megettem a tortát - I ate the cake
+
+This can be done in the format of questions
+
+Mit csinálsz? What are you doing?
+Kit látsz? Whom do you see?
+Látod azt? Do you see that?
+Etc
+
+Note that if what you want to say is: I verb you then the verb takes the -lek ending and no object is required
+
+Szeretlek - I love you
+Látlak - I see you
