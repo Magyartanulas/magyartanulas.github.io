@@ -41,7 +41,8 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Tűz! / Tűz van!                                    | Fire! / There's a fire!       |
 | Beszélsz angolul?                                  | Do you speak English?         |
 | Igen, csak egy kicsit*                             | Yes, only a litte             | 
-
+| Ez                                                 | This                          |
+| Az                                                 | That                          |
 * *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
 * *Igen, csak egy kicsit* is a reponse to *beszélsz angolul/magyarul?*
 
