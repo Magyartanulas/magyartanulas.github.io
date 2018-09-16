@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Accusative Case & Plurals
+title: Section 4
 ---
 
 ## Plurals
