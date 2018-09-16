@@ -13,34 +13,37 @@ this is done by adding `-k`.
 
 Naturally, when adding the plural to our nominal noun, we have to obey vowel harmony. Here's a collection of nouns.
 
-| Noun                | -ak         | -ok           | -ek          | -ök            | -k          |
-|---------------------|-------------|---------------|--------------|----------------|-------------|
-| Játék (toy/game)    |             | Játék**ok**   |              |                |             |
-| Gyerek (child)      |             |               | Gyerek**ek** |                |             |
-| Kutya (dog)         |             |               |              |                | Kuty**ák**  |
-| Fű  (grass)         |             |               | Füv**ek**    |                |             |
-| Férfi (man)         |             |               |              |                | Férfi**k**  |
-| Ember (person)      |             |               | Ember**ek**  |                |             |
-| Szó (word)          | Szav**ak**  |               |              |                |             |
-| Tükör (mirror)      |             |               |              | Tükr**ök**     |             |
-| Madár (bird)        | Madar**ak** |               |              |                |             |
-| Kiwi                |             |               |              |                | Kiwi**k**   |
-| Kő (stone)          |             |               | Köv**ek**    |                |             |
-| Bokor (bush)        |             | Bokr**ok**    |              |                |             |
-| Gyümölcs (fruit)    |             |               |              | Gyümölcs**ök** |             |
-| Macska (cat)        |             |               |              |                | Macsk**ák** |
-| Bagoly (owl)        |             | Bagly**ok**   |              |                |             |
-| Híd (bridge)        | Hid**ak**   |               |              |                |             |
-| Bőrönd (suitcase)   |             |               |              | Bőrönd**ök**   |             |
-| Fiú (boy)           |             |               |              |                | Fiú**k**    |
-| Sör (beer)          |             |               |              | Sör**ök**      |             |
-| Polc (shelf)        |             | Polc**ok**    |              |                |             |
-| Ló (horse)          | Lov**ak**   |               |              |                |             |
-| Egér (mouse)        |             |               | Eger**ek**   |                |             |
-| Gyöngy (pearl)      |             |               |              | Gyöngy**ök**   |             |
-| Csillag (star)      |             | Csillag**ok** |              |                |             |
-| Tó (lake)           | Tav**ak**   |               |              |                |             |
-
+| Noun                | -ak         | -ok           | -ek          | -ök            | -k                   |
+|---------------------|-------------|---------------|--------------|----------------|----------------------|
+| Játék (toy/game)    |             | Játék**ok**   |              |                |                      |
+| Gyerek (child)      |             |               | Gyerek**ek** |                |                      |
+| Kutya (dog)         |             |               |              |                | Kuty**ák**           |
+| Fű  (grass)         |             |               | Füv**ek**    |                |                      |
+| Férfi (man)         | Férfi**ak** |               |              |                |                      |
+| Ember (person)      |             |               | Ember**ek**  |                |                      |
+| Szó (word)          | Szav**ak**  |               |              |                |                      |
+| Tükör (mirror)      |             |               |              | Tükr**ök**     |                      |
+| Madár (bird)        | Madar**ak** |               |              |                |                      |
+| Kiwi                |             |               |              |                | Kiwi**k**            |
+| Kő (stone)          |             |               | Köv**ek**    |                |                      |
+| Bokor (bush)        |             | Bokr**ok**    |              |                |                      |
+| Gyümölcs (fruit)    |             |               |              | Gyümölcs**ök** |                      |
+| Macska (cat)        |             |               |              |                | Macsk**ák**          |
+| Bagoly (owl)        |             | Bagly**ok**   |              |                |                      |
+| Híd (bridge)        | Hid**ak**   |               |              |                |                      |
+| Bőrönd (suitcase)   |             |               |              | Bőrönd**ök**   |                      |
+| Fiú (boy)           |             |               |              |                | Fiú**k**             |
+| Sör (beer)          |             |               |              | Sör**ök**      |                      |
+| Polc (shelf)        |             | Polc**ok**    |              |                |                      |
+| Ló (horse)          | Lov**ak**   |               |              |                |                      |
+| Egér (mouse)        |             |               | Eger**ek**   |                |                      |
+| Gyöngy (pearl)      |             |               |              | Gyöngy**ök**   |                      |
+| Csillag (star)      |             | Csillag**ok** |              |                |                      |
+| Tó (lake)           | Tav**ak**   |               |              |                |                      |
+| Daru (crane)        |             |               |              |                | Daru**k**/Darv**ak** |       
+| Satu (vice)         |             |               |              |                | Satu**k**            |
+| Falu (village)      | Falv**ak**  |               |              |                | 
+| Tanú                |             |               |              |                | Tanú**k**            |
 ---
 There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
 
@@ -50,8 +53,8 @@ There's a lot to be taken away from here. We can make some rules, but **there wi
   * Kő - Kövek
   * Szó - Szavak
   * Tó - Tavak
-2. Most nouns ending in i only get a `k` attached.
-  * Férfi - Férfik
+2. Some nouns ending in i only get a `k` attached.
+  * 
   * Kiwi - Kiwik
 3. Most nouns ending in other un-accented vowels become accented in the plural.
   * Kutya - Kutyák
@@ -69,6 +72,11 @@ There's a lot to be taken away from here. We can make some rules, but **there wi
   * Bokor - Bokrok
   * Tükör - Tükrök
   * Dolog - Dolgok (thing)
+
+> RARE EXCEPTION: Nouns ending in `u`! The last vowel does not become accented and sometimes the plural becomes `-vak`.
+
+* Daruk (cranes - machine)
+* Darvak (cranes - birds)
 
 But wait, there's more!
 
@@ -161,5 +169,20 @@ If the verb is happening between I and you, then we use the special verb conjuga
 
 * Szeretlek - I love you
 * Látlak - I see you
+
+Lastly, the pronouns change when in the accusative case.
+
+| Pronoun | Accusative |
+|---------|------------|
+| én      | engem      |
+| te      | téged      |
+| ő       | őt         |
+| ti      | titeket    |
+| ők      | őket       |
+
+Examples:
+
+* Engem keresel? - Are you looking for me?
+* Mi tesz téged boldoggá? What makes you happy?
 
 *Definitely* head over to the next section where we explain these new verb conjugations you haven't seen before :wink:
