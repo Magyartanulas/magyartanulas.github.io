@@ -40,12 +40,24 @@ In Hungarian, there are postpositions. They are placed after the noun relationsh
 
 These postpositions indicate a static relationship between the nouns, i.e. at that *specifc* point of time, they are not moving away from each other. Spatial postpositions can also represent the relationship of a noun moving towards the other noun or away from that noun.
 
-| Postposition  | Moving towards | Static        | Moving away |
-|---------------|----------------|---------------|-------------|
-| Next to       | Mellé          | Mellett       | Mellől      |
-| Above         | Fölé           | Felett/Fölött | Fölül       |
-| Below         | Alá            | Alatt         | Alól        |
-| Infront of    | Elé            | Előtt         | Elől        |
-| Behind        | Mögé           | Mögött        | Mögül       |
-| Between/Among | Közé           | Között        | Közül       |
+| Postposition  | Moving towards (to) | Static        | Moving away (from) |
+|---------------|---------------------|---------------|--------------------|
+| Next to       | Mellé               | Mellett       | Mellől             |
+| Above         | Fölé                | Felett/Fölött | Fölül              |
+| Below         | Alá                 | Alatt         | Alól               |
+| Infront of    | Elé                 | Előtt         | Elől               |
+| Behind        | Mögé                | Mögött        | Mögül              |
+| Between/Among | Közé                | Között        | Közül              |
 
+**IMPORTANT NOTE**
+
+Postpositions cannot be used with standalone pronouns, you have to attach the personal pronoun ending instead 
+(this will be touched on in later sections). Here are some examples.
+
+* István sat next to me.
+  * ~~István én mellé ült.~~
+  * István mellé**m** ült. (Sitting implies moving to sit somewhere, thus mellém is used instead of melletem)
+  
+* The man came out from behind you
+  * ~~A férfi te mögül kijött~~
+  * A férfi mögüled kijött.
