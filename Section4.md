@@ -42,8 +42,11 @@ Naturally, when adding the plural to our nominal noun, we have to obey vowel har
 | Tó (lake)           | Tav**ak**   |               |              |                |                      |
 | Daru (crane)        |             |               |              |                | Daru**k**/Darv**ak** |       
 | Satu (vice)         |             |               |              |                | Satu**k**            |
-| Falu (village)      | Falv**ak**  |               |              |                | 
+| Falu (village)      | Falv**ak**  |               |              |                |                      |
 | Tanú                |             |               |              |                | Tanú**k**            |
+| Ez                  |             |               | Ez**ek**     |                |                      |
+| Az                  |             | Az**ok**      |              |                |                      |
+
 ---
 There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
 
@@ -151,7 +154,8 @@ It is also interesting to note how some vowel harmony for back-vowel words alter
 
 * Magyarázat`o`k`a`t
 * Játék`o`k`a`t
-* Dolg`o`k`a`t and so on and so forth...
+* Dolg`o`k`a`t a
+* Az`o`k`a`t and so on and so forth...
 
 Let's see some hungarian sentences!
 
