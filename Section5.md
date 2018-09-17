@@ -23,7 +23,7 @@ In [Section 2](https://magyartanulas.github.io/Section2/), we only covered intra
 One cannot örül/ül/kel *something*. These verbs are intransitive and they only have indefinite conjugation. On the other hand, 
 transitive verbs have indefinite *and* definite conjugation.
 
-## Definite Conjugation (incomplete)
+## Introducing Definite Conjugation
 
 Let's take a look at some transitive verbs to see how the vowel harmony works.
 
@@ -80,8 +80,23 @@ So as you can see, the definite conjugation adds a whole new layer to verbs.
 **Important notes**
 
 * The special `én <-> téged` conjugation is definite. Naturally, it won't always make sense to use it.
-* The sibilant verb olvas, gets a different conjugation in the second person.
+* The sibilant verbs olvas & néz, gets a different conjugation in the second person.
+
 ---
+
 The definite conjugation is used with `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. 
 Any other time, the indefinite conjugation is used.
 
+**Definite**
+
+* Láttam a fát. - *I saw the tree.*
+* István olvassa ezt a könyvet. - *István is reading this book.*
+* A fiú ütötte azt az ajtót. - *The boy hit that door.*
+
+**Indefinite**
+
+* Mit/kit látsz? *What/who did you see?*
+* Láttam egy macskát. - *I saw a cat.*
+* Állok a szék mellett. *I am standing next to the chair.*
+
+Aren't you loving all these verb tables? :stuck_out_tongue_winking_eye:
