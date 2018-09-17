@@ -58,10 +58,10 @@ a e i o ö u ü
 á é í ó ő ú ű
 ```
 
-For vowel harmony, these vowels are sorted as either front of back. Here are some sentences to remember each.
+For vowel harmony, these vowels are sorted as either front of back. Here are some non-sensical sentences to remember each.
 
 ```
-Front: e é i í ö ő ü ű (Öt üveg-uzo épít itt. PSA: This sentence is non-sensical.)
+Front: e é i í ö ő ü ű (Öt üveg-uzo épít itt.)
 Back:  a á o ó u ú     (A Zuzmó-Háború.)
 ```
 
