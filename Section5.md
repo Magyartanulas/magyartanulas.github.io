@@ -84,8 +84,7 @@ So as you can see, the definite conjugation adds a whole new layer to verbs.
 
 ---
 
-The definite conjugation is used with `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. 
-Any other time, the indefinite conjugation is used.
+If there is an object in the sentence, then the definite conjugation is used when there is `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. *Any other time*, the indefinite conjugation is used.
 
 **Definite**
 
