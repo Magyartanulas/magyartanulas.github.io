@@ -23,7 +23,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 3. Nouns, Introduction to Postpositions & Articles
 4. The Accusative Case & Plurals
 5. Definite & Indefinite Conjugation
-6. Negation
+6. Infinitive + Negation
 7. The Conditional Mood
 8. The Dative Case & Possession
 9. Tetszik & Vonz
