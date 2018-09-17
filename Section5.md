@@ -14,7 +14,7 @@ A **transitive** verb is any verb that takes a **direct object**, i.e. the accus
 * You *brought something*
 * He *read something*
 
-In [Section 2](/Section2.md), we only covered intransitive verbs, these tend to be ones that show states of being or relations to nouns. 
+In [Section 2](https://magyartanulas.github.io/Section2/), we only covered intransitive verbs, these tend to be ones that show states of being or relations to nouns. 
 
 * örül - He/she is happy
 * ül - He/she sits
