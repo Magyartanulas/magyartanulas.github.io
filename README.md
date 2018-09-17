@@ -20,7 +20,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 2. [Phrases & Introduction to Verbs](/Section2.md)
 3. [Nouns, Introduction to Postpositions & Articles](/Section3.md)
 4. [The Accusative Case & Plurals](/Section4.md)
-5. [Definite & Indefinite Conjugation](/Section5.md)
+5. [Definite & Indefinite Conjugation + Infinitive](/Section5.md)
 6. Negation
 7. The Conditional Mood
 8. The Dative Case & Possession
