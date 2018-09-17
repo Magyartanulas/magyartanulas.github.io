@@ -57,7 +57,7 @@ There's a lot to be taken away from here. We can make some rules, but **there wi
   * Szó - Szavak
   * Tó - Tavak
 2. Some nouns ending in i only get a `k` attached.
-  * Kifli - Kiflik (food)
+  * Kifli - Kiflik (type of bread roll)
   * Kiwi - Kiwik
 3. Most nouns ending in other un-accented vowels become accented in the plural.
   * Kutya - Kutyák
