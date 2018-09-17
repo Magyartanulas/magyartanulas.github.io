@@ -39,7 +39,7 @@ Lát - he/she sees.
 | ők           | Láttak      | Látták    | Látnak         | Látják       | Fognak látni   | Fogják látni      |
 | én <-> téged | -----       | Láttalak  | -----          | Látlak       | -----          | Foglak látni      |
 
-Néz - he/she watches
+Néz - he/she watches.
 
 Üt - he/she hits.
 
@@ -53,6 +53,15 @@ Néz - he/she watches
 | ők           | Üttek       | Ütték     | Ütnek          | Ütik         | Fognak ütni    | Fogják ütni   |
 | én <-> téged | -----       | Üttelek   | -----          | Ütlek        | -----          | Foglak ütni   |
 
+Olvas - he/she reads.
 
+So as you can see, the definite conjugation adds a whole new layer to verbs. 
 
+**Important notes**
+
+* The special `én <-> téged` conjugation is definite. 
+* The sibilant verb olvas, gets a different conjugation in the second person.
+---
+The definite conjugation is used with `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. 
+Any other time, the indefinite conjugation is used.
 
