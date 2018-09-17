@@ -98,4 +98,4 @@ If there is an object in the sentence, then the definite conjugation is used whe
 * Láttam egy macskát. - *I saw a cat.*
 * Állok a szék mellett. *I am standing next to the chair.*
 
-Aren't you loving all these verb tables? :stuck_out_tongue_winking_eye:
+Aren't you loving all these verb tables? :smiley:
