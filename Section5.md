@@ -41,6 +41,16 @@ Lát - he/she sees.
 
 Néz - he/she watches.
 
+| Pronouns     | Past indef. | Past def.  | Present indef. | Present def. | Future indef. | Future def.    |
+|--------------|-------------|------------|----------------|--------------|---------------|----------------|
+| én           | néztem      | néztem     | nézek          | nézem        | fogok nézni   | fogom nézni    |
+| te           | néztél      | nézted     | nézel          | nézed        | fogsz nézni   | fogod nézni    |
+| ő            | nézett      | nézte      | néz            | nézi         | fog nézni     | fogja nézni    |
+| mi           | néztünk     | néztük     | nézünk         | nézzük       | fogunk nézni  | fogjuk nézni   |
+| ti           | néztetek    | néztétek   | néztek         | nézitek      | fogtok nézni  | fogjátok nézni |
+| ők           | néztek      | nézték     | néznek         | nézik        | fognak nézni  | fogják nézni   |
+| én <-> téged | -----       | nézettelek | -----          | nézlek       | -----         | foglak nézni   |
+
 Üt - he/she hits.
 
 | Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Futurer indef. | Future def.   |
@@ -55,11 +65,21 @@ Néz - he/she watches.
 
 Olvas - he/she reads.
 
+| Pronouns     | Past indef. | Past def.  | Present indef. | Present def. | Future indef.  | Future def.      |
+|--------------|-------------|------------|----------------|--------------|----------------|------------------|
+| én           | olvastam    | olvastam   | olvasok        | olvasom      | fogok olvasni  | fogom olvasni    |
+| te           | olvastál    | olvastad   | olvasol        | olvasod      | fogsz olvasni  | fogod olvasni    |
+| ő            | olvasott    | olvasta    | olvas          | olvassa      | fog olvasni    | fogja olvasni    |
+| mi           | olvastunk   | olvastuk   | olvasunk       | olvassuk     | fogunk olvasni | fogjuk olvasni   |
+| ti           | olvastatok  | olvastátok | olvastok       | olvassátok   | fogtok olvasni | fogjátok olvasni |
+| ők           | olvastak    | olvasták   | olvasnak       | olvassák     | fognak olvasni | fogják olvasni   |
+| én <-> téged | -----       | olvastalak | -----          | olvasalak    | -----          | foglak olvasni   |
+
 So as you can see, the definite conjugation adds a whole new layer to verbs. 
 
 **Important notes**
 
-* The special `én <-> téged` conjugation is definite. 
+* The special `én <-> téged` conjugation is definite. Naturally, it won't always make sense to use it.
 * The sibilant verb olvas, gets a different conjugation in the second person.
 ---
 The definite conjugation is used with `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. 
