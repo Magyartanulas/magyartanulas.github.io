@@ -97,7 +97,7 @@ Below are some examples of regular verbs, that have the same regular conjugation
 ### Front vowel conjugation
 ---
 
-Örül - (He/she is happy) *Front-vowel (type 1)*
+Örül - (He/she/it is happy) *Front-vowel (type 1)*
 
 | Pronoun | Past      | Present | Future        |
 |---------|-----------|---------|---------------|
@@ -108,7 +108,7 @@ Below are some examples of regular verbs, that have the same regular conjugation
 | ti      | örültetek | örültök | fogtok örülni |
 | ők      | örültek   | örülnek | fognak örulni |
 
-Kel - (He/she rises or gets up) *Front-vowel (type 2)*
+Kel - (He/she/it rises or gets up) *Front-vowel (type 2)*
 
 | Pronoun | Past     | Present | Future       |
 |---------|----------|---------|--------------|
@@ -122,7 +122,7 @@ Kel - (He/she rises or gets up) *Front-vowel (type 2)*
 ### Back vowel conjugation
 ---
 
-Sír - (He/she cries) (*back-vowel conjugation due to í being the only vowel)*
+Sír - (He/she/it cries) (*back-vowel conjugation due to í being the only vowel)*
 
 | Pronoun | Past     | Present | Future       |
 |---------|----------|---------|--------------|
@@ -140,7 +140,7 @@ with the verb in infinitive form alongside it.
 
 There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is changed.
 
-Lesz (he/she becomes) *front-vowel*
+Lesz (he/she/it becomes) *front-vowel*
 
 | Pronoun | Past     | Present |
 |---------|----------|---------|
