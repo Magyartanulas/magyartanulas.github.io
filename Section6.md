@@ -74,6 +74,11 @@ Note, not all irregular verbs have different infinitve forms, see below:
 | enged (he/she/it allows)    | engedni   |
 | téved (he/she/it errs)      | tévedni   |
 
+**Addendum**
+
+It is worth noting that to cheer in Hungarian, one wouldn't say *you can do it!* but rather *menni fog* or *sikerülni fog*. 
+They iterally mean *it will go* and *it will succeed*.
+
 ## Negation (incomplete)
 
 ---
