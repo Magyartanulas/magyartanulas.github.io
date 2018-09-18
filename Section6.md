@@ -83,9 +83,78 @@ They iterally mean *it will go* and *it will succeed*.
 
 ---
 
-You can negate most sentences with nem, it means no, or not. Nem almost always starts at the beginning of the sentence.
+### Negating with nem & sem
+
+You can negate most sentences with `nem`, it means no, or not. Nem almost always starts at the beginning of the sentence.
 
 * Nem tudom - (I don't know)
+* Nem értem - (I don't understand)
 * Nem vagyok tökéletes - (I'm not perfect)
+* Ezt nem hiszem el! - (I don't believe it!)
+* Köszönöm, nem kérek - (No thanks lit. Thanks I don't ask for it)
+
+If the *same subject* negates more verbs in a sentence, `sem` is used instead. The use of sem can also be used with pronouns for emphasis.
+
+Consider person A speaking to both persons B & C
+
+* A: Szeretitek a klasszikus zenét? - (Do you like classical music?)
+  * B: Nem.
+  * C: Én sem. - (I don't either.)
+
+It should be noted that English treats the sentence as one whole value whereas Hungarian treats the sentence as *a series of values*. 
+If you want to negate the sentence, every part of the sentence is negated.
+
+* English: I don't know anybody. (Negated once)
+* Hungarian: Nem ismerek senkit. - (I don't know nobody.)
+
+**Useful negations**
+
+* mindenki (everyone) senki (nobody)
+* valami (something) semmi (nothing)
+
+### Negating with nincs & sincs
+
+### Negating with ne & se
+
+### Examples of all
+
+* Nem olvastam ezt, nem olvasta, senki sem olvasta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
