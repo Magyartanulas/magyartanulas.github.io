@@ -107,7 +107,7 @@ If you want to negate the sentence, every part of the sentence is negated.
 * English: I don't know anybody. (Negated once)
 * Hungarian: Nem ismerek senkit. - (I don't know nobody.)
 
-*Quick note: `ismer` and `tud` are both verbs that can be used as the equivalent to know. `ismer` has connotations of possesing knowledge whereas `tud` has connotations of possessing skills and skillsets (hence, why tud also means can).*
+**Quick note:* `ismer` and `tud` are both verbs that can be used as the equivalent to know. `ismer` has connotations of possesing knowledge whereas `tud` has connotations of possessing skills and skillsets (hence, why tud also means can).*
 
 **Useful negations**
 
