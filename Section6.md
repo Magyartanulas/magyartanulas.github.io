@@ -142,7 +142,7 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 * Ne szólj! ne is kérdezz! Nézz reám! Akit itt látsz férfi már. - (Don't speak! Don't even question! Look at me! Who you see here is already a man.)
 
 
-123
+![Yoda](/public/Yoda.jpeg)
 *Tedd, vagy ne tedd, de ne próbáld! - (Do, or do not (do), but do not try!)*
 
 ### Negative questions
@@ -163,7 +163,7 @@ Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
 * A: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
   * B: Nem, ők túl zajos nekem. (No, they are too noisy for me.)
-  * B: Dehogynem! Imádom őket! (Of course I do! I adore them!)
+  * B: Dehogynem! Imádom őket! (Of course I do! I love (adore) them!)
  
  ---
  
