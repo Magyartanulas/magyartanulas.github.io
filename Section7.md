@@ -35,5 +35,10 @@ Csinál (he/she/it does/makes).
 
 *insert table*
 
-## Akkor, Ha & Majd
+## Akkor & Majd
 
+As well as using the conditional mood, hypothetical questions can be asked as well. 
+
+*sentence examples*
+
+Akkor is used as an immediate followup, like the english then.
