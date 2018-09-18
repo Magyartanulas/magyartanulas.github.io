@@ -34,3 +34,6 @@ Sometimes there is no distuinguishing between definite and indefinite conjugatio
 Csinál (he/she/it does/makes).
 
 *insert table*
+
+## Akkor, Ha & Majd
+
