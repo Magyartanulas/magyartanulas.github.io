@@ -119,6 +119,8 @@ Kel - (He/she/it rises or gets up) *Front-vowel (type 2)*
 | ti      | keltetek | keltek  | fogtok kelni |
 | ők      | keltek   | kelnek  | fognak kelni |
 
+Note the different times that `keltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
+
 ### Back vowel conjugation
 ---
 
