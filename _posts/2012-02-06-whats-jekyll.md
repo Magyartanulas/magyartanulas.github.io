@@ -40,4 +40,4 @@ Stay tuned for more!
 
 * [Memrise - Monolingual flashcards written to help better your recall!](www.memrise.com/group/262696/)
 * [Babadum - Fun monolingual minigames!](https://babadum.com/)
-* [Discord - Talk with native speakers and other learners!](https://discord.gg/wSg45QS)
+* [The Magyartanulás Community on discord! - Talk with native speakers and other learners!](https://discord.gg/wSg45QS)
