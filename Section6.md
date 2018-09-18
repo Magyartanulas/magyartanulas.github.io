@@ -21,9 +21,9 @@ In Hungarian, the base-verb (taken from the 3rd person singular indefinite) is o
 
 * Szeretek *olvasni* - (I like to read/reading)
 * Holnap tudok *menni* - (I can go tomorrow)
-* Mikor foglak *látni* - (When will I see you?)
+* Mikor foglak *látni*? - (When will I see you?)
 
-When using the infinitive, be aware that the infinitive won't always line up with the base-verb. There are two cases:
+When using the infinitive, be aware that it won't always line up with the base-verb. There are two cases:
 
 **Case 1: Vowel Harmony**
 
@@ -45,7 +45,7 @@ Or if the verb ends in two consonants it will also receive a linking vowel.
 
 **Case 2: Irregular verb**
 
-The verb that you are using, could in fact be an irregular verb, in which case it has different conjugations (including infinitive form). 
+The verb that you are using could in fact be an irregular verb, in which case it will have different conjugations and possibly a different infinitive form). 
 Here is a list of all the irregular verbs, bolds and italics are there to help indicate pattern.
 
 | Irregular verb              | Infinitve     |
@@ -76,10 +76,10 @@ Here is a list of all the irregular verbs, bolds and italics are there to help i
 
 **Addendum**
 
-It is worth noting that to cheer in Hungarian, one wouldn't say *you can do it!* but rather *menni fog* or *sikerülni fog*. 
-They iterally mean *it will go* and *it will succeed*.
+It is worth noting that to cheer in Hungarian, you wouldn't say *you can do it!* but rather *menni fog* or *sikerülni fog*. 
+They iterally mean *it will go* and *it will succeed* respectively.
 
-## Negation (incomplete)
+## Negation
 
 ---
 
@@ -107,7 +107,7 @@ If you want to negate the sentence, every part of the sentence is negated.
 * English: I don't know anybody. (Negated once)
 * Hungarian: Nem ismerek senkit. - (I don't know nobody.)
 
-**Quick note:* `ismer` and `tud` are both verbs that can be used as the equivalent to know. `ismer` has connotations of possesing knowledge whereas `tud` has connotations of possessing skills and skillsets (hence, why tud also means can).*
+*Quick note: `ismer` and `tud` are both verbs that can be used as the equivalent to know. `ismer` has connotations of possesing knowledge whereas `tud` has connotations of possessing skills and skillsets (hence, why tud also means can).*
 
 **Useful negations**
 
@@ -116,12 +116,11 @@ If you want to negate the sentence, every part of the sentence is negated.
 
 ### Negating with nincs & sincs
 
-Recall that `van` is the verb for existence. In Hungarian, ~~nem van~~ `nincs/nincsen` to negate a noun's existence (and `nincsenek` 
-for negating multiple nouns). Likewise with `sem`, `sincs` is used as a further negation to really emphasise the lack of existence.
+Recall that `van` is the verb for existence. In Hungarian, ~~nem van~~ `nincs/nincsen` is used to negate a noun's existence (and `nincsenek` for negating multiple nouns). Likewise with `sem`, `sincs` is used as a further negation to really emphasise the lack of existence.
 
 Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are used for the past and future respectively.
 
-* Nincsen semmi baj. - (There is nothing wrong).
+* Nem igaz, hogy nincsen semmi baj. - (It isn't true that there is nothing wrong).
 * Kávé van? Nincs. Tea van? Az sincs. - (Is there coffee? There is none. Is there tea? None of that either.)
 * Gőzöm sincs. - (I haven't the foggiest idea. lit. I don't even have any steam).
 * Nincs mit. - (Don't mention it. lit. There is no what.)
@@ -166,7 +165,7 @@ Notice how ~~igen~~ `de` (but) is used to counter a negative question.
   * B: De vagy, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy).
 
 * A: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
-  * B: Nem, ők túl zajos nekem. (No, they are too noisy for me.)
+  * B: Nem, szerintem, hogy ők túl zajos. (No, I think they are too noisy.)
   * B: Dehogynem! Imádom őket! (Of course I do! I love (adore) them!)
  
  ---
