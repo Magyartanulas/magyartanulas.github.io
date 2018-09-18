@@ -51,6 +51,8 @@ Néz - he/she/it watches.
 | ők           | néztek      | nézték     | néznek         | nézik        | fognak nézni  | fogják nézni   |
 | én <-> téged | -----       | nézettelek | -----          | nézlek       | -----         | foglak nézni   |
 
+Once again, it will be clear from context if `néztek` talkes about `ti` or `ők`.
+
 Üt - he/she/it hits.
 
 | Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Futurer indef. | Future def.   |
