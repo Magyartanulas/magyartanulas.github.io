@@ -29,6 +29,8 @@ Szeret (he/she/it likes). Keep in mind that there are many ways of expressing li
 | ti      | szerettetek volna | szerettétek volna | szeretnétek          | szeretnétek         |
 | ők      | szerettek volna   | szerették volna   | szeretnének          | szeretnék           |
 
+Sometimes there is no distuinguishing between definite and indefinite conjugation.
+
 Csinál (he/she/it does/makes).
 
 *insert table*
