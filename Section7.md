@@ -20,7 +20,14 @@ Naturally, there is more conjugation to represent the conditional mood in Hungar
 
 Szeret (he/she/it likes). Keep in mind that there are many ways of expressing liking in Hungarian, we'll cover that later.
 
-*insert table*
+| Pronoun | Past indef. cond. | Past def. cond.   | Present indef. cond. | Present. def. cond. |
+|---------|-------------------|-------------------|----------------------|---------------------|
+| én      | szerettem volna   | szerettem volna   | szeretnék            | szeretném           |
+| te      | szerettél volna   | szeretted volna   | szeretnél            | szeretnéd           |
+| ő       | szeretett volna   | szerette volna    | szeretne             | szeretné            |
+| mi      | szerettünk volna  | szerettük volna   | szeretnénk           | szeretnénk          |
+| ti      | szerettetek volna | szerettétek volna | szeretnétek          | szeretnétek         |
+| ők      | szerettek volna   | szerették volna   | szeretnének          | szeretnék           |
 
 Csinál (he/she/it does/makes).
 
