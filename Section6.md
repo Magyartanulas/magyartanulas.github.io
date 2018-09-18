@@ -25,7 +25,7 @@ In Hungarian, the base-verb (taken from the 3rd person singular indefinite) is o
 
 When using the infinitive, be aware that the infinitive won't always line up with the base-verb. There are two cases:
 
-**Case 1: Vowel Harmony
+**Case 1: Vowel Harmony**
 
 Depending on how the verb ends will determine if it has a linking vowel or not. The two forms of vowel harmony are `-ani, -eni`.
 
