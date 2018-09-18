@@ -117,9 +117,12 @@ If you want to negate the sentence, every part of the sentence is negated.
 Recall that `van` is the verb for existence. In Hungarian, ~~nem van~~ `nincs/nincsen` to negate a noun's existence (and `nincsenek` 
 for negating multiple nouns). Likewise with `sem`, `sincs` is used as a further negation to really emphasise the lack of existence.
 
+Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are used for the past and future respectively.
+
 * Nincsen semmi baj. - (There is nothing wrong).
 * Kávé van? Nincs. Tea van? Az sincs. - (Is there coffee? There is none. Is there tea? None of that either.)
 * Gőzöm sincs. - (I haven't the foggiest idea. lit. I don't even have any steam).
+* Nincs mit. - (Don't mention it. lit. There is no what.)
 
 
 ![Frodo](/public/Frodo.jpg)
@@ -137,7 +140,10 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 * Ne aggódj! - (Don't worry!)
 * Ne félj, menni fog! - (Don't be afraid, it will go!)
 * Ne szólj! ne is kérdezz! Nézz reám! Akit itt látsz férfi már. - (Don't speak! Don't even question! Look at me! Who you see here is already a man.)
-* Tedd, vagy ne tedd, de ne próbáld! - (Do, or do not (do), but do not try!)
+
+
+123
+*Tedd, vagy ne tedd, de ne próbáld! - (Do, or do not (do), but do not try!)*
 
 ### Negative questions
 
