@@ -122,8 +122,8 @@ for negating multiple nouns). Likewise with `sem`, `sincs` is used as a further 
 * Gőzöm sincs. - (I haven't the foggiest idea. lit. I don't even have any steam).
 
 
-*insert image*
-* Ha van Balrog, miért nincsen Jobbrog?
+![Frodo](/public/Frodo.jpg)
+*Ha van Balrog, miért nincsen Jobbrog?*
 
 
 ### Negating with ne & se
