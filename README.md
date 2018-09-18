@@ -22,7 +22,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 4. [The Accusative Case & Plurals](/Section4.md)
 5. [Definite & Indefinite Conjugation](/Section5.md)
 6. [Infinitive + Negation](/Section6.md)
-7. The Conditional Mood
+7. [The Conditional Mood](/Section7.md)
 8. The Dative Case & Possession
 9. Tetszik & Vonz
 10. The Locative Cases + Adverbs & Pronouns
