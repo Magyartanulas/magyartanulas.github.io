@@ -123,7 +123,11 @@ for negating multiple nouns). Likewise with `sem`, `sincs` is used as a further 
 
 
 ![Frodo](/public/Frodo.jpg)
+
 *Ha van Balrog, miért nincsen Jobbrog?*
+
+* Bal - left
+* Jobb - right
 
 
 ### Negating with ne & se
