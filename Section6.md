@@ -46,33 +46,33 @@ Or if the verb ends in two consonants it will also receive a linking vowel.
 **Case 2: Irregular verb**
 
 The verb that you are using, could in fact be an irregular verb, in which case it has different conjugations (including infinitive form). 
-Note, not all irregular verbs have different infinitve forms, see below:
+Here is a list of all the irregular verbs, bolds and italics are there to help indicate pattern.
 
-| Irregular verb              | Infinitve |
-|-----------------------------|-----------|
-| van                         | lenni     |
-| lesz                        | lenni     |
-| megy (he/she/it goes)       | menni     |
-| jön (he/she/it comes)       | jönni     |
-| eszik (he/she/it eats)      | enni      |
-| iszik (he/she/it drinks)    | inni      |
-| alszik (he/she/it sleeps)   | aludni    |
-| nyugszik (he/she/it rests)  | nyugodni  |
-| fekszik (he/she/it lies)    | feküdni   |
-| tesz (he/she/it puts/does)  | tenni     |
-| vesz (he/she/it take/buys   | venni     |
-| visz (he/she/it brings)     | vinni     |
-| hisz (he/she/it believes)   | hinni     |
-| nő (he/she/it grows)        | nőni      |
-| sző (he/she/it weaves)      | szőni     |
-| lő (he/she/it shoots)       | lőni      |
-| fő (he/she/it cooks)        | főzni     |
-| ró (he/she/it comprehends)  | róni      |
-| tagad (he/she/it denies)    | tagadni   |
-| fogad (he/she/it receives)  | fogadni   |
-| szenved (he/she/it suffers) | szenvedni |
-| enged (he/she/it allows)    | engedni   |
-| téved (he/she/it errs)      | tévedni   |
+| Irregular verb              | Infinitve     |
+|-----------------------------|---------------|
+| van                         | **lenni**     |
+| lesz                        | **lenni**     |
+| megy (he/she/it goes)       | **menni**     |
+| eszik (he/she/it eats)      | **enni**      |
+| iszik (he/she/it drinks)    | **inni**      |
+| fő (he/she/it cooks)        | **főzni**     |
+| tesz (he/she/it puts/does)  | *tenni*       |
+| vesz (he/she/it take/buys   | *venni*       |
+| visz (he/she/it brings)     | *vinni*       |
+| hisz (he/she/it believes)   | *hinni*       |
+| alszik (he/she/it sleeps)   | **aludni**    |
+| nyugszik (he/she/it rests)  | **nyugodni**  |
+| fekszik (he/she/it lies)    | **feküdni**   |
+| jön (he/she/it comes)       | jönni         |
+| sző (he/she/it weaves)      | szőni         |
+| lő (he/she/it shoots)       | lőni          |
+| nő (he/she/it grows)        | nőni          |
+| ró (he/she/it comprehends)  | róni          |
+| tagad (he/she/it denies)    | tagadni       |
+| fogad (he/she/it receives)  | fogadni       |
+| szenved (he/she/it suffers) | szenvedni     |
+| enged (he/she/it allows)    | engedni       |
+| téved (he/she/it errs)      | tévedni       |
 
 **Addendum**
 
@@ -82,3 +82,10 @@ They iterally mean *it will go* and *it will succeed*.
 ## Negation (incomplete)
 
 ---
+
+You can negate most sentences with nem, it means no, or not. Nem almost always starts at the beginning of the sentence.
+
+* Nem tudom - (I don't know)
+* Nem vagyok tökéletes - (I'm not perfect)
+
+
