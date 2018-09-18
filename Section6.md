@@ -142,18 +142,18 @@ It isn't uncommon to ask questions in the negative, especially if they are yes o
 Consider these situation with persons A & B, depending on the situation B could respond with the following:
 
 * A: Nem láttad a nyelvtan könyvet? - (Have you (not) seen the grammar book?)
- * B: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
- * B: De az asztal mellett van! - (But it is next to the table!)
+  * B: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
+  * B: De az asztal mellett van! - (But it is next to the table!)
 
 Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
 * A: Szia, nem zavarlak? - (Hi, am I (not) bothering you?)
- * B: Nem, dehogyis! Gyere be! - (No, quite the contrary! Come in!)
- * B: De vagy, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy).
+  * B: Nem, dehogyis! Gyere be! - (No, quite the contrary! Come in!)
+  * B: De vagy, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy).
 
 * A: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
- * B: Nem, ők túl zajos nekem. (No, they are too noisy for me.)
- * B: Dehogynem! Imádom őket! (Of course I do! I adore them!)
+  * B: Nem, ők túl zajos nekem. (No, they are too noisy for me.)
+  * B: Dehogynem! Imádom őket! (Of course I do! I adore them!)
  
  ---
  
