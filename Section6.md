@@ -90,7 +90,7 @@ You can negate most sentences with `nem`, it means no, or not. Nem almost always
 * Nem tudom - (I don't know)
 * Nem értem - (I don't understand)
 * Nem vagyok tökéletes - (I'm not perfect)
-* Ezt nem hiszem el! - (I don't believe it!)
+* Ezt nem mondod komolyan! - (You can't be serious! lit. You aren't saying this seriously!)
 * Köszönöm, nem kérek - (No thanks lit. Thanks I don't ask for it)
 
 If the *same subject* negates more verbs in a sentence, `sem` is used instead. The use of sem can also be used with pronouns for emphasis.
@@ -114,47 +114,47 @@ If you want to negate the sentence, every part of the sentence is negated.
 
 ### Negating with nincs & sincs
 
+Recall that `van` is the verb for existence. In Hungarian, ~~nem van~~ `nincs/nincsen` to negate a noun's existence (and `nincsenek` 
+for negating multiple nouns). Likewise with `sem`, `sincs` is used as a further negation to really emphasise the lack of existence.
+
+* Nincsen semmi baj. - (There is nothing wrong).
+* Kávé van? Nincs. Tea van? Az sincs. - (Is there coffee? There is none. Is there tea? None of that either.)
+* Gőzöm sincs. - (I haven't the foggiest idea. lit. I don't even have any steam).
+
+
+*insert image*
+* Ha van Balrog, miért nincsen Jobbrog?
+
+
 ### Negating with ne & se
 
-### Examples of all
+With the imperative and subjunctive mood, the negation becomes `ne` and `se`. Sometimes `ne is` is used instead of `se`.
 
-* Nem olvastam ezt, nem olvasta, senki sem olvasta.
+* Ne aggódj! - (Don't worry!)
+* Ne félj, menni fog! - (Don't be afraid, it will go!)
+* Ne szólj! ne is kérdezz! Nézz reám! Akit itt látsz férfi már. - (Don't speak! Don't even question! Look at me! Who you see here is already a man.)
+* Tedd, vagy ne tedd, de ne próbáld! - (Do, or do not (do), but do not try!)
 
+### Negative questions
 
+It isn't uncommon to ask questions in the negative, especially if they are yes or no questions.
 
+Consider these situation with persons A & B, depending on the situation B could respond with the following:
 
+* A: Nem láttad a nyelvtan könyvet? - (Have you (not) seen the grammar book?)
+ * B: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
+ * B: De az asztal mellett van! - (But it is next to the table!)
 
+Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
+* A: Szia, nem zavarlak? - (Hi, am I (not) bothering you?)
+ * B: Nem, dehogyis! Gyere be! - (No, quite the contrary! Come in!)
+ * B: De vagy, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* A: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
+ * B: Nem, ők túl zajos nekem. (No, they are too noisy for me.)
+ * B: Dehogynem! Imádom őket! (Of course I do! I adore them!)
+ 
+ ---
+ 
+`Dehogy` is used to counter a positive question whereas `dehogynem/dehogynincs` counters a negative question. They can be used for more passion in a reply. An `is` is added if it is used as a follow up for more emphasis. 
