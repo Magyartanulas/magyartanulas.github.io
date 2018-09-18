@@ -11,7 +11,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 
 ### What's new?
 
-* Added first version of section 1
+* Added first version of sections 1 - 6
 
 ### Progression Route
 
@@ -21,7 +21,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 3. [Nouns, Introduction to Postpositions & Articles](/Section3.md)
 4. [The Accusative Case & Plurals](/Section4.md)
 5. [Definite & Indefinite Conjugation](/Section5.md)
-6. Infinitive + Negation
+6. [Infinitive + Negation](/Section6.md)
 7. The Conditional Mood
 8. The Dative Case & Possession
 9. Tetszik & Vonz
