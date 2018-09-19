@@ -59,21 +59,36 @@ Lesz (he/she/it becomes). Remember this is an intransitive verb so it only gets 
 
 **Some sentences**
 
-* Hova szeretnél elutazni? - (Where would you like to travel?)
-* Olaszországba szeretnék, mert nagyon szeretem az olasz ételeket.  - (I would like (to travel) to Italy, because I love Italian food.)
+* Szeretnél táncolni? - (Would you like to dance?)
+* Én a helyedben mindenképpen hallgatnék a barátaimra! - (If I were you I would definitely heed my friends!) 
+* Álmaimban sem csinálnék ilyet! - (Not even in my dreams would I do such a thing!)
 
-## Akkor, Ha & Majd
+`Én a helyedben` is literally *I in your place*
 
+### Akkor, Ha & Majd
 
+While using the conditional mood, we can ask hypothetical questions as well. If we *are* using the conditional mood, then every aspect of that sentence is used in the conditional as well.
 
-As well as using the conditional mood, hypothetical questions can be asked as well. 
+The word `ha` means if, and is not limited to the conditional mood. 
 
-*sentence examples*
+* Mi lenne, ha megnyernék a lottót? - (What would happen if I (would) win the lotto?)
+* Mi leszel ha nagy leszel? - (What will you be when you grow up?) non-conditional
+* Elmentem volna, ha meghívott volna - (I would have gone if he had invited me).
 
-Akkor is used as an immediate followup, like the english then.
+*A: Mi lesz, ha elütnek egy matematikust?* - (What happens if they run over a mathematician?) non-conditional
+*B: Nem tudom, mi lesz?*
+*A: Már nem számít...* - (It doesn't matter / He/she no longer counts).
 
-Majd
+The word `akkor` means then, and is used as an immediate follow-up.
+
+* Ha mindenható lennél, akkor mi lenne az első dolog megváltaztotnál a világban? (If you were almighty, then what would be the first thing you would change in the world?)
+
+*A: Készen állsz?* - (Are you ready? lit. Do you stand prepared?)
+*B: Igen.* - (Yes.)
+*A: Akkor mire vársz? Most indulunk!* - (Then what are you waiting for? We're leaving now!)
+
+If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown point in the future, like the English word sometime.
 
 * Egy nap majd, szeretnék megtanulni egy másik nyelvet.
 
-## -hat-, -het-
+### -hat-, -het-
