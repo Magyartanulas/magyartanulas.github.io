@@ -117,16 +117,16 @@ Below are some examples of regular verbs, that have the same regular conjugation
 | ti      | örültetek | örültök | fogtok örülni |
 | ők      | örültek   | örülnek | fognak örulni |
 
-Kel - (He/she/it rises or gets up) *Front-vowel (type 2)*
+Felkel - (He/she/it rises or gets up) *Front-vowel (type 2)*
 
-| Pronoun | Past     | Present | Future       |
-|---------|----------|---------|--------------|
-| én      | keltem   | kelek   | fogok kelni |
-| te      | keltél   | kelsz   | fogsz kelni  |
-| ő       | kelt     | kel     | fog kelni    |
-| mi      | keltünk  | kelünk  | fogunk kelni |
-| ti      | keltetek | keltek  | fogtok kelni |
-| ők      | keltek   | kelnek  | fognak kelni |
+| Pronoun | Past        | Present    | Future          |
+|---------|-------------|------------|-----------------|
+| én      | felkeltem   | felkelek   | fogok felkelni  |
+| te      | felkeltél   | felkelsz   | fogsz felkelni  |
+| ő       | felkelt     | felkel     | fog felkelni    |
+| mi      | felkeltünk  | felkelünk  | fogunk felkelni |
+| ti      | felkeltetek | felkeltek  | fogtok felkelni |
+| ők      | felkeltek   | felkelnek  | fognak felkelni |
 
 Note the different times that `keltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
 
