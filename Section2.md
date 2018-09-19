@@ -132,6 +132,8 @@ Felkel - (He/she/it rises or gets up) *Front-vowel (type 2)*
 
 Note the different times that `felkeltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
 
+`fel` is a *coverb* that has been added to `kel` to add directionality to the verb, we'll touch upon this topic later down the line. 
+
 ### Back vowel conjugation
 ---
 
