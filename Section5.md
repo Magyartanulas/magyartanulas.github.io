@@ -100,4 +100,10 @@ If there is an object in the sentence, then the definite conjugation is used whe
 * Láttam egy macskát. - *I saw a cat.*
 * Állok a szék mellett. *I am standing next to the chair.*
 
+![két ember meg egy tóll](https://magyartanulas.github.io/public/keres.jpg)
+
+*- Mit csinálsz?*
+
+*- Keresem a kék tollat.*
+
 Aren't you loving all these verb tables? :smiley:
