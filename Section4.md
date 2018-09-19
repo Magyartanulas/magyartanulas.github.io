@@ -104,7 +104,7 @@ To single them out, one can describe them or use egyik (one of).
 ## The Accusative Case
 ---
 
-The accusative case marks the direct object. Whenever something/someone does something to `something/someone else`, 
+The accusative case marks the direct object. Whenever something/someone does `something/someone else`, 
 the `something/someone else` becomes the direct object. The accusative case is simply marked with a -t at the end.
 
 In English this only happens a few times. 
