@@ -43,13 +43,16 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Igen, csak egy kicsit*                             | Yes, only a litte             | 
 | Ez                                                 | This                          |
 | Az                                                 | That                          |
+| És                                                 | And                           |
 
 ---
 
 * *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
 * *Igen, csak egy kicsit* is a reponse to *beszélsz angolul/magyarul?*
 
-*insert image here bomba*
+![bomba](https://magyartanulas.github.io/public/bomba.png)
+
+*- Hát, ez nem jó!*
 
 ## Van
 
@@ -88,7 +91,9 @@ There are two things to notice here:
 1. When stating someone's occupation, we don't need to say a.
 2. Plural adjectives are used to describe groups of people.
 
-*insert image jános vagyok, ki vagy?*
+![Ki vagy?](https://magyartanulas.github.io/public/ki_vagy.png)
+
+*- János vagyok, ki vagy?*
 
 ## Examples of Regular Verb Conjugation
 
@@ -157,7 +162,9 @@ Lesz (he/she/it becomes) *front-vowel*
 | ti      | lettetek | lesztek |
 | ők      | lettek   | lesznek |
 
-*insert image - hol leszel holnap?*
+![Hol leszel?](https://magyartanulas.github.io/public/hol_leszel.jpeg)
+
+*És hol leszel holnap?*
 
 Lesz is the verb used as the future of van, so they are closely related.
 
