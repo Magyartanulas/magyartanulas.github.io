@@ -162,7 +162,7 @@ Lesz (he/she/it becomes) *front-vowel*
 | ti      | lettetek | lesztek |
 | ők      | lettek   | lesznek |
 
-![Hol leszel?](https://magyartanulas.github.io/public/hol_leszel.jpg)
+![Hol leszel?](https://magyartanulas.github.io/public/hol_leszel.jg)
 
 *És hol leszel holnap?*
 
