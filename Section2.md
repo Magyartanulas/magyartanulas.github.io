@@ -49,6 +49,8 @@ Note, everything here is simplified and not much is explained, but as the sectio
 * *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
 * *Igen, csak egy kicsit* is a reponse to *beszélsz angolul/magyarul?*
 
+*insert image here bomba*
+
 ## Van
 
 Van is the verb for existence. Naturally, it is an irregular verb, but one of the most important as well.
@@ -85,6 +87,8 @@ There are two things to notice here:
 
 1. When stating someone's occupation, we don't need to say a.
 2. Plural adjectives are used to describe groups of people.
+
+*insert image jános vagyok, ki vagy?*
 
 ## Examples of Regular Verb Conjugation
 
@@ -152,6 +156,8 @@ Lesz (he/she/it becomes) *front-vowel*
 | mi      | lettünk  | leszünk |
 | ti      | lettetek | lesztek |
 | ők      | lettek   | lesznek |
+
+*insert image - hol leszel holnap?*
 
 Lesz is the verb used as the future of van, so they are closely related.
 
