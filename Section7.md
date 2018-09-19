@@ -65,6 +65,10 @@ Lesz (he/she/it becomes). Remember this is an intransitive verb so it only gets 
 
 `Én a helyedben` is literally *I in your place*
 
+![muffin](https://magyartanulas.github.io/public/muffin.png)
+
+*- Ennék többet, de tele vagyok!*
+
 ### Akkor, Ha & Majd
 
 While using the conditional mood, we can ask hypothetical questions as well. If we *are* using the conditional mood, then every aspect of that sentence is used in the conditional as well.
