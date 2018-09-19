@@ -164,7 +164,7 @@ Lesz (he/she/it becomes) *front-vowel*
 
 ![Hol leszel?](https://magyartanulas.github.io/public/hol_leszel.jpg)
 
-*És hol leszel holnap?*
+*- És hol leszel holnap?*
 
 Lesz is the verb used as the future of van, so they are closely related.
 
