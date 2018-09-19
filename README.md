@@ -11,7 +11,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 
 ### What's new?
 
-* Added first version of sections 1 - 6
+* Added first version of sections 1 - 7
 
 ### Progression Route
 
@@ -39,3 +39,4 @@ Stay tuned for more!
 * [Memrise - Monolingual flashcards written to help better your recall!](www.memrise.com/group/262696/)
 * [Babadum - Fun monolingual minigames!](https://babadum.com/)
 * [Discord - Talk with native speakers and other learners!](https://discord.gg/wSg45QS)
+* [The Goldlist Method - Alternative Memorisng system to Anki that uses long-term memory](https://www.youtube.com/watch?v=Ixxq8moh4pg)
