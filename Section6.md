@@ -32,7 +32,7 @@ Depending on how the verb ends will determine if it has a linking vowel or not. 
 If the verb ends in `-ít` it will receive a linking vowel.
 
 * segít - *segíteni* (to help)
-* egészít - *egészíteni* (to complete)
+* kiegészít - *kiegészíteni* (to complete)
 * borít - *borítani* (to cover)
 * fordít - *fordítani* (to translate)
 
