@@ -127,3 +127,5 @@ Finally, you can combine the conditional mood with `-hat, -het` we get could (li
 * Talalkozhatnánk? - (Could we meet up?)
 * De azt hiszem, hogy igazán megcsinálhatnád. - (But I believe you could really do it.)
 * Bárcsak láthatnám az arcát, amikor megtudja! - (If only I could see his face, when he finds out!)
+
+Bárcsak means if only/I wish, it is considered conditional.
