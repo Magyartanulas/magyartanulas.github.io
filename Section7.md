@@ -76,19 +76,54 @@ The word `ha` means if, and is not limited to the conditional mood.
 * Elmentem volna, ha meghívott volna - (I would have gone if he had invited me).
 
 *A: Mi lesz, ha elütnek egy matematikust?* - (What happens if they run over a mathematician?) non-conditional
+
 *B: Nem tudom, mi lesz?*
+
 *A: Már nem számít...* - (It doesn't matter / He/she no longer counts).
 
 The word `akkor` means then, and is used as an immediate follow-up.
 
 * Ha mindenható lennél, akkor mi lenne az első dolog megváltaztotnál a világban? (If you were almighty, then what would be the first thing you would change in the world?)
+* Ha azt hiszitek, hogy hazamegyek és feladom, akkor tévedtek! - (If you (guys) believe that I'm going home and giving up, then you are mistaken!)
 
 *A: Készen állsz?* - (Are you ready? lit. Do you stand prepared?)
+
 *B: Igen.* - (Yes.)
+
 *A: Akkor mire vársz? Most indulunk!* - (Then what are you waiting for? We're leaving now!)
 
 If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown point in the future, like the English word sometime.
 
-* Egy nap majd, szeretnék megtanulni egy másik nyelvet.
+* Egy nap majd, szeretnék megtanulni egy másik nyelvet. - (Someday I would like to learn another language).
+* Holnap majd hallgatom ezt a dalot. (Sometime tomorrow I'll listen to this song.)
 
-### -hat-, -het-
+### -hat, -het
+
+To ask for permission, you can add `-hat,-het` to the verb before the conjugation. Vowel harmony determines which one to use.
+
+* Segíthetek? - (Can I / am I allowed to help?)
+* Láthatom? - (Can I /Am I allowed to see it?)
+
+It is worth noting that when adding `-hat,-het` to a sibilant verb (like `keres` he/she/it finds), the verb becomes `kereshet` and is no longer sibilant. This means that it doesnt get any sibilant endings when being conjugated, e.g. You can search is ~~kereshetel~~ `kereshetsz`.
+
+Some irregular verbs change unexpectedly when `-hat,-het` is added.
+
+| Irregular verb                       | Conjugation |
+|--------------------------------------|-------------|
+| van/lesz                             | lehet       |
+| vesz (he/she/it takes/buys)          | vehet       |
+| visz (he/she/it brings/carreis)      | vihet       |
+| hisz (he/she/it believes)            | hihet       |
+| eszik,iszik (he/she/it eats, drinks) | ehet,ihat   |
+| megy (he/she/it goes)                | mehet       |
+| jön (he/she/it comes)                | jöhet       |
+
+`lehet` is interesting as it is used frequently as it is possible.
+
+*Lehet, hogy nehéz lesz, de lehetetlen nem!* - (It could be/is possible, that it will be hard, but not impossible!)
+
+Finally, you can combine the conditional mood with `-hat, -het` we get could (lit. would be allowed).
+
+* Talalkozhatnánk? - (Could we meet up?)
+* De azt hiszem, hogy igazán megcsinálhatnád. - (But I believe you could really do it.)
+* Bárcsak láthatnám az arcát, amikor megtudja! - (If only I could see his face, when he finds out!)
