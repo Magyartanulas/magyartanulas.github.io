@@ -169,6 +169,10 @@ This can be done in the format of questions
 * Kit látsz? Whom do you see?
 * Látod azt? Do you see that?
 
+![vadászik](https://magyartanulas.github.io/public/vadászik.PNG)
+
+*Két kutya vadászik egy szarvast.*
+
 ## Special conjugation
 
 If the verb is happening between I and you, then we use the special verb conjugation -lak/-lek.
