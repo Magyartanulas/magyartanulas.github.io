@@ -154,7 +154,7 @@ It is also interesting to note how some vowel harmony for back-vowel words alter
 
 * Magyarázat`o`k`a`t
 * Játék`o`k`a`t
-* Dolg`o`k`a`t a
+* Dolg`o`k`a`t
 * Az`o`k`a`t and so on and so forth...
 
 Let's see some hungarian sentences!
@@ -168,6 +168,8 @@ This can be done in the format of questions
 * Mit csinálsz? What are you doing?
 * Kit látsz? Whom do you see?
 * Látod azt? Do you see that?
+
+## Special conjugation
 
 If the verb is happening between I and you, then we use the special verb conjugation -lak/-lek.
 
