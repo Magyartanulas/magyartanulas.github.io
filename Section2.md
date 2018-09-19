@@ -55,14 +55,14 @@ Van is the verb for existence. Naturally, it is an irregular verb, but one of th
 
 ### Conjugation
 
-| Pronoun          | Past     | Present | Future  |
-|------------------|----------|---------|---------|
-| én (I)           | voltam   | vagyok  | leszek  |
-| te (you)         | voltál   | vagy    | leszel  |
-| ő  (3rd. person) | volt     | ---     | lesz    |
-| mi (we)          | voltunk  | vagyunk | leszünk |
-| ti (you pl.)     | voltatok | vagytok | lesztek |
-| ők (they)        | voltak   | ---     | lesznek |
+| Pronoun          | Past     | Present    | Future  |
+|------------------|----------|------------|---------|
+| én (I)           | voltam   | vagyok     | leszek  |
+| te (you)         | voltál   | vagy       | leszel  |
+| ő  (3rd. person) | volt     | ~~van~~    | lesz    |
+| mi (we)          | voltunk  | vagyunk    | leszünk |
+| ti (you pl.)     | voltatok | vagytok    | lesztek |
+| ők (they)        | voltak   | ~~vannak~~ | lesznek |
 
 `én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns aren't used except for emphasis or describing a third person.
 
