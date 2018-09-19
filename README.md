@@ -23,7 +23,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 5. [Definite & Indefinite Conjugation](/Section5.md)
 6. [Infinitive + Negation](/Section6.md)
 7. [The Conditional Mood](/Section7.md)
-8. The Dative Case & Possession
+8. The Dative Case & Possession(/Section8.md)
 9. Tetszik & Vonz
 10. The Locative Cases + Adverbs & Pronouns
 11. Making Comparisons
