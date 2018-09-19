@@ -44,6 +44,8 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | Ez                                                 | This                          |
 | Az                                                 | That                          |
 | És                                                 | And                           |
+| Ma                                                 | Today                         |
+| Holnap                                             | Tomorrow                      |
 
 ---
 
@@ -128,7 +130,7 @@ Felkel - (He/she/it rises or gets up) *Front-vowel (type 2)*
 | ti      | felkeltetek | felkeltek  | fogtok felkelni |
 | ők      | felkeltek   | felkelnek  | fognak felkelni |
 
-Note the different times that `keltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
+Note the different times that `felkeltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
 
 ### Back vowel conjugation
 ---
