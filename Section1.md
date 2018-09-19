@@ -40,7 +40,7 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 * Igazság (Igaz - true) becomes [Iga*ss*ág]
 * Állj meg! (Áll) becomes [Á*jj* meg!]
 * Egészség (Egész - whole) becomes [Egé*ss*ég] 
-* Ne haragudj! (Haragszik - he/she is angry) becomes [haragu*ggy*]
+* Ne haragudj! (Haragszik - he/she is angry) becomes [Ne haragu*ggy*!]
 
 ### Videos to help pronunciation
 
