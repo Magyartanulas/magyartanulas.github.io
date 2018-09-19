@@ -128,4 +128,4 @@ Finally, you can combine the conditional mood with `-hat, -het` we get could (li
 * De azt hiszem, hogy igazán megcsinálhatnád. - (But I believe you could really do it.)
 * Bárcsak láthatnám az arcát, amikor megtudja! - (If only I could see his face, when he finds out!)
 
-Bárcsak means if only/I wish, it is considered conditional, thus when used the rest of the sentence must be conditional as well.
+Bárcsak means if only/I wish and it is considered conditional. When it is used, the rest of the sentence must be conditional as well.
