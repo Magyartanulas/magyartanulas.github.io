@@ -27,16 +27,18 @@ Similar to English, `a` is used when the noun begins with a consonant and `az` w
 In English, there are prepositions. They dictate relationships between nouns. Here are some examples of spatial relationships.
 
 * The bird flies *above* the city.
-* The dog sits *next* to the girl.
 * The man is *below* the bridge.
 * The boy is *infront of* the building.
 
 In Hungarian, there are postpositions. They are placed after the noun relationship instead of between. Here are the translations.
 
 * A madár a város felett repül.
-* A kutya a lány mellett ül.
 * A férfi a híd alatt van.
 * A fiú az épület előtt van.
+
+![A kutya és a lány](https://magyartanulas.github.io/public/ülnek.jpg)
+
+*A kutya a lány mellett ül.*
 
 These postpositions don't indicate relative movement between the nouns, i.e. at that *specifc* point of time, they are not moving away from each other. Spatial postpositions can also represent the relationship of a noun moving towards the other noun or away from that noun.
 
