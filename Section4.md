@@ -78,28 +78,33 @@ There's a lot to be taken away from here. We can make some rules, but **there wi
 
 > RARE EXCEPTION: Nouns ending in `u`! The last vowel does not become accented and sometimes the plural becomes `-vak`.
 
-* Daruk (cranes - machine)
-* Darvak (cranes - birds)
+* Daruk -  (cranes - machine)
+* Darvak - (cranes - birds)
 
 But wait, there's more!
 
 In Hungarian, when a noun becomes quaintified (either by numbers or by adjectives) it becomes singular. These nouns will now take singular 3rd person conjugations instead of plural conjugations.
 
-* Fák (trees)
-* Két fa (Two trees)
-* Sok fa (Many trees)
-* Néhány fa (Some trees)
+* Fák - (trees)
+* Két fa - (Two trees)
+* Sok fa - (Many trees)
+* Néhány fa - (Some trees)
 
-Finally nouns that usually come in pairs are considered singular.
+Nouns that usually come in pairs are considered singular.
 
-* Zokni (socks)
-* Cipő (shoes)
-* Szem (eyes)
+* Zokni - (socks)
+* Cipő - (shoes)
+* Szem - (eyes)
 
 To single them out, one can describe them or use egyik (one of).
 
-* A bal zokni (the left sock)
-* Egyik cipő (one of the shoes)
+* A bal zokni - (the left sock)
+* Egyik cipő - (one of the shoes)
+
+Last but not least, adjectives before the plural noun are singular, those after are plural.
+
+* A madarak zöldek - (The birds are green)
+* Azok a drága autók magyarok - (Those expensive cars are hungarian)
 
 ## The Accusative Case
 ---
