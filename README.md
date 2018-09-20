@@ -24,7 +24,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 6. [Infinitive + Negation](/Section6.md)
 7. [The Conditional Mood](/Section7.md)
 8. [The Dative Case & Possession](/Section8.md)
-9. [Tetszik & Vonz](/Section9.md)
+9. [Expressing Interest](/Section9.md)
 10. The Locative Cases + Adverbs & Pronouns
 11. Making Comparisons
 12. More Noun Cases (-kor, -ért, -ig)
