@@ -28,7 +28,7 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 * Kinek írsz egy levelet? - (Who are you writing a letter to?)
 * Csokit hoztam a gyerekeknek. - (I brought chocolate for the kids.)
 
-image of Duna
+![A Duna](https://magyartanulas.github.io/public/duna.JPG)
 *Ezt a folyót, Dunának hívnak.*
 
 Pronouns
