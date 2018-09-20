@@ -93,6 +93,8 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
 
+*- Nem ezek a könyveid?*
+
 Dative and van
 
 Pronouns
