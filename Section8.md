@@ -115,14 +115,14 @@ In Hungarian, there is no verb to have, instead you state what belongs to you th
 
 You can use pronouns with posessions to stress that the noun belongs to you.
 
-| Pronoun           |
-|-------------------|
-| Az én könyvem     |
-| A te könyved      |
-| Az ő könyve       |
-| A mi könyvünk     |
-| A ti könyvetek    |
-| Az ő~~k~~ könyvük |
+| Pronoun             |
+|---------------------|
+| Az én könyvem       |
+| A te könyved        |
+| Az ő könyve         |
+| A mi könyvünk       |
+| A ti könyvetek      |
+| Az ~~ők~~ ő könyvük |
 
 Naturally, there are pronouns for the possessives as well, these are equivalent to *mine, yours, etc*.
 
