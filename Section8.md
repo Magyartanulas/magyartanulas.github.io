@@ -23,15 +23,15 @@ The conjugation is `-nak,-nek` depending on whether the noun is front or back.
 
 Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is the dative form.
 
-* Adtam egy könyv a fiúnak. - (I gave a book to the boy)
+* Adtam egy könyvet a fiúnak. - (I gave a book to the boy)
 * Virágokat veszek Hajninak. - (I'm buying flowers for Hajni.)
-* Kinek írsz egy levelet? - (Who are you writing a letter to?)
+* Kinek írsz levelet? - (Who are you writing a letter to?)
 * Csokit hoztam a gyerekeknek. - (I brought chocolate for the kids.)
 * Hála Istennek! - (Thank God! lit. Gratitude to God!)
 
 ![A Duna](https://magyartanulas.github.io/public/duna.JPG)
 
-*Ezt a folyót, Dunának hívnak.*
+*Ezt a folyót Dunának hívnak.*
 
 Just like with the accusative case, pronouns change if they are in the dative case.
 
@@ -73,7 +73,7 @@ Here are some examples:
 * Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
 * A Csend Hangja. - (The Sound of Silence).
 * Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning our time is flexible).
-* A kutyáim szomorúak, mert nincs több ételjük. - (My dogs are sad because they have no more food.)
+* A kutyáim szomorúak, mert nincs több kajájuk. - (My dogs are sad because they have no more dog-food.)
 
 **Things to note:**
 
@@ -90,7 +90,7 @@ It is ok to drop the accusative if the possessive is the direct object, **but** 
 The dative case can be added to the possessor to emphasise who the owner is/stress the point.
 
 * Az egész életüket ennek szentelték. - (They dedicated their whole lives to this.)
-* Dániel kutyájának lába - (Daniel's dog's leg.)
+* Dániel kutyájának a lába - (Daniel's dog's leg.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
 
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
