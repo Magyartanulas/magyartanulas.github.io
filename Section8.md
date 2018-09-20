@@ -62,12 +62,6 @@ In Hungarian, the possessive is marked with a suffix, and goes on the possessed 
 | ti      | -atok, -etek, -otok, -ötök, -tek, -tok, -tök | -aitok, -eitek, -jaitek, -jeitek, -itek, -itok |
 | ők      | -uk, -ük, -juk, -jük                         | -aik,   -eik,   -jaik,   -jeik                 |
 
-Things to note:
-
-* Multiple possessions is almost the same, just with an addied `-i`.
-* Because of this, plural case is not used with the possessive.
-* There are some similarities with indicative verb conjugation. E.g. `-nk` endings match 1st person plural indef present conjugation `-nk`.
-
 **Hierarchy**
 
 * Plural/Possessive
@@ -79,17 +73,25 @@ Here are some examples:
 * Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
 * A Csend Hangja. - (The Sound of Silence).
 * Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning our time is flexible).
-* Nem ezek a könyveitek? - (Are these not your books?)
 * A kutyáim szomorúak, mert nincs több ételjük. - (My dogs are sad because they have no more food.)
+
+**Things to note:**
+
+* Multiple possessions is almost the same, just with an addied `-i`.
+* Because of this, plural case is not used with the possessive.
+* There are some similarities with indicative verb conjugation. E.g. `-nk` endings match 1st person plural indef present conjugation `-nk`.
+* Some nouns will change with possessives. E.g. In the 3rd person `idő --> ideje`.
 
 It is ok to drop the accusative if the possessive is the direct object, **but** this can lead to ambiguity if there is not enough context.
 
 * A kutyám üldözi a macskám. - Either animal could be chasing the other.
 
-Note: The dative case can be added to the possessor to emphasise who the owner is/stress the point.
+The dative case can be added to the possessor to emphasise who the owner is/stress the point.
 
 * Az egész életüket ennek szentelték. - (They dedicated their whole lives to this.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
+
+![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
 
 Dative and van
 
