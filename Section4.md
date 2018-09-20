@@ -176,7 +176,7 @@ This can be done in the format of questions
 
 ![vadászik](https://magyartanulas.github.io/public/vadászik.PNG)
 
-*Két kutya vadászik egy szarvast.*
+*Két kutya üldöz egy szarvast.*
 
 ## Special conjugation
 
