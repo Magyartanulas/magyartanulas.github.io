@@ -4,7 +4,7 @@ layout: page
 title: Section 8
 ---
 
-## The Dative Case (incomplete)
+## The Dative Case
 ---
 
 Recall that the accusative case marks the direct object.
