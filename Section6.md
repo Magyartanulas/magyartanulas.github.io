@@ -34,7 +34,7 @@ If the verb ends in `-ít` it will receive a linking vowel.
 * segít - *segíteni* (to help)
 * kiegészít - *kiegészíteni* (to complete)
 * borít - *borítani* (to cover)
-* fordít - *fordítani* (to translate)
+* lefordít - *fordítani* (to translate)
 
 Or if the verb ends in two consonants it will also receive a linking vowel.
 
@@ -42,6 +42,8 @@ Or if the verb ends in two consonants it will also receive a linking vowel.
 * éleszt - *éleszteni* (to revive)
 * játsz - *játszani* (to play)
 * mond - *mondani* (to say)
+
+`le-` and `ki-` are some more coverbs that we will be touching upon later.
 
 **Case 2: Irregular verb**
 
