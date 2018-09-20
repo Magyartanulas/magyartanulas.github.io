@@ -46,18 +46,29 @@ Just like with the accusative case, pronouns change if they are in the dative ca
 
 * Megígértem anyukámnak, hogy segítek neki. - (I promised mother, that I (would) help her.)
 * Boldog szülinapot! Tessék, hoztam neked egy apróságot. - (Happy Birthday! Here, I brought you a little something.) 
-* Úgy tűnik nekem, hogy ő szerelmes beléd.
+* Úgy tűnik nekem, hogy ő szerelmes beléd. - (It appears/seems to me that he/she is in love with you.)
 
 ## Possession (incomplete)
 ---
 
+In Hungarian, the possessive is marked with a suffix, and goes on the possessed noun. The vowel harmony is a tad more in-depth than other cases.
+
 *table*
 
-hierarchy
+As you saw, Hungarian has suffixes for singular and plural possessions, so when one speaks about a group of possessions (i.e. their friends), the respective plural possessive ending is used rather than the plural case.
 
-examples
+**Hierarchy**
+
+* Plural/Possessive
+* Accusative/Dative
+
+Here are some examples:
 
 * Álmodtam egy világot magamnak, itt állok a kapui előtt.
+* A Csend Hangja.
+* Take examples from memrise.
+
+*Talk about dropping of accusative after a possessive.*
 
 using the dative with possession
 
