@@ -79,22 +79,22 @@ The word `ha` means if, and is not limited to the conditional mood.
 * Mi leszel ha nagy leszel? - (What will you be when you grow up?) non-conditional
 * Elmentem volna, ha meghívott volna - (I would have gone if he had invited me).
 
-*A: Mi lesz, ha elütnek egy matematikust?* - (What happens if they run over a mathematician?) non-conditional
+*Barnabás: Mi lesz, ha elütnek egy matematikust?* - (What happens if they run over a mathematician?) non-conditional
 
-*B: Nem tudom, mi lesz?*
+*Alex: Nem tudom, mi lesz?*
 
-*A: Már nem számít...* - (It doesn't matter / He/she no longer counts).
+*Barnabás: Már nem számít...* - (It doesn't matter / He/she no longer counts).
 
 The word `akkor` means then, and is used as an immediate follow-up.
 
 * Ha mindenható lennél, akkor mi lenne az első dolog megváltaztotnál a világban? (If you were almighty, then what would be the first thing you would change in the world?)
 * Ha azt hiszitek, hogy hazamegyek és feladom, akkor tévedtek! - (If you (guys) believe that I'm going home and giving up, then you are mistaken!)
 
-*A: Készen állsz?* - (Are you ready? lit. Do you stand prepared?)
+*Alex: Készen állsz?* - (Are you ready? lit. Do you stand prepared?)
 
-*B: Igen.* - (Yes.)
+*Barnabás: Igen.* - (Yes.)
 
-*A: Akkor mire vársz? Most indulunk!* - (Then what are you waiting for? We're leaving now!)
+*Alex: Akkor mire vársz? Most indulunk!* - (Then what are you waiting for? We're leaving now!)
 
 If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown point in the future, like the English word sometime. `Majd` is either used with the conditional mood or present indicative mood (never the future).
 
