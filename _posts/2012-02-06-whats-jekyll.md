@@ -38,7 +38,7 @@ Stay tuned for more!
 
 ### Further Resources
 
-* [Memrise - Monolingual flashcards written to help better your recall!](www.memrise.com/group/262696/)
+* [Memrise - Monolingual flashcards written to help better your recall!](https://www.memrise.com/group/262696/)
 * [Babadum - Fun monolingual minigames!](https://babadum.com/)
 * [The Magyartanulás Community on discord! - Talk with native speakers and other learners!](https://discord.gg/wSg45QS)
 * [The Goldlist Method - Alternative Memorisng system to Anki that uses long-term memory](https://www.youtube.com/watch?v=Ixxq8moh4pg)
