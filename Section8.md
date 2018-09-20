@@ -140,4 +140,6 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 
 ![Consequences](https://magyartanulas.github.io/public/consequences.png)
 
-*- Mikor fogod tanulni? Mikor fogod tanulni, hogy a tetteidnek következményei vannak?*
+*- Mikor fogod megtanulni? Mikor fogod megtanulni, hogy a tetteidnek következményei vannak?*
+
+`meg` makes the verb telic. We will touch on this topic later.
