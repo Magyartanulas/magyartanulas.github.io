@@ -154,21 +154,21 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 
 It isn't uncommon to ask questions in the negative, especially if they are yes or no questions.
 
-Consider these situation with persons A & B, depending on the situation B could respond with the following:
+Consider these situation with persons Alex & Barnabás, depending on the situation, Barnabás could respond with the following:
 
-* A: Nem láttad a nyelvtan könyvet? - (Have you (not) seen the grammar book?)
-  * B: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
-  * B: De az asztal mellett van! - (But it is next to the table!)
+* Alex: Nem láttad a nyelvtan könyvet? - (Have you (not) seen the grammar book?)
+  * Barnabás: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
+  * Barnabás: De az asztal mellett van! - (But it is next to the table!)
 
 Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
-* A: Szia, nem zavarlak? - (Hi, am I (not) bothering you?)
-  * B: Nem, dehogyis! Gyere be! - (No, quite the contrary! Come in!)
-  * B: De vagy, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy).
+* Alex: Szia, nem zavarlak? - (Hi, am I (not) bothering you?)
+  * Barnabás: Nem, dehogyis! Gyere be! - (No, quite the contrary! Come in!)
+  * Barnabás: De vagy, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy).
 
-* A: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
-  * B: Nem, szerintem, hogy ők túl zajos. (No, I think they are too noisy.)
-  * B: Dehogynem! Imádom őket! (Of course I do! I love (adore) them!)
+* Alex: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
+  * Barnabás: Nem, szerintem, hogy ők túl zajos. (No, I think they are too noisy.)
+  * Barnabás: Dehogynem! Imádom őket! (Of course I do! I love (adore) them!)
  
  ---
  
