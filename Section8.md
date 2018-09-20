@@ -136,7 +136,7 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 | ők      | az övék           | az övéik             |
 
 * Petőfi Rádió, a te slágered. - (Petőfi Radio, your hit.)
-* Ez a tóll az enyém - (This pen is mine.)
+* Ez a toll az enyém - (This pen is mine.)
 
 ![Consequences](https://magyartanulas.github.io/public/consequences.png)
 
