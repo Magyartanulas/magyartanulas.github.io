@@ -26,7 +26,7 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 * Adtam egy könyv a fiúnak. - (I gave a book to the boy)
 * Virágokat veszek Hajninak. - (I'm buying flowers for Hajni.)
 * Kinek írsz egy levelet? - (Who are you writing a letter to?)
-* Csokit elhoztam a gyerekeknek. - (I brought chocolate for the kids.)
+* Csokit hoztam a gyerekeknek. - (I brought chocolate for the kids.)
 * Hála Istennek! - (Thank God! lit. Gratitude to God!)
 
 ![A Duna](https://magyartanulas.github.io/public/duna.JPG)
@@ -77,6 +77,7 @@ Here are some examples:
 
 **Things to note:**
 
+* Possessions are usually referred to with the definite article.
 * Multiple possessions is almost the same, just with an addied `-i`.
 * Because of this, plural case is not used with the possessive.
 * There are some similarities with indicative verb conjugation. E.g. `-nk` endings match 1st person plural indef present conjugation `-nk`.
@@ -89,12 +90,53 @@ It is ok to drop the accusative if the possessive is the direct object, **but** 
 The dative case can be added to the possessor to emphasise who the owner is/stress the point.
 
 * Az egész életüket ennek szentelték. - (They dedicated their whole lives to this.)
+* Dániel kutyájának lába - (Daniel's dog's leg.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
 
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
 
 *- Nem ezek a könyveid?*
 
-Dative and van
+### Stating possessions
 
-Pronouns
+In Hungarian, there is no verb to have, instead you state what belongs to you through the verb `van`. So it follows that you can state what does not belong to you with `nincs,sincs`
+
+* Van egy macskám. - (I have a cat.)
+* Bárcsak lenne egy kutyám! - (I wish I had a dog!)
+* Egyszer volt egy madaram. - (I had a bird once.)
+
+*A: Van barátnőd?* (barátnő - girlfriend)
+
+*B: Nincs*
+
+*A: Nekem sincs*
+
+### Pronouns
+
+You can use pronouns with posessions to stress that the noun belongs to you.
+
+| Pronoun           |
+|-------------------|
+| Az én könyvem     |
+| A te könyved      |
+| Az ő könyve       |
+| A mi könyvünk     |
+| A ti könyvetek    |
+| Az ő~~k~~ könyvük |
+
+Naturally, there are pronouns for the possessives as well, these are equivalent to *mine, yours, etc*.
+
+| Pronoun | Single Possession | Multiple Possessions |
+|---------|-------------------|----------------------|
+| én      | az enyém          | az enyéim            |
+| te      | a tiéd            | a tieid              |
+| ő       | az övé            | az övéi              |
+| mi      | a mienk           | a mieink             |
+| ti      | a tietek          | a tieitek            |
+| ők      | az övék           | az övéik             |
+
+* Petőfi Rádió, a te slágered. - (Petőfi Radio, your hit.)
+* Ez a tóll az enyém - (This pen is mine.)
+
+
+
