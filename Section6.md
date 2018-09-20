@@ -97,11 +97,11 @@ You can negate most sentences with `nem`, it means no, or not. Nem almost always
 
 If the *same subject* negates more verbs in a sentence, `sem` is used instead. The use of sem can also be used with pronouns for emphasis.
 
-Consider person A speaking to both persons B & C
+Consider this scenario:
 
-* A: Szeretitek a klasszikus zenét? - (Do you like classical music?)
-  * B: Nem.
-  * C: Én sem. - (I don't either.)
+* Alex: Szeretitek a klasszikus zenét? - (Do you like classical music?)
+  * Barnabás: Nem.
+  * Éva: Én sem. - (I don't either.)
 
 It should be noted that English treats the sentence as one whole value whereas Hungarian treats the sentence as *a series of values*. 
 If you want to negate the sentence, every part of the sentence is negated.
