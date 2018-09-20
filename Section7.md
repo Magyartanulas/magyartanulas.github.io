@@ -96,7 +96,7 @@ The word `akkor` means then, and is used as an immediate follow-up.
 
 *A: Akkor mire vársz? Most indulunk!* - (Then what are you waiting for? We're leaving now!)
 
-If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown point in the future, like the English word sometime.
+If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown point in the future, like the English word sometime. `Majd` is either used with the conditional mood or present indicative mood (never the future).
 
 * Egy nap majd, szeretnék megtanulni egy másik nyelvet. - (Someday I would like to learn another language).
 * Holnap majd hallgatom ezt a dalot. (Sometime tomorrow I'll listen to this song.)
