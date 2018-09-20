@@ -138,5 +138,6 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 * Petőfi Rádió, a te slágered. - (Petőfi Radio, your hit.)
 * Ez a tóll az enyém - (This pen is mine.)
 
+![Consequences](https://magyartanulas.github.io/public/consequences.png)
 
-
+*- Mikor tanulod már meg? Mikor tanulod már meg, hogy a tetteidnek következményei vannak?*
