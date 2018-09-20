@@ -67,6 +67,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    overflow: scroll;
   }
 }
 
@@ -111,7 +112,6 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
-    overfkiw: scroll;
   }
 }
 
