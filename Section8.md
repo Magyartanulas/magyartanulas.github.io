@@ -53,9 +53,20 @@ Just like with the accusative case, pronouns change if they are in the dative ca
 
 In Hungarian, the possessive is marked with a suffix, and goes on the possessed noun. The vowel harmony is a tad more in-depth than other cases.
 
-*table*
+| Pronoun | Single possession                            | Multiple possessions                           |
+|---------|----------------------------------------------|------------------------------------------------|
+| én      | -am, -em, -om, -öm, -m                       | -aim,   -eim,   -jaim,   -jeim,   -im          |
+| te      | -ad, -ed, -od, -öd, -d                       | -aid,   -eid,   -jaid,   -jeid,   -id          |
+| ő       | -a, -e, -ja, -je                             | -ai,    -ei,    -jai,    -jei,    -i           |
+| mi      | -nk,-unk, -ünk                               | -aink,  -eink,  -jaink,  -jeink,  -ink         |
+| ti      | -atok, -etek, -otok, -ötök, -tek, -tok, -tök | -aitok, -eitek, -jaitek, -jeitek, -itek, -itok |
+| ők      | -uk, -ük, -juk, -jük                         | -aik,   -eik,   -jaik,   -jeik                 |
 
-As you saw, Hungarian has suffixes for singular and plural possessions, so when one speaks about a group of possessions (i.e. their friends), the respective plural possessive ending is used rather than the plural case.
+Things to note:
+
+* Multiple possessions is almost the same, just with an addied `-i`.
+* Because of this, plural case is not used with the possessive.
+* There are some similarities with indicative verb conjugation. E.g. `-nk` endings match 1st person plural indef present conjugation `-nk`.
 
 **Hierarchy**
 
@@ -64,11 +75,15 @@ As you saw, Hungarian has suffixes for singular and plural possessions, so when 
 
 Here are some examples:
 
-* Álmodtam egy világot magamnak, itt állok a kapui előtt.
-* A Csend Hangja.
-* Take examples from memrise.
+* Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myslef, here I stand infront of its gates.)
+* A Csend Hangja. - (
+* Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning our time is flexible).
+* Nem ezek a könyveitek? - (Are these not your books?)
+* A kutyáim szomorúak, mert nincs több ételjük. - (My dogs are sad because they have no more food.)
 
-*Talk about dropping of accusative after a possessive.*
+It is ok to drop the accusative if the possessive is the direct object, **but** this can lead to ambiguity if there is not enough context.
+
+* A kutyám üldözi a macskám. - Either animal could be chasing the other.
 
 using the dative with possession
 
