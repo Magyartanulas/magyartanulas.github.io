@@ -75,8 +75,9 @@ Things to note:
 
 Here are some examples:
 
-* Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myslef, here I stand infront of its gates.)
-* A Csend Hangja. - (
+* Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myslef, here I stand infront of its gate.)
+* Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
+* A Csend Hangja. - (The Sound of Silence).
 * Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning our time is flexible).
 * Nem ezek a könyveitek? - (Are these not your books?)
 * A kutyáim szomorúak, mert nincs több ételjük. - (My dogs are sad because they have no more food.)
@@ -85,8 +86,11 @@ It is ok to drop the accusative if the possessive is the direct object, **but** 
 
 * A kutyám üldözi a macskám. - Either animal could be chasing the other.
 
-using the dative with possession
+Note: The dative case can be added to the possessor to emphasise who the owner is/stress the point.
 
-Az egész életüket ennek szentelték. 
-Ennek semmi értelme
-more examples
+* Az egész életüket ennek szentelték. - (They dedicated their whole lives to this.)
+* Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
+
+Dative and van
+
+Pronouns
