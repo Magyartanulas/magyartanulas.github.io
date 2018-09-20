@@ -26,17 +26,27 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 * Adtam egy könyv a fiúnak. - (I gave a book to the boy)
 * Virágokat veszek Hajninak. - (I'm buying flowers for Hajni.)
 * Kinek írsz egy levelet? - (Who are you writing a letter to?)
-* Csokit hoztam a gyerekeknek. - (I brought chocolate for the kids.)
+* Csokit elhoztam a gyerekeknek. - (I brought chocolate for the kids.)
+* Hála Istennek! - (Thank God! lit. Gratitude to God!)
 
 ![A Duna](https://magyartanulas.github.io/public/duna.JPG)
 
 *Ezt a folyót, Dunának hívnak.*
 
-Pronouns
+Just like with the accusative case, pronouns change if they are in the dative case.
 
-examples
+| Pronoun | Dative |
+|---------|--------|
+| én      | nekem  |
+| te      | neked  |
+| ő       | neki   |
+| mi      | nekünk |
+| ti      | nektek |
+| ők      | nekik  |
 
-* Megígértem anyukámnak, hogy segítek neki.
+* Megígértem anyukámnak, hogy segítek neki. - (I promised mother, that I (would) help her.)
+* Boldog szülinapot! Tessék, hoztam neked egy apróságot. - (Happy Birthday! Here, I brought you a little something.) 
+* Úgy tűnik nekem, hogy ő szerelmes beléd.
 
 ## Possession (incomplete)
 ---
