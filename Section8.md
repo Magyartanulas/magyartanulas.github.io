@@ -48,7 +48,7 @@ Just like with the accusative case, pronouns change if they are in the dative ca
 * Boldog szülinapot! Tessék, hoztam neked egy apróságot. - (Happy Birthday! Here, I brought you a little something.) 
 * Úgy tűnik nekem, hogy ő szerelmes beléd. - (It appears/seems to me that he/she is in love with you.)
 
-## Possession (incomplete)
+## Possession
 ---
 
 In Hungarian, the possessive is marked with a suffix, and goes on the possessed noun. The vowel harmony is a tad more in-depth than other cases.
