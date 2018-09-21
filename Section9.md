@@ -51,12 +51,8 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 ## Vonz - Attracts (incomplete)
 ---
 
-
-
 ## Bír - Casual Interest (incomplete)
 ---
-
-
 
 ## Kedvel - Enjoyment
 ---
@@ -102,7 +98,23 @@ To express your love for things, desires or love for someone, use `szeret`. Szer
 * Szeretem a lovakat, ismerem a szokásaikat és az eszük járását. - (I love horses, I know their ways and how they think (lit. how their minds walk)).
 * Ez azt a komoly kérdést veti fel, hogy milyen jövőt szeretnénk a gyerekeinknek. - (This raises the serious question, what kind of future would we like for our children?)
 
-## Imád - Adore & Worship
+## Imád - Passion & Adoration
+
+To express your passions and who you adore/worship, use `imád`. Imád also makes use of the accusative case.
+
+| Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Present. indef. cond. | Present. def. cond. |
+|--------------|-------------|-----------|----------------|--------------|-----------------------|---------------------|
+| én           | imádtam     | imádtam   | imádok         | imádom       | imádnék               | imádnám             |
+| te           | imádtál     | imádtad   | imádsz         | imádod       | imádnál               | imádnád             |
+| ő            | imádott     | imádta    | imád           | imádja       | imádna                | imádná              |
+| mi           | imádtunk    | imádtuk   | imádunk        | imádjuk      | imádnánk              | imádnánk            |
+| ti           | imádtatok   | imádtátok | imádtok        | imádjátok    | imádnátok             | imádnátok           |
+| ők           | imádtak     | imádták   | imádnak        | imádják      | imádtak               | imádták             |
+| én <-> téged | -----       | imádtalak | -----          | imádlak      | -----                 | imádnálak           |
+
+* Bogi imád mindent, ami szép. - (Bogi adores all that is beautiful.)
+* Még imádtam játszani a focit, annak ellenére rosszul játszottam. - (I still loved playing football, even though I played badly.)
+* Jobban szeretnéd, ha imádnánk a halált? - (Would you rather we worship death?)
 
 ## Szerelem - Romantic Love
 ---
