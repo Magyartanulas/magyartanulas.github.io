@@ -4,7 +4,7 @@ layout: page
 title: Section 9
 ---
 
-## Tetszik - General Interest In Things & People (incomplete)
+## Tetszik - General Interest
 ---
 
 To express general interest in Hungarian, you don't necessarily *like* something, but rather that something ***appeals to you***. To achieve this, the verb `tetszik` is used in its third-person form and the dative case marks **who** it appeals to.
