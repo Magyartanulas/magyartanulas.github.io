@@ -29,7 +29,14 @@ The person who it appeals to can be omitted, from which context tells who that p
 *Image n text*
 
 ## Ízlik - Taste
+---
 
+Similar to tetszik
+
+| Pronoun | Past indef. | Present indef. | Present indef. cond. |
+|---------|-------------|----------------|----------------------|
+| ő       | ízlett      | ízlik          | ízlene               |
+| ők      | ízlettek    | ízlenek        | ízlenének            |
 
 Hogy ízlik? - How do you like it?
 
