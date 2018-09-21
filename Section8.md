@@ -74,6 +74,7 @@ Here are some examples:
 * A Csend Hangja. - (The Sound of Silence).
 * Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning our time is flexible).
 * A kutyáim szomorúak, mert nincs több kajájuk. - (My dogs are sad because they have no more dog-food.)
+* Az egyik hobbim az olvasás. - (One of my hobbies is reading.)
 
 **Things to note:**
 
@@ -104,12 +105,13 @@ In Hungarian, there is no verb to have, instead you state what belongs to you th
 * Van egy macskám. - (I have a cat.)
 * Bárcsak lenne egy kutyám! - (I wish I had a dog!)
 * Egyszer volt egy madaram. - (I had a bird once.)
+* Nincs kedved moziba jönni? - (Are you in the mood to go to the movies? lit. Do you not have the mood to come to the movies?)
 
-*A: Van barátnőd?* (barátnő - girlfriend)
+*Alex: Van barátnőd?* (barátnő - girlfriend)
 
-*B: Nincs*
+*Barnabás: Nincs*
 
-*A: Nekem sincs*
+*Alex: Nekem sincs*
 
 ### Pronouns
 
