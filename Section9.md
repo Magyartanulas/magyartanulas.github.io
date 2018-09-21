@@ -50,7 +50,7 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 
 *Kinek ízlik a túró rudi?*
 
-## Vonz - Attraction (incomplete)
+## Vonz - Attraction
 ---
 
 If you find something attractive or enticing rather than appealing, you can use `vonz`. The accusative is used because these somethings ***attract/entice you***, which is something direct.
@@ -60,6 +60,8 @@ If you find something attractive or enticing rather than appealing, you can use 
 | ő       | vonzott     | vonzotta  | vonz           | vonzza       | vonzana              | vonzaná            |
 | ők      | vonzotak    | vonzoták  | vonzanak       | vonzzák      | vonzanának           | vonzanák           |
 
+If the direct object is a name, then `vonz` takes on definite conjugation.
+
 * Az nem vonzana sok turistát. - (That would not attract many tourists.)
 * Vonzanának a flancos éttermek, ha nem kéne jattot adnom. - (Fancy restaurants would attract me, if I did not have to tip.)
 * A trón úgy vonzotta Simbát. (Simba was drawn to the throne. `úgy` will be explained in a later section)
@@ -67,15 +69,6 @@ If you find something attractive or enticing rather than appealing, you can use 
 *Barnabás: Hova szeretnél elutazni?*
 
 *Alex: Ausztrália és Új Zéland vonzanak engem, mert tetszik az ottani kultúra.*
-
-## Bír - Casual Interest (incomplete)
----
-
-If you casually like something then you can use `bír`, which among other meanings has a colloquial definition which translates closely to *I dig it* but without sounding like slang.
-
-*Table*
-
-*Examples*
 
 ## Kedvel - Enjoyment
 ---
@@ -98,6 +91,15 @@ Some conjugations have been omitted due to prior explanations, [click here](http
 * Hogyhogy nem kedvelsz őt? - (How come you don't like him/her?)
 * Péter mindig kedvelte a kockázatot, igaz? - (Péter always enjoyed (taking) risks, right?)
 * De Alex, talán kedvelnének jobb, ha nem mindig annyira méreg lennél. - ( But Alex, maybe they would like you better if you weren't always so angry.)
+
+## Bír - Casual Interest (incomplete)
+---
+
+If you casually like something then you can use `bír`, which among other meanings has a colloquial definition which translates closely to *I dig it* but without sounding like slang.
+
+*Table*
+
+*Examples*
 
 ## Szeret - Love
 ---
