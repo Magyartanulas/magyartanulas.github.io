@@ -42,7 +42,7 @@ To express your taste for food, you can use the verb `ízlik` in its third-perso
 * Hogy ízlik? - (How do you like it?)
 * 
 
-*image*
+![Túró rudi](https://magyartanulas.github.io/public/rudi.jpg)
 
 *Kinek ízlik a túró rudi?*
 
