@@ -9,7 +9,7 @@ title: Section 9
 
 To express general interest in Hungarian, you don't necessarily *like* something, but rather that something ***appeals to you***. To achieve this, the verb `tetszik` is used in its third-person form and the dative case marks **who** it appeals to.
 
-These are the relevant conjugations to express general interest, to see the full verb conjugation [click here!](https://cooljugator.com/hu/tetszik) Don't forget you can change past to past conditional by adding `volna`!
+These are the relevant conjugations to express general interest, to see the full verb conjugation [click here](https://cooljugator.com/hu/tetszik) Don't forget you can change past to past conditional by adding `volna`!
 
 | Pronoun | Past indef. | Present indef. | Present indef. cond. |
 |---------|-------------|----------------|----------------------|
@@ -28,19 +28,21 @@ The person who it appeals to can be omitted, from which context tells who that p
 
 *Image n text*
 
-## Ízlik - Taste (incomplete)
+## Ízlik - Taste
 ---
 
 To express your taste for food, you can use the verb `ízlik` in its third-person form. Similar to `tetszik`, something ***tastes good to you***, so the dative case is used for the same purpose here. Naturally, the person who it tastes good to can be omitted as well! 
 
+Here are the relevant conjugations, to see the full verb conjugations [click here.](https://cooljugator.com/hu/ízlik)
 
 | Pronoun | Past indef. | Present indef. | Present indef. cond. |
 |---------|-------------|----------------|----------------------|
 | ő       | ízlett      | ízlik          | ízlene               |
 | ők      | ízlettek    | ízlenek        | ízlenének            |
 
-* Hogy ízlik? - (How do you like it?)
-* 
+* Hogy ízlik? - (How does it taste to you?)
+* Ízlik a vörös bor. - (I like red wine lit. Red wine tastes good to me.)
+* Nem hiszem, hogy ízlene neki ez az üditő ital. - (I don't think that he/she would like this soft drink. lit. I don't believe that this soft drink would taste good to him/her.)  
 
 ![Túró rudi](https://magyartanulas.github.io/public/rudi.jpg)
 
@@ -50,10 +52,12 @@ To express your taste for food, you can use the verb `ízlik` in its third-perso
 ---
 
 
-## Kedvel - Enjoyment (incomplete)
+## Kedvel - Enjoyment
 ---
 
-Not to be confused with `kedvvel`
+To express your enjoyment for things or platonic feelings, use `kedvel` (not to be confused with `kedvvel`). Unlike tetszik and ízlik, kedvel is a transitive verb and makes use of the accusative rather than the dative. 
+
+Some conjugations have been omitted due to prior explanations, [click here](https://cooljugator.com/hu/kedvel) to see the full verb conjugation.
 
 | Pronoun      | Past indef. | Past def.   | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |--------------|-------------|-------------|----------------|--------------|----------------------|--------------------|
@@ -65,14 +69,22 @@ Not to be confused with `kedvvel`
 | ők           | kedveltek   | kedvelték   | kedvelnek      | kedvelik     | kedvelnének          | kedvelnék          |
 | én <-> téged | -----       | kedveltelek | -----          | kedvellek    | ----                 | kedvelnélek        |
 
-Some conjugations have been omitted due to prior explanations, [click here](https://cooljugator.com/hu/kedvel) to see the full verb conjugation.
+* Nem kedvelem a horrorfilmeket. - (I don't enjoy horror films.)
+* Hogyhogy nem kedvelsz őt? - (How come you don't like him/her?)
+* Péter mindig kedvelte a kockázatot, igaz? - (Péter always enjoyed (taking) risks, right?)
+* De Alex, talán kedvelnének jobb, ha nem mindig annyira méreg lennél. - ( But Alex, maybe they would like you better if you weren't always so angry.)
+
 
 ## Vonz - Attracts (incomplete)
 ---
 
 
-## Szeret - Love & Passion (incomplete)
+## Szeret - Love
 ---
+
+To express your love for things, desires or love for someone, use `szeret`. Szeret can also make use of the accusative case.
+
+[Click here](https://cooljugator.com/hu/szeret) to see the full verb conjugation.
 
 | Pronoun      | Past indef. | Past def.   | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |--------------|-------------|-------------|----------------|--------------|----------------------|--------------------|
@@ -83,6 +95,13 @@ Some conjugations have been omitted due to prior explanations, [click here](http
 | ti           | szerettetek | szerettétek | szerettek      | szeretitek   | szeretnétek          | szeretnétek        |
 | ők           | szerettek   | szerették   | szeretnek      | szeretik     | szeretnének          | szeretnék          |
 | én <-> téged | -----       | szerettelek | -----          | szeretlek    | -----                | szeretnélek        |
+
+* János és Zsuzsi egymásba szerettek, és született egy kisfiúk, Áron. - (János and Zsuzsi fell in love with each other, and they had (birthed) a little boy, Áron. lit. 
+* A testvérem voltál Anakin. Szerettelek! - (You were my brother (sibling) Anakin. I loved you!)
+* Szeretem a lovakat, ismerem a szokásaikat és az eszük járását. - (I love horses, I know their ways and how they think (lit. how their minds walk)).
+* Ez azt a komoly kérdést veti fel, hogy milyen jövőt szeretnénk a gyerekeinknek. - (This raises the serious question, what kind of future would we like for our children?)
+
+## Imád - Adore & Worship (incomplete)
 
 ## Szerelem - Romantic Love (incomplete)
 ---
