@@ -48,16 +48,28 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 
 *Kinek ízlik a túró rudi?*
 
-## Vonz - Attracts (incomplete)
+## Vonz - Attraction (incomplete)
 ---
+
+If you find something attractive or enticing rather than appealing, you can use `vonz`. The accusative is used because these somethings ***attract you***, which is something direct.
+
+*Table*
+
+*Examples*
 
 ## Bír - Casual Interest (incomplete)
 ---
 
+If you casually like something then you can use `bír`, which among other meanings has a colloquial definition which translates closely to *I dig it* but without sounding like slang.
+
+*Table*
+
+*Examples*
+
 ## Kedvel - Enjoyment
 ---
 
-To express your enjoyment for things or platonic feelings, use `kedvel` (not to be confused with `kedvvel`). Unlike tetszik and ízlik, kedvel is a transitive verb and makes use of the accusative rather than the dative. 
+To express your enjoyment for things or platonic feelings, use `kedvel` (not to be confused with `kedvvel`).Like vonz, kedvel is a transitive verb and makes use of the accusative rather than the dative. 
 
 Some conjugations have been omitted due to prior explanations, [click here](https://cooljugator.com/hu/kedvel) to see the full verb conjugation.
 
