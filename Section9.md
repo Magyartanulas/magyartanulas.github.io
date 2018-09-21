@@ -53,11 +53,20 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 ## Vonz - Attraction (incomplete)
 ---
 
-If you find something attractive or enticing rather than appealing, you can use `vonz`. The accusative is used because these somethings ***attract you***, which is something direct.
+If you find something attractive or enticing rather than appealing, you can use `vonz`. The accusative is used because these somethings ***attract/entice you***, which is something direct.
 
-*Table*
+| Pronoun | Past indef. | Past def. | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
+|---------|-------------|-----------|----------------|--------------|----------------------|--------------------|
+| ő       | vonzott     | vonzotta  | vonz           | vonzza       | vonzana              | vonzaná            |
+| ők      | vonzotak    | vonzoták  | vonzanak       | vonzzák      | vonzanának           | vonzanák           |
 
-*Examples*
+* Az nem vonzana sok turistát. - (That would not attract many tourists.)
+* Vonzanának a flancos éttermek, ha nem kéne jattot adnom. - (Fancy restaurants would attract me, if I did not have to tip.)
+* A trón úgy vonzotta Simbát. (Simba was drawn to the throne. `úgy` will be explained in a later section)
+
+*Barnabás: Hova szeretnél elutazni?*
+
+*Alex: Ausztrália és Új Zéland vonzanak engem, mert tetszik az ottani kultúra.*
 
 ## Bír - Casual Interest (incomplete)
 ---
