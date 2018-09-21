@@ -26,7 +26,9 @@ The person who it appeals to can be omitted, from which context tells who that p
 * Tetszik? Igen tetszik. - (Do you like it? Yes I like it. lit. Does it appeal? Yes it appeals.)
 * Azt gondoltád, hogy ez tetszene nekem? - (Did you think that I would like this? lit. Did you think that this would appeal to me?)
 
-*Image n text*
+![Subscribe](https://magyartanulas.github.io/public/subscribe.jpeg)
+
+*Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel!*
 
 ## Ízlik - Taste
 ---
