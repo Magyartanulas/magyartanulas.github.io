@@ -51,6 +51,8 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 ## Vonz - Attracts (incomplete)
 ---
 
+
+
 ## Bír - Casual Interest (incomplete)
 ---
 
@@ -100,16 +102,21 @@ To express your love for things, desires or love for someone, use `szeret`. Szer
 
 ## Imád - Adore & Worship (incomplete)
 
-## Szerelem - Romantic Love (incomplete)
+## Szerelem - Romantic Love
 ---
 
-`Szerelem` is the romantic love reserved only for one's partner. The act of falling in love is expressed with `szeret` but the state of being in love is expressed with `szerelmes`.
+`Szerelem` (noun) is the romantic love reserved only for one's partner. The act of falling in love is expressed with `szeret` but the state of being in love is expressed with `szerelmes`. Not to be confused with the verb `szerel`.
 
-
+![Szerelmes](https://magyartanulas.github.io/public/szerelmes.jpg)
 
 *Rómeó szerelmes volt Júliába.*
 
+There are all sorts of lovey-dovey names that people use for their partners, here are a few:
 
+* Drágám - (My precious)
+* Édesem - (My sweet)
+* Kedvesem - (My dear) 
+* Szivem - (My heart)
+* Szerelmem - (My love)
 
-Not to be confused with the verb `szerel`
-
+The last is usually said by older generations.
