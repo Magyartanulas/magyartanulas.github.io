@@ -48,9 +48,11 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 
 *Kinek ízlik a túró rudi?*
 
-## Bír - Casual Interest (incomplete)
+## Vonz - Attracts (incomplete)
 ---
 
+## Bír - Casual Interest (incomplete)
+---
 
 ## Kedvel - Enjoyment
 ---
@@ -73,11 +75,6 @@ Some conjugations have been omitted due to prior explanations, [click here](http
 * Hogyhogy nem kedvelsz őt? - (How come you don't like him/her?)
 * Péter mindig kedvelte a kockázatot, igaz? - (Péter always enjoyed (taking) risks, right?)
 * De Alex, talán kedvelnének jobb, ha nem mindig annyira méreg lennél. - ( But Alex, maybe they would like you better if you weren't always so angry.)
-
-
-## Vonz - Attracts (incomplete)
----
-
 
 ## Szeret - Love
 ---
@@ -105,6 +102,14 @@ To express your love for things, desires or love for someone, use `szeret`. Szer
 
 ## Szerelem - Romantic Love (incomplete)
 ---
+
+`Szerelem` is the romantic love reserved only for one's partner. The act of falling in love is expressed with `szeret` but the state of being in love is expressed with `szerelmes`.
+
+
+
+*Rómeó szerelmes volt Júliába.*
+
+
 
 Not to be confused with the verb `szerel`
 
