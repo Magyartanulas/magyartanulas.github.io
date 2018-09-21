@@ -56,6 +56,8 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 ## Bír - Casual Interest (incomplete)
 ---
 
+
+
 ## Kedvel - Enjoyment
 ---
 
@@ -100,7 +102,7 @@ To express your love for things, desires or love for someone, use `szeret`. Szer
 * Szeretem a lovakat, ismerem a szokásaikat és az eszük járását. - (I love horses, I know their ways and how they think (lit. how their minds walk)).
 * Ez azt a komoly kérdést veti fel, hogy milyen jövőt szeretnénk a gyerekeinknek. - (This raises the serious question, what kind of future would we like for our children?)
 
-## Imád - Adore & Worship (incomplete)
+## Imád - Adore & Worship
 
 ## Szerelem - Romantic Love
 ---
