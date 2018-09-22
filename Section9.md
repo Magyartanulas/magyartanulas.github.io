@@ -162,7 +162,7 @@ For people one can use `imád` to worship or express stronger love or cherishmen
 
 * Bogi imád mindent, ami szép. - (Bogi adores all that is beautiful.)
 * Még imádtam játszani a focit, annak ellenére rosszul játszottam. - (I still loved playing football, even though I played badly.)
-* Ha Siri jobb lenne, akkor mindenki imádná az új iPhone-at. - (If Siri were better, then everyone would love the new iPhone.)
+* Ha Siri jobb lenne, akkor mindenki imádná az új iPhone-t. - (If Siri were better, then everyone would love the new iPhone.)
 
 
 ## Szerelem - Romantic Love
