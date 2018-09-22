@@ -17,7 +17,7 @@ Hungarian makes the distinction between where you are, where you are going and w
 
 **Note:** `hová` is the alternative form of `hova`.
 
-## The Locative Cases (incomplete)
+## The Locative Cases
 ---
 
 There are nine cases that denote location relative to nouns, they are similar to the postpositions discussed in [Section 3](https://magyartanulas.github.io/Section3/).
@@ -134,7 +134,7 @@ A noun can be interpreted in more than one way depending on the context.
 
 *Vár rád egy jó barát.*
 
-### Solid (incomplete)
+### Solid
 
 ![fák](https://magyartanulas.github.io/public/solids.png)
 
