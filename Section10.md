@@ -4,7 +4,7 @@ title: Section 10
 order: 10
 ---
 
-## Locative Adverbs (incomplete)
+## Locative Adverbs
 ---
 
 Hungarian makes the distinction between where you are, where you are going and where you are coming from. We will be using these to help explain the locative cases.
@@ -80,7 +80,7 @@ A noun can be interpreted in more than one way depending on the context.
 
 *Én mondom csapnivalóan rossz király lesz belőled.*
 
-### Surface (incomplete)
+### Surface
 
 ![tutajok](https://magyartanulas.github.io/public/surfaces_enlarged.png)
 
@@ -130,9 +130,9 @@ A noun can be interpreted in more than one way depending on the context.
 * Róluk még nem írtak könyvet. - (No book was written about them yet.)
 * Nem ismer róla. - (He/she doesn't know about it.)
 
+![alien](https://magyartanulas.github.io/public/alien.png)
 
-
-*Vár rád egy jó barát
+*Vár rád egy jó barát.*
 
 ### Solid (incomplete)
 
