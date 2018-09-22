@@ -76,6 +76,10 @@ A noun can be interpreted in more than one way depending on the context.
 * Bolondot csináltak belőlem! - (They made a fool out of me!)
 * Tanultam belőle. - (I've learned from it.)
 
+![zazu](https://magyartanulas.github.io/public/zazu.png)
+
+*Én mondom csapni való, rossz király lesz belőled.*
+
 
 ### Surface (incomplete)
 
