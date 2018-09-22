@@ -94,9 +94,9 @@ Some conjugations have been omitted due to prior explanations, [click here](http
 | én <-> téged | -----       | kedveltelek | -----          | kedvellek    | ----                 | kedvelnélek        |
 
 * Nem kedvelem a horrorfilmeket. - (I don't enjoy horror films.)
-* Hogyhogy nem kedvelsz őt? - (How come you don't like him/her?)
+* Hogyhogy nem kedveled őt? - (How come you don't like him/her?)
 * Péter mindig kedvelte a kockázatot, igaz? - (Péter always enjoyed (taking) risks, right?)
-* De Alex, talán kedvelnének jobb, ha nem mindig annyira méreg lennél. - ( But Alex, maybe they would like you better if you weren't always so angry.)
+* De Alex, talán jobban kedvelnének, ha nem lennél mindig annyira mérges. - ( But Alex, maybe they would like you better if you weren't always so angry.)
 
 ## Bír - Casual Interest (incomplete)
 ---
