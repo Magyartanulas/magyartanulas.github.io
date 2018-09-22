@@ -83,7 +83,7 @@ A noun can be interpreted in more than one way depending on the context.
 
 ### Surface (incomplete)
 
-![tutajok](https://magyartanulas.github.io/public/surfaces.png)
+![tutajok](https://magyartanulas.github.io/public/surfaces_enlarged.png)
 
 **Vowel Harmony Table**
 
@@ -96,6 +96,8 @@ A noun can be interpreted in more than one way depending on the context.
 **Pronouns & Examples**
 
 ### Solid (incomplete)
+
+![fák](https://magyartanulas.github.io/public/solids.png)
 
 **Vowel Harmony Table**
 
