@@ -161,7 +161,7 @@ For people one can use `imád` to worship or express stronger love or cherishmen
 | én <-> téged | -----       | imádtalak | -----          | imádlak      | -----                 | imádnálak           |
 
 * Bogi imád mindent, ami szép. - (Bogi adores all that is beautiful.)
-* Még imádtam játszani a focit, annak ellenére rosszul játszottam. - (I still loved playing football, even though I played badly.)
+* Imádtam focizni, ennek ellenére rosszul játszottam. - (I loved to play football, even though I played badly.)
 * Ha Siri jobb lenne, akkor mindenki imádná az új iPhone-t. - (If Siri were better, then everyone would love the new iPhone.)
 
 
