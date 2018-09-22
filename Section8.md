@@ -83,6 +83,7 @@ Here are some examples:
 * Because of this, plural case is not used with the possessive.
 * There are some similarities with indicative verb conjugation. E.g. `-nk` endings match 1st person plural indef present conjugation `-nk`.
 * Some nouns will change with possessives. E.g. In the 3rd person `idő --> ideje`.
+* There is no rule as to when to use the endings that start with `-j`.
 
 It is ok to drop the accusative if the possessive is the direct object, **but** this can lead to ambiguity if there is not enough context.
 
