@@ -1,7 +1,7 @@
 ---
 layout: page
-
 title: Section 5
+order: 5
 ---
 
 ## Transitive or Intransitive
