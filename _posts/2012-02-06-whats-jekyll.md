@@ -27,7 +27,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 7. The Conditional Mood
 8. The Dative Case & Possession
 9. Expressing Interest
-10. The Locative Cases + Adverbs & Pronouns
+10. Expressing Location
 11. Making Comparisons
 12. More Noun Cases (-kor, -ért, -ig)
 13. Hogy
