@@ -1,7 +1,7 @@
 ---
 layout: page
-
 title: Section 9
+order: 9
 ---
 
 ## Tetszik - General Interest
