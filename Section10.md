@@ -140,10 +140,49 @@ A noun can be interpreted in more than one way depending on the context.
 
 **Vowel Harmony Table**
 
+| Hova (-hez\-hoz\-höz  | Hol? (-nál\-nél) | Honnan? (-tól, -től) |
+|-----------------------|------------------|----------------------|
+| ahhoz, fához          | annál, fánál     | attól, fától         |
+| ehhez, lépcsőhöz      | ennél, lépcsőnél | ettől, lépcsőtől     |
+
 **Physical Location Examples**
+
+* Elgyaloglok a hegyhez. - (I walk to the mountain.)
+* Futottam a kutyához. - (I ran to the dog.)
+* Marcinél vagyok. - (I'm at Marci's.)
+* Az autóknál várt rám. - (He/she waited by the cars for me.)
+* sétálok z épülettől. - (I'm walking from the building.)
+* Futok a szobortól. - (I'm running from the statue.)
 
 **Other uses**
 
+`-hez,-hoz,-höz` is a general to, `-tól,-től` is a general from and `-nál,-nél` can be used for comparisons, which will be covered in the next section.
+
+* Szöveget írtunk a zenéhez. - (We wrote lyrics to the music.)
+* A terem zenétől volt hangos. - (The hall was loud from music.)
+* De félek ettől a konferanciától! - (But I'm scared of this conference!)
+* Ragad a keze az almától. - (His/her hand was sticky from the apple.)
+* Attól függ. - (It depends. lit. It hangs from that.)
+* Ennél nincs jobb a világon. - (There is nothing better in the world than this.)
+
 **Pronouns & Examples**
 
-### Phrases with specific noun cases (incomplete)
+| Pronoun | -hez\-hoz\-höz | -nál\-nél | -tól\-től |
+|---------|----------------|-----------|-----------|
+| én      | hozzám         | nálam     | tőlem     |
+| te      | hozzád         | nálad     | tőled     |
+| ő       | hozzá          | nála      | tőle      |
+| mi      | hozzánk        | nálunk    | tőlünk    |
+| ti      | hozzátok       | nálatok   | tőletek   |
+| ők      | hozzájuk       | náluk     | tőlük     |
+
+* Mit szólsz hozzá? - (What do you say to that? (giving opinion))
+* Semmi közöd hozzá. - (It's none of your buisness.)
+* Szeretnél tőled megkérdezni, hogy... - (I'd like to ask a question of you.)
+* Ez rendes volt tőle. - (That was nice of him/her.)
+
+---
+
+***As a final note:*** keep your eye out for phrases that naturally take a locative case as its argument. For examples:
+
+* Elegem van belőle. - (I've had enough of it.)
