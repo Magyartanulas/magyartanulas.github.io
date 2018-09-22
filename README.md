@@ -11,7 +11,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 
 ### What's new?
 
-* Added first version of sections 1 - 8
+* Added first version of sections 1 - 9
 
 ### Progression Route
 
@@ -25,7 +25,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 7. [The Conditional Mood](/Section7.md)
 8. [The Dative Case & Possession](/Section8.md)
 9. [Expressing Interest](/Section9.md)
-10. The Locative Cases + Adverbs & Pronouns
+10. [The Locative Cases + Adverbs & Pronouns](/Section9.md)
 11. Making Comparisons
 12. More Noun Cases (-kor, -ért, -ig)
 13. Hogy
