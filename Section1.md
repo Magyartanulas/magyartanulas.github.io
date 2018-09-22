@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Section 1
+order: 1
 ---
 
 ## The Alphabet
