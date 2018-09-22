@@ -36,7 +36,7 @@ A noun can be interpreted in more than one way depending on the context.
 
 **Vowel Harmony Table**
 
-| Hóva? (-ba\-be)          | Hol? (-ban\-ben)            | Honnan? (-ból\-ből)         |
+| Hova? (-ba\-be)          | Hol? (-ban\-ben)            | Honnan? (-ból\-ből)         |
 |--------------------------|-----------------------------|-----------------------------|
 | abba, barlangba, irodába | abban, barlangban, irodában | abból, barlangból, irodából |
 | ebbe, épületbe, fűbe     | ebben, épületben, fűben     | ebből, épületből, fűből     |
@@ -47,8 +47,8 @@ A noun can be interpreted in more than one way depending on the context.
 * Sétálok a kertbe. - (I walk into the garden.)
 * A pingvin a sivatagban áll. - (The penguin stands in the desert.)
 * Úszom a vízben. - (I'm swimming in the water.)
-* Kifutok a parkból. - (I'm running out of the park.)
-* Kisétál abból az étteremből. (He's walking out of that building.)
+* Integet egy búszból. - (She waves out of a bus.)
+* Kisétál abból az étteremből. - (He's walking out of that building.)
 
 **Other uses**
 
@@ -78,8 +78,7 @@ A noun can be interpreted in more than one way depending on the context.
 
 ![zazu](https://magyartanulas.github.io/public/zazu.png)
 
-*Én mondom csapni való, rossz király lesz belőled.*
-
+*Én mondom csapnivalóan rossz király lesz belőled.*
 
 ### Surface (incomplete)
 
@@ -87,13 +86,53 @@ A noun can be interpreted in more than one way depending on the context.
 
 **Vowel Harmony Table**
 
+| Hova? (-ra\-re) | Hol? (-en\-on\-ön\-n) | Honnan? (-ról\-ről) |
+|-----------------|-----------------------|---------------------|
+| arra, folyóra   | azon, folyón          | arról, folyóról     |
+| erre, földre    | ezen, földön          | erről, földről      |
 
 
 **Physical Location Examples**
 
+* Ráfutok a homokra. - (I run out onto the sand.)
+* Budapestre megyünk. - (We're going to Budapest.)
+* Várok az első emeleten. - (I'm waiting on the first floor.)
+* Állok a hídon. - (I'm standing on the bridge.)
+* Leeset a lóról. - (He/she fell off the horse.)
+* Indulok a repülőtérről. - (I'm leaving from the airport.)
+
 **Other uses**
 
+* Mire gondolsz? - (What are you thinking about?)
+* Min gondolkozod? - (What are you pondering about?)
+* Fogalmam sincs amiről beszélnek. - (I've no idea what they are talking about.)
+* Napról napra. - (From day to day.)
+* Időről időre. - (From time to time.)
+* Fotót készítettem egy madárról - (I took a photo of a bird.)
+
 **Pronouns & Examples**
+
+| Pronoun | -ra\-re | -en\-on\-ön\-n | -ról\-ről |
+|---------|---------|----------------|-----------|
+| én      | rám     | rajtam         | rólam     |
+| te      | rád     | rajtad         | rólad     |
+| ő       | rá      | rajta          | róla      |
+| mi      | ránk    | rajtunk        | rólunk    |
+| ti      | rátok   | rajtatok       | rólatok   |
+| ők      | rájuk   | rajtuk         | róluk     |
+
+`-ra/-re` can be used as for, and `-ról,-ről` can be used as about.
+
+* Ezt mindig mondom anyámnak, de soha nem hallgat rá! (I always say this to mother, but she never listens to it!) 
+* Számíthatsz rám! (You can count on me!)
+* Nem rajtam múlik - (It's not up to me.)
+* De miért mindenki rajtunk nevet? - (But why is everyone laughing at us?)
+* Róluk még nem írtak könyvet. - (No book was written about them yet.)
+* Nem ismer róla. - (He/she doesn't know about it.)
+
+
+
+*Vár rád egy jó barát
 
 ### Solid (incomplete)
 
