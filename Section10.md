@@ -32,4 +32,4 @@ A noun can be interpreted in more than one way depending on the context.
 
 ### Hollow box
 
-*image*
+![ajtók](https://magyartanulas.github.io/public/doors.png)
