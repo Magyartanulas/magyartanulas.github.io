@@ -9,6 +9,8 @@ title: Section 9
 
 To express general interest in Hungarian, you don't necessarily *like* something, but rather that something ***appeals to you***. To achieve this, the verb `tetszik` is used in its third-person form and the dative case marks **who** it appeals to.
 
+If you want to be even more casual, you can replace `tetszik` with `bejön`.
+
 These are the relevant conjugations to express general interest, to see the full verb conjugation [click here](https://cooljugator.com/hu/tetszik) Don't forget you can change past to past conditional by adding `volna`!
 
 | Pronoun | Past indef. | Present indef. | Present indef. cond. |
@@ -55,6 +57,8 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 
 If you find something attractive or enticing rather than appealing, you can use `vonz`. The accusative is used because these somethings ***attract/entice you***, which is something direct.
 
+This only shows relevant conjugations, to see the full verb conjugations [click here.](https://cooljugator.com/hu/vonz)
+
 | Pronoun | Past indef. | Past def. | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |---------|-------------|-----------|----------------|--------------|----------------------|--------------------|
 | ő       | vonzott     | vonzotta  | vonz           | vonzza       | vonzana              | vonzaná            |
@@ -73,7 +77,9 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 ## Kedvel - Enjoyment
 ---
 
-To express your enjoyment for things or platonic feelings, use `kedvel` (not to be confused with `kedvvel`).Like vonz, kedvel is a transitive verb and makes use of the accusative rather than the dative. 
+To express your enjoyment for things, use `kedvel` (not to be confused with `kedvvel`). Like `vonz`, `kedvel` is a transitive verb and makes use of the accusative rather than the dative. 
+
+For liking people. saying "I love you" is a brave thing to say, using `kedvellek` is a less awkward thing to say, for the same intended meaning.
 
 Some conjugations have been omitted due to prior explanations, [click here](https://cooljugator.com/hu/kedvel) to see the full verb conjugation.
 
@@ -95,16 +101,30 @@ Some conjugations have been omitted due to prior explanations, [click here](http
 ## Bír - Casual Interest (incomplete)
 ---
 
-If you casually like something then you can use `bír`, which among other meanings has a colloquial definition which translates closely to *I dig it* but without sounding like slang.
+If you casually like something then you can use `bír`, which among other meanings has a meaning which translates closely to *I dig it* but without sounding like slang.
 
-*Table*
+For people, you can `bír` a friend, classmate, teacher, shopkeeper or whoever.
 
-*Examples*
+[Click here](https://cooljugator.com/hu/bír) to see the full verb conjugation.
+
+| Pronoun       | Past indef. | Past def. | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
+|---------------|-------------|-----------|----------------|--------------|----------------------|--------------------|
+| én            | bírtam      | bírtam    | bírok          | bírom        | bírnék               | bírnám             |
+| te            | bírtál      | bírtad    | bírsz          | bírod        | bírnál               | bírnád             |
+| ő             | bírt        | bírta     | bír            | bírja        | bírna                | bírná              |
+| mi            | bírtunk     | bírtuk    | bírunk         | bírjuk       | bírnánk              | bírnánk            |
+| ti            | bírtok      | bírjátok  | bírtatok       | bírtátok     | bírnátok             | bírnátok           |
+| ők            | bírtak      | bírták    | bírnak         | bírják       | bírnak               | bírják             |
+| én <-> téged  | -----       | bírtalak  | -----          | bírlak       | -----                | bírnálak           |
+
+* Szerintem, hogy bírná a kínai kaját. (I think that she would like chinese food.)
+* Bírom A Gyűrűk Ura filmejeit. - (I like The Lord of The Rings films.)
+* Tökre bírlak, de csak mint barát. - (I totally like you, but just as a friend.)
 
 ## Szeret - Love
 ---
 
-To express your love for things, desires or love for someone, use `szeret`. Szeret can also make use of the accusative case.
+To express what you like and love for someone, use `szeret`.
 
 [Click here](https://cooljugator.com/hu/szeret) to see the full verb conjugation.
 
@@ -118,14 +138,16 @@ To express your love for things, desires or love for someone, use `szeret`. Szer
 | ők           | szerettek   | szerették   | szeretnek      | szeretik     | szeretnének          | szeretnék          |
 | én <-> téged | -----       | szerettelek | -----          | szeretlek    | -----                | szeretnélek        |
 
-* János és Zsuzsi egymásba szerettek, és született egy kisfiúk, Áron. - (János and Zsuzsi fell in love with each other, and they had (birthed) a little boy, Áron. lit. 
+* János és Zsuzsi egymásba beleszerettek, és született egy kisfiúk, Áron. - (János and Zsuzsi fell in love with each other, and they had (birthed) a little boy, Áron. lit. 
 * A testvérem voltál Anakin. Szerettelek! - (You were my brother (sibling) Anakin. I loved you!)
 * Szeretem a lovakat, ismerem a szokásaikat és az eszük járását. - (I love horses, I know their ways and how they think (lit. how their minds walk)).
 * Ez azt a komoly kérdést veti fel, hogy milyen jövőt szeretnénk a gyerekeinknek. - (This raises the serious question, what kind of future would we like for our children?)
 
 ## Imád - Passion & Adoration
 
-To express your passions and who you adore/worship, use `imád`. Imád also makes use of the accusative case.
+To express your passion or adoration for things use `imád`.
+
+For people one can use `imád` to worship or express stronger love or cherishment.
 
 | Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Present. indef. cond. | Present. def. cond. |
 |--------------|-------------|-----------|----------------|--------------|-----------------------|---------------------|
@@ -139,12 +161,13 @@ To express your passions and who you adore/worship, use `imád`. Imád also make
 
 * Bogi imád mindent, ami szép. - (Bogi adores all that is beautiful.)
 * Még imádtam játszani a focit, annak ellenére rosszul játszottam. - (I still loved playing football, even though I played badly.)
-* Jobban szeretnéd, ha imádnánk a halált? - (Would you rather we worship death?)
+* Ha Siri jobb lenne, akkor mindenki imádná az új iPhone-at. - (If Siri were better, then everyone would love the new iPhone.)
+
 
 ## Szerelem - Romantic Love
 ---
 
-`Szerelem` (noun) is the romantic love reserved only for one's partner. The act of falling in love is expressed with `szeret` but the state of being in love is expressed with `szerelmes`. Not to be confused with the verb `szerel`.
+`Szerelem` (noun) is the romantic love reserved only for one's partner. The act of falling in love is expressed with `beleszeret` but the state of being in love is expressed with `szerelmes`. Not to be confused with the verb `szerel`.
 
 ![Szerelmes](https://magyartanulas.github.io/public/szerelmes.jpg)
 
@@ -157,5 +180,3 @@ There are all sorts of lovey-dovey names that people use for their partners, her
 * Kedvesem - (My dear) 
 * Szivem - (My heart)
 * Szerelmem - (My love)
-
-The last is usually said by older generations.
