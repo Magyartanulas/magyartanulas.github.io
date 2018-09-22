@@ -26,7 +26,7 @@ The person who it appeals to can be omitted, from which context tells who that p
 
 * Ennyi az egész, reméljük tetszett. - (That's all, we hope you liked it. lit. The whole was this much, We hope it appealed.)
 * Tetszik? Igen tetszik. - (Do you like it? Yes I like it. lit. Does it appeal? Yes it appeals.)
-* Azt gondoltád, hogy ez tetszene nekem? - (Did you think that I would like this? lit. Did you think that this would appeal to me?)
+* Azt gondoltad, hogy ez tetszene nekem? - (Did you think that I would like this? lit. Did you think that this would appeal to me?)
 
 ![Subscribe](https://magyartanulas.github.io/public/subscribe.jpeg)
 
