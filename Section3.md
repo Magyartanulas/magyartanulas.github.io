@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Section 3
+order: 3
 ---
 
 ## Articles
