@@ -68,7 +68,7 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 
 * Az nem vonzana sok turistát. - (That would not attract many tourists.)
 * Vonzanának a flancos éttermek, ha nem kéne jattot adnom. - (Fancy restaurants would attract me, if I did not have to tip.)
-* A trón úgy vonzotta Simbát. (Simba was drawn to the throne. `úgy` will be explained in a later section)
+* A trón úgy vonzotta Simbát. (The throne attracted Simba so much. `úgy` will be explained in a later section)
 
 *Barnabás: Hova szeretnél elutazni?*
 
@@ -79,7 +79,7 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 
 To express your enjoyment for things, use `kedvel` (not to be confused with `kedvvel`). Like `vonz`, `kedvel` is a transitive verb and makes use of the accusative rather than the dative. 
 
-For liking people. saying "I love you" is a brave thing to say, using `kedvellek` is a less awkward thing to say, for the same intended meaning.
+For confessing your feelings. saying "I love you" is a brave thing to say, using `kedvellek` is a less awkward thing to say, for the same intended meaning.
 
 Some conjugations have been omitted due to prior explanations, [click here](https://cooljugator.com/hu/kedvel) to see the full verb conjugation.
 
