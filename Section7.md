@@ -1,7 +1,7 @@
 ---
 layout: page
-
 title: Section 7
+order: 7
 ---
 
 ## The Conditional Mood
