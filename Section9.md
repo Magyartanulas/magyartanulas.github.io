@@ -45,8 +45,8 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 | ők      | ízlettek    | ízlenek        | ízlenének            |
 
 * Hogy ízlik? - (How does it taste to you?)
-* Ízlik a vörös bor. - (I like red wine lit. Red wine tastes good to me.)
-* Nem hiszem, hogy ízlene neki ez az üditő ital. - (I don't think that he/she would like this soft drink. lit. I don't believe that this soft drink would taste good to him/her.)  
+* Ízlik a vörösbor. - (I like red wine lit. Red wine tastes good to me.)
+* Nem hiszem, hogy ízlene neki ez az üditőital. - (I don't think that he/she would like this soft drink. lit. I don't believe that this soft drink would taste good to him/her.)  
 
 ![Túró rudi](https://magyartanulas.github.io/public/rudi.jpg)
 
@@ -91,7 +91,7 @@ Some conjugations have been omitted due to prior explanations, [click here](http
 | mi           | kedveltünk  | kedveltük   | kedvelünk      | kedvelük     | kedvelnénk           | kedvelnénk         |
 | ti           | kedveltetek | kedveltétek | kedveltek      | kedvelitek   | kedvelnétek          | kedvelnétek        |
 | ők           | kedveltek   | kedvelték   | kedvelnek      | kedvelik     | kedvelnének          | kedvelnék          |
-| én <-> téged | -----       | kedveltelek | -----          | kedvellek    | ----                 | kedvelnélek        |
+| én <-> téged | -----       | kedveltelek | -----          | kedvellek    | -----                | kedvelnélek        |
 
 * Nem kedvelem a horrorfilmeket. - (I don't enjoy horror films.)
 * Hogyhogy nem kedveled őt? - (How come you don't like him/her?)
