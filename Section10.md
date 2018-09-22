@@ -78,12 +78,14 @@ A noun can be interpreted in more than one way depending on the context.
 
 ![zazu](https://magyartanulas.github.io/public/zazu.png)
 
-*- Én mondom csapni való, rossz király lesz belőled.*
+*Én mondom csapni való, rossz király lesz belőled.*
 
 
 ### Surface (incomplete)
 
 **Vowel Harmony Table**
+
+
 
 **Physical Location Examples**
 
