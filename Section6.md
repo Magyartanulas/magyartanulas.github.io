@@ -1,7 +1,7 @@
 ---
 layout: page
-
 title: Section 6
+order: 6
 ---
 
 ## The Infinitive
