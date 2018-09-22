@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Section 2
+order: 2
 ---
 
 ## Phrases
