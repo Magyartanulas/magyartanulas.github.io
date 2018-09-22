@@ -83,6 +83,8 @@ A noun can be interpreted in more than one way depending on the context.
 
 ### Surface (incomplete)
 
+![tutajok](https://magyartanulas.github.io/public/surfaces.png)
+
 **Vowel Harmony Table**
 
 
