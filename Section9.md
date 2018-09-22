@@ -144,6 +144,7 @@ To express what you like and love for someone, use `szeret`.
 * Ez azt a komoly kérdést veti fel, hogy milyen jövőt szeretnénk a gyerekeinknek. - (This raises the serious question, what kind of future would we like for our children?)
 
 ## Imád - Passion & Adoration
+---
 
 To express your passion or adoration for things use `imád`.
 
