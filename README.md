@@ -11,7 +11,7 @@ shall be explained where relevant. The grammar will be explained in a progressio
 
 ### What's new?
 
-* Added first version of sections 1 - 9
+* Added first version of sections 1 - 10
 
 ### Progression Route
 
