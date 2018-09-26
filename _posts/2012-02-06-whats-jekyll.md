@@ -12,7 +12,7 @@ websites listed below for further resources for practicing vocabulary and other 
 The goal here is clarification. Seeing as most native english speakers aren't given a thorough grammer education, these concepts
 shall be explained where relevant. The grammar will be explained in a progression route with sections from beginner to advanced.
 
-Throughout these sections, there will be captioned images with no english translation. Try and see if you can ~~translate~~ understand these `Challenges` using the grammar concepts explained and the context of the images!
+Starting from Section 2, there will be captioned images with no english translation. Try and see if you can ~~translate~~ understand these `Challenges` using the grammar concepts explained and the context of the images!
 
 ### What's new?
 
