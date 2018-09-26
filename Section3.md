@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 3
+title: 3. Postposition Intro + Articles
 order: 3
 ---
 
