@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 6
+title: 6. Inf. + Negation
 order: 6
 ---
 
