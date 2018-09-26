@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 4
+title: 4. -k, -t
 order: 4
 ---
 
