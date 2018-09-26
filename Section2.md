@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 2
+title: 2. Phrases + Verb Intro
 order: 2
 ---
 
