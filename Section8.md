@@ -164,6 +164,6 @@ There are also pronouns not pertaining to location, and so they only have one fo
 | ti           | helyettetek          | miattatok      | szerintetek            |
 | ők           | helyettük            | miattuk        | szerintük              |
 
-* ...de nem Alex. Szerinte ez a legviccesebb dolog, amit valaha látta. - (...but not Alex. According to him, this is the funniest thing he's ever seen.)
+* ...de nem Alex. Szerinte ez a legviccesebb dolog, amit valaha látott. - (...but not Alex. According to him, this is the funniest thing he's ever seen.)
 * Azt akarod, hogy én vigyem ki helyetted? - (Do you want *me* to carry it instead?)
-* Tegnap láttunk lyukakat a parkban, ez lehet a kutya-ásás miatt van. - (Yesterday we saw holes in the park, this could be due to dogs digging.)
+* Tegnap kutyákat láttunk a parkban, lehet, hogy miattuk vannak ott azok a lyukak - (Yesterday we saw holes in the park, this could be due to those dogs there.)
