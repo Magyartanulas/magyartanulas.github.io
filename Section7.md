@@ -65,6 +65,7 @@ Lesz (he/she/it becomes). Remember this is an intransitive verb so it only gets 
 
 `Én a helyedben` is literally *I in your place*
 
+`Challenge!`
 ![muffin](https://magyartanulas.github.io/public/muffin.png)
 
 *- Ennék többet, de tele vagyok!*
