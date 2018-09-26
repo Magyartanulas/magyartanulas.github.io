@@ -106,6 +106,7 @@ If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown 
 To ask for permission, you can add `-hat,-het` to the verb before the conjugation. Vowel harmony determines which one to use.
 
 * Segíthetek? - (Can I / am I allowed to help?)
+* Mehetek? - (Can I / am I allowed to go?)
 * Láthatom? - (Can I /Am I allowed to see it?)
 
 It is worth noting that when adding `-hat,-het` to a sibilant verb (like `keres` he/she/it finds), the verb becomes `kereshet` and is no longer sibilant. This means that it doesnt get any sibilant endings when being conjugated, e.g. You can search is ~~kereshetel~~ `kereshetsz`.
