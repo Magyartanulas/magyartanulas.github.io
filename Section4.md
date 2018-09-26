@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4. -k, -t
+title: 4. Plural + Acc.
 order: 4
 ---
 
