@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 9
+title: 9. Interests
 order: 9
 ---
 
