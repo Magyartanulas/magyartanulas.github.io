@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 7
+title: 7. Conditional
 order: 7
 ---
 
