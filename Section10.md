@@ -17,6 +17,11 @@ Hungarian makes the distinction between where you are, where you are going and w
 
 **Note:** `hová` is the alternative form of `hova`.
 
+`Challenge!`
+[!joe]()
+
+*Honnan jöttél, hová mentél? honnan jöttél pamut-szem joe?*
+
 ## The Locative Cases
 ---
 
@@ -34,7 +39,7 @@ A noun can be interpreted in more than one way depending on the context.
 
 ![ajtók](https://magyartanulas.github.io/public/doors.png)
 
-*From left to right: Illative (into), Inessive (in), Elative (out of)*
+*From left to right: Illative (into `-ba\-be`), Inessive (in `-ban\-ben`), Elative (out of `-ból\-ből`)*
 
 Physically speaking, structures, rooms and vehicles are the go-to hollow box nouns, abstractly, it's a bit harder.
 
@@ -89,7 +94,9 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 
 ![tutajok](https://magyartanulas.github.io/public/surfaces_enlarged.png)
 
-*From left to right: Sublative (onto), Superessive (on), Delative (off of)*
+*From left to right: Sublative (onto `-ra\-re`), Superessive (on `-en\-on\-ön\-n`), Delative (off of `-ról\-ről`)*
+
+Naturally, surfaces get these endings and for abstract things, they can be used similarly to for, or about.
 
 **Vowel Harmony Table**
 
@@ -146,7 +153,9 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 
 ![fák](https://magyartanulas.github.io/public/solids.png)
 
-*From left to right: Allative (towards), Adessive (by,at), Ablative (away from)
+*From left to right: Allative (towards `-hez\-hoz\-höz`), Adessive (by,at `-nál\-nél`), Ablative (away from `-tól, -től`)
+
+For the most part, these suffixes can be used as a general to & from (Allative,ablative) and for comparatives (adessive). Comparisons will be covered in the next section.
 
 **Vowel Harmony Table**
 
@@ -165,8 +174,6 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 * Futok a szobortól. - (I'm running from the statue.)
 
 **Other uses**
-
-`-hez,-hoz,-höz` is a general to, `-tól,-től` is a general from and `-nál,-nél` can be used for comparisons, which will be covered in the next section.
 
 * Szöveget írtunk a zenéhez. - (We wrote lyrics to the music.)
 * A terem zenétől volt hangos. - (The hall was loud from music.)
@@ -188,8 +195,12 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 
 * Mit szólsz hozzá? - (What do you say to that? (giving opinion))
 * Semmi közöd hozzá. - (It's none of your buisness.)
-* Szeretnél tőled megkérdezni, hogy... - (I'd like to ask a question of you.)
 * Ez rendes volt tőle. - (That was nice of him/her.)
+
+`Challenge!`
+[!interview]()
+
+*Szeretnél tőled megkérdezni, hogy...*
 
 ---
 
