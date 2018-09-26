@@ -34,6 +34,8 @@ A noun can be interpreted in more than one way depending on the context.
 
 ![ajtók](https://magyartanulas.github.io/public/doors.png)
 
+*From left to right: Illative (into), Inessive (in), Elative (out of)*
+
 **Vowel Harmony Table**
 
 | Hova? (-ba\-be)          | Hol? (-ban\-ben)            | Honnan? (-ból\-ből)         |
@@ -76,6 +78,7 @@ A noun can be interpreted in more than one way depending on the context.
 * Bolondot csináltak belőlem! - (They made a fool out of me!)
 * Tanultam belőle. - (I've learned from it.)
 
+`Challenge!`
 ![zazu](https://magyartanulas.github.io/public/zazu.png)
 
 *Én mondom csapnivalóan rossz király lesz belőled.*
@@ -83,6 +86,8 @@ A noun can be interpreted in more than one way depending on the context.
 ### Surface
 
 ![tutajok](https://magyartanulas.github.io/public/surfaces_enlarged.png)
+
+*From left to right: Sublative (onto), Superessive (on), Delative (off of)*
 
 **Vowel Harmony Table**
 
@@ -130,6 +135,7 @@ A noun can be interpreted in more than one way depending on the context.
 * Róluk még nem írtak könyvet. - (No book was written about them yet.)
 * Nem ismer róla. - (He/she doesn't know about it.)
 
+`Challenge!`
 ![alien](https://magyartanulas.github.io/public/alien.png)
 
 *Vár rád egy jó barát.*
@@ -138,9 +144,11 @@ A noun can be interpreted in more than one way depending on the context.
 
 ![fák](https://magyartanulas.github.io/public/solids.png)
 
+*From left to right: Allative (towards), Adessive (by,at), Ablative (away from)
+
 **Vowel Harmony Table**
 
-| Hova (-hez\-hoz\-höz  | Hol? (-nál\-nél) | Honnan? (-tól, -től) |
+| Hova (-hez\-hoz\-höz) | Hol? (-nál\-nél) | Honnan? (-tól, -től) |
 |-----------------------|------------------|----------------------|
 | ahhoz, fához          | annál, fánál     | attól, fától         |
 | ehhez, lépcsőhöz      | ennél, lépcsőnél | ettől, lépcsőtől     |
@@ -151,7 +159,7 @@ A noun can be interpreted in more than one way depending on the context.
 * Futottam a kutyához. - (I ran to the dog.)
 * Marcinél vagyok. - (I'm at Marci's.)
 * Az autóknál várt rám. - (He/she waited by the cars for me.)
-* sétálok z épülettől. - (I'm walking from the building.)
+* sétálok az épülettől. - (I'm walking from the building.)
 * Futok a szobortól. - (I'm running from the statue.)
 
 **Other uses**
