@@ -54,6 +54,7 @@ Note, everything here is simplified and not much is explained, but if you keep c
 * *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
 * *Igen, csak egy kicsit* is a reponse to *beszélsz angolul/magyarul?*
 
+`Challenge!`
 ![bomba](https://magyartanulas.github.io/public/bomba.png)
 
 *- Hát, ez nem jó!*
@@ -95,6 +96,7 @@ There are two things to notice here:
 1. When stating someone's occupation, we don't need to say a.
 2. Plural adjectives are used to describe groups of people.
 
+`Challenge!`
 ![Ki vagy?](https://magyartanulas.github.io/public/ki_vagy.png)
 
 *- János vagyok, ki vagy?*
@@ -168,6 +170,7 @@ Lesz (he/she/it becomes) *front-vowel*
 | ti      | lettetek | lesztek |
 | ők      | lettek   | lesznek |
 
+`Challenge!`
 ![Hol leszel?](https://magyartanulas.github.io/public/hol_leszel.jpg)
 
 *- És hol leszel holnap?*
