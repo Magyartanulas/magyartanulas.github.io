@@ -29,6 +29,7 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 * Csokit hoztam a gyerekeknek. - (I brought chocolate for the kids.)
 * Hála Istennek! - (Thank God! lit. Gratitude to God!)
 
+`Challenge!`
 ![A Duna](https://magyartanulas.github.io/public/duna.JPG)
 
 *Ezt a folyót Dunának hívnak.*
@@ -95,9 +96,16 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 * Dániel kutyájának a lába - (Daniel's dog's leg.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
 
+`Challenge!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
 
 *- Nem ezek a könyveid?*
+
+### More on Postpositions (incomplete)
+
+In [Section 3](https://magyartanulas.github.io/Section3/) we touched on locative postpositions. If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
+
+There are also pronouns not pertaining to location, and so they only have one form alongside pronoun endings. Here are some examples:
 
 ### Stating possessions
 
