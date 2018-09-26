@@ -20,7 +20,7 @@ Hungarian makes the distinction between where you are, where you are going and w
 `Challenge!`
 ![joe](https://magyartanulas.github.io/public/cotton.png)
 
-*Honnan jöttél, hová mentél? honnan jöttél pamut-szem joe?*
+*Honnan jöttél, hová mentél? honnan jöttél pamutszem joe?*
 
 ## The Locative Cases
 ---
