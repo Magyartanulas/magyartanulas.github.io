@@ -175,6 +175,7 @@ This can be done in the format of questions
 * Kit látsz? Whom do you see?
 * Látod azt? Do you see that?
 
+`Challenge!`
 ![vadászik](https://magyartanulas.github.io/public/vadászik.PNG)
 
 *Két kutya üldöz egy szarvast.*
