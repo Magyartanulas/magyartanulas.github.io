@@ -14,13 +14,13 @@ A **transitive** verb is any verb that takes a **direct object**, i.e. the accus
 * You *brought something*
 * He *read something*
 
-In [Section 2](https://magyartanulas.github.io/Section2/), we only covered intransitive verbs, these tend to be ones that show states of being or relations to nouns. 
+In [Section 2](https://magyartanulas.github.io/Section2/), we only covered intransitive verbs, these tend to be ones that show states of being, or relations to nouns. 
 
 * örül - He/she/it is happy
 * ül - He/she/it sits
 * kel - he/she/it rises/gets up
 
-One cannot örül/ül/kel *something*. These verbs are intransitive and they only have indefinite conjugation. On the other hand, 
+One cannot örül/ül/felkel *something*. These verbs are intransitive and they only have indefinite conjugation. On the other hand, 
 transitive verbs have indefinite *and* definite conjugation.
 
 ## Introducing Definite Conjugation
