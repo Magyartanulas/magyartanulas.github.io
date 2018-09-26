@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 5
+title: 5. Def. vs Indef.
 order: 5
 ---
 
