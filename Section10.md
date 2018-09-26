@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 10
+title: 10. Locatives
 order: 10
 ---
 
