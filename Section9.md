@@ -170,6 +170,7 @@ For people one can use `imád` to worship or express stronger love or cherishmen
 
 `Szerelem` (noun) is the romantic love reserved only for one's partner. The act of falling in love is expressed with `beleszeret` but the state of being in love is expressed with `szerelmes`. Not to be confused with the verb `szerel`.
 
+`Challenge!`
 ![Szerelmes](https://magyartanulas.github.io/public/szerelmes.jpg)
 
 *Rómeó szerelmes volt Júliába.*
