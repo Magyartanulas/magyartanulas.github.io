@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 8
+title: 8. Dative + Poss.
 order: 8
 ---
 
