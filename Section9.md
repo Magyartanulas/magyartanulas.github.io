@@ -28,6 +28,7 @@ The person who it appeals to can be omitted, from which context tells who that p
 * Tetszik? Igen tetszik. - (Do you like it? Yes I like it. lit. Does it appeal? Yes it appeals.)
 * Azt gondoltad, hogy ez tetszene nekem? - (Did you think that I would like this? lit. Did you think that this would appeal to me?)
 
+`Challenge!`
 ![Subscribe](https://magyartanulas.github.io/public/subscribe.jpeg)
 
 *Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel!*
@@ -48,6 +49,7 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 * Ízlik a vörösbor. - (I like red wine lit. Red wine tastes good to me.)
 * Nem hiszem, hogy ízlene neki ez az üditőital. - (I don't think that he/she would like this soft drink. lit. I don't believe that this soft drink would taste good to him/her.)  
 
+`Challenge!`
 ![Túró rudi](https://magyartanulas.github.io/public/rudi.jpg)
 
 *Kinek ízlik a túró rudi?*
@@ -69,6 +71,9 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 * Az nem vonzana sok turistát. - (That would not attract many tourists.)
 * Vonzanának a flancos éttermek, ha nem kéne jattot adnom. - (Fancy restaurants would attract me, if I did not have to tip.)
 * A trón úgy vonzotta Simbát. (The throne attracted Simba so much. `úgy` will be explained in a later section)
+
+`Challenge!`
+![utazás](https://magyartanulas.github.io/public/elutázni.jpg)
 
 *Barnabás: Hova szeretnél elutazni?*
 
