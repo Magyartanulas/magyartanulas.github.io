@@ -127,7 +127,7 @@ Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are us
 * Gőzöm sincs. - (I haven't the foggiest idea. lit. I don't even have any steam).
 * Nincs mit. - (Don't mention it. lit. There is no what.)
 
-
+`Challenge!`
 ![Frodo](https://magyartanulas.github.io/public/Frodo.jpg)
 
 *Ha van Balrog, miért nincsen Jobbrog?*
@@ -145,10 +145,10 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 * Ne szólj! ne is kérdezz! Nézz reám! Akit itt látsz férfi már. - (Don't speak! Don't even question! Look at me! Who you see here is already a man.)
 
 
-
+`Challenge!`
 ![Yoda](https://magyartanulas.github.io/public/yoda.jpeg)
 
-*Tedd, vagy ne tedd, de ne próbáld! - (Do, or do not (do), but do not try!)*
+*Tedd, vagy ne tedd, de ne próbáld!*
 
 ### Negative questions
 
