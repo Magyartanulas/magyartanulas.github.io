@@ -4,10 +4,10 @@ title: Section 2
 order: 2
 ---
 
-## Phrases
+## Phrases & Words
 
-Now that you've mastered pronunciation, here are some basic **informal** phrases to get you started!
-Note, everything here is simplified and not much is explained, but as the sections progress, everything will start to click.
+Now that you've mastered pronunciation, here are some basic phrases and words to get you started!
+Note, everything here is simplified and not much is explained, but if you keep coming back to here, everything will start to click.
 
 | Magyar                                             | English                       |
 |----------------------------------------------------|-------------------------------|
@@ -47,6 +47,7 @@ Note, everything here is simplified and not much is explained, but as the sectio
 | És                                                 | And                           |
 | Ma                                                 | Today                         |
 | Holnap                                             | Tomorrow                      |
+| Tegnap                                             | Yesterday                     |
 
 ---
 
@@ -175,4 +176,4 @@ Lesz is the verb used as the future of van, so they are closely related.
 
 Notice how it says lesz*el* and not lesz*sz*, vowel harmony chips in to make it sound nicer.
 
-We'll jump onto verbs at a later date.
+We'll jump onto more verbs in future sections.
