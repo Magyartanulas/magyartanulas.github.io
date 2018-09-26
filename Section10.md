@@ -36,6 +36,8 @@ A noun can be interpreted in more than one way depending on the context.
 
 *From left to right: Illative (into), Inessive (in), Elative (out of)*
 
+Physically speaking, structures, rooms and vehicles are the go-to hollow box nouns, abstractly, it's a bit harder.
+
 **Vowel Harmony Table**
 
 | Hova? (-ba\-be)          | Hol? (-ban\-ben)            | Honnan? (-ból\-ből)         |
