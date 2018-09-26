@@ -107,6 +107,8 @@ In [Section 3](https://magyartanulas.github.io/Section3/) we touched on locative
 
 There are also pronouns not pertaining to location, and so they only have one form alongside pronoun endings. Here are some examples:
 
+
+
 ### Stating possessions
 
 In Hungarian, there is no verb to have, instead you state what belongs to you through the verb `van`. So it follows that you can state what does not belong to you with `nincs,sincs`
