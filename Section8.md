@@ -101,14 +101,6 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 
 *- Nem ezek a könyveid?*
 
-### More on Postpositions (incomplete)
-
-In [Section 3](https://magyartanulas.github.io/Section3/) we touched on locative postpositions. If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
-
-There are also pronouns not pertaining to location, and so they only have one form alongside pronoun endings. Here are some examples:
-
-
-
 ### Stating possessions
 
 In Hungarian, there is no verb to have, instead you state what belongs to you through the verb `van`. So it follows that you can state what does not belong to you with `nincs,sincs`
@@ -156,3 +148,22 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 *- Mikor tanulod már meg végre? Mikor mikor tanulod már meg végre, hogy a tetteidnek következményei vannak?*
 
 `meg` makes the verb telic. We will touch on this topic later.
+
+### More on Postpositions (incomplete)
+
+In [Section 3](https://magyartanulas.github.io/Section3/) we touched on locative postpositions. If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
+
+There are also pronouns not pertaining to location, and so they only have one form alongside pronoun endings. Here are some examples:
+
+| Postposition | Helyett (instead of) | Miatt (due to) | Szerint (according to) |
+|--------------|----------------------|----------------|------------------------|
+| én           | helyettem            | miattam        | szerintem              |
+| te           | helyetted            | miattad        | szerinted              |
+| ő            | helyette             | miatta         | szerinte               |
+| mi           | helyettünk           | miattunk       | szerintünk             |
+| ti           | helyettetek          | miattatok      | szerintetek            |
+| ők           | helyettük            | miattuk        | szerintük              |
+
+* ...de nem Alex. Szerinte ez a legviccesebb dolog, amit valaha látta. - (...but not Alex. According to him, this is the funniest thing he's ever seen.)
+* Azt akarod, hogy én vigyem ki helyetted? - (Do you want *me* to carry it instead?)
+* Tegnap láttunk lyukakat a parkban, ez lehet a kutya-ásás miatt van. - (Yesterday we saw holes in the park, this could be due to dogs digging.)
