@@ -149,7 +149,7 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 
 `meg` makes the verb telic. We will touch on this topic later.
 
-### More on Postpositions (incomplete)
+### More on Postpositions
 
 In [Section 3](https://magyartanulas.github.io/Section3/) we touched on locative postpositions. If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
 
