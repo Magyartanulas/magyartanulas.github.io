@@ -29,7 +29,7 @@ Starting from Section 2, there will be captioned images with no english translat
 5. Definite & Indefinite Conjugation
 6. Infinitive + Negation
 7. The Conditional Mood
-8. The Dative Case & Possession (incomplete)
+8. The Dative Case & Possession
 9. Expressing Interest
 10. Expressing Location
 11. Making Comparisons
