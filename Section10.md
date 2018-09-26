@@ -18,7 +18,7 @@ Hungarian makes the distinction between where you are, where you are going and w
 **Note:** `hová` is the alternative form of `hova`.
 
 `Challenge!`
-[!joe](https://magyartanulas.github.io/public/cotton.png)
+![joe](https://magyartanulas.github.io/public/cotton.png)
 
 *Honnan jöttél, hová mentél? honnan jöttél pamut-szem joe?*
 
@@ -198,7 +198,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 * Ez rendes volt tőle. - (That was nice of him/her.)
 
 `Challenge!`
-[!interview](https://magyartanulas.github.io/public/interview.png)
+![interview](https://magyartanulas.github.io/public/interview.png)
 
 *Szeretnél tőled megkérdezni, hogy...*
 
