@@ -51,28 +51,28 @@ Naturally, when adding the plural to our nominal noun, we have to obey vowel har
 ---
 There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
 
-1. Some two-letter-long nouns lose the accent and get a `v` attached as well as a `k`
+1. Some **two-letter-long** nouns lose the accent and get a `v` attached as well as a `k`
   * Fű - Füvek
   * Ló - Lovak
   * Kő - Kövek
   * Szó - Szavak
   * Tó - Tavak
-2. Some nouns ending in i only get a `k` attached.
+2. Some nouns **ending in i** only get a `k` attached.
   * Kifli - Kiflik (type of bread roll)
   * Kiwi - Kiwik
-3. Most nouns ending in other un-accented vowels become accented in the plural.
+3. Most nouns **ending in other un-accented vowels** become accented in the plural.
   * Kutya - Kutyák
   * Macska - Macskák
   * Bögre - Bögrék (Mug)
-4. Most nouns ending in accented vowels only get a `k` attached.
+4. Most nouns **ending in accented vowels** only get a `k` attached.
   * Betű - Betűk (Letter)
   * Fiú - Fiúk
   * Író - Írók (Writer)
-5. Most nouns having an accent in the second syllable will lose it in the plural.
+5. Most nouns **having an accent in the second syllable** will lose it in the plural.
   * Madár - Madarak
   * Tehén - Tehenek (Cow)
   * Darázs - Darazsak (Wasp)
-6. Some nouns become reduced if there is a repeated vowel
+6. Some nouns **become reduced** if there is a **repeated vowel.**
   * Bokor - Bokrok
   * Tükör - Tükrök
   * Dolog - Dolgok (thing)
