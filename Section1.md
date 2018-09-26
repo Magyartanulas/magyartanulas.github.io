@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Section 1
+title: 1. ABC + Vowel Harmony
 order: 1
 ---
 
