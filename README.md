@@ -23,20 +23,21 @@ Starting from Section 2, there will be captioned images with no english translat
 1. [The Alphabet & Vowel Harmony](/Section1.md)
 2. [Phrases & Introduction to Verbs](/Section2.md)
 3. [Nouns, Introduction to Postpositions & Articles](/Section3.md)
-4. [The Accusative Case & Plurals](/Section4.md)
-5. [Definite & Indefinite Conjugation](/Section5.md)
-6. [Infinitive + Negation](/Section6.md)
-7. [Pronouns](/Section7.md)
-8. [The Conditional Mood](/Section8.md)
-9. [The Dative Case & Possession](/Section9.md)
-10. [Expressing Interest](/Section10.md)
-11. [Expressing Location](/Section11.md)
-12. [Making Comparisons](/Section12.md)
-13. Coverbs & Telicity
-14. More Noun Cases (-kor, -ért, -ig)
-15. Hogy
-16. The Imperative & Subjunctive Mood
-17. The Conjugated Infinitive & Expressing need
+4. [Word Building](/Section4.md)
+5. [The Accusative Case & Plurals](/Section5.md)
+6. [Definite & Indefinite Conjugation](/Section6.md)
+7. [Infinitive + Negation](/Section7.md)
+8. [Pronouns](/Section8.md)
+9. [The Conditional Mood](/Section9.md)
+10. [The Dative Case & Possession](/Section10.md)
+11. [Expressing Interest](/Section11.md)
+12. [Expressing Location](/Section12.md)
+13. [Making Comparisons](/Section13.md)
+14. Coverbs & Telicity
+15. More Noun Cases (-kor, -ért, -ig)
+16. Hogy
+17. The Imperative & Subjunctive Mood
+18. The Conjugated Infinitive & Expressing need
 
 Stay tuned for more!
 
