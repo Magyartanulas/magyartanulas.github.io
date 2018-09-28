@@ -113,6 +113,7 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 * Várok az első emeleten. - (I'm waiting on the first floor.)
 * Állok a hídon. - (I'm standing on the bridge.)
 * Leeset a lóról. - (He/she fell off the horse.)
+* A zöld béka ül az egykerekűn. - (The green frog sits on the unicycle)
 * Indulok a repülőtérről. - (I'm leaving from the airport.)
 
 **Other uses**
