@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 7. Pronouns
-order: 7
+title: 8. Pronouns
+order: 8
 ---
 
 ## Pronouns (incomplete)
