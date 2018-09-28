@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 6. Inf. + Negation
+title: 6. Infinitive + Negation
 order: 6
 ---
 
