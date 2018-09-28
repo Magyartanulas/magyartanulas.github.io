@@ -32,10 +32,11 @@ Starting from Section 2, there will be captioned images with no english translat
 10. [Expressing Interest](/Section10.md)
 11. [Expressing Location](/Section11.md)
 12. [Making Comparisons](/Section12.md)
-13. More Noun Cases (-kor, -ért, -ig)
-14. Hogy
-15. The Imperative & Subjunctive Mood
-16. The Conjugated Infinitive & Expressing need
+13. Coverbs & Telicity
+14. More Noun Cases (-kor, -ért, -ig)
+15. Hogy
+16. The Imperative & Subjunctive Mood
+17. The Conjugated Infinitive & Expressing need
 
 Stay tuned for more!
 
