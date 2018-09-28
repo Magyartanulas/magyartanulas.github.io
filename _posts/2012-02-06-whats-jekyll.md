@@ -24,21 +24,22 @@ Starting from Section 2, there will be captioned images with no english translat
 
 1. The Alphabet & Vowel Harmony
 2. Phrases & Introduction to Verbs
-3. Nouns, Introduction to Postpositions & Articles
-4. The Accusative Case & Plurals
-5. Definite & Indefinite Conjugation
-6. Infinitive + Negation
-7. Pronouns (incomplete)
-8. The Conditional Mood
-9. The Dative Case & Possession
-10. Expressing Interest
-11. Expressing Location
-12. Making Comparisons
-13. Coverbs & Telicity
-14. More Noun Cases (-kor, -ért, -ig)
-15. Hogy
-16. The Imperative & Subjunctive Mood
-17. The Conjugated Infinitive & Expressing need
+3. Introduction to Postpositions & Articles
+4. Introduction to Word Building
+5. The Accusative Case & Plurals
+6. Definite & Indefinite Conjugation
+7. Infinitive + Negation
+8. Pronouns (incomplete)
+9. The Conditional Mood
+10. The Dative Case & Possession
+11. Expressing Interest
+12. Expressing Location
+13. Making Comparisons
+14. Coverbs & Telicity
+15. More Noun Cases
+16. Hogy
+17. The Imperative & Subjunctive Mood
+18. The Conjugated Infinitive & Expressing need
 
 Stay tuned for more!
 
