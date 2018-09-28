@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 8. Dative + Poss.
+title: 8. Dative + Possession
 order: 8
 ---
 
