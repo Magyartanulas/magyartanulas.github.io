@@ -177,6 +177,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 **Other uses**
 
 * Szöveget írtunk a zenéhez. - (We wrote lyrics to the music.)
+* Sok sikert a tanuláshoz! - (Good luck with your learning!)
 * A terem zenétől volt hangos. - (The hall was loud from music.)
 * De félek ettől a konferanciától! - (But I'm scared of this conference!)
 * Ragad a keze az almától. - (His/her hand was sticky from the apple.)
