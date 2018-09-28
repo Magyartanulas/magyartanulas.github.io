@@ -18,7 +18,7 @@ The conditional mood indicates what *would* happen if certain conditions are met
 
 Naturally, there is more conjugation to represent the conditional mood in Hungarian. Here is the front and back vowel harmony.
 
-Szeret (he/she/it likes). Keep in mind that there are many ways of expressing liking in Hungarian, we'll cover that later.
+Szeret (he/she/it loves or likes). Keep in mind that there are many ways of expressing liking in Hungarian, [and this is covered in Section 9.](https://magyartanulas.github.io/Section9/)
 
 
 | Pronoun | Past indef. cond. | Past def. cond.   | Present indef. cond. | Present. def. cond. |
@@ -65,6 +65,8 @@ Lesz (he/she/it becomes). Remember this is an intransitive verb so it only gets 
 
 `Én a helyedben` is literally *I in your place*
 
+The `-ban,-ben` is a locative case, [this is covered in Section 10.](https://magyartanulas.github.io/Section10/)
+
 `Challenge!`
 ![muffin](https://magyartanulas.github.io/public/muffin.png)
 
@@ -85,6 +87,8 @@ The word `ha` means if, and is not limited to the conditional mood.
 *Alex: Nem tudom, mi lesz?*
 
 *Barnabás: Már nem számít...* - (It doesn't matter / He/she no longer counts).
+
+The `el-` makes the verb telic, telicity will be covered at a later date.
 
 The word `akkor` means then, and is used as an immediate follow-up.
 
