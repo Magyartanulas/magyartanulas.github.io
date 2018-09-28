@@ -26,15 +26,16 @@ Starting from Section 2, there will be captioned images with no english translat
 4. [The Accusative Case & Plurals](/Section4.md)
 5. [Definite & Indefinite Conjugation](/Section5.md)
 6. [Infinitive + Negation](/Section6.md)
-7. [The Conditional Mood](/Section7.md)
-8. [The Dative Case & Possession](/Section8.md)
-9. [Expressing Interest](/Section9.md)
-10. [Expressing Location](/Section10.md)
-11. Making Comparisons
-12. More Noun Cases (-kor, -ért, -ig)
-13. Hogy
-14. The Imperative & Subjunctive Mood
-15. The Conjugated Infinitive & Expressing need
+7. [Pronouns](/Section7.md)
+8. [The Conditional Mood](/Section8.md)
+9. [The Dative Case & Possession](/Section9.md)
+10. [Expressing Interest](/Section10.md)
+11. [Expressing Location](/Section11.md)
+12. [Making Comparisons](/Section12.md)
+13. More Noun Cases (-kor, -ért, -ig)
+14. Hogy
+15. The Imperative & Subjunctive Mood
+16. The Conjugated Infinitive & Expressing need
 
 Stay tuned for more!
 
