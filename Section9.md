@@ -65,7 +65,7 @@ Lesz (he/she/it becomes). Remember this is an intransitive verb so it only gets 
 
 `Én a helyedben` is literally *I in your place*
 
-The `-ban,-ben` is a locative case, [this is covered in Section 10.](https://magyartanulas.github.io/Section10/)
+The `-ban,-ben` is a locative case, [this is covered in Section 12.](https://magyartanulas.github.io/Section12/)
 
 `Challenge!`
 ![muffin](https://magyartanulas.github.io/public/muffin.png)
