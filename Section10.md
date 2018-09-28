@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 10. Locatives
-order: 10
+title: 11. Locatives
+order: 11
 ---
 
 ## Locative Adverbs
