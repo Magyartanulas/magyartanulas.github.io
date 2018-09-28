@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4. Plural + Acc.
+title: 4. Plural + Accusative
 order: 4
 ---
 
