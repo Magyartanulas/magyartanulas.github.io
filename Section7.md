@@ -88,7 +88,7 @@ The word `ha` means if, and is not limited to the conditional mood.
 
 *Barnabás: Már nem számít...* - (It doesn't matter / He/she no longer counts).
 
-The `el-` makes the verb telic, telicity will be covered at a later date.
+The `el-` as well as `meg-` makes the verb telic, telicity will be covered at a later date.
 
 The word `akkor` means then, and is used as an immediate follow-up.
 
