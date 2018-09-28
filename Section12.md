@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 11. Comparisons
-order: 11
+title: 12. Comparisons
+order: 12
 ---
 
 ## The Comparative and Superlative
