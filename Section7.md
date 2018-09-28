@@ -9,3 +9,5 @@ order: 7
 ## Timestamps (incomplete)
 
 *insert bohemian rhapsody reference*
+
+*talk about -kor*
