@@ -18,7 +18,7 @@ In [Section 2](https://magyartanulas.github.io/Section2/), we only covered intra
 
 * örül - He/she/it is happy
 * ül - He/she/it sits
-* kel - he/she/it rises/gets up
+* felkel - he/she/it rises/gets up
 
 One cannot örül/ül/felkel *something*. These verbs are intransitive and they only have indefinite conjugation. On the other hand, 
 transitive verbs have indefinite *and* definite conjugation.
