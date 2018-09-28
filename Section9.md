@@ -4,10 +4,10 @@ title: 9. Interests
 order: 9
 ---
 
-## Tetszik - General Interest
+## Tetszik - General Liking
 ---
 
-To express general interest in Hungarian, you don't necessarily *like* something, but rather that something ***appeals to you***. To achieve this, the verb `tetszik` is used in its third-person form and the dative case marks **who** it appeals to.
+To express general liking in Hungarian, you don't necessarily *like* something, but rather that something ***appeals to you***. To achieve this, the verb `tetszik` is used in its third-person form and the dative case marks **who** it appeals to.
 
 If you want to be even more casual, you can replace `tetszik` with `bejön`.
 
@@ -38,7 +38,7 @@ The person who it appeals to can be omitted, from which context tells who that p
 
 To express your taste for food, you can use the verb `ízlik` in its third-person form. Similar to `tetszik`, something ***tastes good to you***, so the dative case is used for the same purpose here. Naturally, the person who it tastes good to can be omitted as well! 
 
-Here are the relevant conjugations, to see the full verb conjugations [click here.](https://cooljugator.com/hu/ízlik)
+Here are the relevant conjugations, to see all of them [click here.](https://cooljugator.com/hu/ízlik)
 
 | Pronoun | Past indef. | Present indef. | Present indef. cond. |
 |---------|-------------|----------------|----------------------|
@@ -59,7 +59,7 @@ Here are the relevant conjugations, to see the full verb conjugations [click her
 
 If you find something attractive or enticing rather than appealing, you can use `vonz`. The accusative is used because these somethings ***attract/entice you***, which is something direct.
 
-This only shows relevant conjugations, to see the full verb conjugations [click here.](https://cooljugator.com/hu/vonz)
+This only shows relevant conjugations, to see all of them [click here.](https://cooljugator.com/hu/vonz)
 
 | Pronoun | Past indef. | Past def. | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |---------|-------------|-----------|----------------|--------------|----------------------|--------------------|
@@ -79,6 +79,21 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 
 *Alex: Ausztrália és Új Zéland vonzanak engem, mert tetszik az ottani kultúra.*
 
+## Érdekel - Interest
+---
+
+You can use `érdekel` to show that something intrigues, interests or concerns you. There is no direct or indirect object here, because the verb literally means *it interests*. See also `érdekes` - interesting.
+
+Here are the relevant conjugations, to see all of them [click here.](https://cooljugator.com/hu/érdekel)
+
+| Pronoun | Past indef. | Present indef. | Present indef. cond. |
+|---------|-------------|----------------|----------------------|
+| ő       | érdekelt    | érdekel        | érdekelne            |
+| ők      | érdekeltek  | érdekelnek     | érdekelnének         |
+
+* Nem érdekel az isokola! - (School does not interest (me)!)
+* Érdekelnének a szálloda árai, szobát szeretnék foglalni. - (The hotel prices interest (me), I would like to reserve a room.)
+
 ## Kedvel - Enjoyment
 ---
 
@@ -86,7 +101,7 @@ To express your enjoyment for things, use `kedvel` (not to be confused with `ked
 
 For confessing your feelings. saying "I love you" is a brave thing to say, using `kedvellek` is a less awkward thing to say, for the same intended meaning.
 
-Some conjugations have been omitted due to prior explanations, [click here](https://cooljugator.com/hu/kedvel) to see the full verb conjugation.
+Some conjugations have been omitted due to prior explanations, to see all of them [click here.](https://cooljugator.com/hu/kedvel)
 
 | Pronoun      | Past indef. | Past def.   | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |--------------|-------------|-------------|----------------|--------------|----------------------|--------------------|
@@ -110,7 +125,7 @@ If you casually like something then you can use `bír`, which among other meanin
 
 For people, you can `bír` a friend, classmate, teacher, shopkeeper or whoever.
 
-[Click here](https://cooljugator.com/hu/bír) to see the full verb conjugation.
+[Click here](https://cooljugator.com/hu/bír) to see all conjugations.
 
 | Pronoun       | Past indef. | Past def. | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |---------------|-------------|-----------|----------------|--------------|----------------------|--------------------|
@@ -131,7 +146,7 @@ For people, you can `bír` a friend, classmate, teacher, shopkeeper or whoever.
 
 To express what you like and love for someone, use `szeret`.
 
-[Click here](https://cooljugator.com/hu/szeret) to see the full verb conjugation.
+[Click here](https://cooljugator.com/hu/szeret) to see all conjugations.
 
 | Pronoun      | Past indef. | Past def.   | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |--------------|-------------|-------------|----------------|--------------|----------------------|--------------------|
@@ -154,6 +169,8 @@ To express what you like and love for someone, use `szeret`.
 To express your passion or adoration for things use `imád`.
 
 For people one can use `imád` to worship or express stronger love or cherishment.
+
+[Click here](https://cooljugator.com/hu/imád) to see all conjugations.
 
 | Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Present. indef. cond. | Present. def. cond. |
 |--------------|-------------|-----------|----------------|--------------|-----------------------|---------------------|
