@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 9. Dative + Possession
-order: 9
+title: 10. Dative + Possession
+order: 10
 ---
 
 ## The Dative Case
