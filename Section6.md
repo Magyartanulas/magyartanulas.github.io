@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 5. Definite vs Indefinite
-order: 5
+title: 6. Definite vs Indefinite
+order: 6
 ---
 
 ## Transitive or Intransitive
