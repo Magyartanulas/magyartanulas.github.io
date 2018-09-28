@@ -138,7 +138,7 @@ Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are us
 
 ### Negating with ne & se
 
-With the imperative and subjunctive mood, the negation becomes `ne` and `se`. Sometimes `ne is` is used instead of `se`.
+With the imperative and subjunctive mood, the negation becomes `ne` and `se`. Sometimes `ne is` is used instead of `se`. This concept will be expanded upon in later sections.
 
 * Ne aggódj! - (Don't worry!)
 * Ne félj, menni fog! - (Don't be afraid, it will go!)
