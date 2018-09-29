@@ -29,6 +29,7 @@
       
        <!-- New layout, let's hope this works -->
       <!--{% assign pages_list = site.nav %}-->
+      <nav>
       {% for node in site.navigation %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -36,7 +37,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      
+      </nav>
       
 
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>-->
