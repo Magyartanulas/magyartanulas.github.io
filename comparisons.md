@@ -27,8 +27,22 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 *Note: számára is a postposition, in this case számomra is more intentional than nekem.*
 
+## így/úgy
+
+## ilyen/olyan
+
 ## Mint
 
 The word `mint` is used in linkage between nouns, when it is used with the comparative, it translates to than.
 
 * Gyorsabb vagyok, mint egy golyó! - (I'm faster than a bullet!)
+*
+*
+
+When `mint`is used with `olyan` or `úgy`, it translates to as.
+
+* Ő olyan magas, mint én.
+*
+*
+
+*insert challenge, **mint te, olyan leszek!**
