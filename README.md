@@ -20,21 +20,21 @@ Starting from Section 2, there will be captioned images with no english translat
 ### Progression Route
 
 0. **Home**
-1. [The Alphabet & Vowel Harmony](/Section1.md)
-2. [Phrases & Introduction to Verbs](/Section2.md)
-3. [Nouns, Introduction to Postpositions & Articles](/Section3.md)
-4. [Word Building](/Section4.md)
-5. [The Accusative Case & Plurals](/Section5.md)
-6. [Definite & Indefinite Conjugation](/Section6.md)
-7. [Infinitive + Negation](/Section7.md)
-8. [Pronouns](/Section8.md)
-9. [The Conditional Mood](/Section9.md)
-10. [The Dative Case & Possession](/Section10.md)
-11. [Expressing Interest](/Section11.md)
-12. [Expressing Location](/Section12.md)
-13. [Making Comparisons](/Section13.md)
+1. The Alphabet & Vowel Harmony
+2. Phrases & Introduction to Verbs
+3. Introduction to Postpositions & Articles
+4. Introduction to Word Building (incomplete)
+5. The Accusative Case & Plurals
+6. Definite & Indefinite Conjugation
+7. Infinitive + Negation
+8. Pronouns (incomplete)
+9. The Conditional Mood
+10. The Dative Case & Possession
+11. Expressing Interest
+12. Expressing Location
+13. Making Comparisons
 14. Coverbs & Telicity
-15. More Noun Cases (-kor, -ért, -ig)
+15. More Noun Cases
 16. Hogy
 17. The Imperative & Subjunctive Mood
 18. The Conjugated Infinitive & Expressing need
