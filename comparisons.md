@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 13. Comparisons
-order: 13
+title: Making Comparisons
 ---
 
 ## The Comparative and Superlative
