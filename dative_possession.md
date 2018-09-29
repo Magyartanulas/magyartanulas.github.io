@@ -150,7 +150,7 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 
 ### More on Postpositions
 
-In [Section 3](https://magyartanulas.github.io/Section3/) we touched on locative postpositions. If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
+[Recall the introduction to postpositions.](https://magyartanulas.github.io/postpositions_articles/) If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
 
 There are also pronouns not pertaining to location, and so they only have one form alongside pronoun endings. Here are some examples:
 
