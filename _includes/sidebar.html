@@ -27,14 +27,7 @@
         {% endif %}
       {% endfor %} -->
       
-      
-       <!-- New layout, let's hope this works -->
-      <!--{% assign pages_list = site.nav %}-->
-      {% for item in site.data.navigation %}
-        <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
-          {{ item.name }}
-        </a>
-      {% endfor %}
+      {% include navigation.html %}
       
 
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>-->
