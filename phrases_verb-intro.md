@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2. Phrases & Introduction to Verbs
+title: Phrases & Introduction to Verbs
 ---
 
 ## Phrases & Words
