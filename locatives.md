@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 12. Locatives
-order: 12
+title: Expressing Location
 ---
 
 ## Locative Adverbs
