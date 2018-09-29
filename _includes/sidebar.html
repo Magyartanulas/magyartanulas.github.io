@@ -29,7 +29,7 @@
       
        <!-- New layout, let's hope this works -->
       <!--{% assign pages_list = site.nav %}-->
-      {% for node in site.data.nav %}
+      {% for node in site.nav %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
