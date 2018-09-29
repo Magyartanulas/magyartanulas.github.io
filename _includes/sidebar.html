@@ -28,7 +28,7 @@
       {% endfor %} -->
       
        <!-- New layout, let's hope this works -->
-      {% assign pages_list = site.nav | sort:"order" %}
+      {% assign pages_list = site.data.nav %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
