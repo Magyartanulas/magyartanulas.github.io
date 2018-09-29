@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 5. Plural + Accusative
-order: 5
+title: The Accusative Case & Plurals
 ---
 
 ## Plurals
