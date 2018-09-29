@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 6. Definite vs Indefinite
-order: 6
+title: Definite & Indefinite Conjugation
 ---
 
 ## Transitive or Intransitive
