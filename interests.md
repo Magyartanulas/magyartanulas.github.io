@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 11. Interests
-order: 11
+title: Expressing Interest
 ---
 
 ## Tetszik - General Liking
