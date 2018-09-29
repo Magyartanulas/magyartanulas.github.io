@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 7. Infinitive + Negation
-order: 7
+title: Infinitive + Negation
 ---
 
 ## The Infinitive
