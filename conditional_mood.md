@@ -17,7 +17,7 @@ The conditional mood indicates what *would* happen if certain conditions are met
 
 Naturally, there is more conjugation to represent the conditional mood in Hungarian. Here is the front and back vowel harmony.
 
-Szeret (he/she/it loves or likes). Keep in mind that there are many ways of expressing liking in Hungarian, [and this is covered in Section 11.](https://magyartanulas.github.io/Section11/)
+Szeret (he/she/it loves or likes). Keep in mind that there are many ways of expressing liking in Hungarian, [and this is covered later on.](https://magyartanulas.github.io/interests/)
 
 
 | Pronoun | Past indef. cond. | Past def. cond.   | Present indef. cond. | Present. def. cond. |
