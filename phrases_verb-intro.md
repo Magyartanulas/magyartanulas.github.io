@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 2. Phrases + Verb Intro
-order: 2
+title: 2. Phrases & Introduction to Verbs
 ---
 
 ## Phrases & Words
