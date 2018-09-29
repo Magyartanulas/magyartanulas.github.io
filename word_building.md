@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Word Building
+title: Introduction to Word Building
 ---
 Incomplete
