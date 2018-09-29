@@ -13,6 +13,8 @@ The grammar will be explained in a progression route with sections from beginner
 
 Starting from Section 2, there will be captioned images with no english translation. Try and see if you can ~~translate~~ understand these `Challenges` using the grammar concepts explained and the context of the images!
 
+[Access the website here!](https://magyartanulas.github.io/)
+
 ### What's new?
 
 * Added first version of sections 1 - 10
