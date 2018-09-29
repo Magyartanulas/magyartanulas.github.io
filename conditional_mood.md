@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 9. Conditional
-order: 9
+title: The Conditional Mood
 ---
 
 ## The Conditional Mood
