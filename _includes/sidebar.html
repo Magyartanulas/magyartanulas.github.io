@@ -29,15 +29,13 @@
       
        <!-- New layout, let's hope this works -->
       <!--{% assign pages_list = site.nav %}-->
-      <nav>
-      {% for node in site.navigation %}
+      {% for node in site.data.navigation %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
-      </nav>
       
 
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>-->
