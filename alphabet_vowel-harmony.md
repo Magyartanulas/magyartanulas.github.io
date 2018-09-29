@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1. ABC + Vowel Harmony
+title: The Alphabet & Vowel Harmony
 ---
 
 ## The Alphabet
