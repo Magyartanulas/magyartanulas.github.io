@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 1. ABC + Vowel Harmony
-order: 1
 ---
 
 ## The Alphabet
