@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 3. Postpositions + Articles
-order: 3
+title: Introduction to Postpositions & Articles
 ---
 
 ## Articles
