@@ -29,4 +29,6 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 ## Mint
 
-The word `mint` is used in linkage between nouns
+The word `mint` is used in linkage between nouns, when it is used with the comparative, it translates to than.
+
+* Gyorsabb vagyok, mint egy golyó! - (I'm faster than a bullet!)
