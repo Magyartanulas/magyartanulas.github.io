@@ -31,11 +31,11 @@
        <!-- New layout, let's hope this works -->
       <!--{% assign pages_list = site.nav %}-->
       {% for node in site.help %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
-          {% endif %}
+        <!--{% if node.title != null %}-->
+        {% if node.layout == "page" %}
+          <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
         {% endif %}
+        <!--{% endif %}-->
       {% endfor %}
       
 
