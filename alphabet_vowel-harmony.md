@@ -69,6 +69,6 @@ Back:  a á o ó u ú     (A Zuzmó-Háború.)
 * Likewise, if a word contains only back-vowels, then it should be conjugated with back vowels. (darázs)
 * If a word contains a mixture of front and back, the last vowel will specify what kind it is. (dzsungel)
 
-However, if the word contains only *i* or *í* then it is considered a back-vowel word. (híd)
+However, if the word is only one-syllable *and* contains only *i* or *í* then it is considered a back-vowel word. (híd)
 
 That's it for now, but stay tuned for later sections where vowel harmony will be discussed again.
