@@ -68,8 +68,6 @@ The word `mint` is used in linkage between nouns, when it is used with the compa
 
 As you saw, `mint` can be substituted for the `-nél,-nál` case.
 
-*insert challnge **Az acél nehezebb a tollnál**
-
 When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 * Ő olyan magas, mint én. - (He/She is as tall as me.)
@@ -77,4 +75,12 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 * Úgy vezet, mint egy őrült. - (He/She drives like a maniac.)
 * Úgy esik, mint a disznó! - (It is raining cats and dogs. lit. It falls like the pig!) 
 
-*insert challenge, **mint te, olyan leszek!**
+`Challenges!`
+
+![nehéz](https://magyartanulas.github.io/public/nehéz.jpg)
+
+*De az acél nehezebb a tollnál!*
+
+![lajcsi](https://magyartanulas.github.io/public/lajcsi.png)
+
+*Mint te, olyan leszek!*
