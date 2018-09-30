@@ -63,12 +63,10 @@ Both `ilyen` and `olyan` on the other hand are adjectival pronouns. They both tr
 The word `mint` is used in linkage between nouns, when it is used with the comparative, it translates to than.
 
 * Gyorsabb vagyok, mint egy golyó! - (I'm faster than a bullet!)
-*
-*
+* Jobb adni, mint kapni. - (It is better to give than to receive.)
+* Ennél nincs szebb a világon. - (There is nothing more beautiful in the world than this.)
 
-The `-nél,-nál` case can be used for comparisons instead of `mint`. Recall from earlier:
-
-> Ennél nincs lehet jobb a világon.
+As you saw, `mint` can be substituted for the `-nél,-nál` case.
 
 *insert challnge **Az acél nehezebb a tollnál**
 
