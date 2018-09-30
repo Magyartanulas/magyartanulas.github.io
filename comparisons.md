@@ -38,8 +38,8 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 Both `így` and `úgy` are adverbial pronouns, i.e. both roughly translate into this way, or that way. Typically, `úgy` is followed up with more information in the sentence. 
 
 * Úgy többet tanulok, ha elmagyarázod nekem. - (I learn more (this way), if you explain it to me.)
-* Így jobb.
-*
+* Így jobb. - (It's better like this/this way.)
+* 
 
 ## ilyen/olyan
 
