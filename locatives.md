@@ -181,6 +181,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 * De félek ettől a konferanciától! - (But I'm scared of this conference!)
 * Ragad a keze az almától. - (His/her hand was sticky from the apple.)
 * Attól függ. - (It depends. lit. It hangs from that.)
+* Ennél a résznél mindig sírok, pedig már millószor láttam. - (I always cry at this part, even though I've seen it a million times already!)
 
 **Pronouns & Examples**
 
