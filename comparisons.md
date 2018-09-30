@@ -27,11 +27,11 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 *Note: számára is a postposition, in this case számomra is more intentional than nekem.*
 
-**BEWARE:** Some nouns will have their nouns shortened when attached.
+**BEWARE:** Some nouns will have their vowels shortened when attached. Here are some examples:
 
 * szép - szebb
 * jó - jobb
-*
+* kevés - kevesebb
 
 ## így/úgy
 
