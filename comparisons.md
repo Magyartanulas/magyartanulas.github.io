@@ -27,7 +27,19 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 *Note: számára is a postposition, in this case számomra is more intentional than nekem.*
 
+**BEWARE:** Some nouns will have their nouns shortened when attached.
+
+* szép - szebb
+* jó - jobb
+*
+
 ## így/úgy
+
+Both `így` and `úgy` are adverbial pronouns, i.e. both roughly translate into this way, or that way. Typically, `úgy` is followed up with more information in the sentence. 
+
+* Úgy többet tanulok, ha elmagyarázod nekem. - (I learn more (this way), if you explain it to me.)
+* Így jobb.
+*
 
 ## ilyen/olyan
 
@@ -42,7 +54,7 @@ The word `mint` is used in linkage between nouns, when it is used with the compa
 When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 * Ő olyan magas, mint én.
-*
+* 
 *
 
 *insert challenge, **mint te, olyan leszek!**
