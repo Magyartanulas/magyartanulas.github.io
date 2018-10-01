@@ -70,4 +70,6 @@ Front-voweled words take `-ség`, back-voweled words take `-ság`. Crudely speak
 
 ### Verb to Noun (-ás/-és)
 
+Front-voweled words take `-ás`, back-voweled words take `-és`.
 
+* Utazás - (Journey) From `utaz`
