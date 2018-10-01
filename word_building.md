@@ -52,4 +52,22 @@ Look out for irregularites!
 
 * Lassan - (Slowly) From `lassú`
 
+## Creating Nouns
+---
+
+There are two ways of creating nouns, the former deals with adjectives/nouns/verbs becoming nouns and the latter with only verbs becoming nouns.
+
+### "-ness"(-ság/-ség)
+
+Front-voweled words take `-ség`, back-voweled words take `-ság`. Crudely speaking, this can be thought of as a "-ness" ending, but it also turns nouns and verbs into nouns.
+
+* Sötétség - (Darkness) From `sötét`
+* Segítség - (Help) From `segít`
+* Rendőrség - (Police) From `rendőr`
+* Igazság - (Truth) From `igaz`
+* Szabadság - (Freedom) From `szabad`
+* Barátság - (Friendship) From `barát`
+
+### Verb to Noun (-ás/-és)
+
 
