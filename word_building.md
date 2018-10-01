@@ -12,12 +12,12 @@ As you may have noticed already, Hungarian is an agglutinative language, it uses
 
 Front-voweled words take `-ül`, back-voweled words take `-ul` and words ending in vowels get `-l`
 
-***Essively***, meaning that a noun is given a role to fulfill, *as something*. This can be done with most nouns.
+***Essively***, meaning that a noun is given a role to fulfill, *as something*. This is done to nouns.
 
 * Például - (As an example)
 * Ajándékul - (As a gift)
 
-***Modally***, describes the manner of the person/people doing the verb.
+***Modally***, describes the manner of the person/people doing the verb. This is done to adjectives.
 
 * Jól - (Well) From `jó`
 * Rosszul - (Badly) From `rossz`
@@ -34,4 +34,4 @@ It is also used to show the language someone speaks.
 
 ### Adverbial (-n/-an/-en)
 
-Front
+Front-voweled words take `-en`, back-voweled words take `-an` and words ending in vowels take `-n`.
