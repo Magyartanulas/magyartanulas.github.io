@@ -58,7 +58,7 @@ Both `ilyen` and `olyan` on the other hand are adjectival pronouns. They both tr
 
 *Barnabás: Ilyen nincs! - (That can't be possible! lit. There is no such (thing))
 
-## Mint
+## mint
 
 The word `mint` is used in linkage between nouns, when it is used with the comparative, it translates to than.
 
