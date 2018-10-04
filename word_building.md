@@ -3,73 +3,25 @@ layout: page
 title: Introduction to Word Building
 ---
 
-As you may have noticed already, Hungarian is an agglutinative language, it uses suffixes and prefixes to solve most of its problems. Part of this involves adding suffixes to words to create more words.
+As you may have noticed already, Hungarian is an **agglutinative language**, it uses suffixes and prefixes to solve most of its problems. Part of this involves adding suffixes to words to create more words.
 
 Note that if a suffix is added to a vowel, it gets lengthened, and there are some cases where nouns will be shortened.
 
-## Creating Adverbs
----
+Remember, even if you can see smaller words/root words within the word, the meaning may be completely different. For example:
 
-Here are two common adverb-making suffixes.
+| Word                         | Inverter               | Noun former            | Inverted noun                          |
+|------------------------------|------------------------|------------------------|----------------------------------------|
+| Igaz (true)                  | igaztalan (untrue)     | Igazság (truth)        | igaztalanság (injustice)               |
+| Boldog (happy)               | Boldogtalan (unhappy)  | Boldogság (happiness)  | Boldogtalanság (unhappiness)           |
+| Tehet (he/she/it can do/put) | Tehetetlen (powerless) | Tehetség (talent)      | Tehetetlenség (powerlessness, inertia) |
+| Zöngés (voiced)              | Zöngétlen (voiceless)  | Zöngésség (voicedness) | Zöngétlenség (voicelessness)           |
 
-### Essive-Modal (-l/ul/-ül)
+`Tehet` is actually `tesz` + `-het`, this is explained later at the conditional mood section.
 
-Front-voweled words take `-ül`, back-voweled words take `-ul` and words ending in vowels take `-l`
+This is scary and there are many more attachments, but as we move on to more sections, all the pieces will slide into place.
 
-***Essively***, meaning that a noun is given a role to fulfill, *as something*. This is done to nouns.
+`Challenge`
 
-* Például - (As an example) From `példa`
-* Ajándékul - (As a gift) From `ajándék`
+[img]
 
-***Modally***, describes the manner of the person/people doing the verb. This is done to adjectives.
-
-* Jól - (Well) From `jó`
-* Rosszul - (Badly) From `rossz`
-* Makacsul - (Stubbornly) From `makacs`
-* Remekül - (Superbly) From `remek`
-* Egyedül - (Alone)
-
-It is also used to show the language someone speaks.
-
-* Magyarul - (lit. Hungarianly) From `magyar`
-* Angolul - (lit. Englishly) From `angol`
-* Németül - (lit. Germanly) From `német`
-* Finnül - (lit. Finnishly) From `finn`
-
-### Adverbial (-n/-an/-en/-on)
-
-Front-voweled words take `-en`, back-voweled words take `-an,-on` and words ending in vowels take `-n`. This is done to adjectives.
-
-* Gyorsan - (Quickly) From `gyors`
-* Gyakran - (Frequently) From `gyakor`
-* Csendesen - (Silently) From `csend`
-* Szépen - (Beautifully/Nicely) From `szép`
-* Nagyon - (Very) From `nagy`
-* Gazdagon - (Richly) From `gazdag`
-* Ritkán - (Rarely) From `ritka`
-
-Look out for irregularites!
-
-* Lassan - (Slowly) From `lassú`
-
-## Creating Nouns
----
-
-There are two ways of creating nouns, the former deals with adjectives/nouns/verbs becoming nouns and the latter with only verbs becoming nouns.
-
-### "-ness"(-ság/-ség)
-
-Front-voweled words take `-ség`, back-voweled words take `-ság`. Crudely speaking, this can be thought of as a "-ness" ending, but it also turns nouns and verbs into nouns.
-
-* Sötétség - (Darkness) From `sötét`
-* Segítség - (Help) From `segít`
-* Rendőrség - (Police) From `rendőr`
-* Igazság - (Truth) From `igaz`
-* Szabadság - (Freedom) From `szabad`
-* Barátság - (Friendship) From `barát`
-
-### Verb to Noun (-ás/-és)
-
-Front-voweled words take `-ás`, back-voweled words take `-és`.
-
-* Utazás - (Journey) From `utaz`
+*Elegem van az igazságtalanságból!
