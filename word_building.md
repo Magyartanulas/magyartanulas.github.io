@@ -42,4 +42,4 @@ Compound words are no stranger to the Hungarian Language and naturally they're q
 
 [!kerékpár](https://magyartanulas.github.io/public/kerékpár.png)
 
-*Kerék + pár = kerékpár*
+*kerék + pár = kerékpár*
