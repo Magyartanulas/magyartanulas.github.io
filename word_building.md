@@ -42,4 +42,4 @@ Compound words are no stranger to the Hungarian Language, you may have heard of 
 
 [img]
 
-*Elegem van az igazságtalanságból!
+*Kerék (Wheel) + pár (couple) = ?*
