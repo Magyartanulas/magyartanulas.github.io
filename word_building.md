@@ -22,7 +22,7 @@ This is scary and there are many more attachments, but as we move on to more sec
 
 ### Compound Words
 
-Compound words are no stranger to the Hungarian Language, you may have heard of the famous 44-letter long word `megszentségteleníthetetlenségeskedéseitekért` and just for fun, we'll go through all of it.
+Compound words are no stranger to the Hungarian Language and naturally they're quite logical, you may have heard of the famous 44-letter long word `megszentségteleníthetetlenségeskedéseitekért` and just for fun, we'll go through all of it.
 
 * `szent` - holy/saint.
 * `szentség` - holiness/saintliness
@@ -40,6 +40,6 @@ Compound words are no stranger to the Hungarian Language, you may have heard of 
 
 `Challenge`
 
-[img]
+[!kerékpár](https://magyartanulas.github.io/public/kerékpár.png)
 
-*Kerék (Wheel) + pár (couple) = ?*
+*Kerék + pár = kerékpár*
