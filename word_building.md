@@ -20,6 +20,24 @@ Remember, even if you can see smaller words/root words within the word, the mean
 
 This is scary and there are many more attachments, but as we move on to more sections, all the pieces will slide into place.
 
+### Compound Words
+
+Compound words are no stranger to the Hungarian Language, you may have heard of the famous 44-letter long word `megszentségteleníthetetlenségeskedéseitekért` and just for fun, we'll go through all of it.
+
+* `szent` - holy/saint.
+* `szentség` - holiness/saintliness
+* `szentségtelen` - sacriligious
+* `szentségtelenít` - verb. he/she/it desecrates
+* `szentségteleníhet` - verb. he/she/it can desecrate
+* `szentségteleníthetetlen` - undesecratable
+* `szentségteleníthetetlenséges` - undesecrability-esque
+* `szentségteleníthetetlenségeskedés` - undescrability-esque behaviour
+* `szentségteleníthetetlenségeskedéseitek` - your undescrability-esque behaviour
+* `szentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour
+* `megszentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour (until the action is exhausted)
+
+`-het` is seen here again, but also `meg-` which marks telicity. We'll see this in more sections, and eventually it will be explained.
+
 `Challenge`
 
 [img]
