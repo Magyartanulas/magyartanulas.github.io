@@ -38,7 +38,7 @@ Compound words are no stranger to the Hungarian Language and naturally they're q
 
 `-het` is seen here again, but also `meg-` which marks telicity. We'll see this in more sections, and eventually it will be explained.
 
-`Challenge`
+`Challenge!`
 
 [!kerékpár](https://magyartanulas.github.io/public/kerékpár.png)
 
