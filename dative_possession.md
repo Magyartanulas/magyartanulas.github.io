@@ -94,6 +94,7 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 * Az egész életüket ennek szentelték. - (They dedicated their whole lives to this.)
 * Dániel kutyájának a lába - (Daniel's dog's leg.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
+* Bátyamnak volt. - (It was my brother's.)
 
 `Challenge!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
@@ -166,3 +167,4 @@ There are also pronouns not pertaining to location, and so they only have one fo
 * ...de nem Alex. Szerinte ez a legviccesebb dolog, amit valaha látott. - (...but not Alex. According to him, this is the funniest thing he's ever seen.)
 * Azt akarod, hogy én vigyem ki helyetted? - (Do you want *me* to carry it instead?)
 * Tegnap kutyákat láttunk a parkban, lehet, hogy miattuk vannak ott azok a lyukak - (Yesterday we saw holes in the park, this could be due to those dogs there.)
+* Ha nem melletem állsz, az ellenségem vagy! - (If you don't stand with (lit. next to) me, you are my enemy!)
