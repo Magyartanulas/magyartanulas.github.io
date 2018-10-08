@@ -35,15 +35,24 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 ## így/úgy
 
-Both `így` and `úgy` are adverbial pronouns, i.e. both roughly translate into this way, or that way and thus go alongside verbs. Typically when `úgy` is used, it is followed up with more information either in the sentence or by context as it generally describes something that is distant. `Így` is used to follow up on something that is closer to the speaker, this is also done by context or in the sentence.
 
-whereas `így` is used after . 
+Both `így` and `úgy` are adverbial pronouns, and are used to describe *how* a verb is done. Thus, both roughly translate into this way, or that way and typically go alongside verbs.
+
+When `úgy` is used, it is followed up with more information either in the sentence or by context as it generally describes something that is distant. `Így` is used to follow up on something that is closer to the speaker, this is also done by context or in the sentence.
+
+Link to pronouns.md
 
 * Úgy többet tanulok, ha elmagyarázod nekem. - (I learn more (this way), if you explain it to me.)
 * Úgy is jó. - (That way is good as well.) e.g. the way in which to do something.
 * Így jobb. - (It's better like this/this way.) e.g. things are better since that thing has happened.
 * Segítek neki, így gyorsabb lesz. - (I'm helping him/her, it'll be quicker this way.)
 * Ugyanúgy gondolkoznak, ahogy én. - (They think the same way as I do.)
+
+*Context: Alex and Barnabás are talking about their group project over the phone.*
+
+*Alex: Mi a terv a feladatra? Hogyan csináljuk meg? - (What's the plan for the task? How should we do it?
+
+*Barnabás: Együtt fogjuk megcsinálni, úgy könnyebb.* - (We'll do it together, it'll be easier this way.)*
 
 ## ilyen/olyan
 
