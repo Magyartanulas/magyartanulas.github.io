@@ -14,7 +14,7 @@ shall be explained where relevant.
 
 The grammar will be explained in a progression route with sections from beginner to advanced. Feel free to skip ahead, but understanding of the prior sections is assumed.
 
-Starting from Section 2, there will be captioned images with no english translation. Try and see if you can ~~translate~~ understand these `Challenges` using the grammar concepts explained and the context of the images!
+Starting from Section 2, there will be captioned images with no english translation. Try and see if you can ~~translate~~ understand these `Challenges` using the grammar concepts explained and the context of the images! Sometimes where it makes sense to explain through context, scenarios will be given between people.
 
 ### What's new?
 
