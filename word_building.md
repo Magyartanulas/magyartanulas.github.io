@@ -24,13 +24,13 @@ This is scary and there are many more attachments, but as we move on to more sec
 
 Compound words are also common and work just like you think they would: take a base word and stick it onto another base word.
 
-* `autópálya` >> `autó` (car) + `pálya` (court/path) >> `motorway`
-* vadvíz >> vad (wild) + víz (water) >> whitewater (think: rapids)
-* ablakdeszka >> ablak (window) + deszka (board) >> windowsill
-* világitótorony >> világító (lighting) + torony (tower) >> lighthouse
-* számítógép >> számító (calculating) + gép (machine) >> computer
-* iránytű >> irány (direction) + tű (pin/needle) >> compass
-* vízvezeték-szerelő > vízvezeték (waterway) + szerelő (assembler) >> plumber
+* `autópálya` >> `autó` (car) + `pálya` (court/path) >> motorway
+* `vadvíz` >> `vad` (wild) + `víz` (water) >> whitewater (think: rapids)
+* `ablakdeszka` >> `ablak` (window) + `deszka` (board) >> windowsill
+* `világitótorony` >> `világító` (lighting) + `torony` (tower) >> lighthouse
+* `számítógép` >> `számító` (calculating) + `gép` (machine) >> computer
+* `iránytű` >> `irány` (direction) + `tű` (pin/needle) >> compass
+* `vízvezeték-szerelő` > `vízvezeték` (waterway) + `szerelő` (assembler) >> plumber
 
 
 ***Note:*** it is highly advised not to deconstruct every word you see, less you get the wrong idea, e.g. beszél does *not* equal be + szél.
@@ -61,6 +61,6 @@ Compound words are also common and work just like you think they would: take a b
 
 `Challenge!`
 
-[!kerékpár](https://magyartanulas.github.io/public/kerékpár.png)
+![kerékpár](https://magyartanulas.github.io/public/kerékpár.png)
 
 *kerék + pár = kerékpár*
