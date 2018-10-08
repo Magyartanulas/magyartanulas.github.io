@@ -22,7 +22,22 @@ This is scary and there are many more attachments, but as we move on to more sec
 
 ### Compound Words
 
-Compound words are no stranger to the Hungarian Language and naturally they're quite logical, you may have heard of the famous 44-letter long word `megszentségteleníthetetlenségeskedéseitekért` and just for fun, we'll go through all of it.
+Compound words are also common and work just like you think they would: take a base word and stick it onto another base word.
+
+* `autópálya` >> `autó` (car) + `pálya` (court/path) >> `motorway`
+* vadvíz >> vad (wild) + víz (water) >> whitewater (think: rapids)
+* ablakdeszka >> ablak (window) + deszka (board) >> windowsill
+* világitótorony >> világító (lighting) + torony (tower) >> lighthouse
+* számítógép >> számító (calculating) + gép (machine) >> computer
+* iránytű >> irány (direction) + tű (pin/needle) >> compass
+* vízvezeték-szerelő > vízvezeték (waterway) + szerelő (assembler) >> plumber
+
+
+***Note:*** it is highly advised not to deconstruct every word you see, less you get the wrong idea, e.g. beszél does *not* equal be + szél.
+
+---
+
+**Digression:** You may have heard of the famous 44-letter long word `megszentségteleníthetetlenségeskedéseitekért` and just for fun, we'll go through all of it.
 
 * `szent` - holy/saint.
 * `szentség` - holiness/saintliness
@@ -37,6 +52,12 @@ Compound words are no stranger to the Hungarian Language and naturally they're q
 * `megszentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour (until the action is exhausted)
 
 `-het` is seen here again, but also `meg-` which marks telicity. We'll see this in more sections, and eventually it will be explained.
+
+### Summary
+
+* Alteration of meaning can be done through attachments onto the base word.
+* Compound words are also common and are merely base words added together.
+
 
 `Challenge!`
 
