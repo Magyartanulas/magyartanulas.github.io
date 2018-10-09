@@ -33,7 +33,7 @@ Compound words are also common and work just like you think they would: take a b
 * `vízvezeték-szerelő` > `vízvezeték` (waterway) + `szerelő` (assembler) >> plumber
 
 
-***Note:*** it is highly advised not to deconstruct every word you see, less you get the wrong idea, e.g. beszél does *not* equal be + szél.
+***Note:*** it is highly advised not to deconstruct every word you see, lest you get the wrong idea, e.g. beszél does *not* equal be + szél.
 
 ---
 
