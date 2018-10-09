@@ -29,7 +29,7 @@ Starting from Section 2, there will be captioned images with no english translat
 5. The Accusative Case & Plurals
 6. Definite & Indefinite Conjugation
 7. Infinitive + Negation
-8. Pronouns (incomplete)
+8. Pronouns
 9. The Conditional Mood
 10. The Dative Case & Possession
 11. Expressing Interest
