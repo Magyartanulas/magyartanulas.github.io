@@ -38,7 +38,7 @@ Examples:
 
 See that `-m` and `-en`? The former marks first person possession while the latter states being *on* something, both of these will be explained later.
 
-## Relative pronouns (incomplete)
+## Relative pronouns
 
 These question starters can be used as relative pronouns. Relative pronouns refer to something else and are made by adding `a-`.
 
@@ -59,7 +59,7 @@ Likewise, as we have added the plural, we can do the same with the accusative.
 
 Examples:
 
-* Ez az a hely ahol csak a fantázia szab határt.
+* Ez az a hely ahol csak a fantázia szab határt. - (This is the place where only fantasy sets the limit.)
 * Amelyik kutya ugat, az nem harap - (Idiom: The dog that barks doesn't bite.)
 * Vacsoráztam, amikor hívtál. - (I was having dinner (lit. was dinnering) when you called.)
 
@@ -73,4 +73,6 @@ Examples:
 
 *Ott lakunk ahol akarunk.*
 *Amilyen az apa, olyan a fiú.*
-*Az vagyok, aki
+*Az vagyok, aki magyarul tanlok*
+*az a baj, hogy nem láttam amit történni fog
+*az a helyzet, hogy....
