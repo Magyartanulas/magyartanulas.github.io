@@ -17,12 +17,12 @@ You can use these types of pronouns to ask for information. Here are a few:
 * `Milyen?` >> What kind of? What like?
 * `Mennyi?` >> How much?
 
-The `-k` added on serves as the plural (note the change in `melyik`).
+The `-k` added on serves as the plural (note the change in `melyik`). For words like `mi` and `ki`, if you expect the answer to be multiple, you can say the plural version, otherwise there is nothing wrong with asking the singular to receive a plural answer.
 
 The accusative can be added onto some of these pronouns when asking for *the direct object*.
 
-* `Mit?, Micsodát?` >> What?
-* `Kit?` >> Who?
+* `Mit? Miket? Micsodát?` >> What?
+* `Kit? Kiket?` >> Who?
 
 Examples:
 
