@@ -64,7 +64,7 @@ Examples:
 * Vacsoráztam, amikor hívtál. - (I was having dinner (lit. was dinnering) when you called.)
 
 `Challenge!`
-[!üres](https://magyartanulas.github.io/public/jajj.png)
+![üres](https://magyartanulas.github.io/public/jajj.png)
 
 *Kiderült, nem én vagyok az első, aki ezt kitalálta.*
 
