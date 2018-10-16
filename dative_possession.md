@@ -96,10 +96,15 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
 * Bátyamnak volt. - (It was my brother's.)
 
-`Challenge!`
+`Challenges!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
 
 *- Nem ezek a könyveid?*
+
+---
+*Barnabás: Kit láttál?*
+
+*Alex: A zöld bagoly óvónőit.*
 
 ### Stating possessions
 
