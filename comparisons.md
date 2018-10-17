@@ -101,10 +101,10 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 *De az acél nehezebb a tollnál!*
 
-<span class="spoiler">But steel is heavier than feathers!</spoiler>
+<span class="spoiler">But steel is heavier than feathers!</span>
 
 ![lajcsi](https://magyartanulas.github.io/public/lajcsi.png)
 
 *Mint te, olyan leszek!*
 
-<span class="spoiler">I will be like you!</spoiler>
+<span class="spoiler">I will be like you!</span>
