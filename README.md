@@ -27,7 +27,7 @@ Starting from Section 2, there will be captioned images with no english translat
 3. Introduction to Postpositions & Articles
 4. Introduction to Word Building (incomplete)
 5. The Accusative Case & Plurals
-6. Definite & Indefinite Conjugation
+6. Definite vs Indefinite Conjugation
 7. Infinitive + Negation
 8. Pronouns (incomplete)
 9. The Conditional Mood
@@ -35,7 +35,7 @@ Starting from Section 2, there will be captioned images with no english translat
 11. Expressing Interest
 12. Expressing Location
 13. Making Comparisons
-14. Coverbs & Telicity
+14. Coverbs + Telicity
 15. More Noun Cases
 16. Hogy
 17. The Imperative & Subjunctive Mood
