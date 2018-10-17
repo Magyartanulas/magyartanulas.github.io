@@ -34,7 +34,7 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 * kevés - kevesebb
 
 `Challenge!`
-![ingek](https://magyartanulas.github.io/public/együtt.png
+![ingek](https://magyartanulas.github.io/public/együtt.png)
 
 *Barnabás: Mit gondolsz? Melyik ing a jobb?*
 
