@@ -58,7 +58,9 @@ Note, everything here is simplified and not much is explained, but if you keep c
 
 *- Hát, ez nem jó!*
 
-## Van
+---
+
+## Introduction to Verbs - Van
 
 Van is the verb for existence. Naturally, it is an irregular verb, but one of the most important as well.
 
@@ -135,7 +137,7 @@ Felkel - (He/she/it rises or gets up) *Front-vowel (type 2)*
 
 Note the different times that `felkeltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
 
-`fel` is a *coverb* that has been added to `kel` to add directionality to the verb, we'll touch upon this topic later down the line. 
+`fel` is a *coverb* that has been added to `kel` to add directionality to the verb, [this is explained here.](https://magyartanulas.github.io/coverbs_telicity) 
 
 ### Back vowel conjugation
 ---
@@ -170,6 +172,8 @@ And naturally the other timestamps work with the past-tense.
 * Telihold volt a minap éjszaka. - (There was a full moon the other night.)
 * Nemrég otthon voltam és a karácsonyra. - (I was at home recently for Christmas.)
 
+`meg-` is a prefix that adds telicity to verbs, [which is explained here.](https://magyartanulas.github.io/coverbs_telicity)
+
 ---
 
 There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is changed.
@@ -190,8 +194,8 @@ Lesz (he/she/it becomes) *front-vowel*
 
 *- És hol leszel holnap?*
 
-Lesz is the verb used as the future of van, so they are closely related.
+`Lesz` is the verb used as the future of `van`, so they are closely related.
 
-Notice how it says lesz*el* and not lesz*sz*, vowel harmony chips in to make it sound nicer.
+Notice how it says `leszel` and not `lessz`, vowel harmony chips in to make it sound nicer.
 
-We'll jump onto more verbs in future sections.
+Stay tuned for more verbs in upcoming sections!
