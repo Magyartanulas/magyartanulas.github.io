@@ -14,7 +14,7 @@ The dative case marks the indirect object. Whenever something/someone does somet
 
 * I gave a book to the boy. (The boy is the indirect object).
 * Mother cooked food for us. (The pronoun us is the indirect object).
-* Did you send a letter to Joe? (Joe is the indirect object).
+* Did you write a letter to Joe? (Joe is the indirect object).
 
 ### Vowel Harmony & Examples
 
