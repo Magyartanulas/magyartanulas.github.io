@@ -131,6 +131,8 @@ Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are us
 
 *Ha van Balrog, miért nincsen Jobbrog?*
 
+<span class="spoiler">If there is a Balrog/Leftrog, why is there no Rightrog?</span>
+
 * Bal - left
 * Jobb - right
 
@@ -148,6 +150,8 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 ![Yoda](https://magyartanulas.github.io/public/yoda.jpeg)
 
 *Tedd, vagy ne tedd, de ne próbáld!*
+
+<span class="spoiler">Do or do not, but do not try!</span>
 
 ### Negative questions
 
