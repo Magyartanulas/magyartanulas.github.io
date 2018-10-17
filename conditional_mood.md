@@ -87,8 +87,6 @@ The word `ha` means if, and is not limited to the conditional mood.
 
 *Barnabás: Már nem számít...* - (It doesn't matter / He/she no longer counts).
 
-The `el-` as well as `meg-` makes the verb telic, telicity will be covered at a later date.
-
 The word `akkor` means then, and is used as an immediate follow-up.
 
 * Ha mindenható lennél, akkor mi lenne az első dolog megváltaztotnál a világban? (If you were almighty, then what would be the first thing you would change in the world?)
@@ -138,3 +136,5 @@ Finally, you can combine the conditional mood with `-hat, -het` we get could (li
 * Bárcsak láthatnám az arcát, amikor megtudja! - (If only I could see his face, when he finds out!)
 
 Bárcsak means if only/I wish and it is considered conditional. When it is used, the rest of the sentence must be conditional as well.
+
+The `el-` as well as `meg-` makes the verb telic, `haza-` is also a coverb. [This is  all explained here.](https://magyartanulas.github.io/coverbs_telicity/)
