@@ -179,6 +179,8 @@ This can be done in the format of questions
 
 *Két kutya üldöz egy szarvast.*
 
+<span class="spoiler">Two dogs chase a deer.</span>
+
 ## Special conjugation
 
 If the verb is happening between I and you, then we use the special verb conjugation -lak/-lek.
