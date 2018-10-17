@@ -39,3 +39,53 @@ This is the same deal with Hungarian so it's important to get these right. Here 
 Even though `át-` means through/across, when the noun has `-n` attached, the meaning changes slightly.
 
 ## Telicity (incomplete)
+
+Telicity (lit. end or goal) is a property of a verb that indicates completion. If a verb is telic, it is goal-oriented.
+
+First, let's see it in English.
+
+* He ran around the block *for* half an hour.
+* He ran around the block *in* half an hour.
+
+The first example represents a person running within a general time-frame and realing that they ran for half an hour. The second represents a person with the goal of running around the block in half an hour, he has the goal of completing this within a time limit.
+
+The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typically either `meg-` or `el-` will represent telicity but there are exceptions, naturally. Here are some examples:
+
+* **eszik, megeszik**
+
+`Eszik` translates to he/she/it eats. Because this isn't telic, this verb can be used when you are in the process of eating or idly eating. `Megeszik` is telic, so now the goal is on eating *all of it*, used when you finish a meal.
+
+* Mit eszel? - (What are you eating?)
+* Megette a répát! - (He/she ate the carrot!)
+
+* **lát, meglát**
+
+`Lát` translates to he/she/it sees. It isn't telic, so this is used when you *happen* to see or notice something `Meglát` however puts the goal on seeing, so the meaning changes to *glimpse* or *catch sight of*.
+
+* Nem látod a híres szobort? - (Have you (not) seen the famous statue?)
+* Meglátott egy rókát az erdőben. - (He/she/it caught sight of a deer in the forest.)
+
+* **beszél, megbeszél**
+
+`Beszél` translates to he/she/it speaks. Being not telic, this is used when you are speaking in general. `Megbeszél` makes the verb telic and is used when the goal is to speak, this changes the verb from speaks to discuss a topic until completion, *to have a talk*.
+
+* Csss! Anyám telefon beszél. - (Shhh! Mother's speaking on the phone.)
+* Majd ezt megbeszélem vele. - (I'll discuss this with him sometime later.)
+
+* **hív, meghív**
+
+`Hív` is the verb 
+
+* **olvas, elolvas**
+
+* **megy, elmegy**
+
+* **mesél, elmesél**
+
+`Vele` is a pronoun of the instrumental case, it is explained here.
+
+`Challenge!`
+
+*insert image*
+
+*Aki megtanul egy új nyelvet, megszerez egy új lelket.*
