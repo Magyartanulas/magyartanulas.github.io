@@ -41,6 +41,8 @@ In Hungarian, there are postpositions. They are placed after the noun relationsh
 
 *A kutya a lány mellett ül.*
 
+<span class="spoiler">The dog sits next to the girl.</span>
+
 These postpositions don't indicate relative movement between the nouns, i.e. at that *specifc* point of time, they are not moving away from each other. Spatial postpositions can also represent the relationship of a noun moving towards the other noun or away from that noun.
 
 | Postposition  | Moving towards (to) | No relative movement | Moving away (from) |
