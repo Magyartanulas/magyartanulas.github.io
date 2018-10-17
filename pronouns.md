@@ -66,13 +66,44 @@ Examples:
 `Challenge!`
 ![üres](https://magyartanulas.github.io/public/jajj.png)
 
-*Kiderült, nem én vagyok az első, aki ezt kitalálta.*
+*Kiderült, nem én voltam az első, aki ezt rátalálta.*
 
 
-## This & That (incomplete)
+## Demonstrative Pronouns - This & That
 
-*Ott lakunk ahol akarunk.*
-*Amilyen az apa, olyan a fiú.*
-*Az vagyok, aki magyarul tanlok*
-*az a baj, hogy nem láttam amit történni fog
-*az a helyzet, hogy....
+Demonstrative pronouns are those that point to something via context. For example, in English we have this and that to represent something near and far respectively. In Hungarian it's the same kind of deal with a few changes, here are some examples:
+
+| Example              | Near    | Far    |
+|----------------------|---------|--------|
+| What? Which? Who?    | Ez      | Az     |
+| Where?               | Itt     | Ott    |
+| How?                 | Így     | Úgy    |
+| What kind of?        | Ilyen   | Olyan  |
+| How much?            | Ennyi   | Annyi  |
+| Something like what? | Ilyesmi | Olyasmi|
+| Home                 | Itthon  | Otthon |
+
+The accusative, plural and other things have been omitted for simplicity, naturally there are much more examples out there as well.
+
+* Use the near-version for things that are physically close, temporally close or close to the conversation. It relies solely on context
+* The far-version however is for the distant versions of these and when exaggerating. It relies either on context or explanation.
+
+### Near-version Examples
+
+* Előfordul az ilyesmi. - (These things happen (lit. This kind of thing happens))
+* Ilyen az élet. - (Such is life.)
+* Csak így tovább! - (Keep it up! (lit. Only further this way!))
+* Ez az! - (That's it!)
+
+### Far-version Examples
+
+* Ott lakunk ahol akarunk. - (We live where we want.)
+* Amilyen az apa, olyan a fiú. - (Like Father, like son.)
+* Az vagyok, aki magyarul tanlok. (I am he/she who learns hungarian.)
+* Igyál annyit, amennyi  jólesik! - (Drink as much as you want! (lit. as it falls well))
+
+*Alex: Na, mi a baj?* - (What's the problem?)
+
+*Barnabás: Az a baj, hogy összetörtem az egyik vázát!* - ( The problem is that I broke one of the vases!)
+
+*Alex: Jajj ne!*
