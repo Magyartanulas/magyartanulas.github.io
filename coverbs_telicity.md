@@ -39,7 +39,16 @@ This is the same deal with Hungarian so it's important to get these right. Here 
 
 Even though `át-` means through/across, when the noun has `-n` attached, the meaning changes slightly.
 
-## Telicity (incomplete)
+`Challenge!`
+![háború](https://magyartanulas.github.io/showdown.png/)
+
+*A kő legyőzi az ollót!*
+
+<span class="spoiler">Rock beats scissors!</span>
+
+---
+
+## Telicity
 
 Telicity (lit. end or goal) is a property of a verb that indicates completion. If a verb is telic, it is goal-oriented.
 
@@ -118,6 +127,8 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 ![nyelvek](https://magyartanulas.github.io/public/üdv.png)
 
 *Aki megtanul egy új nyelvet, megszerez egy új lelket.*
+
+<span class="spoiler">He/she who learns a new language, acquires a new soul.</span>
 
 ---
 
