@@ -45,7 +45,7 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 ## így/úgy
 
 
-Both `így` and `úgy` are adverbial pronouns, and are used to describe *how* a verb is done. Thus, both roughly translate into this way, or that way and typically go alongside verbs.
+Both `így` and `úgy` are adverbial [pronouns](https://magyartanulas.github.io/pronouns), and are used to describe *how* a verb is done. Thus, both roughly translate into this way, or that way and typically go alongside verbs.
 
 When `úgy` is used, it is followed up with more information either in the sentence or by context as it generally describes something that is distant. `Így` is used to follow up on something that is closer to the speaker, this is also done by context or in the sentence.
 
@@ -65,7 +65,7 @@ Link to pronouns.md
 
 ## ilyen/olyan
 
-Both `ilyen` and `olyan` on the other hand are adjectival pronouns. They both translate roughly into this kind of, or that kind of and go alongside nouns instead. Similar to before, `olyan` is followed up with more information or context, while `ilyen` is typically closer to the speaker and the context or information is more obvious.
+Both `ilyen` and `olyan` on the other hand are adjectival [pronouns.](https://magyartanulas.github.io/pronouns) They both translate roughly into this kind of, or that kind of and go alongside nouns instead. Similar to before, `olyan` is followed up with more information or context, while `ilyen` is typically closer to the speaker and the context or information is more obvious.
 
 * Olyanok voltunk, amikor fiatalok voltunk. - (We were like that when we were younger.) e.g. talking about crazy kids.
 * Olyan sok munkám van - (I have so much work.)
@@ -99,6 +99,10 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 *De az acél nehezebb a tollnál!*
 
+<span class="spoiler">But steel is heavier than feathers!</spoiler>
+
 ![lajcsi](https://magyartanulas.github.io/public/lajcsi.png)
 
 *Mint te, olyan leszek!*
+
+<span class="spoiler">I will be like you!</spoiler>
