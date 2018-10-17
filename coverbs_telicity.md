@@ -115,7 +115,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 
 `Challenge!`
-
+![nyelvek](https://magyartanulas.githubio/public/üdv.png)
 
 *Aki megtanul egy új nyelvet, megszerez egy új lelket.*
 
