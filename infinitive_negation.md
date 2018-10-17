@@ -42,7 +42,7 @@ Or if the verb ends in two consonants it will also receive a linking vowel.
 * játsz - *játszani* (to play)
 * mond - *mondani* (to say)
 
-`le-` and `ki-` are some more coverbs that we will be touching upon later.
+`le-` and `ki-` are some more coverbs that are explained [here.](https://magyartanulas.github.io/coverbs_telicity/)
 
 **Case 2: Irregular verb**
 
@@ -153,7 +153,7 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 
 It isn't uncommon to ask questions in the negative, especially if they are yes or no questions.
 
-Consider these situation with persons Alex & Barnabás, depending on the situation, Barnabás could respond with the following:
+Consider these situations, Barnabás could respond with the following:
 
 * Alex: Nem láttad a nyelvtan könyvet? - (Have you (not) seen the grammar book?)
   * Barnabás: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
