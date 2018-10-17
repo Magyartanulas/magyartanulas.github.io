@@ -26,7 +26,7 @@ ty u ú ü ű v w x y z zs
 It should be noted that the Hungarian Language has **gemination**, or consonant lengthening.
 Consonants can be paired together for a longer consonant sound. Every word in Hungarian is stressed on the first syllable.
 
-* Legsze**bb** <span class="spoiler">`Most beautiful`</span>
+* Legsze**bb** <span class="spoiler">Most beautiful</span>
 * U**jj** <span class="spoiler">Finger</span>
 * Á**ll** <span class="spoiler">He/she/it stands</span>
 * Kö**nny** <span class="spoiler">Tear (long ny)</span>
