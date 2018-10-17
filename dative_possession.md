@@ -95,6 +95,7 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 * Dániel kutyájának a lába - (Daniel's dog's leg.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
 * Bátyamnak volt. - (It was my brother's.)
+* A falnak is füle van! - (Idiom: Even the walls have ears!)
 
 `Challenges!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
