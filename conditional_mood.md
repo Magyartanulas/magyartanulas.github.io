@@ -71,6 +71,8 @@ The `-ban,-ben` is a locative case, [this is covered here.](https://magyartanula
 
 *- Ennék többet, de tele vagyok!*
 
+<span class="spoiler">I would eat more, but I'm full!</span>
+
 ### Akkor, Ha & Majd
 
 While using the conditional mood, we can ask hypothetical questions as well. If we *are* using the conditional mood, then every aspect of that sentence is used in the conditional as well.
