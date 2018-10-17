@@ -16,6 +16,9 @@ Hungarian makes the distinction between where you are, where you are going and w
 
 **Note:** `hová` is the alternative form of `hova`.
 
+* Én mindig úgy jutok el oda, ahova tartok, hogy távolodom onnan, ahol voltam. - (I always get to where I'm headed (by) moving away from where I've been.)
+
+
 `Challenge!`
 ![joe](https://magyartanulas.github.io/public/cotton.png)
 
