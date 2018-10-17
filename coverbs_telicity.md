@@ -75,7 +75,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 `Lát` translates to he/she/it sees. It isn't telic, so this is used when you *happen* to see or notice something `Meglát` however puts the goal on seeing, so the meaning changes to *glimpse* or *catch sight of*.
 
 * Nem látod a híres szobort? - (Have you (not) seen the famous statue?)
-* Meglátott egy rókát az erdőben. - (He/she/it caught sight of a deer in the forest.)
+* Meglátott egy rókát az erdőben. - (He/she/it caught sight of a fox in the forest.)
 
 ---
 
