@@ -33,6 +33,8 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 
 *Ezt a folyót Dunának hívnak.*
 
+<span class="spoiler">They call this river the Duna.</span>
+
 Just like with the accusative case, pronouns change if they are in the dative case.
 
 | Pronoun | Dative |
@@ -102,10 +104,16 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 
 *- Nem ezek a könyveid?*
 
+<span class="spoiler">Are these not your books?</span>
+
 ---
 *Barnabás: Kit láttál?*
 
-*Alex: A zöld bagoly óvónőit.*
+*Alex: A Zöld Bagoly Óvónőit.*
+
+<span class="spoiler">Who did you see?</span>
+
+<span class="spoiler">The Kindergarten Teachers of the Green Owl</span>
 
 ### Stating possessions
 
