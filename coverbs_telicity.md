@@ -40,7 +40,7 @@ This is the same deal with Hungarian so it's important to get these right. Here 
 Even though `át-` means through/across, when the noun has `-n` attached, the meaning changes slightly.
 
 `Challenge!`
-![háború](https://magyartanulas.github.io/showdown.png/)
+![háború](https://magyartanulas.github.io/public/showdown.png/)
 
 *A kő legyőzi az ollót!*
 
