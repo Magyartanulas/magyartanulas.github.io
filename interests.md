@@ -32,6 +32,8 @@ The person who it appeals to can be omitted, from which context tells who that p
 
 *Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel!*
 
+<span class="spoiler">If you liked this video, liked, comment and subscribe!</span>
+
 ## Ízlik - Taste
 ---
 
@@ -52,6 +54,8 @@ Here are the relevant conjugations, to see all of them [click here.](https://coo
 ![Túró rudi](https://magyartanulas.github.io/public/rudi.jpg)
 
 *Kinek ízlik a túró rudi?*
+
+<span class="spoiler">Who likes túró rudi?</span>
 
 ## Vonz - Attraction
 ---
@@ -77,6 +81,10 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 *Barnabás: Hova szeretnél elutazni?*
 
 *Alex: Ausztrália és Új Zéland vonzanak engem, mert tetszik az ottani kultúra.*
+
+<span class="spoiler">Where would you like to travel?</span>
+
+<span class="spoiler">Australia and New Zealand attract me, because I like the culture over there.</span>
 
 ## Érdekel - Interest
 ---
@@ -195,6 +203,8 @@ For people one can use `imád` to worship or express stronger love or cherishmen
 ![Szerelmes](https://magyartanulas.github.io/public/szerelmes.jpg)
 
 *Rómeó szerelmes volt Júliába.*
+
+<span class="spoiler">Romeó fell in love with Júlia.</span>
 
 There are all sorts of lovey-dovey names that people use for their partners, here are a few:
 
