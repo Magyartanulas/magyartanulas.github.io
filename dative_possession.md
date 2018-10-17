@@ -72,7 +72,6 @@ Here are some examples:
 * Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myslef, here I stand infront of its gate.)
 * Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
 * A Csend Hangja. - (The Sound of Silence).
-* A Zöld Bagoly Óvónői - (The Kindergarten Teachers of The Green Owl)
 * Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning our time is flexible).
 * A kutyáim szomorúak, mert nincs több kajájuk. - (My dogs are sad because they have no more dog-food.)
 * Az egyik hobbim az olvasás. - (One of my hobbies is reading.)
