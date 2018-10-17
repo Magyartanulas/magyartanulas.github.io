@@ -31,7 +31,7 @@ Consonants can be paired together for a longer consonant sound. Every word in Hu
 * Á**ll** <span class="spoiler">He/she/it stands</span>
 * Kö**nny** <span class="spoiler">Tear (long ny)</span>
 * Sebe**ss**ég - <span class="spoiler">Speed</span>
-* A**ssz**ony - <span class="spoiler">Mrs. (long sz)</span>)
+* A**ssz**ony - <span class="spoiler">Mrs. (long sz)</span>
 
 See how only the first letter of a diagraph (double-letter) is lengthened.
 
