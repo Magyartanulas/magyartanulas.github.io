@@ -24,6 +24,8 @@ Hungarian makes the distinction between where you are, where you are going and w
 
 *Honnan jöttél, hová mentél? honnan jöttél Pamutszem Joe?*
 
+<span class="spoiler">Where did you come from, where did you go? Where did you come from Cottoneye Joe?</span>
+
 ## The Locative Cases
 ---
 
@@ -97,6 +99,8 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 
 *Én mondom csapnivalóan rossz király lesz belőled.*
 
+<span class="spoiler">I say an atrociously bad king will become out of you.</span>
+
 ### Surface
 
 ![tutajok](https://magyartanulas.github.io/public/surfaces_enlarged.png)
@@ -157,6 +161,8 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 
 *Vár rád egy jó barát.*
 
+<span class="spoiler">A good friend waits for you.</span>
+
 ### Solid
 
 ![fák](https://magyartanulas.github.io/public/solids.png)
@@ -210,6 +216,8 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 ![interview](https://magyartanulas.github.io/public/interview.png)
 
 *Szeretném tőled megkérdezni, hogy...*
+
+<span class="spoiler">I would like to ask of you....</span>
 
 ---
 
