@@ -106,4 +106,8 @@ If there is an object in the sentence, then the definite conjugation is used whe
 
 *- Keresem a kék tollat.*
 
+<span class="spoiler">What are you doing?</span>
+
+<span class="spoiler">I'm searching for the blue pen.</span>
+
 Aren't you loving all these verb tables? :smiley:
