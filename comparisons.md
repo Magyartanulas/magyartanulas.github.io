@@ -38,7 +38,7 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 *Barnabás: Mit gondolsz? Melyik ing a jobb?*
 
-*Éva: Szerintem a kék ing jó. Az jól megy a szürke kabáthoz.
+*Éva: Szerintem a kék ing jó. Az jól megy a szürke kabáthoz.*
 
 ---
 
