@@ -10,7 +10,7 @@ To express general liking in Hungarian, you don't necessarily *like* something, 
 
 If you want to be even more casual, you can replace `tetszik` with `bejön`.
 
-These are the relevant conjugations to express general interest, to see the full verb conjugation [click here](https://cooljugator.com/hu/tetszik) Don't forget you can change past to past conditional by adding `volna`!
+These are the relevant conjugations to express general interest, to see the full verb conjugation [click here.](https://cooljugator.com/hu/tetszik) Don't forget you can change past to past conditional by adding `volna`!
 
 | Pronoun | Past indef. | Present indef. | Present indef. cond. |
 |---------|-------------|----------------|----------------------|
