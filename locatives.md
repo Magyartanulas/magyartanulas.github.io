@@ -37,6 +37,11 @@ These cases can be into three groups which are each applied to how the noun is i
 
 A noun can be interpreted in more than one way depending on the context.
 
+**Hierarchy**
+
+* Plural/possessive
+* locative
+
 ### Hollow box
 
 ![ajtók](https://magyartanulas.github.io/public/doors.png)
