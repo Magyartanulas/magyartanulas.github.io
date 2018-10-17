@@ -45,6 +45,16 @@ html {
   }
 }
 
+/*SPOILERS*/
+
+.spoiler{ 
+  color: black; 
+  background-color:black;
+}
+
+.spoiler:hover{
+  background-color:white; 
+  }
 
 /*
  * Sidebar
