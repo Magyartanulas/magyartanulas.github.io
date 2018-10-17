@@ -42,7 +42,7 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 <span class="spoiler">Barnabás: What do you think? Which shirt is better?</span>
 
-<span class="spoiler">I think the blue shirt is good. It goes well with your grey jacket.</span>
+<span class="spoiler">Éva: I think the blue shirt is good. It goes well with your grey jacket.</span>
 
 ---
 
