@@ -58,6 +58,8 @@ Note, everything here is simplified and not much is explained, but if you keep c
 
 *- Hát, ez nem jó!*
 
+<span class="spoiler">Well this isn't good!</span>
+
 ---
 
 ## Introduction to Verbs - Van
@@ -101,6 +103,8 @@ There are two things to notice here:
 ![Ki vagy?](https://magyartanulas.github.io/public/ki_vagy.png)
 
 *- János vagyok, ki vagy?*
+
+<span class="spoiler">I'm János, who are you?</span>
 
 ## Examples of Regular Verb Conjugation
 
@@ -193,6 +197,8 @@ Lesz (he/she/it becomes) *front-vowel*
 ![Hol leszel?](https://magyartanulas.github.io/public/hol_leszel.jpg)
 
 *- És hol leszel holnap?*
+
+<span class="spoiler">And where will you be tomorrow?</span>
 
 `Lesz` is the verb used as the future of `van`, so they are closely related.
 
