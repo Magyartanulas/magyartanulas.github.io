@@ -110,4 +110,4 @@ The accusative, plural and other things have been omitted for simplicity, natura
 
 ---
 
-`rá-`, `össze` and `elő` are also [coverbs.](https://magyartanulas.github.io/coverbs_telicity)
+`rá-`, `össze` and `elő-` are also [coverbs.](https://magyartanulas.github.io/coverbs_telicity)
