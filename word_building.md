@@ -16,7 +16,7 @@ Remember, even if you can see smaller words/root words within the word, the mean
 | Tehet (he/she/it can do/put) | Tehetetlen (powerless) | Tehetség (talent)      | Tehetetlenség (powerlessness, inertia) |
 | Zöngés (voiced)              | Zöngétlen (voiceless)  | Zöngésség (voicedness) | Zöngétlenség (voicelessness)           |
 
-`Tehet` is actually `tesz` + `-het`, this is explained later at the conditional mood section.
+`Tehet` is actually `tesz` + `-het`, this is explained in [this section here](https://magyartanulas.github.io/conditional_mood/)
 
 This is scary and there are many more attachments, but as we move on to more sections, all the pieces will slide into place.
 
@@ -51,7 +51,7 @@ Compound words are also common and work just like you think they would: take a b
 * `szentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour
 * `megszentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour (until the action is exhausted)
 
-`-het` is seen here again, but also `meg-` which marks telicity. We'll see this in more sections, and eventually it will be explained.
+`-het` is seen here again, but also `meg-`. It isn't rare for it to show up, so we will definitely see it again in later sections.
 
 ### Summary
 
