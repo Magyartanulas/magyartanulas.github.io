@@ -64,3 +64,5 @@ Compound words are also common and work just like you think they would: take a b
 ![kerékpár](https://magyartanulas.github.io/public/kerékpár.png)
 
 *kerék + pár = kerékpár*
+
+<span class="spoiler">wheel + couple = bicycle</span>
