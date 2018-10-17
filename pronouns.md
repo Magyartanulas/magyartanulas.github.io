@@ -68,6 +68,7 @@ Examples:
 
 *Kiderült, nem én voltam az első, aki ezt rátalálta.*
 
+<span class="spoiler">It turned out I was not the first to discover this.</span>
 
 ## Demonstrative Pronouns - This & That
 
