@@ -40,6 +40,10 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 *Éva: Szerintem a kék ing jó. Az jól megy a szürke kabáthoz.*
 
+<span class="spoiler">Barnabás: What do you think? Which shirt is better?</span>
+
+<span class="spoiler">I think the blue shirt is good. It goes well with your grey jacket.</span>
+
 ---
 
 ## így/úgy
@@ -48,8 +52,6 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 Both `így` and `úgy` are adverbial [pronouns](https://magyartanulas.github.io/pronouns), and are used to describe *how* a verb is done. Thus, both roughly translate into this way, or that way and typically go alongside verbs.
 
 When `úgy` is used, it is followed up with more information either in the sentence or by context as it generally describes something that is distant. `Így` is used to follow up on something that is closer to the speaker, this is also done by context or in the sentence.
-
-Link to pronouns.md
 
 * Úgy többet tanulok, ha elmagyarázod nekem. - (I learn more (this way), if you explain it to me.)
 * Úgy is jó. - (That way is good as well.) e.g. the way in which to do something.
