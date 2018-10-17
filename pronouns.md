@@ -36,7 +36,7 @@ Examples:
 
 *Alex: Matek, remélem, hogy jó lesz!* - (Maths, I hope it will be good!)
 
-See that `-m` and `-en`? The former marks first person possession while the latter states being *on* something, both of these will be explained later.
+See that `-m` and `-en`? The former marks [first person possession](https://magyartanulas.github.io/dative_possession/) while the latter states being *on* something, which is explained [here.](https://magyartanulas.github.io/locatives)
 
 ## Relative pronouns
 
@@ -107,3 +107,7 @@ The accusative, plural and other things have been omitted for simplicity, natura
 *Barnabás: Az a baj, hogy összetörtem az egyik vázát!* - ( The problem is that I broke one of the vases!)
 
 *Alex: Jajj ne!*
+
+---
+
+`rá-`, `össze` and `elő` are also [coverbs.](https://magyartanulas.github.io/coverbs_telicity)
