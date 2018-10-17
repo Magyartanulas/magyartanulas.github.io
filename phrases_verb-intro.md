@@ -159,6 +159,7 @@ Just like how `fog` is used with the infinitive verb to express the future, we c
 
 * Majd készülök menni Londonba. - (I will be getting ready to go to London sometime later.)
 * Holnap találkozunk. - (We are meeting tomorrow.)
+* Otthon megnézem. - (I'll watch it at home.)
 * Vasárnap a piacra megyek. - (I'm going to the markets on Sunday.)
 * Pénteken a városba megyek. - (I'm going into the city on Friday.)
 
@@ -168,6 +169,7 @@ And naturally the other timestamps work with the past-tense.
 * Mit csináltál tegnap? - (What did you do yesterday?)
 * Telihold volt a minap éjszaka. - (There was a full moon the other night.)
 * Nemrég otthon voltam és a karácsonyra. - (I was at home recently for Christmas.)
+
 ---
 
 There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is changed.
