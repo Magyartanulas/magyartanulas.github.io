@@ -11,16 +11,16 @@ layout: page
 
 The imperative mood can be expressed by adding on `-j` to the end of the verb unless it's an irregular verb(link). Here are some examples:
 
-Format: indef. | def.
+Format: indef. -- def.
 
 | Pronoun | Van/Lesz              | Van/Lesz    | Jön      | Megy     | Néz                 |
 |---------|-----------------------|-------------|----------|----------|---------------------|
-| én      | mondjak | mondjam     | legyek      | jöjjek   | Menjek   | nézzek | nézzem     |
-| te      | mondj | mondjad/mondd | légy/legyél | gyere    | Menj     | nézz | nézzed/nézd  |
-| ő       | mondjon | mondja      | legyen      | jöjjön   | Menjen   | nézzen | nézze      |
-| mi      | mondjunk | mondjuk    | legyünk     | jöjjünk  | Menjünk  | nézzünk | nézzük    |
-| ti      | mondjatok | mondjátok | legyetek    | gyertek  | Menjetek | nézzetek | nézzétek |
-| ők      | mondjanak | mondják   | legyenek    | jöjjenek | Menjenek | nézzenek | nézzék   |
+| én      | mondjak--mondjam      | legyek      | jöjjek   | Menjek   |  nézzek--nézzem     |
+| te      | mondj--mondjad/mondd  | légy/legyél | gyere    | Menj     |  nézz--nézzed/nézd  |
+| ő       | mondjon--mondja       | legyen      | jöjjön   | Menjen   |  nézzen--nézze      |
+| mi      | mondjunk--mondjuk     | legyünk     | jöjjünk  | Menjünk  |  nézzünk--nézzük    |
+| ti      | mondjatok--mondjátok  | legyetek    | gyertek  | Menjetek |  nézzetek--nézzétek |
+| ők      | mondjanak--mondják    | legyenek    | jöjjenek | Menjenek |  nézzenek--nézzék   |
 
 common examples:
 
