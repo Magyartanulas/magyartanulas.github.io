@@ -105,6 +105,6 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 ![lajcsi](https://magyartanulas.github.io/public/lajcsi.png)
 
-*Mint te, olyan leszek!*
+*Ha ezt az egyet metudom, mint te, olyan leszek!*
 
-<span class="spoiler">I will be like you!</span>
+<span class="spoiler">If I know this one thing, I will be like you!</span>
