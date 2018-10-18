@@ -134,6 +134,6 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 `Vele` is a pronoun of the instrumental case, it is explained here.
 
-The topic of telicity is quite hard to wrap the head around, you might want to take a look at this [pdf](https://www.glossa-journal.org/articles/10.5334/gjgl.52/galley/88/download/) if it helps explain.
+The topic of telicity is quite hard to wrap the head around, you may want to download this [pdf.](https://www.glossa-journal.org/articles/10.5334/gjgl.52/galley/88/download/) if it helps explain.
 
 You are encouraged to review the previous sections to see more examples of telicity.
