@@ -22,10 +22,11 @@ Starting from Section 2, there will be captioned images with no english translat
 2. Phrases & Introduction to Verbs
 3. Introduction to Postpositions & Articles
 4. Introduction to Word Building
+5. Pronouns
 5. The Accusative Case & Plurals
 6. Definite vs Indefinite Conjugation
 7. Infinitive + Negation
-8. Pronouns
+8. Conjunctions
 9. The Conditional Mood
 10. The Dative Case & Possession
 11. Expressing Interest
@@ -35,8 +36,6 @@ Starting from Section 2, there will be captioned images with no english translat
 15. The Imperative & Subjunctive Mood
 16. More Noun Cases
 17. The Conjugated Infinitive & Expressing need
-18. Hogy
-
 
 Stay tuned for more!
 
