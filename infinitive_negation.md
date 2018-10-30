@@ -211,35 +211,35 @@ function check_reveal(button) {
 </span>
 
 <div id = "transcript" style ="display:none">
-J: így van
-P: Jani, 
-J: Igen
-P: segíts, mi a gond?
-J: A gond az, hogy nincs videó
-P: De van
-J: ...Dee nincs, ez a gond
-P: Mármint, mi nincs?
-J: Videó nincs. Ezen a csatornán nincs videó
-P: Ezen a csatornán nincs videó
-J: Igen
-P: Hát ez gond...
-J: Ez gond, hát ez gond!
-P: Na most..
+J: így van<br/>
+P: Jani,<br/> 
+J: Igen<br/>
+P: segíts, mi a gond?<br/>
+J: A gond az, hogy nincs videó<br/>
+P: De van<br/>
+J: ...Dee nincs, ez a gond<br/>
+P: Mármint, mi nincs?<br/>
+J: Videó nincs. Ezen a csatornán nincs videó<br/>
+P: Ezen a csatornán nincs videó<br/>
+J: Igen<br/>
+P: Hát ez gond...<br/>
+J: Ez gond, hát ez gond!<br/>
+P: Na most..<br/>
 </div>
 
 <div id = "translation" style ="display:none">
-J: That's right
-P: Jani, 
-J: Yes
-P: Help me out, what's the issue?
-J: The issue is that there is no video
-P: But there is
-J: ...But there isn't, that's the issue
-P: Namely what isn't?
-J: There's no video. There's no video on this channel
-P: There's no video on this channel
-J: Yes
-P: Well this is an issue...
-J: This is an issue, well this is an issue!
-P: So now...
+J: That's right<br/>
+P: Jani,<br/>
+J: Yes<br/>
+P: Help me out, what's the issue?<br/>
+J: The issue is that there is no video<br/>
+P: But there is<br/>
+J: ...But there isn't, that's the issue<br/>
+P: Namely what isn't?<br/>
+J: There's no video. There's no video on this channel<br/>
+P: There's no video on this channel<br/>
+J: Yes<br/>
+P: Well this is an issue...<br/>
+J: This is an issue, well this is an issue!<br/>
+P: So now...<br/>
 </div>
