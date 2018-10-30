@@ -179,6 +179,3 @@ Jani and Pisti are talking, try to work out what they are saying!
 
 <audio controls><source src="https://magyartanulas.github.io/public/csatornán.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio> 
 
- ---
- 
-`Dehogy` is used to counter a positive question whereas `dehogynem/dehogynincs` counters a negative question. They can be used for more passion in a reply. An `is` is added if it is used as a follow up for more emphasis. 
