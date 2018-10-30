@@ -179,13 +179,67 @@ Jani and Pisti are talking, try to work out what they are saying!
 
 <audio controls><source src="https://magyartanulas.github.io/public/csatornán.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
-<span>
-<button type="button" onclick="alert('Not ready yet!')">Transcription</button>
-<button type="button" onclick="alert('Not ready yet!')">Translation</button>
-</span>
+<script type = "text/javascript">
 
-<script type="text/javascript">
-function showThis(id) {
-   document.getElementById(id).style.display='block'  
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        }if (eng.style.display === "none" && hun.style.display === "none") {
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
 }
 </script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+</span>
+
+<div id = "transcript" style ="display:none">
+J: így van
+P: Jani, 
+J: Igen
+P: segíts, mi a gond?
+J: A gond az, hogy nincs videó
+P: De van
+J: ...Dee nincs, ez a gond
+P: Mármint, mi nincs?
+J: Videó nincs. Ezen a csatornán nincs videó
+P: Ezen a csatornán nincs videó
+J: Igen
+P: Hát ez gond...
+J: Ez gond, hát ez gond!
+P: Na most..
+</div>
+
+<div id = "translation" style ="display:none">
+J: That's right
+P: Jani, 
+J: Yes
+P: Help me out, what's the issue?
+J: The issue is that there is no video
+P: But there is
+J: ...But there isn't, that's the issue
+P: Namely what isn't?
+J: There's no video. There's no video on this channel
+P: There's no video on this channel
+J: Yes
+P: Well this is an issue...
+J: This is an issue, well this is an issue!
+P: So now...
+</div>
