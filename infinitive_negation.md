@@ -185,20 +185,25 @@ function check_reveal(button) {
     
     var hun = document.getElementById("transcript");
     var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
  
     if (button === 'transcript') {
         
         if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
             hun.style.display = "block";
         }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
             eng.style.display = "none";
             hun.style.display = "block";
         }
     }else if (button === 'translation')
  
         if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
             eng.style.display = "block";
         }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
             hun.style.display = "none";
             eng.style.display = "block";
         }
@@ -210,6 +215,7 @@ function clearAll() {
     var eng = document.getElementById("translation");
     hun.style.display = "none";
     eng.style.display = "none";
+    none.style.display = "block";
 }
 
 </script>
@@ -252,4 +258,22 @@ J: Yes<br/>
 P: Well this is an issue...<br/>
 J: This is an issue, well this is an issue!<br/>
 P: So now...<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </div>
