@@ -22,10 +22,9 @@ Format: indef. -- def.
 | ti      | mondjatok--mondjátok  | legyetek    | gyertek  | Menjetek |  nézzetek--nézzétek |
 | ők      | mondjanak--mondják    | legyenek    | jöjjenek | Menjenek |  nézzenek--nézzék   |
 
-common examples:
+Examples:
 
-Figyelj
-Gyere már
+Gyertek gyerekek, az ugráló vár erre van!
 
 ## The Subjunctive Mood (incomplete)
 
