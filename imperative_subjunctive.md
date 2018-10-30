@@ -35,7 +35,7 @@ Examples:
 
 `Challenge!`
 
-*Siess már, különben lekéssük a vonatot!*
+*Siess már, különben nélkülünk el fognak menni!*
 
 ## The Subjunctive Mood (incomplete)
 
