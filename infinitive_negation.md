@@ -233,7 +233,7 @@ J: Igen<br/>
 P: Segíts, mi a gond?<br/>
 J: A gond az, hogy nincs videó<br/>
 P: De van<br/>
-J: ...Dee nincs, ez a gond<br/>
+J: ...De nincs, ez a gond<br/>
 P: Mármint, mi nincs?<br/>
 J: Videó nincs. Ezen a csatornán nincs videó<br/>
 P: Ezen a csatornán nincs videó<br/>
