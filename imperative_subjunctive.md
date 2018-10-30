@@ -3,7 +3,7 @@ title: The Imperative and Subjunctive Mood
 layout: page
 ---
 
-## The Imperative Mood (incomplete)
+## The Imperative Mood
 
 * The indicative mood *indicates* what is happening. - My friend is coming over to my place.
 * The conditional mood depends on *conditions* to occur. - If he finishes his homework, then he can come over.
@@ -40,4 +40,21 @@ Examples:
 
 ## The Subjunctive Mood (incomplete)
 
-The subjunctive mood
+The Subjunctive mood expresses a wish or a suggestion. Nowadays (in English at least) it is rarely used, but still exists in some phrases.
+
+* I wish it ~~was~~ were still in use.
+* She demands that he leave~~s~~ at once.
+* God save the Queen.
+
+In Hungarian, the subjunctive mood uses the same form as the imperative. It is used to suggest or the structure *x happens/happened so that y will/will not happen.*
+
+* Úgy legyen. - So be it.
+* Menjünk vissza. - Let's go back.
+*
+*Alex: Ma mit csináljunk?*
+
+*Barnabás: Menjünk az állatkertbe.
+
+*Alex: Jó ötlet.*
+
+
