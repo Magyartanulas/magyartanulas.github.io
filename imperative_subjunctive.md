@@ -38,6 +38,8 @@ Examples:
 ![siet](https://magyartanulas.github.io/public/hurry.png)
 *Siessetek már, különben nélkülünk el fognak menni!*
 
+<span class="spoiler">Hurry up (guys), otherwise they'll leave without us!</span>
+
 ## The Subjunctive Mood (incomplete)
 
 The Subjunctive mood expresses a wish or a suggestion. Nowadays (in English at least) it is rarely used, but still exists in some phrases.
@@ -48,13 +50,19 @@ The Subjunctive mood expresses a wish or a suggestion. Nowadays (in English at l
 
 In Hungarian, the subjunctive mood uses the same form as the imperative. It is used to suggest or the structure *x happens/happened so that y will/will not happen.*
 
-* Úgy legyen. - So be it.
-* Menjünk vissza. - Let's go back.
-*
-*Alex: Ma mit csináljunk?*
+* Úgy legyen. - (So be it.)
+* Menjünk vissza. - (Let's go back.)
+* Bogi azt kéri, hogy ne kérdezz annyit. - (Bogi asks that you (should) not question so much.)
+* Idehoztam hogy lássa amit megcsináltad. - (I brought him/her here so that they could see what you did.)
 
-*Barnabás: Menjünk az állatkertbe.
+*Alex: Ma mit csináljunk?* - (What should we do today?)
 
-*Alex: Jó ötlet.*
+*Barnabás: Menjünk az állatkertbe.* - (Let's go to the zoo.)
 
+*Alex: Jó ötlet.* - (Good idea.)
 
+`Challenge!`
+
+Azért jöttem, hogy segítsek.
+
+<span class="spoiler>I came to help</span>
