@@ -35,7 +35,8 @@ Examples:
 
 `Challenge!`
 
-*Siess már, különben nélkülünk el fognak menni!*
+![siet](https://magyartanulas.github.io/public/hurry.png)
+*Siessetek már, különben nélkülünk el fognak menni!*
 
 ## The Subjunctive Mood (incomplete)
 
