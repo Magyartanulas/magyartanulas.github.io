@@ -211,10 +211,10 @@ function check_reveal(button) {
 </span>
 
 <div id = "transcript" style ="display:none">
-J: így van<br/>
+J: Így van<br/>
 P: Jani,<br/> 
 J: Igen<br/>
-P: segíts, mi a gond?<br/>
+P: Segíts, mi a gond?<br/>
 J: A gond az, hogy nincs videó<br/>
 P: De van<br/>
 J: ...Dee nincs, ez a gond<br/>
