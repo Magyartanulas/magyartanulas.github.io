@@ -63,6 +63,6 @@ In Hungarian, the subjunctive mood uses the same form as the imperative. It is u
 
 `Challenge!`
 
-Azért jöttem, hogy segítsek.
+*Azért jöttem, hogy segítsek.*
 
 <span class="spoiler>I came to help</span>
