@@ -204,7 +204,7 @@ function check_reveal(button) {
         }
 }
 
-function clear() {
+function clearAll() {
 
     var hun = document.getElementById("transcript");
     var eng = document.getElementById("translation");
@@ -217,7 +217,7 @@ function clear() {
 <span>
 <button type="button" onclick="check_reveal('transcript')">Transcript</button>
 <button type="button" onclick="check_reveal('translation')">Translation</button>
-<button type="button" onclick="clear()">Clear</button>
+<button type="button" onclick="clearAll()">Clear</button>
 </span>
 
 <div id = "transcript" style ="display:none">
