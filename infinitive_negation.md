@@ -184,3 +184,8 @@ Jani and Pisti are talking, try to work out what they are saying!
 <button type="button" onclick="alert('Not ready yet!')">Translation</button>
 </span>
 
+<script type="text/javascript">
+function showThis(id) {
+   document.getElementById(id).style.display='block'  
+}
+</script>
