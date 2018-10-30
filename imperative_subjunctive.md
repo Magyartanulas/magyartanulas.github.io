@@ -66,4 +66,4 @@ In Hungarian, the subjunctive mood uses the same form as the imperative. It is u
 ![pingvin](https://magyartanulas.github.io/public/pals.png)
 *Azért jöttem, hogy segítsek.*
 
-<span class="spoiler>I came to help</span>
+<span class="spoiler">I came to help</span>
