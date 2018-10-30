@@ -203,11 +203,21 @@ function check_reveal(button) {
             eng.style.display = "block";
         }
 }
+
+function clear() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+}
+
 </script>
 
 <span>
 <button type="button" onclick="check_reveal('transcript')">Transcript</button>
 <button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clear()">Clear</button>
 </span>
 
 <div id = "transcript" style ="display:none">
