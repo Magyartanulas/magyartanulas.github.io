@@ -196,7 +196,7 @@ function check_reveal(button) {
         }
     }else if (button === 'translation')
  
-        }if (eng.style.display === "none" && hun.style.display === "none") {
+        if (eng.style.display === "none" && hun.style.display === "none") {
             eng.style.display = "block";
         }else if (eng.style.display === "none" && hun.style.display === "block") {
             hun.style.display = "none";
