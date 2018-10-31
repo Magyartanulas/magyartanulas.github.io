@@ -58,7 +58,7 @@ a e i o ö u ü
 á é í ó ő ú ű
 ```
 
-For vowel harmony, these vowels are sorted as either front of back. Here are some non-sensical sentences to remember each.
+For vowel harmony, these vowels are sorted as either front of back (Hungarians refer to these as deep or high). Here are some non-sensical sentences to remember each.
 
 ```
 Front: e é i í ö ő ü ű (Öt üveg-űző épít itt.)
