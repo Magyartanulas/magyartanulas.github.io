@@ -57,6 +57,12 @@ Examples
 * Az utca száz méter hosszú volt. - (The street was one hundred meters long.)
 * Ma csak tizennégy fok odakinn van. - (Today it's only fourteen degrees outside.)
 
+When answering, you don't have to answer with a precise number, you could instead decide to give an approximate value instead.
+
+* sok - (a lot)
+* kevés - (a few)
+* számos - (numerous)
+
 `Challenge!`
 
 ![alkoholista](https://magyartanulas.github.io/public/alkoholista.png)
