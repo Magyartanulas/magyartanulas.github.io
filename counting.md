@@ -60,14 +60,26 @@ Examples
 `Challenge!`
 
 ![alkoholista](https://magyartanulas.github.io/public/alkoholista.png)
-*látod azt a két fát odakint? Az alkoholista négyet lát.*
+*Látod azt a két fát odakint? Az alkoholista négyet lát.*
 
 ## Question words (incomplete)
 
 ### Mióta?
 
-### Hány/Mennyi?
+The pronoun `mióta` literally means since when. It is important to know that if you answer these types of questions with a number, you need to add the [possessive ending.](https://magyartanulas.github.io/dative_possession/)
 
-### Hányas?
+*Barnabás: Mióta tanulsz magyarul?* - (How long have you been learning hungarian?)
 
-## Basic arithmetic
+*Oszkár: Egy éve* - (For a year)
+
+*Barnabás: Csak egy éve?! Nagyon jól beszélsz!* - (Only for a year?! You speak very well!)
+
+### Hány & Mennyi
+
+These two words are both used for asking *how much?* but in different ways.
+
+### Hányadik & Hányas
+
+
+
+## Basic arithmetic (incomplete)
