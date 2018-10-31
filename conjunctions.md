@@ -3,7 +3,7 @@ layout: page
 title: Conjunctions
 ---
 
-Intro to clauses
+Conjunctions are the linkages in sentences.
 
 
 ## Hogy
