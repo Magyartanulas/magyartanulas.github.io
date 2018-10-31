@@ -76,10 +76,41 @@ The pronoun `mióta` literally means since when. It is important to know that if
 
 ### Hány & Mennyi
 
-These two words are both used for asking *how much?* but in different ways.
+These two words are both used for asking *how much?* but in different ways. `Mennyi?` is generally used for asking things that can be considered uncountable and sometimes for things that are countable, while `hány?` is used specifically for things that can be counted. 
+
+* Hány óra van? - (What hour is it?)
+* Mennyi az Idő? - (What time is it?)
+* Hány turista volt a Hősök Tere? - (How many tourists were at Heroes' Square?)
+* Mennyi bort ittál? - (How much wine did you drink?)
+* Most hány éves vagy? - (How old are you now?)
+* Mennyibe kerül ez? - (How much is this around?)
 
 ### Hányadik & Hányas
 
+Both of these are used to ask the word *which?* out of a numbered sequence, but are used for different questions. Think of `hányadik` as which? (with answers such as first, second, third) and `hányas` as what number? (with answers such as number one, number two, number three). Both of them use a similar vowel-harmony.
 
+| Hányadik      | Hányas      |
+|---------------|-------------|
+| első          | egyes       |
+| második       | kettes      |
+| harmadik      | hármas      |
+| negyedik      | négyes      |
+| ötödik        | ötös        |
+| hatadik       | hatos       |
+| hetedik       | hetes       |
+| nyolcadik     | nyolcas     |
+| kilencedik    | kilences    |
+| tizedik       | tizes       |
+| tizenegyedik  | tizenegyes  |
+| tizenkettedik | tizenkettes |
+
+And so it goes on... Remember as well as `tíz`, `húsz` becomes `huszadik` and `huszas`.
+
+* Hányadik emeleten vagy? - (Which floor are you on?)
+* Hányas ház van? - (What number house is it?)
+* Hányadik sorban ültek? - (Which row are you (guys) sitting in?)
+* Hányas busz megy a Duna Partra? - (What number bus goes to the Danube riverside?)
+* Hányadik kerületben élsz? - (Which district do you live in?)
+* Hányas cipőt viszel? - (What shoe size are you?)
 
 ## Basic arithmetic (incomplete)
