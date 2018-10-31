@@ -36,9 +36,9 @@ Examples:
 `Challenge!`
 
 ![siet](https://magyartanulas.github.io/public/hurry.png)
-*Siessetek már, különben nélkülünk el fognak menni!*
+*Siessetek már, mert itthagynak!*
 
-<span class="spoiler">Hurry up (guys), otherwise they'll leave without us!</span>
+<span class="spoiler">Hurry up (guys), they're leaving!</span>
 
 ## The Subjunctive Mood (incomplete)
 
