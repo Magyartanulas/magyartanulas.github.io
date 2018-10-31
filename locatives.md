@@ -225,4 +225,4 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 
 * Elegem van belőle. - (I've had enough of it.)
 * Ebben nem vagzok túl biztos. - (I'm not too sure (about) this.)
-* Mennyibe kerül ez? - (How much is this?)
+* Mennyibe kerül ez? - (How much is this around?)
