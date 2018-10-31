@@ -5,6 +5,8 @@ layout: page
 
 ## Numbers
 
+---
+
 Knowing how to count is essential in any language, numbers are absolutely everywhere. Here are the first 10 numbers with a rhyme to remember them (keep in mind there are many variations of this rhyme).
 
 | Number    | Rhyme               | Rhyme Translation       |
@@ -68,7 +70,9 @@ When answering, you don't have to answer with a precise number, you could instea
 ![alkoholista](https://magyartanulas.github.io/public/alkoholista.png)
 *Látod azt a két fát odakint? Az alkoholista négyet lát.*
 
-## Question words (incomplete)
+## Question words
+
+---
 
 ### Mióta?
 
@@ -120,3 +124,5 @@ And so it goes on... Remember as well as `tíz`, `húsz` becomes `huszadik` and 
 * Hányas cipőt viszel? - (What shoe size are you?)
 
 ## Basic arithmetic (incomplete)
+
+---
