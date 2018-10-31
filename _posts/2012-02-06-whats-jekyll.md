@@ -25,19 +25,21 @@ Starting from Section 2, there will be captioned images with no english translat
 3. Introduction to Postpositions & Articles
 4. Introduction to Word Building
 5. Pronouns
-5. The Accusative Case & Plurals
-6. Definite vs Indefinite Conjugation
-7. Infinitive + Negation
-8. Conjunctions
-9. The Conditional Mood
-10. The Dative Case & Possession
-11. Expressing Interest
-12. Expressing Location
-13. Making Comparisons
-14. Coverbs + Telicity
-15. The Imperative & Subjunctive Mood
-16. More Noun Cases
-17. The Conjugated Infinitive & Expressing need
+6. Counting (incomplete)
+7. The Accusative Case & Plurals
+8. Definite vs Indefinite Conjugation
+9. Infinitive + Negation
+10. Conjunctions (incomplete)
+11. The Conditional Mood
+12. The Dative Case & Possession
+13. Expressing Interest
+14. Expressing Location
+15. Making Comparisons
+16. Coverbs + Telicity
+17. The Imperative & Subjunctive Mood
+18. More Noun Cases (incomplete)
+19. The Conjugated Infinitive & Expressing need (incomplete)
+20. Word Order (incomplete)
 
 Stay tuned for more!
 
