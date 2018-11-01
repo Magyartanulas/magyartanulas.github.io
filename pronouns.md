@@ -114,6 +114,6 @@ The accusative, plural and other things have been omitted for simplicity, natura
 
 * `-k,-t` which are the [plural and accusative](https://magyartanulas.github.io/accusative_plurals/) markers
 * [definite conjugation](https://magyartanulas.github.io/definite_indefinite/) seen in `remélem`
-* `-m` appears again to mark [possession]https://magyartanulas.github.io/dative_possession/() 
+* `-m` appears again to mark [possession](https://magyartanulas.github.io/dative_possession/) 
 * `-n` from `emeleten` is a [locative](https://magyartanulas.github.io/locatives)
 * `rá-`, `össze-` and `elő-` are also [coverbs.](https://magyartanulas.github.io/coverbs_telicity)
