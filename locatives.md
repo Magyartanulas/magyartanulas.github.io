@@ -219,10 +219,14 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 
 <span class="spoiler">I would like to ask of you....</span>
 
----
-
 ***As a final note:*** keep your eye out for phrases that naturally take a locative case as its argument. For examples:
 
 * Elegem van belőle. - (I've had enough of it.)
 * Ebben nem vagzok túl biztos. - (I'm not too sure (about) this.)
 * Mennyibe kerül ez? - (How much is this around?)
+
+---
+
+### Yet to Learn
+
+* A few [coverbs](https://magyartanulas.github.io/coverbs_telicity/) are seen in this section
