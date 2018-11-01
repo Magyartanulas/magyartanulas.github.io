@@ -108,7 +108,7 @@ There are two things to notice here:
 
 ## Examples of Regular Verb Conjugation
 
-In hungarian, verbs are described using the 3rd person singular form (he/she runs, he/she jumps),
+In Hungarian, verbs are described using the 3rd person singular form (he/she runs, he/she jumps),
 instead of the infinitive (to run, to jump). Thus, if you want to look up a verb in a dictionary 
 [for example SZTAKI](http://szotar.sztaki.hu/english-hungarian) then you use the 3rd person singular.
 
@@ -140,8 +140,6 @@ Felkel - (He/she/it rises or gets up) *Front-vowel (type 2)*
 | ők      | felkeltek   | felkelnek  | fognak felkelni |
 
 Note the different times that `felkeltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
-
-`fel` is a *coverb* that has been added to `kel` to add directionality to the verb, [this is explained here.](https://magyartanulas.github.io/coverbs_telicity) 
 
 ### Back vowel conjugation
 ---
@@ -217,3 +215,5 @@ Naturally because phrases have been introduced, the list will be long, but event
 * several [pronouns](https://magyartanulas.github.io/pronouns/) were mentioned
 * The use of `nem` and `nincs` for [negation](https://magyartanulas.github.io/infinitive_negation/)
 * The use of `-be` which is a [locative](https://magyartanulas.github.io/locatives/)
+* The use of `fel-` which is a [coverb](https://magyartanulas.github.io/coverbs_telicity) used to add directionality.
+
