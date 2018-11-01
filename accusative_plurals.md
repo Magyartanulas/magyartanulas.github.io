@@ -203,4 +203,8 @@ Examples:
 * Engem keresel? - Are you looking for me?
 * Mi tesz téged boldoggá? What makes you happy?
 
-*Definitely* head over to the next section where we explain these new verb conjugations you haven't seen before :wink:
+---
+
+### Yet to Learn
+
+* [Definite conjugation](https://magyartanulas.github.io/definite_indefinite/) seen in `látom`
