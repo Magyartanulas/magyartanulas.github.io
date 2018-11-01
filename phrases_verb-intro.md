@@ -40,7 +40,7 @@ Note, everything here is simplified and not much is explained, but if you keep c
 | Segítség!                                          | Help!                         |
 | Tűz! / Tűz van!                                    | Fire! / There's a fire!       |
 | Beszélsz angolul?                                  | Do you speak English?         |
-| Igen, csak egy kicsit*                             | Yes, only a litte             | 
+| Igen, csak egy kicsit*                             | Yes, only a little             | 
 | Ez                                                 | This                          |
 | Az                                                 | That                          |
 | És                                                 | And                           |
