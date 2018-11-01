@@ -58,7 +58,7 @@ Felett and fölött were a result of dialectual differences, however now they ar
 
 **IMPORTANT NOTE**
 
-Postpositions cannot be used with standalone pronouns, you have to attach the personal pronoun suffix instead, [this is explained here.](https://magyartanulas.github.io/dative_possession/)
+Postpositions cannot be used with standalone pronouns, you have to attach the personal pronoun suffix instead.
 
 * István sat next to me.
   * ~~István én mellé ült.~~
@@ -67,3 +67,9 @@ Postpositions cannot be used with standalone pronouns, you have to attach the pe
 * The man came out from behind you
   * ~~A férfi te mögül kijött~~
   * A férfi kijött mögül**ed**.
+
+---
+
+### Yet to Learn
+
+* `-m` which is a [possession suffix](https://magyartanulas.github.io/dative_possession/)
