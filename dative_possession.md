@@ -161,8 +161,6 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 
 *- Mikor tanulod már meg végre? Mikor mikor tanulod már meg végre, hogy a tetteidnek következményei vannak?*
 
-`meg` makes the verb telic. We will touch on this topic later.
-
 ### More on Postpositions
 
 [Recall the introduction to postpositions.](https://magyartanulas.github.io/postpositions_articles/) If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
@@ -182,3 +180,9 @@ There are also pronouns not pertaining to location, and so they only have one fo
 * Azt akarod, hogy én vigyem ki helyetted? - (Do you want *me* to carry it instead?)
 * Tegnap kutyákat láttunk a parkban, lehet, hogy miattuk vannak ott azok a lyukak - (Yesterday we saw holes in the park, this could be due to those dogs there.)
 * Ha nem melletem állsz, az ellenségem vagy! - (If you don't stand with (lit. next to) me, you are my enemy!)
+
+---
+
+### Yet to Learn
+
+* `ki-` and `meg-` demonstrate [directionality and telicity](https://magyartanulas.github.io/coverbs_telicity/)
