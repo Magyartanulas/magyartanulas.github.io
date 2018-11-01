@@ -128,6 +128,8 @@ And so it goes on... Remember as well as `tíz`, `húsz` becomes `huszadik` and 
 
 ## Telling the Time
 
+---
+
 When you look at an analog clock, you may tell the time in English using either of the formats minutes *past* hour or minutes *to* the next hour.
 
 In Hungarian, the format becomes minutes *into* the next hour.
