@@ -42,8 +42,6 @@ Or if the verb ends in two consonants it will also receive a linking vowel.
 * játsz - *játszani* (to play)
 * mond - *mondani* (to say)
 
-`le-` and `ki-` are some more coverbs that are explained [here.](https://magyartanulas.github.io/coverbs_telicity/)
-
 **Case 2: Irregular verb**
 
 The verb that you are using could in fact be an irregular verb, in which case it will have different conjugations and possibly a different infinitive form). 
@@ -94,7 +92,7 @@ You can negate most sentences with `nem`, it means no, or not. Nem almost always
 * Ezt nem mondod komolyan! - (You can't be serious! lit. You aren't saying this seriously!)
 * Köszönöm, nem kérek - (No thanks lit. Thanks I don't ask for it)
 
-If the *same subject* negates more verbs in a sentence, `sem` is used instead. The use of sem can also be used with pronouns for emphasis.
+If the *same subject* negates more verbs in a sentence, `sem` is used instead. The use of `sem` can also be used with pronouns for emphasis.
 
 Consider this scenario:
 
@@ -102,8 +100,7 @@ Consider this scenario:
   * Barnabás: Nem.
   * Éva: Én sem. - (I don't either.)
 
-It should be noted that English treats the sentence as one whole value whereas Hungarian treats the sentence as *a series of values*. 
-If you want to negate the sentence, every part of the sentence is negated.
+It should be noted that English treats the sentence as one whole value whereas Hungarian treats the sentence as *a series of values*. If you want to negate the sentence, **every part** of the sentence is negated.
 
 * English: I don't know anybody. (Negated once)
 * Hungarian: Nem ismerek senkit. - (I don't know nobody.)
@@ -279,3 +276,10 @@ P: So now...<br/>
 <br/>
 <br/>
 </div>
+
+---
+
+### Yet to Learn
+
+* `le-`, `ki-` and `el-` are [coverbs](https://magyartanulas.github.io/coverbs_telicity/)
+* the ending `-j` as well as the `-s` in `segíts` mark the [imperative mood](https://magyartanulas.github.io/imperative_subjunctive/)
