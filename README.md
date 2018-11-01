@@ -21,25 +21,7 @@ Starting from Section 2, there will be captioned images with no english translat
 
 ### Progression Route
 
-0. **Home**
-1. The Alphabet & Vowel Harmony
-2. Phrases & Introduction to Verbs
-3. Introduction to Postpositions & Articles
-4. Introduction to Word Building
-5. The Accusative Case & Plurals
-6. Definite vs Indefinite Conjugation
-7. Infinitive + Negation
-8. Pronouns
-9. The Conditional Mood
-10. The Dative Case & Possession
-11. Expressing Interest
-12. Expressing Location
-13. Making Comparisons
-14. Coverbs + Telicity
-15. The Imperative & Subjunctive Mood
-16. More Noun Cases
-17. The Conjugated Infinitive & Expressing need
-18. Hogy
+Due to constant changes, please see the website for the order.
 
 Stay tuned for more!
 
