@@ -207,4 +207,5 @@ Examples:
 
 ### Yet to Learn
 
-* [Definite conjugation](https://magyartanulas.github.io/definite_indefinite/) seen in `látom`
+* [definite conjugation](https://magyartanulas.github.io/definite_indefinite/) seen in `látom`
+* the [translative case]() seen in `boldoggá`
