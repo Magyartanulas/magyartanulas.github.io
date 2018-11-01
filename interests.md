@@ -73,7 +73,7 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 
 * Az nem vonzana sok turistát. - (That would not attract many tourists.)
 * Vonzanának a flancos éttermek, ha nem kéne jattot adnom. - (Fancy restaurants would attract me, if I did not have to tip.)
-* A trón úgy vonzotta Simbát. (The throne attracted Simba so much. `úgy` will be explained in a later section)
+* A trón úgy vonzotta Simbát. (The throne attracted Simba so much.)
 
 `Challenge!`
 ![utazás](https://magyartanulas.github.io/public/elutázni.jpg)
