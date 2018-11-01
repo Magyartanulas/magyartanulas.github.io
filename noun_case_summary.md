@@ -4,12 +4,11 @@ title: Noun Case Summary
 layout: page
 ---
 
-## Noun Cases
-
 ### So far...
 
-1. [Accusative](https://magyartanulas.github.io/accusative_plurals/) `-t` - expressing the direct object
-2. [Dative](https://magyartanulas.github.io/dative_possession/) `-nak,-nek` - expressing the indirectobject
+1. Nominal - the base form of the word (no suffixes)
+2. [Accusative](https://magyartanulas.github.io/accusative_plurals/) `-t,-at,-ot,-et,-öt` - expressing the direct object
+3. [Dative](https://magyartanulas.github.io/dative_possession/) `-nak,-nek` - expressing the indirectobject
 
 [Locatives](https://magyartanulas.github.io/locatives/) - referencing location (like some postpositions)
 
@@ -18,19 +17,45 @@ layout: page
   5. Elative `-ból,-ből` - out of a hollow box
   
   6. Sublative `-ra,-re` - onto a surface
-  7. Superessive `-en\-on\-ön\-n` - on a surface
-  8. Delative `-ról\-ről` - off of a surface
+  7. Superessive `-en,-on,-ön,-n` - on a surface
+  8. Delative `-ról,-ről` - off of a surface
   
-  9. Allative `-hez\-hoz\-höz` - towards a solid
-  10. Adessive `-nál\-nél` - by a solid
+  9. Allative `-hez,-hoz,-höz` - towards a solid
+  10. Adessive `-nál,-nél` - by a solid
   11. Ablative `-tól, -től` - away from a solid
 
-### Remaining Noun Cases
+## Remaining Noun Cases
 
-12.
-13.
-14.
-15.
-16.
-17.
-18.
+Look at later https://myhunlang.com/2010/05/21/cases/
+
+### Termanative `-ig`
+
+Adding this on the noun gives the meaning *until* or *for a length of time*, i.e. whenever the action terminates. In English, we would say:
+
+* He worked from 9 to 5 today.
+* I studied for 2 hours.
+* We walked until we reached the city.
+
+### Temporal `-kor`
+
+(content)
+
+### Causal-final `-ért`
+
+(content)
+
+### Instrumental `-val,-vel`
+
+(content)
+
+### Translative `-vá,-vé`
+
+(content)
+
+### Comitative -stul,-stül
+
+### Distributive -nként
+
+### Distributive temporal -nként, -nta, -nte
+
+### Modal -képp, -képpen, -ként
