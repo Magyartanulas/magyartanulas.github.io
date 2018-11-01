@@ -283,3 +283,4 @@ P: So now...<br/>
 
 * `le-`, `ki-` and `el-` are [coverbs](https://magyartanulas.github.io/coverbs_telicity/)
 * the ending `-j` as well as the `-s` in `segíts` mark the [imperative mood](https://magyartanulas.github.io/imperative_subjunctive/)
+* `-n` seen in `ezen` is a [locative](https://magyartanulas.github.io/locatives/)
