@@ -205,3 +205,15 @@ Lesz (he/she/it becomes) *front-vowel*
 Notice how it says `leszel` and not `lessz`, vowel harmony chips in to make it sound nicer.
 
 Stay tuned for more verbs in upcoming sections!
+
+---
+
+### Yet to Learn
+
+Naturally because phrases have been introduced, the list will be long, but eventually these will all be covered.
+
+* `-k,-t` which mark the [plural and accusative](https://magyartanulas.github.io/accusative_plurals/)
+* `-nak,-nek` which marks the [dative case](https://magyartanulas.github.io/dative_possession/)
+* several [pronouns](https://magyartanulas.github.io/pronouns/) were mentioned
+* The use of `nem` and `nincs` for [negation](https://magyartanulas.github.io/infinitive_negation/)
+* The use of `-be` which is a [locative](https://magyartanulas.github.io/locatives/)
