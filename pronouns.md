@@ -36,8 +36,6 @@ Examples:
 
 *Alex: Matek, remélem, hogy jó lesz!* - (Maths, I hope it will be good!)
 
-See that `-m` and `-en`? The former marks [first person possession](https://magyartanulas.github.io/dative_possession/) while the latter states being *on* something, which is explained [here.](https://magyartanulas.github.io/locatives)
-
 ## Relative pronouns
 
 These question starters can be used as relative pronouns. Relative pronouns refer to something else and are made by adding `a-`.
@@ -112,4 +110,10 @@ The accusative, plural and other things have been omitted for simplicity, natura
 
 ---
 
-`rá-`, `össze` and `elő-` are also [coverbs.](https://magyartanulas.github.io/coverbs_telicity)
+### Yet to Learn
+
+* `-k,-t` which are the [plural and accusative](https://magyartanulas.github.io/accusative_plurals/) markers
+* [definite conjugation](https://magyartanulas.github.io/definite_indefinite/) seen in `remélem`
+* `-m` appears again to mark [possession]https://magyartanulas.github.io/dative_possession/() 
+* `-n` from `emeleten` is a [locative](https://magyartanulas.github.io/locatives)
+* `rá-`, `össze-` and `elő-` are also [coverbs.](https://magyartanulas.github.io/coverbs_telicity)
