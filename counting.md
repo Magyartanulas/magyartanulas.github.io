@@ -94,6 +94,9 @@ These two words are both used for asking *how much?* but in different ways. `Men
 * Mennyi bort ittál? - (How much wine did you drink?)
 * Most hány éves vagy? - (How old are you now?)
 * Mennyibe kerül ez? - (How much is this around?)
+* Mennyibe fájt? - (How much did it cost? **slang**)
+
+Money is treated as uncountable, hence `mennyi pénz?` and`mennyibe kerül ez?` but if you use forint instead, it becomes countable `hány forint van?` or `hány forintba kerül?`.
 
 ### Hányadik & Hányas
 
@@ -123,12 +126,44 @@ And so it goes on... Remember as well as `tíz`, `húsz` becomes `huszadik` and 
 * Hányadik kerületben élsz? - (Which district do you live in?)
 * Hányas cipőt viszel? - (What shoe size are you?)
 
-## Basic arithmetic (incomplete)
+## Telling the Time
+
+When you look at an analog clock, you may tell the time in English using either of the formats minutes *past* hour or minutes *to* the next hour.
+
+In Hungarian, the format becomes minutes *into* the next hour.
+
+* Háromnegyed öt van. - (4:45)
+* Negyed hét van. - (6:15)
+...
+
+When the time is simple, there are different ways of saying it.
+
+* Egy óra van. - (1:00)
+* Fél három van. - (2:30)
+* Dél van. - (It is midday.)
+* Éjfél van. - (It is midnight.)
+
+## Basic arithmetic
 
 ---
 
-asdf
+This mini section will go over the four operations:
 
----
+* Összeadás - (Addition)
+* Kivonás - (Subtraction)
+* Szorzás - (Multiplication)
+* Osztás - (Division)
 
-Mention link to locatives here
+All the simple equations shown below follow a simple formula. [number] [operation] [number] `az` [number]
+
+* Három meg nyolc az kilenc. - (Three and eight is nine.)
+* Egy plusz négy az öt. - (One plus four is five.)
+
+* Hétből hét az nulla. - (Seven take away seven (lit. seven out of seven) is zero.)
+* Tíz minusz négy az hat. - (Ten minus four is six.)
+
+* Ötszer három az tizenöt. - (Five times three is fifteen.)
+* Hat szorozva kilencvel az ötvennégy. - (Six multiplied with nine is fiftyfour.)
+
+* Huszonnégyban nyolc az három. - (Eight in twentyfour is three.)
+* Harminc osztva háromval az tíz. - (Thirty shared with three is ten.)
