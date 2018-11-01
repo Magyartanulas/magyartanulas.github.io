@@ -64,6 +64,7 @@ When answering, you don't have to answer with a precise number, you could instea
 * sok - (a lot)
 * kevés - (a few)
 * számos - (numerous)
+* ennyi - (this much)
 
 `Challenge!`
 
@@ -169,3 +170,10 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 
 * Huszonnégyban nyolc az három. - (Eight in twentyfour is three.)
 * Harminc osztva háromval az tíz. - (Thirty shared with three is ten.)
+
+---
+
+### Yet to Learn
+
+* `-k,-t` [plural & accusative](https://magyartanulas.github.io/accusative_plurals/)
+* [definite conjugation](https://magyartanulas.github.io/accusative_plurals/) as seen in `látod`
