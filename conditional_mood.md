@@ -17,8 +17,6 @@ The conditional mood indicates what *would* happen if certain conditions are met
 
 Naturally, there is more conjugation to represent the conditional mood in Hungarian. Here is the front and back vowel harmony.
 
-Szeret (he/she/it loves or likes). Keep in mind that there are many ways of expressing liking in Hungarian, [and this is covered later on.](https://magyartanulas.github.io/interests/)
-
 
 | Pronoun | Past indef. cond. | Past def. cond.   | Present indef. cond. | Present. def. cond. |
 |---------|-------------------|-------------------|----------------------|---------------------|
@@ -133,10 +131,16 @@ Some irregular verbs change unexpectedly when `-hat,-het` is added.
 
 Finally, you can combine the conditional mood with `-hat, -het` we get could (lit. would be allowed).
 
-* Talalkozhatnánk? - (Could we meet up?)
+* Találkozhatnánk? - (Could we meet up?)
 * De azt hiszem, hogy igazán megcsinálhatnád. - (But I believe you could really do it.)
 * Bárcsak láthatnám az arcát, amikor megtudja! - (If only I could see his face, when he finds out!)
 
 Bárcsak means if only/I wish and it is considered conditional. When it is used, the rest of the sentence must be conditional as well.
 
-The `el-` as well as `meg-` makes the verb telic, `haza-` is also a coverb. [This is  all explained here.](https://magyartanulas.github.io/coverbs_telicity/)
+---
+
+### Yet to Learn
+
+* szeret is only one way of [expressing interest](https://magyartanulas.github.io/interests/)
+* `-re` seen in `mire` is a [locative](https://magyartanulas.github.io/locatives/)
+* the coverb `haza-` as well as `meg-` and `el-` are explained in [coverbs & telicity](https://magyartanulas.github.io/coverbs_telicity/)
