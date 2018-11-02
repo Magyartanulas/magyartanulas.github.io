@@ -6,7 +6,7 @@ layout: page
 
 ### So far...
 
-1. Nominal - the base form of the word (no suffixes)
+1. Nominal - the base form of the noun (no suffixes)
 2. [Accusative](https://magyartanulas.github.io/accusative_plurals/) `-t,-at,-ot,-et,-öt` - expressing the direct object
 3. [Dative](https://magyartanulas.github.io/dative_possession/) `-nak,-nek` - expressing the indirectobject
 
