@@ -57,11 +57,23 @@ We can add the case onto `ez` and `az` to form `eddig` and `addig`. The word `ad
 
 ### Temporal `-kor`
 
-(content)
+Adding this on to the noun gives the meaning of *at the time of*. Naturally this is mostly added to nouns that are related to time. With this case, `ez` and `az` become `ekkor` and `akkor`.
+
+* 7-kor reggelizek. - (I have breakfast at 7.)
+* Holnap találkozunk, délkor. - (We're meeting tomorrow, at noon.)
+* Karácsonykor mindig hideg van. - (It's always cold at Christmas time.)
+
+*Alex: Mikor indul a vonat?* - (When does the train live?)
+
+*Barnabás: Fél tízkor.* - (At 9:30.)
 
 ### Causal-final `-ért`
 
-(content)
+Whenever you do something *for* the purpose of something, this case is used. This case can also be used with `ez` and `az` to form `ezért` and `azért` to explain motives. When asking for the reason behind something, use `miért?`.
+
+*
+*
+*
 
 ### Instrumental `-val,-vel`
 
@@ -75,3 +87,11 @@ barátaiddal
 ### Essive-Modal `-ként`
 
 (content)
+
+`Mega Challenge!!`
+
+Paragraph containg all the noun cases.
+
+Nem emlékszel István**ra**?
+
+Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült. TBC...
