@@ -73,6 +73,8 @@ When answering, you don't have to answer with a precise number, you could instea
 ![alkoholista](https://magyartanulas.github.io/public/alkoholista.png)
 *Látod azt a két fát odakint? Az alkoholista négyet lát.*
 
+<span type="spoiler">Do you see those two tress over there? The alcoholic sees four.</span>
+
 ## Question words
 
 ---
@@ -179,6 +181,12 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 * Huszonnégyban nyolc az három. - (Eight in twentyfour is three.)
 * Harminc osztva háromval az tíz. - (Thirty shared with three is ten.)
 
+`Challenge!`
+
+![számít](https://magyartanulas.github.io/public/matter.png)
+*Nem oszt, nem szoroz.*
+
+<span type="spoiler">Idiom: It doesn't matter (literally: It doesn't divide, it doesn't multiply</span>
 ---
 
 ### Yet to Learn
