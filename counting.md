@@ -186,7 +186,7 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 ![számít](https://magyartanulas.github.io/public/matter.png)
 *Nem oszt, nem szoroz.*
 
-<span class="spoiler">Idiom: It doesn't matter (literally: It doesn't divide, it doesn't multiply</span>
+<span class="spoiler">Idiom: It doesn't matter (literally: It doesn't divide, it doesn't multiply)</span>
 
 ---
 
