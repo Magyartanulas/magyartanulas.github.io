@@ -16,7 +16,7 @@ Knowing how to count is essential in any language, numbers are absolutely everyw
 | 3. három  | te vagy az én párom | you are my mate         |
 | 4. négy   | megcsípett a légy   | the fly nipped me       |
 | 5. öt     | érik a tök          | the pumpkin is ripening |
-| 6. hat    | hasad a pad         | your tummy is the bench |
+| 6. hat    | hasad a pad         | the bench is splitting  |
 | 7. hét    | dörög az ég         | the sky is thundering   |
 | 8. nyolc  | leszakadt a polc    | the shelf fell apart    |
 | 9. kilenc | kis Ferenc          | little Ferenc           |
@@ -26,9 +26,11 @@ Also, 0 is `nulla`. If you want to say one hundred, two thousand etc., just foll
 
 E.g.
 
-* Egy száz. - (One hundred.)
-* Három ezer. - (Three thousand.)
-* Két millió. - (Two million.)
+* Egyszáz. - (One hundred.)
+* Háromezer. - (Three thousand.)
+* Kétmillió. - (Two million.)
+
+Note the absence of a space.
 
 When `kettő` comes before something or after a number, it is usually shortened to `két`. That being said, one can say `kettő` to clear things up so as not to confuse it with `hét`.
 
@@ -137,14 +139,20 @@ In Hungarian, the format becomes minutes *into* the next hour.
 
 * Háromnegyed öt van. - (4:45)
 * Negyed hét van. - (6:15)
-...
+* Fél három van. - (2:30)
 
-When the time is simple, there are different ways of saying it.
+When the time is a nice round number, there are different ways of saying it.
 
 * Egy óra van. - (1:00)
-* Fél három van. - (2:30)
 * Dél van. - (It is midday.)
 * Éjfél van. - (It is midnight.)
+
+The same goes for when the time isn't, this time there are two ways of saying it.
+
+* Nyolc óra öt perc van || Nyolc óra múlt öt perccel - (8:05)
+* Kilenc óra ötvenöt perc van || Tíz óra lesz öt perc múlva - (9:55)
+* Hét óra tíz perc van || Hét óra múlt tíz perccel - (7:10)
+* Egy óra ötven perc van || Két óra lesz tíz perc múlva - (1:50)
 
 ## Basic arithmetic
 
