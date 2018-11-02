@@ -34,9 +34,26 @@ Adding this on the noun gives the meaning *until* or *for a length of time*, i.e
 
 * He worked from 9 to 5 today.
 * I studied for 2 hours.
-* We walked until we reached the city.
+* They stayed in Hungary for three weeks.
 
-And in Hungarian
+And if we translate these to Hungarian
+
+* Ma 9-től 5-ig dolgozott.
+* Két óráig tanultam.
+* Három hetig Budapesten maradtak.
+
+We can add the case onto `ez` and `az` to form `eddig` and `addig`. The word `addig` is often paired with `amíg` meaning *while*.
+
+* A városig elgyaloglunk. - (We walked to the city.)
+* Eddig kedvelem a filmet. - (So far I like the movie.)
+* Addig üsd a vasat, amíg meleg. - (Idiom: strike the iron while it is hot.)
+
+`Challenge!`
+
+![bell](https://magyartanulas.github.io/public/bell.png)
+*Maradj, ameddig csak akarsz.*
+
+<span class="spoiler">Stay (only) for as long as you want.</span>
 
 ### Temporal `-kor`
 
@@ -49,15 +66,12 @@ And in Hungarian
 ### Instrumental `-val,-vel`
 
 (content)
+barátaiddal
 
 ### Translative `-vá,-vé`
 
 (content)
 
-### Comitative -stul,-stül
+### Essive-Modal `-ként`
 
-### Distributive -nként
-
-### Distributive temporal -nként, -nta, -nte
-
-### Modal -képp, -képpen, -ként
+(content)
