@@ -36,6 +36,8 @@ Adding this on the noun gives the meaning *until* or *for a length of time*, i.e
 * I studied for 2 hours.
 * We walked until we reached the city.
 
+And in Hungarian
+
 ### Temporal `-kor`
 
 (content)
