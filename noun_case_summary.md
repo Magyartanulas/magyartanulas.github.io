@@ -12,17 +12,17 @@ layout: page
 
   [Locatives](https://magyartanulas.github.io/locatives/) - referencing location (like some postpositions)
 
-3. Illative `-ba,-be` - into a hollow box
-4. Inessive `-ban,-ben` - inside a hollow box
-5. Elative `-ból,-ből` - out of a hollow box
+4. Illative `-ba,-be` - into a hollow box
+5. Inessive `-ban,-ben` - inside a hollow box
+6. Elative `-ból,-ből` - out of a hollow box
   
-6. Sublative `-ra,-re` - onto a surface
-7. Superessive `-en,-on,-ön,-n` - on a surface
-8. Delative `-ról,-ről` - off of a surface
+7. Sublative `-ra,-re` - onto a surface
+8. Superessive `-en,-on,-ön,-n` - on a surface
+9. Delative `-ról,-ről` - off of a surface
   
-9. Allative `-hez,-hoz,-höz` - towards a solid
-10. Adessive `-nál,-nél` - by a solid
-11. Ablative `-tól, -től` - away from a solid
+10. Allative `-hez,-hoz,-höz` - towards a solid
+11. Adessive `-nál,-nél` - by a solid
+12. Ablative `-tól, -től` - away from a solid
 
 ## Remaining Noun Cases
 
