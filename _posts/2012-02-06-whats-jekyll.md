@@ -25,7 +25,7 @@ Starting from Section 2, there will be captioned images with no english translat
 3. Introduction to Postpositions & Articles
 4. Introduction to Word Building
 5. Pronouns
-6. Counting (incomplete)
+6. Counting
 7. The Accusative Case & Plurals
 8. Definite vs Indefinite Conjugation
 9. Infinitive + Negation
