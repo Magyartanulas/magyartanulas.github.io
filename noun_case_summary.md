@@ -26,8 +26,6 @@ layout: page
 
 ## Remaining Noun Cases
 
-Look at later https://myhunlang.com/2010/05/21/cases/
-
 ### Termanative `-ig`
 
 Adding this on the noun gives the meaning *until* or *for a length of time*, i.e. whenever the action terminates. In English, we would say:
@@ -88,24 +86,42 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 
 Using this, can be thought of as using `mint` for most things. It is used to describe the literal state of something. In English, we could say:
 
-* I dressed up as a ghost to scare John.
+*
 *
 *
 
 And in Hungarian:
 
-* Kísértetként felöltöztem, hogy megijesszem Bencet
 *
 *
+* Egyébként
 
 ### Instrumental `-val,-vel`
 
-Mehetek veletek?
-barátaiddal
+When ever you want to use the word *with*, use the instrumental case. In Hungarian, you also use the instrumental case to describe your means of transport. If the noun ends in a vowel, use `-val,-vel` otherwise the ending becomes assimilated. E.g. `ez` + `-vel` = `ezzel` and `az` + `-val` = `azzal`
+
+* Mehetek veletek? - (Can I go with you guys?)
+* Ezzel a játékkal nem fogok többet játszani - (I will not play this game anymore.)
+* Megyek suliba metróval. - (I go to school by metro.) *suli is slang*
+* És mit csináljak ezzel? - (And what should i do with this?)
+* Milyen ceruzával rajzol? - (What kind of pencil does he/she/it draw with?)
+* kivel táncoltál? - (Who did you dance with?)
+
+`Challenge!`
+
+![kamera](https://magyartanulas.github.io/public/kamera.jpeg)
+*Tegnap moziban voltam a barátaimmal.*
+
+<span class="spoiler">Yesterday I was at the movies with my friends.</span>
 
 ### Translative `-vá,-vé`
 
-(content)
+This case represents the change of state physically or metaphorically. Have a look at these examples to see what I mean, oh an by the way the endings become assimilated just like with the instrumental (i.e. `ezzé` and `azzá`).
+
+* Mi tesz téged boldoggá? - (What makes you happy?) Remember this?
+* A herceg egy békává változott. - (The prince turned into a frog.)
+* a jég vízzé megolvadt. - (The ice melted into water.)
+* Mivé lett a világ? - (What has the world become?)
 
 `Mega Challenge!!`
 
