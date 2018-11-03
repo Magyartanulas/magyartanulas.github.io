@@ -28,15 +28,15 @@ Let's take a look at some transitive verbs to see how the vowel harmony works.
 
 Lát - he/she/it sees.
 
-| Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Futurer indef. | Future def.       |
-|--------------|-------------|-----------|----------------|--------------|----------------|-------------------|
-| én           | Láttam      | Láttam    | Látok          | Látom        | Fogok látni    | Fogom látni       |
-| te           | Láttál      | Láttad    | Látsz          | Látod        | Fogsz látni    | Fogod látni       |
-| ő            | Látta       | Látott    | Lát            | Látja        | Fog látni      | Fogja látni       |
-| mi           | Láttuk      | Láttunk   | Látunk         | Látjuk       | Fogunk látni   | Fogjuk látni      |
-| ti           | Láttatok    | Láttátok  | Láttok         | Latjátok     | Fogtatok látni | Fogjátok látni    |
-| ők           | Láttak      | Látták    | Látnak         | Látják       | Fognak látni   | Fogják látni      |
-| én <-> téged | -----       | Láttalak  | -----          | Látlak       | -----          | Foglak látni      |
+| Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Future indef.  | Future def.       |
+|--------------|-------------|-l---------|----------------|--------------|----------------|-------------------|
+| én           | láttam      | láttam    | látok          | látom        | fogok látni    | fogom látni       |
+| te           | láttál      | láttad    | látsz          | látod        | fogsz látni    | fogod látni       |
+| ő            | látott      | látta     | lát            | látja        | fog látni      | fogja látni       |
+| mi           | láttunk     | láttuk    | látunk         | látjuk       | fogunk látni   | fogjuk látni      |
+| ti           | láttatok    | láttátok  | láttok         | latjátok     | fogtok látni   | fogjátok látni    |
+| ők           | láttak      | látták    | látnak         | látják       | fognak látni   | fogják látni      |
+| én <-> téged | -----       | láttalak  | -----          | látlak       | -----          | foglak látni      |
 
 Néz - he/she/it watches.
 
@@ -48,21 +48,21 @@ Néz - he/she/it watches.
 | mi           | néztünk     | néztük     | nézünk         | nézzük       | fogunk nézni  | fogjuk nézni   |
 | ti           | néztetek    | néztétek   | néztek         | nézitek      | fogtok nézni  | fogjátok nézni |
 | ők           | néztek      | nézték     | néznek         | nézik        | fognak nézni  | fogják nézni   |
-| én <-> téged | -----       | nézettelek | -----          | nézlek       | -----         | foglak nézni   |
+| én <-> téged | -----       | néztelek   | -----          | nézlek       | -----         | foglak nézni   |
 
 Once again, it will be clear from context if `néztek` talkes about `ti` or `ők`.
 
 Üt - he/she/it hits.
 
-| Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Futurer indef. | Future def.   |
+| Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Future indef.  | Future def.   |
 |--------------|-------------|-----------|----------------|--------------|----------------|---------------|
-| én           | Ütöttem     | Ütöttem   | Ütök           | Ütöm         | Fogok ütni     | Fogom ütni    |
-| te           | Ütöttél     | Ütötted   | Ütsz           | Ütöd         | Fogsz ütni     | Fogod ütni    |
-| ő            | Ütött       | Ütötte    | Üt             | Üti          | Fog ütni       | Fogja ütni    |
-| mi           | Ütöttük     | Ütöttünk  | Ütünk          | Ütjük        | Fogunk ütni    | Fogjuk ütni   |
-| ti           | Üttötetek   | Üttötétek | Üttök          | Ütitek       | Fogtatok ütni  | Fogjátok ütni |
-| ők           | Üttek       | Ütték     | Ütnek          | Ütik         | Fognak ütni    | Fogják ütni   |
-| én <-> téged | -----       | Üttelek   | -----          | Ütlek        | -----          | Foglak ütni   |
+| én           | ütöttem     | ütöttem   | ütök           | ütöm         | fogok ütni     | fogom ütni    |
+| te           | ütöttél     | ütötted   | ütsz           | ütöd         | fogsz ütni     | fogod ütni    |
+| ő            | ütött       | ütötte    | üt             | üti          | fog ütni       | fogja ütni    |
+| mi           | ütöttünk    | ütöttük   | ütünk          | ütjük        | fogunk ütni    | fogjuk ütni   |
+| ti           | üttötetek   | üttötétek | üttök          | ütitek       | fogtok ütni    | fogjátok ütni |
+| ők           | ütöttek     | ütötték   | ütnek          | ütik         | fognak ütni    | Fogják ütni   |
+| én <-> téged | -----       | ütöttelek | -----          | ütlek        | -----          | Foglak ütni   |
 
 Olvas - he/she/it reads.
 
@@ -74,7 +74,7 @@ Olvas - he/she/it reads.
 | mi           | olvastunk   | olvastuk   | olvasunk       | olvassuk     | fogunk olvasni | fogjuk olvasni   |
 | ti           | olvastatok  | olvastátok | olvastok       | olvassátok   | fogtok olvasni | fogjátok olvasni |
 | ők           | olvastak    | olvasták   | olvasnak       | olvassák     | fognak olvasni | fogják olvasni   |
-| én <-> téged | -----       | olvastalak | -----          | olvasalak    | -----          | foglak olvasni   |
+| én <-> téged | -----       | olvastalak | -----          | olvaslak    | -----          | foglak olvasni   |
 
 So as you can see, the definite conjugation adds a whole new layer to verbs. 
 
@@ -110,4 +110,4 @@ If there is an object in the sentence, then the definite conjugation is used whe
 
 <span class="spoiler">I'm searching for the blue pen.</span>
 
-Aren't you loving all these verb tables? :smiley:
+Aren't you loving all these verb tables? 🙃
