@@ -86,7 +86,17 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 
 ### Essive-Modal `-ként`
 
-(content)
+Using this, can be thought of as using `mint` for most things. It is used to describe the literal state of something. In English, we could say:
+
+* I dressed up as a ghost to scare John.
+*
+*
+
+And in Hungarian:
+
+* Kísértetként felöltöztem, hogy megijesszem Bencet
+*
+*
 
 ### Instrumental `-val,-vel`
 
