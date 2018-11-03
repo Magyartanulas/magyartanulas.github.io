@@ -31,7 +31,7 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 `Challenge!`
 ![A Duna](https://magyartanulas.github.io/public/duna.JPG)
 
-*Ezt a folyót Dunának hívnak.*
+*Ezt a folyót Dunának hívják.*
 
 <span class="spoiler">They call this river the Duna.</span>
 
@@ -96,7 +96,7 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 * Az egész életüket ennek szentelték. - (They dedicated their whole lives to this.)
 * Dániel kutyájának a lába - (Daniel's dog's leg.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
-* Bátyamnak volt. - (It was my brother's.)
+* Bátyámnak volt. - (It was my brother's.)
 * A falnak is füle van! - (Idiom: Even the walls have ears!)
 
 `Challenges!`
