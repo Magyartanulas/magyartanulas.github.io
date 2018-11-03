@@ -89,7 +89,7 @@ The word `ha` means if, and is not limited to the conditional mood.
 
 The word `akkor` means then, and is used as an immediate follow-up.
 
-* Ha mindenható lennél, akkor mi lenne az első dolog megváltaztotnál a világban? (If you were almighty, then what would be the first thing you would change in the world?)
+* Ha mindenható lennél, akkor mi lenne az első dolog amit megváltaztotnál a világban? (If you were almighty, then what would be the first thing you would change in the world?)
 * Ha azt hiszitek, hogy hazamegyek és feladom, akkor tévedtek! - (If you (guys) believe that I'm going home and giving up, then you are mistaken!)
 
 *Alex: Készen állsz?* - (Are you ready? lit. Do you stand prepared?)
@@ -127,7 +127,7 @@ Some irregular verbs change unexpectedly when `-hat,-het` is added.
 
 `lehet` is interesting as it is used frequently as it is possible.
 
-*Lehet, hogy nehéz lesz, de lehetetlen nem!* - (It could be/is possible, that it will be hard, but not impossible!)
+*Lehet, hogy nehéz lesz, de nem lehetetlen!* - (It could be/is possible, that it will be hard, but not impossible!)
 
 Finally, you can combine the conditional mood with `-hat, -het` we get could (lit. would be allowed).
 
