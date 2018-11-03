@@ -15,37 +15,37 @@ Naturally, when adding the plural to our nominal noun, we have to obey vowel har
 
 | Noun                | -ak         | -ok           | -ek          | -ök            | -k                   |
 |---------------------|-------------|---------------|--------------|----------------|----------------------|
-| Játék (toy/game)    |             | Játék**ok**   |              |                |                      |
-| Gyerek (child)      |             |               | Gyerek**ek** |                |                      |
-| Kutya (dog)         |             |               |              |                | Kuty**ák**           |
-| Fű  (grass)         |             |               | Füv**ek**    |                |                      |
 | Férfi (man)         | Férfi**ak** |               |              |                |                      |
-| Ember (person)      |             |               | Ember**ek**  |                |                      |
 | Szó (word)          | Szav**ak**  |               |              |                |                      |
-| Tükör (mirror)      |             |               |              | Tükr**ök**     |                      |
 | Madár (bird)        | Madar**ak** |               |              |                |                      |
-| Kiwi                |             |               |              |                | Kiwi**k**            |
-| Kő (stone)          |             |               | Köv**ek**    |                |                      |
-| Bokor (bush)        |             | Bokr**ok**    |              |                |                      |
-| Gyümölcs (fruit)    |             |               |              | Gyümölcs**ök** |                      |
-| Macska (cat)        |             |               |              |                | Macsk**ák**          |
-| Bagoly (owl)        |             | Bagly**ok**   |              |                |                      |
 | Híd (bridge)        | Hid**ak**   |               |              |                |                      |
-| Bőrönd (suitcase)   |             |               |              | Bőrönd**ök**   |                      |
-| Fiú (boy)           |             |               |              |                | Fiú**k**             |
-| Sör (beer)          |             |               |              | Sör**ök**      |                      |
-| Polc (shelf)        |             | Polc**ok**    |              |                |                      |
 | Ló (horse)          | Lov**ak**   |               |              |                |                      |
-| Egér (mouse)        |             |               | Eger**ek**   |                |                      |
-| Gyöngy (pearl)      |             |               |              | Gyöngy**ök**   |                      |
-| Csillag (star)      |             | Csillag**ok** |              |                |                      |
 | Tó (lake)           | Tav**ak**   |               |              |                |                      |
+| Falu (village)      | Falv**ak**  |               |              |                |                      |
+| Játék (toy/game)    |             | Játék**ok**   |              |                |                      |
+| Bokor (bush)        |             | Bokr**ok**    |              |                |                      |
+| Bagoly (owl)        |             | Bagly**ok**   |              |                |                      |
+| Polc (shelf)        |             | Polc**ok**    |              |                |                      |
+| Csillag (star)      |             | Csillag**ok** |              |                |                      |
+| Az                  |             | Az**ok**      |              |                |                      |
+| Fű  (grass)         |             |               | Füv**ek**    |                |                      |
+| Gyerek (child)      |             |               | Gyerek**ek** |                |                      |
+| Ember (person)      |             |               | Ember**ek**  |                |                      |
+| Kő (stone)          |             |               | Köv**ek**    |                |                      |
+| Egér (mouse)        |             |               | Eger**ek**   |                |                      |
+| Ez                  |             |               | Ez**ek**     |                |                      |
+| Tükör (mirror)      |             |               |              | Tükr**ök**     |                      |
+| Gyümölcs (fruit)    |             |               |              | Gyümölcs**ök** |                      |
+| Bőrönd (suitcase)   |             |               |              | Bőrönd**ök**   |                      |
+| Sör (beer)          |             |               |              | Sör**ök**      |                      |
+| Gyöngy (pearl)      |             |               |              | Gyöngy**ök**   |                      |
+| Kutya (dog)         |             |               |              |                | Kuty**ák**           |
+| Kiwi                |             |               |              |                | Kiwi**k**            |
+| Macska (cat)        |             |               |              |                | Macsk**ák**          |
+| Fiú (boy)           |             |               |              |                | Fiú**k**             |
 | Daru (crane)        |             |               |              |                | Daru**k**/Darv**ak** |       
 | Satu (vice)         |             |               |              |                | Satu**k**            |
-| Falu (village)      | Falv**ak**  |               |              |                |                      |
 | Tanú                |             |               |              |                | Tanú**k**            |
-| Ez                  |             |               | Ez**ek**     |                |                      |
-| Az                  |             | Az**ok**      |              |                |                      |
 
 ---
 There's a lot to be taken away from here. We can make some rules, but **there will always be exceptions.**
@@ -127,30 +127,30 @@ As we learn more noun cases, we'll keep referring to this list.
 | Noun                     | -at                | -ot              | -et              | -öt            | -t          |
 |--------------------------|--------------------|------------------|------------------|----------------|-------------|
 | Játékok                  | Játékok**at**      |                  |                  |                |             |
-| Gyerek                   |                    |                  | Gyerek**ek**     |                |             |
 | Kutyák                   | Kutyák**at**       |                  |                  |                |             |
-| Fű                       |                    |                  | Füv**et**        |                |             |
-| Magyarázat (explanation) |                    | Magyarázat**ot** |                  |                |             |
-| Ember                    |                    |                  |                  |                | Ember**t**  |  
-| Hörcsög (hamster)        |                    |                  |                  | Hörcsög**öt**  |             |
-| Tükrök                   |                    | Tükrök**et**     |                  |                |             |
 | Madár                    | Madar**at**        |                  |                  |                |             |
-| Kiwi                     |                    |                  |                  |                | Kiwi**t**   |
-| Kövek                    |                    |                  | Kövek**et**      |                |             |
 | Bokor                    | Bokrok**at**       |                  |                  |                |             |
-| Gyümölcs                 |                    |                  |                  | Gyümölcs**öt** |             |
-| Macska                   |                    |                  |                  |                | Macsk**át** |
-| Bagoly                   |                    | Bagly**ot**      |                  |                |             |
-| Férfit                   |                    |                  |                  |                | Férfi**t**  |
-| Bőrönd                   |                    |                  |                  | Bőrönd**öt**   |             |
-| Fiú                      |                    |                  |                  |                | Fiú**t**    |
-| Sör                      |                    |                  |                  | Sör**ök**      |             |
-| Polc                     |                    | Polc**ok**       |                  |                |             |
-| Festmények (paintings)   |                    |                  | Festmények**et** |                |             |
-| Gyöngy                   |                    |                  |                  | Gyöngy**öt**   |             |
-| Egerek                   |                    |                  | Egerek**et**     |                |             |
-| Csillag                  |                    | Csillag**ot**    |                  |                |             |
 | Magyarázatok             | Magyarázatok**at** |                  |                  |                |             |
+| Magyarázat (explanation) |                    | Magyarázat**ot** |                  |                |             |
+| Tükrök                   |                    | Tükrök**et**     |                  |                |             |
+| Bagoly                   |                    | Bagly**ot**      |                  |                |             |
+| Polc                     |                    | Polc**ok**       |                  |                |             |
+| Csillag                  |                    | Csillag**ot**    |                  |                |             |
+| Gyerek                   |                    |                  | Gyerek**ek**     |                |             |
+| Fű                       |                    |                  | Füv**et**        |                |             |
+| Kövek                    |                    |                  | Kövek**et**      |                |             |
+| Festmények (paintings)   |                    |                  | Festmények**et** |                |             |
+| Egerek                   |                    |                  | Egerek**et**     |                |             |
+| Hörcsög (hamster)        |                    |                  |                  | Hörcsög**öt**  |             |
+| Gyümölcs                 |                    |                  |                  | Gyümölcs**öt** |             |
+| Bőrönd                   |                    |                  |                  | Bőrönd**öt**   |             |
+| Sör                      |                    |                  |                  | Sör**ök**      |             |
+| Gyöngy                   |                    |                  |                  | Gyöngy**öt**   |             |
+| Ember                    |                    |                  |                  |                | Ember**t**  |  
+| Kiwi                     |                    |                  |                  |                | Kiwi**t**   |
+| Macska                   |                    |                  |                  |                | Macsk**át** |
+| Férfit                   |                    |                  |                  |                | Férfi**t**  |
+| Fiú                      |                    |                  |                  |                | Fiú**t**    |
 
 ---
 All the vowel harmony rules stated for the plural apply for the accusative as well.
