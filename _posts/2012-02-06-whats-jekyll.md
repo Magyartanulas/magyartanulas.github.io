@@ -9,7 +9,7 @@ For all intents and purposes, this repository shall serve as a supplement to Hun
 this will be made as fun and readable as possible, it shouldn't replace your learning. In light of this, there will be
 websites listed below for further resources for practicing vocabulary and other aspects with the language.
 
-The goal here is clarification. Seeing as most native english speakers aren't given a thorough grammer education, these concepts
+The goal here is clarification. Seeing as most native english speakers aren't given a thorough grammar education, these concepts
 shall be explained where relevant. 
 
 The grammar will be explained in a progression route with sections from beginner to advanced. Feel free to skip ahead, but understanding of the prior sections is assumed. Although there is an order, some concepts will be introduced earlier and explained later as grammar is sometimes a web rather than a linear pathway. These will be noted at the end of each section as **Yet to Learn** starting from section 2.
