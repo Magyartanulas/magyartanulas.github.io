@@ -67,7 +67,7 @@ This only shows relevant conjugations, to see all of them [click here.](https://
 | Pronoun | Past indef. | Past def. | Present indef. | Present def. | Present indef. cond. | Present def. cond. |
 |---------|-------------|-----------|----------------|--------------|----------------------|--------------------|
 | ő       | vonzott     | vonzotta  | vonz           | vonzza       | vonzana              | vonzaná            |
-| ők      | vonzotak    | vonzoták  | vonzanak       | vonzzák      | vonzanának           | vonzanák           |
+| ők      | vonzottak   | vonzották | vonzanak       | vonzzák      | vonzanának           | vonzanák           |
 
 If the direct object is a name, then `vonz` takes on definite conjugation.
 
@@ -98,7 +98,7 @@ Here are the relevant conjugations, to see all of them [click here.](https://coo
 | ő       | érdekelt    | érdekel        | érdekelne            |
 | ők      | érdekeltek  | érdekelnek     | érdekelnének         |
 
-* Nem érdekel az isokola! - (School does not interest (me)!)
+* Nem érdekel az iskola! - (School does not interest (me)!)
 * Érdekelnének a szálloda árai, szobát szeretnék foglalni. - (The hotel prices interest (me), I would like to reserve a room.)
 
 ## Kedvel - Enjoyment
@@ -144,9 +144,11 @@ For people, you can `bír` a friend, classmate, teacher, shopkeeper or whoever.
 | ők            | bírtak      | bírták    | bírnak         | bírják       | bírnak               | bírják             |
 | én <-> téged  | -----       | bírtalak  | -----          | bírlak       | -----                | bírnálak           |
 
-* Szerintem, hogy bírná a kínai kaját. (I think that she would like chinese food.)
-* Bírom A Gyűrűk Ura filmejeit. - (I like The Lord of The Rings films.)
+* Szerintem bírná a kínai kaját. (I think she would like chinese food.)
+* Bírom A Gyűrűk Ura filmeket. - (I like The Lord of The Rings films.)
 * Tökre bírlak, de csak mint barát. - (I totally like you, but just as a friend.)
+
+**Note:** `tökre` is slang.
 
 ## Szeret - Love
 ---
@@ -202,7 +204,7 @@ For people one can use `imád` to worship or express stronger love or cherishmen
 `Challenge!`
 ![Szerelmes](https://magyartanulas.github.io/public/szerelmes.jpg)
 
-*Rómeó szerelmes volt Júliába.*
+*Rómeó beleszeretett volt Júliába.*
 
 <span class="spoiler">Romeó fell in love with Júlia.</span>
 
@@ -211,5 +213,11 @@ There are all sorts of lovey-dovey names that people use for their partners, her
 * Drágám - (My precious)
 * Édesem - (My sweet)
 * Kedvesem - (My dear) 
-* Szivem - (My heart)
+* Szívem - (My heart)
 * Szerelmem - (My love)
+
+---
+
+### Yet to Learn
+
+* `bele-` is a [coverb](https://magyartanulas.github.io/coverbs_telicity/)
