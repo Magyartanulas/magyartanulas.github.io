@@ -208,4 +208,4 @@ Examples:
 ### Yet to Learn
 
 * [definite conjugation](https://magyartanulas.github.io/definite_indefinite/) seen in `látom`
-* the [translative case]() seen in `boldoggá`
+* the [translative case](https://magyartanulas.github.io/noun_case_summary/) seen in `boldoggá`
