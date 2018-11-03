@@ -76,7 +76,7 @@ Here is a list of all the irregular verbs, bolds and italics are there to help i
 **Addendum**
 
 It is worth noting that to cheer in Hungarian, you wouldn't say *you can do it!* but rather *menni fog* or *sikerülni fog*. 
-They iterally mean *it will go* and *it will succeed* respectively.
+They literally mean *it will go* and *it will succeed* respectively.
 
 ## Negation
 
@@ -158,13 +158,13 @@ Consider these situations, Barnabás could respond with the following:
 
 * Alex: Nem láttad a nyelvtan könyvet? - (Have you (not) seen the grammar book?)
   * Barnabás: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
-  * Barnabás: De az asztal mellett van! - (But it is next to the table!)
+  * Barnabás: De, az asztal mellett van! - (But it is next to the table!)
 
 Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
 * Alex: Szia, nem zavarlak? - (Hi, am I (not) bothering you?)
   * Barnabás: Nem, dehogyis! Gyere be! - (No, quite the contrary! Come in!)
-  * Barnabás: De vagy, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy).
+  * Barnabás: De zavarsz, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy) *zavarsz is optional*.
 
 * Alex: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
   * Barnabás: Nem, szerintem, hogy ők túl zajos. (No, I think they are too noisy.)
