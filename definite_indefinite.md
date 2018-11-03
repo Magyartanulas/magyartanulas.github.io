@@ -29,7 +29,7 @@ Let's take a look at some transitive verbs to see how the vowel harmony works.
 Lát - he/she/it sees.
 
 | Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Future indef.  | Future def.       |
-|--------------|-------------|-l---------|----------------|--------------|----------------|-------------------|
+|--------------|-------------|-----------|----------------|--------------|----------------|-------------------|
 | én           | láttam      | láttam    | látok          | látom        | fogok látni    | fogom látni       |
 | te           | láttál      | láttad    | látsz          | látod        | fogsz látni    | fogod látni       |
 | ő            | látott      | látta     | lát            | látja        | fog látni      | fogja látni       |
