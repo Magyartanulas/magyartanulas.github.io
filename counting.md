@@ -59,7 +59,7 @@ Examples
 
 * Három ember beszélget. - (Three people are talking.)
 * Az utca száz méter hosszú volt. - (The street was one hundred meters long.)
-* Ma csak tizennégy fok odakinn van. - (Today it's only fourteen degrees outside.)
+* Ma csak tizennégy fok van odakinn. - (Today it's only fourteen degrees outside.)
 
 When answering, you don't have to answer with a precise number, you could instead decide to give an approximate value instead.
 
@@ -95,7 +95,7 @@ These two words are both used for asking *how much?* but in different ways. `Men
 
 * Hány óra van? - (What hour is it?)
 * Mennyi az Idő? - (What time is it?)
-* Hány turista volt a Hősök Tere? - (How many tourists were at Heroes' Square?)
+* Hány turista volt a Hősök Terén? - (How many tourists were at Heroes' Square?)
 * Mennyi bort ittál? - (How much wine did you drink?)
 * Most hány éves vagy? - (How old are you now?)
 * Mennyibe kerül ez? - (How much is this around?)
@@ -125,11 +125,11 @@ Both of these are used to ask the word *which?* out of a numbered sequence, but 
 And so it goes on... Remember as well as `tíz`, `húsz` becomes `huszadik` and `huszas`.
 
 * Hányadik emeleten vagy? - (Which floor are you on?)
-* Hányas ház van? - (What number house is it?)
-* Hányadik sorban ültek? - (Which row are you (guys) sitting in?)
+* Hányas ház az? - (What number house is it?) *az is optional*
+* Hányadik sorban ültök? - (Which row are you (guys) sitting in?)
 * Hányas busz megy a Duna Partra? - (What number bus goes to the Danube riverside?)
 * Hányadik kerületben élsz? - (Which district do you live in?)
-* Hányas cipőt viszel? - (What shoe size are you?)
+* Hányas lábad van? - (What shoe size are you? lit. What number leg do you have?)
 
 ## Telling the Time
 
@@ -173,13 +173,13 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 * Egy plusz négy az öt. - (One plus four is five.)
 
 * Hétből hét az nulla. - (Seven take away seven (lit. seven out of seven) is zero.)
-* Tíz minusz négy az hat. - (Ten minus four is six.)
+* Tíz mínusz négy az hat. - (Ten minus four is six.)
 
-* Ötszer három az tizenöt. - (Five times three is fifteen.)
-* Hat szorozva kilencvel az ötvennégy. - (Six multiplied with nine is fiftyfour.)
+* Ötször három az tizenöt. - (Five times three is fifteen.)
+* Hat szorozva kilenccel az ötvennégy. - (Six multiplied with nine is fiftyfour.)
 
-* Huszonnégyban nyolc az három. - (Eight in twentyfour is three.)
-* Harminc osztva háromval az tíz. - (Thirty shared with three is ten.)
+* Huszonnégyben nyolc az három. - (Eight in twentyfour is three.)
+* Harminc osztva hárommal az tíz. - (Thirty shared with three is ten.)
 
 `Challenge!`
 
@@ -193,4 +193,7 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 ### Yet to Learn
 
 * `-k,-t` [plural & accusative](https://magyartanulas.github.io/accusative_plurals/)
+* [possesion](https://magyartanulas.github.io/dative_possession/), seen in `éve` and `lábad`
+* `-n` which is a [locative](https://magyartanulas.github.io/locatives/)
+* `-val,-vel` seen in `perccel, kilenccel, hárommal`, these are examples of the [instrumental case](https://magyartanulas.github.io/noun_case_summary/)
 * [definite conjugation](https://magyartanulas.github.io/accusative_plurals/) as seen in `látod`
