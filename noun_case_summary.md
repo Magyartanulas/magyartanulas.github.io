@@ -59,9 +59,13 @@ We can add the case onto `ez` and `az` to form `eddig` and `addig`. The word `ad
 
 Adding this on to the noun gives the meaning of *at the time of*. Naturally this is mostly added to nouns that are related to time. With this case, `ez` and `az` become `ekkor` and `akkor`.
 
+`Ekkor` translates to *at this point*, something that can be used in a narrative. 
+
 * 7-kor reggelizek. - (I have breakfast at 7.)
 * Holnap találkozunk, délkor. - (We're meeting tomorrow, at noon.)
 * Karácsonykor mindig hideg van. - (It's always cold at Christmas time.)
+* Ekkor meglátott egy pókot, és sikoltozva kirohant a házból
+* Akkor felderül, amikor vége van. - (Then it lights up, when it is finished.)
 
 *Alex: Mikor indul a vonat?* - (When does the train live?)
 
@@ -71,20 +75,25 @@ Adding this on to the noun gives the meaning of *at the time of*. Naturally this
 
 Whenever you do something *for* the purpose of something, this case is used. This case can also be used with `ez` and `az` to form `ezért` and `azért` to explain motives. When asking for the reason behind something, use `miért?`.
 
-*
-*
-*
+* Miért vagyunk még mindig itt? Csak azért, hogy szenvedjünk? - (Why are we still here? Just to suffer?)
+* Nem vagyok felelős érte - (I'm not responsible for him/her)
+* Az unokahúgom kétnyelvű lesz, ezért majd spanyolul tanulok. - (My niece will be bilingual, that's why I will learn Spanish sometime in the future.)
+* Lement a boltba kenyérért. - (I went down to the store for bread.)
+
+*Barnabás: Miért nem ment el a buliba?* - (Why didn't you go to the party?)
+
+*Alex: Azért, mert túl beteg voltam.* - (Because I was too sick.)
+
+### Essive-Modal `-ként`
+
+(content)
 
 ### Instrumental `-val,-vel`
 
-(content)
+Mehetek veletek?
 barátaiddal
 
 ### Translative `-vá,-vé`
-
-(content)
-
-### Essive-Modal `-ként`
 
 (content)
 
