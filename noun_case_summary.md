@@ -86,14 +86,16 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 
 Using this, can be thought of as using `mint` for most things. It is used to describe the literal state of something. In English, we could say:
 
-*
-*
-*
+* I work as a secretary.
+* I wrote a sentence as an expression.
+* The news spread like wildfire.
+* Otherwise.
 
 And in Hungarian:
 
-*
-*
+* Titkárnőként dolgozom.
+* Gyarkolásként írtam egy mondatot.
+* Futótűzként terjedt el a hír.
 * Egyébként
 
 ### Instrumental `-val,-vel`
