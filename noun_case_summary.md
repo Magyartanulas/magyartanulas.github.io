@@ -207,7 +207,7 @@ Barnabás: Of course I do! The other night we were in a beer house talking about
 <br />
 Éva: Wait, I didn't ask you to recite this like a storyteller!<br />
 <br />
-Barnabás: Tudom.<br />
+Barnabás: I know.<br />
 <br />
 Barnabás: So there was a park to the right of the building where he worked. Everyday after work he went there to sit down by the trees. One day, while sitting and watching colourful birds, he tried to remember the last thing that made him happy, but nothing came to mind. Suddenly he saw his boss coming towards him. Why are you here? asked István.<br />
 <br />
