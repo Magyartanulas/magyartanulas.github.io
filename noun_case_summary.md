@@ -142,14 +142,15 @@ This case represents the change of state physically or metaphorically. Have a lo
 
 ## `Mega Challenge!!`
 
-Paragraph containg all the noun cases.
+- Nem emlékszel István**ra**?
 
-Nem emlékszel István**ra**?
+- Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült, kivéve a főnöké**t**. Mind**ig** jó volt beszélgetni **vele** folytatta.
 
-Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült, kivéve a főnöké**t**. Mind**ig** jó volt beszélgetni **vele** folytatta.
+- Várj csak, ne azt kérem, hogy mesélj el mesemondó**ként**.
 
-Várj csak, ne azt kérem, hogy mesélj el mesemondó**ként**.
+- Tudom.
 
-Tudom.
+- Az épület**tól** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ment leülni a fák**nál**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. Mi**ért** vagy itt? István kérdezte.
 
-Az épület**tól** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ment leülni a fák**nál**.
+Folytatjuk...
+
