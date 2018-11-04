@@ -98,6 +98,12 @@ And in Hungarian:
 * Futótűzként terjedt el a hír.
 * Egyébként
 
+*Alex: Ne egyél annyi egésztelen kaját!* - (Don't eat so much junk food!)
+
+*Barnabás: Mi..?* - (What..?)
+
+*Alex: Mindennap az ugyanaz. Nem orvosként mondom, hanem barátodként. Leginkább gondolj rá.* - (Everyday it's the same. I'm not saying this as a doctor, but as your friend. Think about it at least.)
+
 ### Instrumental `-val,-vel`
 
 When ever you want to use the word *with*, use the instrumental case. In Hungarian, you also use the instrumental case to describe your means of transport. If the noun ends in a vowel, use `-val,-vel` otherwise the ending becomes assimilated. E.g. `ez` + `-vel` = `ezzel` and `az` + `-val` = `azzal`
@@ -140,4 +146,10 @@ Paragraph containg all the noun cases.
 
 Nem emlékszel István**ra**?
 
-Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült. TBC...
+Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült, kivéve a főnöké**t**. Mind**ig** jó volt beszélgetni **vele** folytatta.
+
+Várj csak, ne azt kérem, hogy mesélj el mesemondó**ként**.
+
+Tudom.
+
+Az épület**tól** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ment leülni a fák**nál**.
