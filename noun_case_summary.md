@@ -140,17 +140,91 @@ This case represents the change of state physically or metaphorically. Have a lo
 
 ---
 
+<script type = "text/javascript">
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
 ## `Mega Challenge!!`
 
-- Nem emlékszel István**ra**?
+Éva: Nem emlékszel István**ra**?
 
-- Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült, kivéve a főnöké**t**. Mind**ig** jó volt beszélgetni **vele** folytatta.
+Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült, kivéve a főnöké**t**. Mind**ig** jó volt beszélgetni **vele**.
 
-- Várj csak, ne azt kérem, hogy mesélj el mesemondó**ként**.
+Éva: Várj csak, ne azt kérem, hogy mesélj el mesemondó**ként**!
 
-- Tudom.
+Barnabás: Tudom.
 
-- Az épület**tól** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ment leülni a fák**nál**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. Mi**ért** vagy itt? István kérdezte.
+Barnabás: Szóval, az épület**tól** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ment leülni a fák**nál**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. Mi**ért** vagy itt? István kérdezte.
 
 Folytatjuk...
 
+<span>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
+
+<div id = "translation" style ="display:none">
+Éva: Do you (not) remember István!<br />
+<br />
+Barnabás: Of course I do! The other night we were in a beer house talking about our work. He said to me that whenever he went into the office, the people stared past him as if he was made out of air, except for his boss. It was always good to chat with them.<br />
+<br />
+Éva: Wait, I didn't ask you to recite this like a storyteller!<br />
+<br />
+Barnabás: Tudom.<br />
+<br />
+Barnabás: So there was a park to the right of the building where he worked. Everyday after work he went there to sit down by the trees. One day, while sitting and watching colourful birds, he tried to remember the last thing that made him happy, but nothing came to mind. Suddenly he saw his boss coming towards him. Why are you here? asked István.<br />
+<br />
+Folytatjuk...
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
