@@ -123,6 +123,8 @@ This case represents the change of state physically or metaphorically. Have a lo
 * a jég vízzé megolvadt. - (The ice melted into water.)
 * Mivé lett a világ? - (What has the world become?)
 
+`Challenge!`
+
 `Mega Challenge!!`
 
 Paragraph containg all the noun cases.
