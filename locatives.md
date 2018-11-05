@@ -182,7 +182,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 
 * Elgyaloglok a hegyhez. - (I walk to the mountain.)
 * Futottam a kutyához. - (I ran to the dog.)
-* Marcinél vagyok. - (I'm at Marci's.)
+* Marcinál vagyok. - (I'm at Marci's.)
 * Az autóknál várt rám. - (He/she waited by the cars for me.)
 * sétálok az épülettől. - (I'm walking from the building.)
 * Futok a szobortól. - (I'm running from the statue.)
@@ -192,7 +192,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 * Szöveget írtunk a zenéhez. - (We wrote lyrics to the music.)
 * Sok sikert a tanuláshoz! - (Good luck with your learning!)
 * A terem zenétől volt hangos. - (The hall was loud from music.)
-* De félek ettől a konferanciától! - (But I'm scared of this conference!)
+* De félek ettől a konferenciától! - (But I'm scared of this conference!)
 * Ragad a keze az almától. - (His/her hand was sticky from the apple.)
 * Attól függ. - (It depends. lit. It hangs from that.)
 * Ennél a résznél mindig sírok, pedig már millószor láttam. - (I always cry at this part, even though I've seen it a million times already!)
@@ -222,7 +222,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 ***As a final note:*** keep your eye out for phrases that naturally take a locative case as its argument. For examples:
 
 * Elegem van belőle. - (I've had enough of it.)
-* Ebben nem vagzok túl biztos. - (I'm not too sure (about) this.)
+* Ebben nem vagyok túl biztos. - (I'm not too sure (about) this.)
 * Mennyibe kerül ez? - (How much is this around?)
 
 ---
