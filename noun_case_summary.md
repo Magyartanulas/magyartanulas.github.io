@@ -168,13 +168,16 @@ function clearAll() {
 
 Éva: Nem emlékszel István**ra**?
 
-Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta **nek**em, hogy bármi**kor** bement az irodá**ba** az emberek **rajta** átláttak, mintha levegő**ből** készült, kivéve a főnöké**t**. Mind**ig** jó volt beszélgetni **vele**.
+Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta nekem, hogy bármikor bement az irodá**ba** az emberek rajta átnéztek, mintha levegő**ből** készült volna, kivéve a főnöké**t**. Mindig jó volt beszélgetni vele.
 
-Éva: Várj csak, ne azt kérem, hogy mesélj el mesemondó**ként**!
+Éva: Várj csak, nem azt kértem, hogy meséld el mesemondó**ként**!
 
 Barnabás: Tudom.
 
-Barnabás: Szóval, az épület**tól** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ment leülni a fák**nál**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. Mi**ért** vagy itt? István kérdezte.
+Barnabás: Szóval, az épület**től** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ült a pad**on** a fák**nál** a biciklije**vel**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. \- Miért van itt? István kérdezte.
+\- Ezt elhagyta az asztalán, felelt, átadva egy kék palackot István**nak**.
+\- Köszönöm szépen, motyogta István.
+\- Azt is akartam mondani, hogy emelést megkap a folytonos kemény munkájá**ért**. Itt ült egy órá**ig**, 5-**kor** van és péntek is, menjen haza a családjá**hoz**, bíztatt a főnöke.
 
 Folytatjuk...
 
@@ -192,12 +195,21 @@ Barnabás: Of course I do! The other night we were in a beer house talking about
 <br />
 Barnabás: I know.<br />
 <br />
-Barnabás: So there was a park to the right of the building where he worked. Everyday after work he went there to sit down by the trees. One day, while sitting and watching colourful birds, he tried to remember the last thing that made him happy, but nothing came to mind. Suddenly he saw his boss coming towards him. Why are you here? asked István.<br />
+Barnabás: So there was a park to the right of the building where he worked. Everyday after work he sat there on the bench by the trees with his bicycle. One day, while sitting and watching colourful birds, he tried to remember the last thing that made him happy, but nothing came to mind. Suddenly he saw his boss coming towards him. "Why are you here?" asked István.<br />
+"You left this behind on your desk", he/she replied, handing a blue bottle to István.<br />
+"Thank you very much" mumbled István.<br />
+"I also wanted to say that you're getting a raise for your non-stop hard work.<br />
+You've sat here for an hour, it's five o' clock and it's Friday as well, go home to your family" encouraged his boss."<br />
 <br />
-Folytatjuk...
+To be continued...
 </div>
 
 <div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
