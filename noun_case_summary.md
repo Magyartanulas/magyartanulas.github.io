@@ -174,9 +174,9 @@ Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról
 
 Barnabás: Tudom.
 
-Barnabás: Szóval, az épület**től** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ült a pad**on** a fák**nál** a biciklije**vel**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. \- Miért van itt? István kérdezte.
-\- Ezt elhagyta az asztalán, felelt, átadva egy kék palackot István**nak**.
-\- Köszönöm szépen, motyogta István.
+Barnabás: Szóval, az épület**től** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ült a pad**on** a fák**nál** a biciklije**vel**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. \- Miért van itt? István kérdezte.<br />
+\- Ezt elhagyta az asztalán, felelt, átadva egy kék palackot István**nak**.<br />
+\- Köszönöm szépen, motyogta István.<br />
 \- Azt is akartam mondani, hogy emelést megkap a folytonos kemény munkájá**ért**. Itt ült egy órá**ig**, 5-**kor** van és péntek is, menjen haza a családjá**hoz**, bíztatt a főnöke.
 
 Folytatjuk...
