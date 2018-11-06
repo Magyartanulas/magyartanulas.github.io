@@ -77,6 +77,7 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 * Nem vagyok felelős érte - (I'm not responsible for him/her)
 * Az unokahúgom kétnyelvű lesz, ezért majd spanyolul tanulok. - (My niece will be bilingual, that's why I will learn Spanish sometime in the future.)
 * Lement a boltba kenyérért. - (I went down to the store for bread.)
+* Miért vagyunk még mindig itt? Csak azért, hogy szenvedjünk? - (Why are we still here? Just to suffer?)
 
 *Barnabás: Miért nem ment el a buliba?* - (Why didn't you go to the party?)
 
@@ -166,6 +167,8 @@ function clearAll() {
 
 ## `Mega Challenge!!`
 
+This story uses all the noun cases. All formal conversation has been simplified to informal using the second person.
+
 Éva: Nem emlékszel István**ra**?
 
 Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta nekem, hogy bármikor bement az irodá**ba** az emberek rajta átnéztek, mintha levegő**ből** készült volna, kivéve a főnöké**t**. Mindig jó volt beszélgetni vele.
@@ -174,10 +177,10 @@ Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról
 
 Barnabás: Tudom.
 
-Barnabás: Szóval, az épület**től** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ült a pad**on** a fák**nál** a biciklije**vel**. Egy nap, ülve és színes madarakat nézve, megpróbálta emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jut az eszébe. Hirtelen, látta a főnökét hozzá jön. \- Miért van itt? István kérdezte.<br />
-\- Ezt elhagyta az asztalán, felelt, átadva egy kék palackot István**nak**.<br />
+Barnabás: Szóval, az épület**től** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ült a pad**on** a fák**nál** a biciklije**vel**. Egy nap, ülve és színes madarakat nézve, megpróbált emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jutott az eszébe. Hirtelen, látta a főnökét hozzá jönni. \- Miért vagy itt? István kérdezte.<br />
+\- Ezt otthagytad az asztaladon, felelt, átadva egy kék palackot István**nak**.<br />
 \- Köszönöm szépen, motyogta István.<br />
-\- Azt is akartam mondani, hogy emelést megkap a folytonos kemény munkájá**ért**. Itt ült egy órá**ig**, 5-**kor** van és péntek is, menjen haza a családjá**hoz**, bíztatt a főnöke.
+\- Azt is akartam mondani, hogy emelést kapsz a folytonos kemény munkád**ért**. Itt ültél egy órá**ig**, 5-**kor** van és péntek is, menj haza a családod**hoz**, bíztatott a főnöke.
 
 Folytatjuk...
 
