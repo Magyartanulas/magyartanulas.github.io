@@ -77,7 +77,7 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 * Nem vagyok felelős érte - (I'm not responsible for him/her)
 * Az unokahúgom kétnyelvű lesz, ezért majd spanyolul tanulok. - (My niece will be bilingual, that's why I will learn Spanish sometime in the future.)
 * Lement a boltba kenyérért. - (I went down to the store for bread.)
-* Miért vagyunk még mindig itt? Csak azért, hogy szenvedjünk? - (Why are we still here? Just to suffer?)
+* Miért vagyunk még mindig itt? Csak azért, hogy szenvedjünk? - (Why are we still here, just to suffer?)
 
 *Barnabás: Miért nem ment el a buliba?* - (Why didn't you go to the party?)
 
