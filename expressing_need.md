@@ -148,3 +148,8 @@ szükség[possession ending] van [something]-(ra/re)
 * Nagy szüksége van vigasztalásra. - (He really needs comforting.)
 * A Kapitánynak elemzésre van szüksége. - (The Captain needs an analysis.)
 * Szedd össze, amire utazásodhoz szükséged van. - (Gather what you need for your journey.)
+
+![arnold](https://magyartanulas.github.io/public/arnold.png)
+*Szükségem van a ruhádra, a csizmádra és a motorodra.*
+
+<span class="spoiler">I need your clothes, your boots and your motorcycle.</span>
