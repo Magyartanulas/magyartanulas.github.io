@@ -134,7 +134,7 @@ Another and less used way to express need is to use `muszáj` which basically tr
 
 `Challenge!`
 
-![varázsló](https://magyartanulas.github.io/varázsló.png/)
+![varázsló](https://magyartanulas.github.io/public/varázsló.png/)
 *Muszáj elpusztítanod a gyűrűt, hogy megmentse a világot.*
 
 <span class="spoiler">You must destroy the ring to save the world.</span>
