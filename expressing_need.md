@@ -8,7 +8,7 @@ layout: page
 
 In English, to express that we need something, 
 
-The verb `kell`, is the verb for *to be required*. The verb is **intransitive**, meaning that there is only indefinite conjugation. When something is required, or someone needs something we use `kell`.
+The verb `kell`, is the verb for *it is needed/required*. The verb is **intransitive**, meaning that there is only indefinite conjugation. When something is required, or someone needs something we use `kell`.
 
 It is a verb all on its own, but when used for expressing need only the third person is used. [Click here](https://cooljugator.com/hu/kell) to see the full conjugation.
 
@@ -54,7 +54,7 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 
 ### Listening
 
-The kapitány and the közlegény are talking, try to work out what they are saying!
+The `kapitány` and the `közlegény` are talking, try to work out what they are saying!
 
 <audio controls><source src="https://magyartanulas.github.io/public/code.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
@@ -123,8 +123,28 @@ Kapitány: I don't need an excuse! I need a result!<br/>
 <br/>
 </div>
 
-## Muszaj
+## Muszáj
 
-Ooooh boy.
+Another and less used way to express need is to use `muszáj` which basically translates to *must*, again this is used for things that *have* to be done. Just like how must isn't used a lot in English, `muszáj` isn't used that much either. You may see it in literature or occasionally hear it in speech.
+
+* De muszáj megvalljam, én még nem láttam. - (I must confess, I haven't seen it before.)
+* Muszáj ezt megcsinálni? - (Does this *have* to be done?)
+* Muszáj maradnunk. - (We must stay.)
+* Muszáj megmutatnod nekem. - (You must show it to me.)
+
+`Challenge!`
+
+![varázsló](https://magyartanulas.github.io/varázsló.png/)
+*Muszáj elpusztítanod a gyűrűt, hogy megmentse a világot.*
+
+<span class="spoiler">You must destroy the ring to save the world.</span>
 
 ## Szükség
+
+You could also use `szükség` as a more formal way of needing something. The format (subject to word order) is outlined below:
+
+szükség[possession ending] van [something]-(ra/re)
+
+* Nagy szüksége van vigasztalásra. - (He really needs comforting.)
+* A Kapitánynak elemzésre van szüksége. - (The Captain needs an analysis.)
+* Szedd össze, amire utazásodhoz szükséged van. - (Gather what you need for your journey.)
