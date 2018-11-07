@@ -24,6 +24,7 @@ To express that you need something, just use `kell`. If you need to emphasise th
 * Kell egy autó. - (I need a car.)
 * Hány tojás kell a süteménybe? - (How many eggs are needed for the cake?)
 * Bármit teszel, az nekem is kell. - (Whatever you do, I need to do as well.)
+* Kell még egy szó. - (I need one more word.)
 * Új ruhák kellenek. - (I need new clothes.)
 
 To stress that the person/object needs to *do something*, then you can **conjugate the infinitive.**
@@ -46,7 +47,71 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 
 `Challenge!`
 
+![víz](https://magyartanulas.github.io/public/víz.png)
 *Ki kell menned a vízből!*
+
+### Listening
+
+The kapitány and the közlegény are talking, try to work out what they are saying!
+
+<audio controls><source src="https://magyartanulas.github.io/public/csatornán.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
+<div id = "transcript" style ="display:none">
+Kapitány: Helyzet?<br/>
+Közlegény: Nem rózsás Kapitány! Nem tudom a kódot!<br/> 
+Kapitány: Nem kell kifogás! Eredmény kell!<br/>
+</div>
+
+<div id = "translation" style ="display:none">
+Kapitány: Situation?<br/>
+Közlegény: It isn't rosy Captain! I don't know the code!<br/>
+Kapitány: I don't need an excuse! I need a result!<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+</div>
 
 ## Muszaj
 
