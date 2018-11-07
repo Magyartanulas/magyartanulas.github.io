@@ -54,7 +54,9 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 
 The kapitány and the közlegény are talking, try to work out what they are saying!
 
-<audio controls><source src="https://magyartanulas.github.io/public/csatornán.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio controls><source src="https://magyartanulas.github.io/public/code.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+<script type = "text/javascript">
 
 function check_reveal(button) {
     
@@ -94,6 +96,12 @@ function clearAll() {
 }
 
 </script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
 
 <div id = "transcript" style ="display:none">
 Kapitány: Helyzet?<br/>
