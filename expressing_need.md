@@ -50,6 +50,8 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 ![víz](https://magyartanulas.github.io/public/víz.png)
 *Ki kell menned a vízből!*
 
+<span class="spoiler">You need to get out of the water!</span>
+
 ### Listening
 
 The kapitány and the közlegény are talking, try to work out what they are saying!
