@@ -12,6 +12,8 @@ This isn't strictly true. While words can be rearranged, there are always except
 
 ## Neutral Sentences
 
+### SVO
+
 The default order for neutral sentences is **S**ubject**V**erb**O**bject (SVO). The subject does something (the verb) to the object. In English, personal pronouns or nouns are generally the subject.
 
 * He kicked the chair.
@@ -28,7 +30,7 @@ In Hungarian neutral sentences, the subject is omitted if it is a personal prono
 
 ## Emphasis
 
-To place emphasis on a word in English, use intonation on it. This emphasis can change the whole meaning of the sentence. Let's look at an easy example.
+To place emphasis on a word in English, stress it. This emphasis can change the whole meaning of the sentence. Let's look at an easy example.
 
 * ***I*** didn't give the book to her. - (Someone else gave the book to her.)
 * I ***didn't*** give the book to her. - (No meaning changed.)
@@ -36,9 +38,20 @@ To place emphasis on a word in English, use intonation on it. This emphasis can 
 * I didn't give the ***book*** to her. - (I gave her somethin else.)
 * I didn't give the book to ***her***. - (I gave the book to someone else.)
 
+Because English generally a rigid word order, emphasis only happens through stressing words.
+
+In Hungarian, the location of the topic in the sentence determines the emphasis. As a rule of thumb, emphasised words (the topic) go before those that are not.
+
+### Negation
+
+The negative word always comes first when negating the sentence. The word directly after the negative word is emphasised.
+
+* Nem vagyok magyar.
+*
+
 
 
 ## Things to watch out for
 
-
+## Recap Table
 
