@@ -12,9 +12,9 @@ layout: page
 
   [Locatives](https://magyartanulas.github.io/locatives/) - referencing location (like some postpositions)
 
-4. Illative `-ba,-be` - into a hollow box
-5. Inessive `-ban,-ben` - inside a hollow box
-6. Elative `-ból,-ből` - out of a hollow box
+\4. Illative `-ba,-be` - into a hollow box
+\5. Inessive `-ban,-ben` - inside a hollow box
+\6. Elative `-ból,-ből` - out of a hollow box
   
 7. Sublative `-ra,-re` - onto a surface
 8. Superessive `-en,-on,-ön,-n` - on a surface
