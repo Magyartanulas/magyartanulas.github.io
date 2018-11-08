@@ -36,9 +36,9 @@ Starting from Section 2, there will be captioned images with no english translat
 14. Making Comparisons
 15. Coverbs + Telicity
 16. The Imperative & Subjunctive Mood
-17. More Noun Cases (incomplete)
-18. The Conjugated Infinitive & Expressing need (incomplete)
-19. Word Order (incomplete)
+17. More Noun Cases
+18. The Conjugated Infinitive & Expressing need
+19. Word Order
 
 Stay tuned for more!
 
