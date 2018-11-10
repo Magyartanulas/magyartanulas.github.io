@@ -170,6 +170,8 @@ Harold: That too.<br/>
 <br/>
 </div>
 
+---
+
 `Challenge!`
 ![két ember meg egy tóll](https://magyartanulas.github.io/public/keres.jpg)
 
