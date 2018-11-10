@@ -71,9 +71,30 @@ Because the emphasis is on `a matek vizsgám`, this sentence could work as a res
 
 * Topic + Emphasis: Mit? Két szendvicset
 
-### Questions
+Recall the listening when we first covered [negation](https://magyartanulas.github.io/infinitive_negation/). Pay attention to the word order as the topic changes.
+
+* Pisti: Segits, mi a gond?
+* Jani: A gond az, hogy **nincs videó**
+
+[...]
+
+* Pisti: Mármint mi nincs?
+* Jani: Videó nincs.
+
+The original topic was asking about the issue, the issue is that there is no video. The next topic asks what is missing, the *video* is missing.
 
 
+### The effect of coverbs
+
+There's a simple rule when it comes to coverbs. While the coverb remains attached to the verb, the verb is emphasised and the sentence remains neutral. However, when the coverb is detached, the word order can change and thus different things can become emphasised. For example:
+
+* A mohó róka megette a csirkét. - (The greedy fox at the chicken. NEUTRAL)
+  - A mohó **róka** ette meg a csirkét. - (It was the *fox* that ate the chicken.)
+  - A **csirkét** ette meg a mohó róka.  - (It was the *chicken* that the fox ate.)
+
+### Questions + is
+
+You'll notice that with 
 
 ### Negation
 
