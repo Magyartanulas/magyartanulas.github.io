@@ -39,9 +39,9 @@ Note the last one doesn't have a direct object, but the same logic applies.
 
 If the sentence is describing something without verbs, (e.g. the ground is wet) the order becomes Adjective-Noun.
 
-* Esik az eső.
-* Kék az ég.
-* Nagyon cuki a cicád.
+* Esik az eső. - (It's raining lit. The rain is falling.)
+* Kék az ég. - (The sky is blue.)
+* Nagyon cuki a cicád. - (Your kitten is very cute.)
 
 ## Emphasis
 
@@ -50,14 +50,30 @@ To place emphasis on a word in English, stress it. This emphasis can change the 
 * ***I*** didn't give the book to her. - (Someone else gave the book to her.)
 * I ***didn't*** give the book to her. - (No meaning changed.)
 * I didn't ***give*** the book to her. - (I could have sold the book to her.)
-* I didn't give the ***book*** to her. - (I gave her somethin else.)
+* I didn't give the ***book*** to her. - (I gave her something else.)
 * I didn't give the book to ***her***. - (I gave the book to someone else.)
 
 Because English generally a rigid word order, emphasis only happens through stressing words.
 
-Hungarian is a topic-prominent language. The topic (what the sentence is about) is placed at the beginning of the 
+Hungarian is a topic-prominent language. The topic (what the sentence is about) is placed at the beginning of the sentence, and the rest of the sentence talks about this topic.
 
-~~In Hungarian, the location of the topic in the sentence . As a rule of thumb, emphasised words (the topic) go before those that are not.~~
+So because the case system in Hungarian frees up the word order, the emphasis now becomes based upon word order. The topic goes first, and the thing that is to be emphasised goes before the verb.
+
+* Tegnap a matek vizsgám volt. - (Yesterday I had my *maths exam*.)
+  - Topic: Tegnap
+  - Emphasis: a matek vizsgám
+  
+Because the emphasis is on `a matek vizsgám`, this sentence could work as a response to `Tegnap milyen vizsgád volt?`. The topic of conversation would be *when was it* with the emphasis on `what kind of exam?`. With word order, **the answer reflects the question**.
+
+*Barnabás: Mit szoktál reggelizni?* - (What do you usually have for breakfast?)
+
+*Alex: Csak két szendvicset szoktam.* - (Usually just two sandwiches.)
+
+* Topic + Emphasis: Mit? Két szendvicset
+
+### Questions
+
+
 
 ### Negation
 
