@@ -137,7 +137,7 @@ This case represents the change of state physically or metaphorically. Have a lo
 ![ketté](https://magyartanulas.github.io/public/ketté.png)
 *A villám kettévágta a sziklát.*
 
-<span classs="spoiler">The lightning split the rock into two.</span>
+<span class="spoiler">The lightning split the rock into two.</span>
 
 ---
 
