@@ -90,7 +90,7 @@ Something you'll notice is that the verb almost always follow a question word.
 
 An exception: `Milyen napod volt?` (Dues to the focus of *your day*).
 
-**Note:** The verb *may* be omitted in the question word. If that is the case, it usually asks about the general state of something. E.g. `Milyen a leves?` vs `Milyen van a leves?`. The former would be used more often, as it asks of the general state of the soup.
+**Note:** The verb *may* be omitted in the question word. If that is the case, it usually asks about the general state of something. E.g. `Milyen a leves?` vs `Milyen van a leves?`. The latter would be incorrect, as it asks of the general state of the soup *right now*, as opposed to how the soup is generally (does it taste nice?).
 
 ### Negation
 
