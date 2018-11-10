@@ -159,7 +159,9 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 
 ![Consequences](https://magyartanulas.github.io/public/consequences.png)
 
-*- Mikor tanulod már meg végre? Mikor mikor tanulod már meg végre, hogy a tetteidnek következményei vannak?*
+*- Mikor tanulod már meg végre? Mikor tanulod már meg végre, hogy a tetteidnek következményei vannak?*
+
+<span class="spoiler">When will you learn? When will you learn that your actions have consequences?</span>
 
 ### More on Postpositions
 
