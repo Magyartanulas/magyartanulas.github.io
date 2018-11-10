@@ -136,5 +136,10 @@ The same can be done with `is` (as well) and `sem` (neither).
 
 *Alex: Én is! Ez a kedvencem!* - (Me too! It's my favourite!)
 
-`Challenge!`
+## Further Links
+
+Naturally, this can be a difficult topic to grasp, as it differs a lot from English. Here are some videos on youtube that may help you.
+
+* [Explained with HungarianProject](https://www.youtube.com/watch?v=iYT7Cju3ZX4&t=611s)
+* [Explained with HungarianOnline](https://www.youtube.com/watch?v=o54E33Rw9Sk&t=4s)
 
