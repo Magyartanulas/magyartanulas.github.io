@@ -28,17 +28,18 @@ Starting from Section 2, there will be captioned images with no english translat
 6. Counting
 7. The Accusative Case & Plurals
 8. Definite vs Indefinite Conjugation
-9. Infinitive + Negation
-10. The Conditional Mood
-11. The Dative Case & Possession
-12. Expressing Interest
-13. Expressing Location
-14. Making Comparisons
-15. Coverbs + Telicity
-16. The Imperative & Subjunctive Mood
-17. More Noun Cases
-18. The Conjugated Infinitive & Expressing need
-19. Word Order
+9. Adverbs (incomplete)
+10. Infinitive + Negation
+11. The Conditional Mood
+12. The Dative Case & Possession
+13. Expressing Interest
+14. Expressing Location
+15. Making Comparisons
+16. Coverbs + Telicity
+17. The Imperative & Subjunctive Mood
+18. More Noun Cases
+19. The Conjugated Infinitive & Expressing need
+20. Word Order
 
 Stay tuned for more!
 
