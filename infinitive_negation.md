@@ -273,8 +273,6 @@ P: So now...<br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 </div>
 
 ---
