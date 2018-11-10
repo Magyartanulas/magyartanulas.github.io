@@ -99,6 +99,77 @@ If there is an object in the sentence, then the definite conjugation is used whe
 * Láttam egy macskát. - *I saw a cat.*
 * Állok a szék mellett. *I am standing next to the chair.*
 
+## Listening
+
+Harold and the interviewer are talking, try to work out what they are saying!
+
+<audio controls><source src="https://magyartanulas.github.io/public/tej.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+<script type = "text/javascript">
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
+
+<div id = "transcript" style ="display:none">
+Harold: Én nagyon szeretem a tejet.<br/>
+Interviewer: Igen és a kakáót is?<br/> 
+Harold: Azt is.<br/>
+</div>
+
+<div id = "translation" style ="display:none">
+Harold: I love milk very much.<br/>
+Interviewer: Yes and cocao as well?<br/> 
+Harold: That too.<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+</div>
+
 `Challenge!`
 ![két ember meg egy tóll](https://magyartanulas.github.io/public/keres.jpg)
 
