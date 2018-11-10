@@ -83,10 +83,10 @@ There's a simple rule when it comes to coverbs. While the coverb remains attache
 
 Something you'll notice is that the verb almost always follow a question word.
 
-* *Hol van* a tollám? - (Where is my pen?)
+* *Hol van* a tollam? - (Where is my pen?)
 * *Mit csináltál* tegnap? - (What did you do yesterday?)
 * *Milyen volt* a koncert? - (How was the concert?)
-* *Mikor elindulunk?* - (When do we leave?)
+* *Mikor indulunk el?* - (When do we leave?)
 
 An exception: `Milyen napod volt?` (Dues to the focus of *your day*).
 
@@ -102,11 +102,11 @@ The negative word always comes first when negating the sentence. The word direct
 Now the second sentence is incomplete. The emphasis has been placed on `magyar` which leads people to believe you are going to give them more information. Here are two ways you could complete the sentence.
 
 * Nem magyar vagyok, hanem angol. - (I'm not Hungarian but (rather) I'm English)
-* Nem magyar vagyok, de hülye sem. - (I'm not Hungarian, but I'm not stupid either.)
+* Nem magyar vagyok, de angol sem. - (I'm not Hungarian, but I'm not English either.)
 
 Recall the listening when we first covered [negation](https://magyartanulas.github.io/infinitive_negation/). Pay attention to the word order as the topic changes.
 
-* Pisti: Segits, mi a gond?
+* Pisti: Segíts, mi a gond?
 * Jani: A gond az, hogy **nincs videó**
 
 [...]
