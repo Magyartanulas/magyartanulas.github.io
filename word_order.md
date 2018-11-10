@@ -88,7 +88,9 @@ Something you'll notice is that the verb almost always follow a question word.
 * *Milyen volt* a koncert? - (How was the concert?)
 * *Mikor elindulunk?* - (When do we leave?)
 
-An exception: `Milyen napod volt?`
+An exception: `Milyen napod volt?` (Dues to the focus of *your day*).
+
+**Note:** The verb *may* be omitted in the question word. If that is the case, it usually asks about the general state of something. E.g. `Milyen a leves?` vs `Milyen van a leves?`. The former would be used more often, as it asks of the general state of the soup.
 
 ### Negation
 
