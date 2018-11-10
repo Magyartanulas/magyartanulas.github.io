@@ -136,6 +136,19 @@ The same can be done with `is` (as well) and `sem` (neither).
 
 *Alex: Én is! Ez a kedvencem!* - (Me too! It's my favourite!)
 
+`Challenge!`
+
+Arrange these words into a neutral sentence. *Remember the position of the topic.*
+
+* főnökömmel
+* a
+* 10-kor
+* reggel
+* megbeszélek
+* holnap
+
+<span class="spoiler">Holnap reggel megbeszélek a főnökömmel 10-kor.</span>
+
 ## Further Links
 
 Naturally, this can be a difficult topic to grasp, as it differs a lot from English. Here are some videos on youtube that may help you.
