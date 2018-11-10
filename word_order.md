@@ -71,19 +71,6 @@ Because the emphasis is on `a matek vizsgám`, this sentence could work as a res
 
 * Topic + Emphasis: Mit? Két szendvicset
 
-Recall the listening when we first covered [negation](https://magyartanulas.github.io/infinitive_negation/). Pay attention to the word order as the topic changes.
-
-* Pisti: Segits, mi a gond?
-* Jani: A gond az, hogy **nincs videó**
-
-[...]
-
-* Pisti: Mármint mi nincs?
-* Jani: Videó nincs.
-
-The original topic was asking about the issue, the issue is that there is no video. The next topic asks what is missing, the *video* is missing.
-
-
 ### The effect of coverbs
 
 There's a simple rule when it comes to coverbs. While the coverb remains attached to the verb, the verb is emphasised and the sentence remains neutral. However, when the coverb is detached, the word order can change and thus different things can become emphasised. For example:
@@ -94,7 +81,14 @@ There's a simple rule when it comes to coverbs. While the coverb remains attache
 
 ### Questions + is
 
-You'll notice that with 
+Something you'll notice is that the verb almost always follow a question word.
+
+* *Hol van* a tollám? - (Where is my pen?)
+* *Mit csináltál* tegnap? - (What did you do yesterday?)
+* *Milyen volt* a koncert? - (How was the concert?)
+* *Mikor elindulunk?* - (When do we leave?)
+
+An exception: `Milyen napod volt?`
 
 ### Negation
 
@@ -108,9 +102,37 @@ Now the second sentence is incomplete. The emphasis has been placed on `magyar` 
 * Nem magyar vagyok, hanem angol. - (I'm not Hungarian but (rather) I'm English)
 * Nem magyar vagyok, de hülye sem. - (I'm not Hungarian, but I'm not stupid either.)
 
+Recall the listening when we first covered [negation](https://magyartanulas.github.io/infinitive_negation/). Pay attention to the word order as the topic changes.
 
+* Pisti: Segits, mi a gond?
+* Jani: A gond az, hogy **nincs videó**
 
-## Things to watch out for
+[...]
 
-## Recap Table
+* Pisti: Mármint mi nincs?
+* Jani: Videó nincs.
+
+The original topic was asking about the issue, the issue is that there is no video. The next topic asks what is missing, the *video* is missing.
+
+### Adding pronouns
+
+The addition of pronouns places the emphasis on that person, generally done as a followup in conversations.
+
+*Alex: Hogy vagy ma?* - (How are you today?)
+
+*Barnabás: Nagyon jól vagyok, ma az utolsó vizsgám volt. Te hogy vagy?* - (I'm very well, I had my last exam today. How are *you?*)
+
+The same can be done with `is` (as well) and `sem` (neither).
+
+*Péter: Nem szeretek halászni, annyira unalmas!* - (I don't like fishing, it's so boring!)
+
+*Barnabás: Én sem, túl sokáig tart.* - (Neither do I, it takes too long.)
+
+---
+
+*György: Szeretem a csoki tortát.* - (I love chocolate cake.)
+
+*Alex: Én is! Ez a kedvencem!* - (Me too! It's my favourite!)
+
+`Challenge!`
 
