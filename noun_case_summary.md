@@ -83,7 +83,7 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 
 *Alex: Azért, mert túl beteg voltam.* - (Because I was too sick.)
 
-### Essive-Modal `-ként`
+### Essive-Formal `-ként`
 
 Using this, can be thought of as using `mint` for most things. It is used to describe the literal state of something. In English, we could say:
 
