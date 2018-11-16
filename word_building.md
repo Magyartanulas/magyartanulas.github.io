@@ -2,6 +2,7 @@
 layout: page
 title: Introduction to Word Building
 ---
+---
 
 As you may have noticed already, Hungarian is an **agglutinative language**, it uses suffixes and prefixes to solve most of its problems. Part of this involves adding suffixes to words to create more words.
 
@@ -18,7 +19,8 @@ Remember, even if you can see smaller words/root words within the word, the mean
 
 This is scary and there are many more attachments, but as we move on to more sections, all the pieces will slide into place.
 
-### Compound Words
+## Compound Words
+---
 
 Compound words are also common and work just like you think they would: take a base word and stick it onto another base word.
 
@@ -33,9 +35,9 @@ Compound words are also common and work just like you think they would: take a b
 
 ***Note:*** it is highly advised not to deconstruct every word you see, lest you get the wrong idea, e.g. beszél does *not* equal be + szél.
 
----
+### Digression 
 
-**Digression:** You may have heard of the famous 44-letter long word `megszentségteleníthetetlenségeskedéseitekért` and just for fun, we'll go through all of it.
+You may have heard of the famous 44-letter long word `megszentségteleníthetetlenségeskedéseitekért` and just for fun, we'll go through all of it.
 
 * `szent` - holy/saint.
 * `szentség` - holiness/saintliness
@@ -49,7 +51,8 @@ Compound words are also common and work just like you think they would: take a b
 * `szentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour
 * `megszentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour (until the action is exhausted)
 
-### Summary
+## Summary
+---
 
 * Alteration of meaning can be done through attachments onto the base word.
 * Compound words are also common and are merely base words added together.
