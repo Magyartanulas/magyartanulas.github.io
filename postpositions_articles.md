@@ -8,8 +8,8 @@ title: Introduction to Postpositions & Articles
 
 An article specifies if a noun is a definite thing or an indefinite thing.
 
-In English this is demonstrated by `a/an, the`. Article `a` is used when the following noun begins with a consonant (a flower),
-and `an` is used when that noun begins with a vowel (an icecream).
+In English this is demonstrated by *a/an* or *the*. Article *a* is used when the following noun begins with a consonant (a flower),
+and *an* is used when that noun begins with a vowel (an icecream).
 
 * **The** flower - *there is **definitely** only one flower being talked about.*
 * **A** flower - *we are talking about one of many flowers out there, it is **not definite**.*
