@@ -4,6 +4,7 @@ title: The Alphabet & Vowel Harmony
 ---
 
 ## The Alphabet
+---
 
 The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants
 the Hungarian Alphabet is a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
@@ -49,6 +50,7 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 * [Both + Vocab](https://www.youtube.com/watch?v=UusKeY47FPc)
 
 ## Vowel Harmony
+---
 
 Grammarwise, Hungarian solves all their problems with prefixes and suffixes, the way these attachments sound depends on vowel harmony. 
 
