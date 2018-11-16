@@ -4,7 +4,6 @@ layout: page
 ---
 
 ## Numbers
-
 ---
 
 Knowing how to count is essential in any language, numbers are absolutely everywhere. Here are the first 10 numbers with a rhyme to remember them (keep in mind there are many variations of this rhyme).
@@ -23,8 +22,6 @@ Knowing how to count is essential in any language, numbers are absolutely everyw
 | 10. tíz   | tiszta víz          | clean water             |
 
 Also, 0 is `nulla`. If you want to say one hundred, two thousand etc., just follow the number by the quantification.
-
-E.g.
 
 * Egyszáz. - (One hundred.)
 * Háromezer. - (Three thousand.)
@@ -76,7 +73,6 @@ When answering, you don't have to answer with a precise number, you could instea
 <span class="spoiler">Do you see those two tress over there? The alcoholic sees four.</span>
 
 ## Question words
-
 ---
 
 ### Mióta?
@@ -131,8 +127,11 @@ And so it goes on... Remember as well as `tíz`, `húsz` becomes `huszadik` and 
 * Hányadik kerületben élsz? - (Which district do you live in?)
 * Hányas lábad van? - (What shoe size are you? lit. What number leg do you have?)
 
-## Telling the Time
+You may be wondering, what about `melyik`? Well this word is typically used when the sequence is unordered.
 
+* Melyik könyvet keresel? - (Which book are you looking for?)
+
+## Telling the Time
 ---
 
 When you look at an analog clock, you may tell the time in English using either of the formats minutes *past* hour or minutes *to* the next hour.
@@ -157,7 +156,6 @@ The same goes for when the time isn't, this time there are two ways of saying it
 * Egy óra ötven perc van || Két óra lesz tíz perc múlva - (1:50)
 
 ## Basic arithmetic
-
 ---
 
 This mini section will go over the four operations:
