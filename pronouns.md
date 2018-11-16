@@ -4,25 +4,26 @@ title: Pronouns
 ---
 
 ## Interrogative pronouns
+---
 
 You can use these types of pronouns to ask for information. Here are a few:
 
-* `Mi?,Micsoda? Mik?` >> What?
-* `Ki? Kik?` >> Who?
-* `Kinek?` >> Whose?
-* `Melyik? Melyek?` >> Which?
-* `Hol?` >> Where?
-* `Mikor?` >> When?
-* `Hogyan? Hogy?` >> How?
-* `Milyen?` >> What kind of? What like?
-* `Mennyi?` >> How much?
+* Mi? Micsoda? Mik? - (What?)
+* Ki? Kik? - (Who?)
+* Kinek? - (Whose?)
+* Melyik? Melyek? - (Which?)
+* Hol? - (Where?)
+* Mikor? - (When?)
+* Hogyan? Hogy? - (How?)
+* Milyen? - (What kind of? What like?)
+* Mennyi? - (How much?)
 
-The `-k` added on serves as the plural (note the change in `melyik`). For words like `mi` and `ki`, if you expect the answer to be multiple, you can say the plural version, otherwise there is nothing wrong with asking the singular to receive a plural answer.
+The `-k` added on serves as the plural (with the exception of `melyik`). For words like `mi` and `ki`, if you expect the answer to be multiple, you can say the plural version, otherwise there is nothing wrong with asking the singular to receive a plural answer.
 
 The accusative can be added onto some of these pronouns when asking for *the direct object*.
 
-* `Mit? Miket? Micsodát?` >> What?
-* `Kit? Kiket?` >> Who?
+* Mit? Miket? Micsodát? - (What?)
+* Kit? Kiket? - (Who?)
 
 Examples:
 
@@ -37,23 +38,24 @@ Examples:
 *Alex: Matek, remélem, hogy jó lesz!* - (Maths, I hope it will be good!)
 
 ## Relative pronouns
+---
 
 These question starters can be used as relative pronouns. Relative pronouns refer to something else and are made by adding `a-`.
 
-* `Ami, amik` >> that, which
-* `Aki, akik` >> who
-* `Akinek` >> whose
-* `Amelyik,amelyek` >> which
-* `Ahol` >> where
-* `Amikor` >> when
-* `Ahogyan, ahogy` >> as
-* `Amilyen` >> such as
-* `Amennyi` >> as much as
+* Ami, amik - (that, which)
+* Aki, akik - (who)
+* Akinek - (whose)
+* Amelyik, amelyek - (which)
+* Ahol - (where)
+* Amikor - (when)
+* `Ahogyan, ahogy` - (as)
+* Amilyen - (such as)
+* Amennyi - (as much as)
 
 Likewise, as we have added the plural, we can do the same with the accusative.
 
-* `amit, amiket` >> what
-* `akit, akiket` >> who
+* amit, amiket - what
+* akit, akiket - who
 
 Examples:
 
@@ -69,6 +71,7 @@ Examples:
 <span class="spoiler">It turned out I was not the first to discover this.</span>
 
 ## Demonstrative Pronouns - This & That
+---
 
 Demonstrative pronouns are those that point to something via context. For example, in English we have this and that to represent something near and far respectively. In Hungarian it's the same kind of deal with a few changes, here are some examples:
 
