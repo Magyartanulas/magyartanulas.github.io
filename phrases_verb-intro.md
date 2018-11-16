@@ -4,6 +4,7 @@ title: Phrases & Introduction to Verbs
 ---
 
 ## Phrases & Words
+---
 
 Now that you've mastered pronunciation, here are some basic phrases and words to get you started!
 Note, everything here is simplified and not much is explained, but if you keep coming back to here, everything will start to click.
@@ -48,7 +49,6 @@ Note, everything here is simplified and not much is explained, but if you keep c
 | Holnap                                             | Tomorrow                      |
 | Tegnap                                             | Yesterday                     |
 
----
 
 * *Neked/nektek is* are responses to thoses phrases beginning with jó or szép.
 * *Igen, csak egy kicsit* is a reponse to *beszélsz angolul/magyarul?*
@@ -60,9 +60,8 @@ Note, everything here is simplified and not much is explained, but if you keep c
 
 <span class="spoiler">Well this isn't good!</span>
 
----
-
 ## Introduction to Verbs - Van
+---
 
 Van is the verb for existence. Naturally, it is an irregular verb, but one of the most important as well.
 
@@ -107,6 +106,7 @@ There are two things to notice here:
 <span class="spoiler">I'm János, who are you?</span>
 
 ## Examples of Regular Verb Conjugation
+---
 
 In Hungarian, verbs are described using the 3rd person singular form (he/she runs, he/she jumps),
 instead of the infinitive (to run, to jump). Thus, if you want to look up a verb in a dictionary 
@@ -174,9 +174,7 @@ And naturally the other timestamps work with the past-tense.
 * Telihold volt a minap éjszaka. - (There was a full moon the other night.)
 * Nemrég otthon voltam és a karácsonyra. - (I was at home recently for Christmas.)
 
-`meg-` is a prefix that adds telicity to verbs, [which is explained here.](https://magyartanulas.github.io/coverbs_telicity)
-
----
+### Sibilant verbs
 
 There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is changed.
 
@@ -217,4 +215,5 @@ Naturally because phrases have been introduced, the list will be long, but event
 * The use of `nem` and `nincs` for [negation](https://magyartanulas.github.io/infinitive_negation/)
 * The use of `-be` which is a [locative](https://magyartanulas.github.io/locatives/)
 * The use of `fel-` which is a [coverb](https://magyartanulas.github.io/coverbs_telicity) used to add directionality.
+* The use of `meg-`, a [telicity marker](https://magyartanulas.github.io/coverbs_telicity)
 
