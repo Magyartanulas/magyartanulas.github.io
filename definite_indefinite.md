@@ -5,6 +5,7 @@ title: Definite & Indefinite Conjugation
 
 ## Transitive or Intransitive
 ---
+
 In Hungarian, there is an important distinction between verbs, those that are transitive and those that are not.
 
 A **transitive** verb is any verb that takes a **direct object**, i.e. the accusative.
@@ -23,10 +24,11 @@ One cannot örül/ül/felkel *something*. These verbs are intransitive and they 
 transitive verbs have indefinite *and* definite conjugation.
 
 ## Introducing Definite Conjugation
+---
 
 Let's take a look at some transitive verbs to see how the vowel harmony works.
 
-Lát - he/she/it sees.
+`Lát` - he/she/it sees.
 
 | Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Future indef.  | Future def.       |
 |--------------|-------------|-----------|----------------|--------------|----------------|-------------------|
@@ -38,7 +40,7 @@ Lát - he/she/it sees.
 | ők           | láttak      | látták    | látnak         | látják       | fognak látni   | fogják látni      |
 | én <-> téged | -----       | láttalak  | -----          | látlak       | -----          | foglak látni      |
 
-Néz - he/she/it watches.
+`Néz` - he/she/it watches.
 
 | Pronouns     | Past indef. | Past def.  | Present indef. | Present def. | Future indef. | Future def.    |
 |--------------|-------------|------------|----------------|--------------|---------------|----------------|
@@ -52,7 +54,7 @@ Néz - he/she/it watches.
 
 Once again, it will be clear from context if `néztek` talkes about `ti` or `ők`.
 
-Üt - he/she/it hits.
+`Üt` - he/she/it hits.
 
 | Pronoun      | Past indef. | Past def. | Present indef. | Present def. | Future indef.  | Future def.   |
 |--------------|-------------|-----------|----------------|--------------|----------------|---------------|
@@ -64,7 +66,7 @@ Once again, it will be clear from context if `néztek` talkes about `ti` or `ők
 | ők           | ütöttek     | ütötték   | ütnek          | ütik         | fognak ütni    | Fogják ütni   |
 | én <-> téged | -----       | ütöttelek | -----          | ütlek        | -----          | Foglak ütni   |
 
-Olvas - he/she/it reads.
+`Olvas` - he/she/it reads.
 
 | Pronouns     | Past indef. | Past def.  | Present indef. | Present def. | Future indef.  | Future def.      |
 |--------------|-------------|------------|----------------|--------------|----------------|------------------|
@@ -78,12 +80,10 @@ Olvas - he/she/it reads.
 
 So as you can see, the definite conjugation adds a whole new layer to verbs. 
 
-**Important notes**
+**IMPORTANT NOTES**
 
 * The special `én <-> téged` conjugation is definite. Naturally, it won't always make sense to use it.
 * The sibilant verbs olvas & néz, gets a different conjugation in the second person.
-
----
 
 If there is an object in the sentence, then the definite conjugation is used when there is `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. *Any other time*, the indefinite conjugation is used.
 
@@ -100,6 +100,7 @@ If there is an object in the sentence, then the definite conjugation is used whe
 * Állok a szék mellett. *I am standing next to the chair.*
 
 ## Listening
+---
 
 Harold and the interviewer are talking, try to work out what they are saying!
 
