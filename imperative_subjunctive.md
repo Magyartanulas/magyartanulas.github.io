@@ -4,6 +4,7 @@ layout: page
 ---
 
 ## The Imperative Mood
+---
 
 * The indicative mood *indicates* what is happening. - My friend is coming over to my place.
 * The conditional mood depends on *conditions* to occur. - If he finishes his homework, then he can come over.
@@ -31,16 +32,17 @@ Examples:
 * Na mondjad, mi újság? - (So tell me, what's up?)
 * Menj el a szobádba! - (Go to your room!)
 
-**Note:** Mi újság is often shortened to mizu
+**Note:** `Mi újság` is often shortened to `mizu`
 
 `Challenge!`
 
 ![siet](https://magyartanulas.github.io/public/hurry.png)
 *Siessetek már, mert itthagynak!*
 
-<span class="spoiler">Hurry up (guys), they're leaving!</span>
+<span class="spoiler">Hurry up (guys), because they're leaving!</span>
 
-## The Subjunctive Mood (incomplete)
+## The Subjunctive Mood 
+---
 
 The Subjunctive mood expresses a wish or a suggestion. Nowadays (in English at least) it is rarely used, but still exists in some phrases.
 
