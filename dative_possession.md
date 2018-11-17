@@ -64,11 +64,6 @@ In Hungarian, the possessive is marked with a suffix, and goes on the possessed 
 | ti      | -atok, -etek, -otok, -ötök, -tek, -tok, -tök | -aitok, -eitek, -jaitek, -jeitek, -itek, -itok |
 | ők      | -uk, -ük, -juk, -jük                         | -aik,   -eik,   -jaik,   -jeik                 |
 
-**Hierarchy**
-
-* Plural/Possessive
-* Accusative/Dative
-
 Here are some examples:
 
 * Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myslef, here I stand infront of its gate.)
@@ -107,6 +102,7 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 <span class="spoiler">Are these not your books?</span>
 
 ---
+
 *Barnabás: Kit láttál?*
 
 *Alex: A Zöld Bagoly Óvónőit.*
