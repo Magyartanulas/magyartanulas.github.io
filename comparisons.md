@@ -4,6 +4,7 @@ title: Making Comparisons
 ---
 
 ## The Comparative and Superlative
+---
 
 In English, if you want to show that something is different to something else in some way, you use comparatives.
 
@@ -44,10 +45,8 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 <span class="spoiler">Éva: I think the blue shirt is good. It goes well with your grey jacket.</span>
 
----
-
 ## így/úgy
-
+---
 
 Both `így` and `úgy` are adverbial [pronouns](https://magyartanulas.github.io/pronouns), and are used to describe *how* a verb is done. Thus, both roughly translate into this way, or that way and typically go alongside verbs.
 
@@ -66,6 +65,7 @@ When `úgy` is used, it is followed up with more information either in the sente
 *Barnabás: Együtt fogjuk megcsinálni, úgy könnyebb.* - (We'll do it together, it'll be easier this way.)*
 
 ## ilyen/olyan
+---
 
 Both `ilyen` and `olyan` on the other hand are adjectival [pronouns.](https://magyartanulas.github.io/pronouns) They both translate roughly into this kind of, or that kind of and go alongside nouns instead. Similar to before, `olyan` is followed up with more information or context, while `ilyen` is typically closer to the speaker and the context or information is more obvious.
 
@@ -79,6 +79,7 @@ Both `ilyen` and `olyan` on the other hand are adjectival [pronouns.](https://ma
 *Barnabás: Ilyen nincs! - (That can't be possible! lit. There is no such (thing))
 
 ## mint
+---
 
 The word `mint` is used in linkage between nouns, when it is used with the comparative, it translates to than.
 
