@@ -4,6 +4,7 @@ title: Coverbs and Telicity
 ---
 
 ## Coverbs
+---
 
 Coverbs are those things that add directionality or modify the meaning of the verb. Coverbs are so important that some of the verbs that use them change completely in meaning.
 
@@ -46,9 +47,8 @@ Even though `át-` means through/across, when the noun has `-n` attached, the me
 
 <span class="spoiler">Rock beats scissors!</span>
 
----
-
 ## Telicity
+---
 
 Telicity (lit. end or goal) is a property of a verb that indicates completion. If a verb is telic, it is goal-oriented.
 
@@ -61,7 +61,7 @@ The first example represents a person running within a general time-frame and re
 
 The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typically either `meg-` or `el-` will represent telicity but there are exceptions, naturally. Here are some examples:
 
-* **eszik, megeszik**
+* **`eszik, megeszik`**
 
 `Eszik` translates to he/she/it eats. Because this isn't telic, this verb can be used when you are in the process of eating or idly eating. `Megeszik` is telic, so now the goal is on eating *all of it*, used when you finish a meal.
 
@@ -70,7 +70,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 ---
 
-* **lát, meglát**
+* **`lát, meglát`**
 
 `Lát` translates to he/she/it sees. It isn't telic, so this is used when you *happen* to see or notice something. One can intentionally `néz` something, but not for `lát`. So because of this, when `meg-` is added, it makes the verb *even more* spontaneous, to catch a glimpse or sight of something.
 
@@ -79,7 +79,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 ---
 
-* **beszél, megbeszél**
+* **`beszél, megbeszél`**
 
 `Beszél` translates to he/she/it speaks. Being not telic, this is used when you are speaking in general. `Megbeszél` makes the verb telic and is used when the goal is to speak, this changes the verb from speaks to discuss a topic until completion, *to have a talk*.
 
@@ -88,16 +88,16 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 ---
 
-* **hív, meghív**
+* **`hív, meghív`**
 
 `Hív` translates to he/she/it calls. It can be used either to contact someone (e.g. via telephone), call someone by name or just call for something in general. `Meghív` now has the purpose of calling, so the meaning changes from calling to *invite*.
 
-* Nem vagyok magyar, de hülye sem. Hívom a rendőrséget. - (I'm not Hungarian, but I'm not stupid either. I'm calling the police.)
+* Hívom a rendőrséget. - (I'm calling the police.)
 * Kit akarsz meghívni? - (Who do you want to invite?)
 
 ---
 
-* **olvas, elolvas**
+* **`olvas, elolvas`**
 
 `Olvas` translates to he/she/it reads. This can be used when you are leisurely reading, but `elolvas` means that the goal is to read the book in its entirety, to *peruse* it.
 
@@ -106,7 +106,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 ---
 
-* **megy, elmegy**
+* **`megy, elmegy`**
 
 `Megy` is the general verb for he/she/it goes, and is a useful verb for going in general. `Elmegy` can be used with the intention of going, to *leave*.
 
@@ -115,13 +115,12 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 ---
 
-* **mesél, elmesél**
+* **`mesél, elmesél`**
 
 `Mesél` is the verb for when he/she/it tells a story or recounts. Naturally, `elmesél` means that the goal is on telling the story in its entirety.
 
 * Nagypapa éppen mesél egy történet. - (Grandpa is telling a story.)
 * Ezek a vésetek egy történetet mesélnek el. - (These carvings tell a story.)
-
 
 `Challenge!`
 ![nyelvek](https://magyartanulas.github.io/public/üdv.png)
@@ -130,10 +129,12 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 <span class="spoiler">He/she who learns a new language, acquires a new soul.</span>
 
----
-
-`Vele` is a pronoun of the instrumental case, it is explained here.
-
 The topic of telicity is quite hard to wrap the head around, you may want to download this [pdf.](https://www.glossa-journal.org/articles/10.5334/gjgl.52/galley/88/download/) if it helps explain.
 
 You are encouraged to review the previous sections to see more examples of telicity.
+
+---
+
+### Yet to Learn
+
+* The [instrumental case](https://magyartanulas.github.io/coverbs_telicity/), as seen in `vele`
