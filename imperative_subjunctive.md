@@ -47,7 +47,7 @@ Examples:
 The Subjunctive mood expresses a wish or a suggestion. Nowadays (in English at least) it is rarely used, but still exists in some phrases.
 
 * I wish it ~~was~~ were still in use.
-* She demands that he leave~~s~~ at once.
+* She demands that he leave at once.
 * God save the Queen.
 
 In Hungarian, the subjunctive mood uses the same form as the imperative. It is used to suggest or as the structure *x happens/happened so that y will/will not happen.*
