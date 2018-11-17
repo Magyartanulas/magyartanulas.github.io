@@ -28,7 +28,7 @@ Starting from Section 2, there will be captioned images with no english translat
 6. Counting
 7. The Accusative Case & Plurals
 8. Definite vs Indefinite Conjugation
-9. Adverbs (incomplete)
+9. Common Adverbs
 10. Infinitive + Negation
 11. The Conditional Mood
 12. The Dative Case & Possession
