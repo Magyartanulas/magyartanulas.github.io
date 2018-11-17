@@ -117,13 +117,6 @@ In English this only happens a few times.
 * Can you see me? (me is the direct object)
 * Whom did you see? (whom is the direct object)
 
-**Note, there is a noun-case hierarchy.**
-
-* Plural
-* Accusative
-
-As we learn more noun cases, we'll keep referring to this list.
-
 | Noun                     | -at                | -ot              | -et              | -öt            | -t          |
 |--------------------------|--------------------|------------------|------------------|----------------|-------------|
 | Játékok                  | Játékok**at**      |                  |                  |                |             |
