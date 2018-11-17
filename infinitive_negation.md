@@ -75,7 +75,7 @@ Here is a list of all the irregular verbs, bolds and italics are there to help i
 
 **Addendum**
 
-It is worth noting that to cheer in Hungarian, you wouldn't say *you can do it!* but rather *menni fog* or *sikerülni fog*. 
+It is worth noting that to cheer in Hungarian, you wouldn't say *you can do it!* but rather `menni fog` or `sikerülni fog`. 
 They literally mean *it will go* and *it will succeed* respectively.
 
 ## Negation
