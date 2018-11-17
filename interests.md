@@ -99,7 +99,7 @@ Here are the relevant conjugations, to see all of them [click here.](https://coo
 | ők      | érdekeltek  | érdekelnek     | érdekelnének         |
 
 * Nem érdekel az iskola! - (School does not interest (me)!)
-* Érdekelnének a szálloda árai, szobát szeretnék foglalni. - (The hotel prices interest (me), I would like to reserve a room.)
+* Érdekelnének a szálloda árai, szobát szeretnék foglalni. - (The hotel prices would interest (me), I would like to reserve a room.)
 
 ## Kedvel - Enjoyment
 ---
@@ -125,7 +125,7 @@ Some conjugations have been omitted due to prior explanations, to see all of the
 * Péter mindig kedvelte a kockázatot, igaz? - (Péter always enjoyed (taking) risks, right?)
 * De Alex, talán jobban kedvelnének, ha nem lennél mindig annyira mérges. - ( But Alex, maybe they would like you better if you weren't always so angry.)
 
-## Bír - Casual Interest (incomplete)
+## Bír - Casual Interest
 ---
 
 If you casually like something then you can use `bír`, which among other meanings has a meaning which translates closely to *I dig it* but without sounding like slang.
