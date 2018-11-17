@@ -39,12 +39,8 @@ These cases can be into three groups which are each applied to how the noun is i
 
 A noun can be interpreted in more than one way depending on the context.
 
-**Hierarchy**
-
-* Plural/possessive
-* locative
-
 ### Hollow box
+---
 
 ![ajtók](https://magyartanulas.github.io/public/doors.png)
 
@@ -102,6 +98,7 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 <span class="spoiler">I say an atrociously bad king will become out of you.</span>
 
 ### Surface
+---
 
 ![tutajok](https://magyartanulas.github.io/public/surfaces_enlarged.png)
 
@@ -164,6 +161,7 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 <span class="spoiler">A good friend waits for you.</span>
 
 ### Solid
+---
 
 ![fák](https://magyartanulas.github.io/public/solids.png)
 
