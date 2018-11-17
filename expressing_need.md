@@ -5,6 +5,7 @@ layout: page
 ---
 
 ## Kell & The Conjugated Infinitive
+---
 
 In English, to express that we need something, 
 
@@ -124,6 +125,7 @@ Kapitány: I don't need an excuse! I need a result!<br/>
 </div>
 
 ## Muszáj
+---
 
 Another and less used way to express need is to use `muszáj` which basically translates to *must*, again this is used for things that *have* to be done. Just like how must isn't used a lot in English, `muszáj` isn't used that much either. You may see it in literature or occasionally hear it in speech.
 
@@ -140,6 +142,7 @@ Another and less used way to express need is to use `muszáj` which basically tr
 <span class="spoiler">You must destroy the ring to save the world.</span>
 
 ## Szükség
+---
 
 You could also use `szükség` as a more formal way of needing something. The format (subject to word order) is outlined below:
 
