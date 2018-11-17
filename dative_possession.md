@@ -113,7 +113,7 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 
 ### Stating possessions
 
-In Hungarian, there is no verb to have, instead you state what belongs to you through the verb `van`. So it follows that you can state what does not belong to you with `nincs,sincs`
+In Hungarian, there is no verb *to have*, instead you state what belongs to you through the verb `van`. So it follows that you can state what does not belong to you with `nincs,sincs`
 
 * Van egy macskám. - (I have a cat.)
 * Bárcsak lenne egy kutyám! - (I wish I had a dog!)
@@ -152,6 +152,8 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 
 * Petőfi Rádió, a te slágered. - (Petőfi Radio, your hit.)
 * Ez a toll az enyém - (This pen is mine.)
+
+`Challenge!`
 
 ![Consequences](https://magyartanulas.github.io/public/consequences.png)
 
