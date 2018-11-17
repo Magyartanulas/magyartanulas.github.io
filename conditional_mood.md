@@ -3,10 +3,6 @@ layout: page
 title: The Conditional Mood
 ---
 
-## The Conditional Mood
-
----
-
 Up until now, we have been dealing with verbs in the indicative mood, i.e. verbs that *indicate* what is actually happening.
 
 The conditional mood indicates what *would* happen if certain conditions are met. This can be seen all the time in English, with words like if and would.
@@ -27,7 +23,7 @@ Naturally, there is more conjugation to represent the conditional mood in Hungar
 | ti      | szerettetek volna | szerettétek volna | szeretnétek          | szeretnétek         |
 | ők      | szerettek volna   | szerették volna   | szeretnének          | szeretnék           |
 
-Csinál (he/she/it does/makes).
+`Csinál` (he/she/it does/makes).
 
 | Pronoun | Past indef. cond.  | Past def. cond.   | Present indef. cond. | Present def. cond. |
 |---------|--------------------|-------------------|----------------------|--------------------|
@@ -38,7 +34,7 @@ Csinál (he/she/it does/makes).
 | ti      | csináltatok volna  | csináltátok volna | csinálnátok          | csinálnátok        |
 | ők      | csináltak volna    | csinálták volna   | csinálnának          | csinálnák          |
 
-Lesz (he/she/it becomes). Remember this is an intransitive verb so it only gets the indefinite conjugation!
+`Lesz` (he/she/it becomes). Remember this is an intransitive verb so it only gets the indefinite conjugation!
 
 | Pronoun | Past cond.     | Present cond. |
 |---------|----------------|---------------|
@@ -72,6 +68,7 @@ The `-ban,-ben` is a locative case, [this is covered here.](https://magyartanula
 <span class="spoiler">I would eat more, but I'm full!</span>
 
 ### Akkor, Ha & Majd
+---
 
 While using the conditional mood, we can ask hypothetical questions as well. If we *are* using the conditional mood, then every aspect of that sentence is used in the conditional as well.
 
@@ -141,6 +138,6 @@ Bárcsak means if only/I wish and it is considered conditional. When it is used,
 
 ### Yet to Learn
 
-* szeret is only one way of [expressing interest](https://magyartanulas.github.io/interests/)
+* `szeret` is only one way of [expressing interest](https://magyartanulas.github.io/interests/)
 * `-re` seen in `mire` is a [locative](https://magyartanulas.github.io/locatives/)
 * the coverb `haza-` as well as `meg-` and `el-` are explained in [coverbs & telicity](https://magyartanulas.github.io/coverbs_telicity/)
