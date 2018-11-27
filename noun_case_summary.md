@@ -26,7 +26,7 @@ layout: page
 
 ## Remaining Noun Cases
 
-### Termanative `-ig`
+### Terminative `-ig`
 
 Adding this on the noun gives the meaning *until* or *for a length of time*, i.e. whenever the action terminates. In English, we would say:
 
