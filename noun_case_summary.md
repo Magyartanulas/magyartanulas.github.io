@@ -190,7 +190,7 @@ Folytatjuk...
 </span>
 
 <div id = "translation" style ="display:none">
-Éva: Do you (not) remember István!<br />
+Éva: Do you (not) remember István?<br />
 <br />
 Barnabás: Of course I do! The other night we were in a beer house talking about our work. He said to me that whenever he went into the office, the people stared past him as if he was made out of air, except for his boss. It was always good to chat with them.<br />
 <br />
