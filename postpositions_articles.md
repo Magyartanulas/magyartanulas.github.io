@@ -122,4 +122,6 @@ Postpositions cannot be used with standalone pronouns, you have to attach the pe
 
 ### Yet to Learn
 
-* `-m` which is a [possession suffix](https://magyartanulas.github.io/dative_possession/)
+* `-m`, `-e` which are markers of the [possession suffix](https://magyartanulas.github.io/dative_possession/)
+* `-k` the [plural ending](https://magyartanulas.github.io/accusative_plurals/)
+* `-ban`, `-hoz` which are [locatives](https://magyartanulas.github.io/locatives/)
