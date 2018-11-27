@@ -32,9 +32,9 @@ Just like in English, the indefinite article is used to specify just one thing a
 
 The definite article is also used before abstract nouns.
 
-Az élet. - (Life.)
-A zene. - (Music.)
-A szabadság. - (Freedom.)
+* Az élet. - (Life.)
+* A zene. - (Music.)
+* A szabadság. - (Freedom.)
 
 Proper nouns don't use an article, except for specifying a type of pronoun. Similarly, this is used when talking about nouns that are members of a group. 
 
@@ -125,3 +125,5 @@ Postpositions cannot be used with standalone pronouns, you have to attach the pe
 * `-m`, `-e` which are markers of the [possession suffix](https://magyartanulas.github.io/dative_possession/)
 * `-k` the [plural ending](https://magyartanulas.github.io/accusative_plurals/)
 * `-ban`, `-hoz` which are [locatives](https://magyartanulas.github.io/locatives/)
+* `meg`, marking [telicity](https://magyartanulas.github.io/coverbs_telicity/)
+* `jobb`, an example of a [comparative](https://magyartanulas.github.io/comparisons/)
