@@ -69,7 +69,9 @@ The zero or "no" article is used often in Hungarian. Aside from the examples men
 `Challenge!`
 ![tűzőgép](https://magyartanulas.github.io/public/tűzőgép.png)
 
-*Itt van Éva, ő titkárnő. Keres egy tűzőgépet. Amikor megtalálta a tűzőgépet, boldog volt.* 
+*Itt van Éva, ő titkárnő. Keres egy tűzőgépet. Amikor megtalálta a tűzőgépet, boldog volt.*
+
+<span class="spoiler">Here is Éva, she is a secretary. She is looking for a stapler. When she found the stapler, she was happy.</span>
 
 ## Spatial Postpositions
 ---
