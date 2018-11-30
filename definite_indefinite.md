@@ -16,11 +16,11 @@ A **transitive** verb is any verb that takes a **direct object**, i.e. the accus
 
 [Previously,](https://magyartanulas.github.io/phrases_verb-intro/) we only covered intransitive verbs, these tend to be ones that show states of being, or relations to nouns. 
 
-* örül - He/she/it is happy
-* ül - He/she/it sits
-* felkel - he/she/it rises/gets up
+* örül - (He/she/it is happy)
+* ül - (He/she/it sits)
+* felkel - (he/she/it rises/gets up)
 
-One cannot örül/ül/felkel *something*. These verbs are intransitive and they only have indefinite conjugation. On the other hand, 
+One cannot `örül/ül/felkel` *something*. These verbs are intransitive and they only have indefinite conjugation. On the other hand, 
 transitive verbs have indefinite *and* definite conjugation.
 
 ## Introducing Definite Conjugation
@@ -83,21 +83,21 @@ So as you can see, the definite conjugation adds a whole new layer to verbs.
 **IMPORTANT NOTES**
 
 * The special `én <-> téged` conjugation is definite. Naturally, it won't always make sense to use it.
-* The sibilant verbs olvas & néz, gets a different conjugation in the second person.
+* The sibilant verbs `olvas` & `néz`, gets a different conjugation in the second person.
 
 If there is an object in the sentence, then the definite conjugation is used when there is `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. *Any other time*, the indefinite conjugation is used.
 
 **Definite**
 
-* Láttam a fát. - *I saw the tree.*
-* István olvassa ezt a könyvet. - *István is reading this book.*
-* A fiú ütötte azt az ajtót. - *The boy hit that door.*
+* Láttam a fát. - (I saw the tree.)
+* István olvassa ezt a könyvet. - (István is reading this book.)
+* A fiú ütötte azt az ajtót. - (The boy hit that door.)
 
 **Indefinite**
 
-* Mit/kit látsz? *What/who did you see?*
-* Láttam egy macskát. - *I saw a cat.*
-* Állok a szék mellett. *I am standing next to the chair.*
+* Mit/kit látsz? - (What/who did you see?)
+* Láttam egy macskát. - (I saw a cat.)
+* Állok a szék mellett. - (I am standing next to the chair.)
 
 ## Listening
 ---
