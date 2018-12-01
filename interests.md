@@ -216,6 +216,86 @@ There are all sorts of lovey-dovey names that people use for their partners, her
 * Szívem - (My heart)
 * Szerelmem - (My love)
 
+### Listening
+
+Bogi and Áron are talking, try to work out what they are saying!
+
+<audio controls><source src="https://magyartanulas.github.io/public/szerelmes.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+<script type = "text/javascript">
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
+
+<div id = "transcript" style ="display:none">
+B: Tetszik ugye?<br/>
+Á: Mi?<br/>
+B: Nem mi, hanem ki. Hát Timi, Kelemen Timi.<br/>
+Á: Ja ő, nem tudom. Hát kedves lány, meg szép a szeme és ő is szereti az autókat.<br/>
+B: Szóval szerelmes vagy. Szerelmes vagy! Szerelmes vagy!<br/>
+Á: Nem vagyok szerelmes, csak szimpatikus és kész.<br/>
+</div>
+
+<div id = "translation" style ="display:none">
+B: You like her, don't you?<br/>
+Á: What?<br/>
+B: Not what, but rather who. Well it's Timi, Timi Kelemen.<br/>
+Á: Oh her, I don't know. Well she's a nice girl, plus her eyes are pretty and she even likes cars.<br/>
+B: So you're in love. You're in love! You're in love!<br/>
+Á: I'm not in love, she's just likeable and that's it.<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
 ---
 
 ### Yet to Learn
