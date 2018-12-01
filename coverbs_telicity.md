@@ -61,6 +61,8 @@ The first example represents a person running within a general time-frame and re
 
 The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typically either `meg-` or `el-` will represent telicity but there are exceptions, naturally. Here are some examples:
 
+### Using `meg-`
+
 * **`eszik, megeszik`**
 
 `Eszik` translates to he/she/it eats. Because this isn't telic, this verb can be used when you are in the process of eating or idly eating. `Megeszik` is telic, so now the goal is on eating *all of it*, used when you finish a meal.
@@ -96,6 +98,94 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 * Kit akarsz meghívni? - (Who do you want to invite?)
 
 ---
+
+### Listening
+
+The `kapitány` and the `rabszolgák` are talking, try to work out what they're saying!
+
+<audio controls><source src="https://magyartanulas.github.io/public/szerelmes.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+<script type = "text/javascript">
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
+
+<div id = "transcript" style ="display:none">
+Rabszolga: Ott vagyunk már?<br/>
+Kapitány: Nem.<br/>
+Rabszolga: Ott vagyunk már?<br/>
+Kapitány: Nem!<br/>
+Rabszolga: Ott vagyunk már?<br/>
+Kapitány: Istenemre mondom megfordítom ezt a hajót!<br/>
+Rabszolgák egyszerre: Az jó! Ja. Abból tanulnánk. Bizony lenne bajunk.<br/>
+Kapitány: Na jól van, ti akartátok...Na, álljunk csak meg!<br/>
+</div>
+
+<div id = "translation" style ="display:none">
+Rabszolga: Are we there yet?<br/>
+Kapitány: No.<br/>
+Rabszolga: Are we there yet?<br/>
+Kapitány: No!<br/>
+Rabszolga: Are we there yet?<br/>
+Kapitány: I swear to God, I will turn this ship around!<br/>
+Rabszolgák egyszerre: That's good! Yeah. We would learn from that. We would surely have trouble.<br/>
+Kapitány: Well alright, you guys wanted it...Hey hold on!<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
+### Using `el-`
 
 * **`olvas, elolvas`**
 
