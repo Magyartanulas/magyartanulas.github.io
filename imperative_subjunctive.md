@@ -41,6 +41,98 @@ Examples:
 
 <span class="spoiler">Hurry up (guys), because they're leaving!</span>
 
+### Listening
+
+Gollam and Szméagol are talking, try to work out what they are saying!
+
+<audio controls><source src="https://magyartanulas.github.io/public/szerelmes.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+<script type = "text/javascript">
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
+
+<div id = "transcript" style ="display:none">
+G: Múlt hol lennél nélkülem? Gollam, Gollam! Megóvtalak. Igen én nekem köszönhet, csakhogy itt vagyunk.<br/>
+Sz: Ez már nem igaz.<br/>
+G: Mit mondtad?<br/>
+Sz: Ránk most már gazda vigyázz, és tehát nincs szükség.<br/>
+G: Mi?<br/>
+Sz: Menj el és ne gyere többet vissza.<br/>
+G: Nem!<br/>
+Sz: Menj el és ne gyere többet vissza.<br/>
+G: \*morog\*<br/>
+Sz: Menj el és ne gyere többé vissza!<br/>
+</div>
+
+<div id = "translation" style ="display:none">
+G: Where would you have been without me? Gollam, Gollam! I saved you. Yes, we're only here thanks to me.<br/>
+Sz: That's not true anymore.<br/>
+G: What did you say?<br/>
+Sz: Master looks after us now, and so you aren't required.<br/>
+G: What?<br/>
+Sz: Go away and don't come back anymore.<br/>
+G: No!<br/>
+Sz: Go away and don't come back anymore.<br/>
+G: \*Growls\*<br/>
+Sz: Go away and don't ever come back!<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
 ## The Subjunctive Mood 
 ---
 
