@@ -97,8 +97,6 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 * Hívom a rendőrséget. - (I'm calling the police.)
 * Kit akarsz meghívni? - (Who do you want to invite?)
 
----
-
 ### Listening
 
 The `kapitány` and the `rabszolgák` are talking, try to work out what they're saying!
