@@ -225,4 +225,5 @@ You are encouraged to review the previous sections to see more examples of telic
 
 ### Yet to Learn
 
-* The [instrumental case](https://magyartanulas.github.io/coverbs_telicity/), as seen in `vele`
+* The [instrumental case](https://magyartanulas.github.io/noun_case_summary/), as seen in `vele`
+* The [imperative and subjunctive form](https://magyartanulas.github.io/imperative_subjunctive/), as seen in `álljunk`
