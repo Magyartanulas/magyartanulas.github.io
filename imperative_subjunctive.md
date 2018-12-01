@@ -131,6 +131,7 @@ Sz: Go away and don't ever come back!<br/>
 <br/>
 <br/>
 <br/>
+<br/>
 </div>
 
 ## The Subjunctive Mood 
@@ -163,3 +164,9 @@ In Hungarian, the subjunctive mood uses the same form as the imperative. It is u
 *Azért jöttem, hogy segítsek.*
 
 <span class="spoiler">I came to help</span>
+
+---
+
+### Yet to Learn
+
+* `szükség` demonstrates one example of [expressing need.](https://magyartanulas.github.io/expressing_need/)
