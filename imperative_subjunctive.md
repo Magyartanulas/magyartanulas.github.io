@@ -45,7 +45,7 @@ Examples:
 
 Gollam and Szméagol are talking, try to work out what they are saying!
 
-<audio controls><source src="https://magyartanulas.github.io/public/szerelmes.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio controls><source src="https://magyartanulas.github.io/public/gazda.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 <script type = "text/javascript">
 
