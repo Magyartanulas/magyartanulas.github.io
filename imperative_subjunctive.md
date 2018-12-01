@@ -95,27 +95,27 @@ function clearAll() {
 </span>
 
 <div id = "transcript" style ="display:none">
-G: Múlt hol lennél nélkülem? Gollam, Gollam! Megóvtalak. Igen én nekem köszönhet, csakhogy itt vagyunk.<br/>
-Sz: Ez már nem igaz.<br/>
-G: Mit mondtad?<br/>
-Sz: Ránk most már gazda vigyázz, és tehát nincs szükség.<br/>
+G: Mondd, hol lennél nélkülem?! Gollam, Gollam! Megóvtalak! Igen, én! Nekem köszönhetjük, hogy itt vagyunk!<br/>
+Sz: Ez már nem igaz!<br/>
+G: Mit mondtál?<br/>
+Sz: Ránk most már gazda vigyáz, és rád nincs szükség.<br/>
 G: Mi?<br/>
-Sz: Menj el és ne gyere többet vissza.<br/>
+Sz: Menj el és ne gyere többet vissza!<br/>
 G: Nem!<br/>
-Sz: Menj el és ne gyere többet vissza.<br/>
+Sz: Menj el és ne gyere többet vissza!<br/>
 G: *Morog*<br/>
 Sz: Menj el és ne gyere többé vissza!<br/>
 </div>
 
 <div id = "translation" style ="display:none">
-G: Where would you have been without me? Gollam, Gollam! I saved you. Yes, we're only here thanks to me.<br/>
-Sz: That's not true anymore.<br/>
+G: Tell me, where would you be without me?! Gollam, Gollam! I saved you! Yes, me! We're here thanks to me!<br/>
+Sz: That's not true anymore!<br/>
 G: What did you say?<br/>
 Sz: Master looks after us now, and so you aren't required.<br/>
 G: What?<br/>
-Sz: Go away and don't come back anymore.<br/>
+Sz: Go away and don't come back anymore!<br/>
 G: No!<br/>
-Sz: Go away and don't come back anymore.<br/>
+Sz: Go away and don't come back anymore!<br/>
 G: *Growls*<br/>
 Sz: Go away and don't ever come back!<br/>
 </div>
