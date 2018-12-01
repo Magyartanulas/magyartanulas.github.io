@@ -81,10 +81,9 @@ There's a simple rule when it comes to coverbs. While the coverb remains attache
   
 This detachment can also be seen when a verb and a telic verb in the infinitive are used together.
 
-* Próbáltam elmagyarázni neked. - (I tried to explain to you.)
-* El próbáltam magyarázni neked, de nem hallgattál rám! - (I *tried* to explain to you, but you didn't listen to me!)
-
-Without much change in the word order, the focus goes on `próbáltam`. When separation happens the format is always [coverb] [verb] [verb inf.].
+* Próbáltam elnézni. - (I *tried* to look away)
+  - El próbáltam nézni. - (I tried to look *away*. Not up, down, out or in.)
+  - Elnézni próbáltam - (I tried to *look away*. Not see, listen or speak.)
 
 ### Questions + is
 
