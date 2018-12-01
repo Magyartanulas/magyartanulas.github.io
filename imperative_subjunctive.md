@@ -108,7 +108,7 @@ Sz: Menj el és ne gyere többé vissza!<br/>
 </div>
 
 <div id = "translation" style ="display:none">
-G: Tell me, where would you be without me?! Gollam, Gollam! I saved you! Yes, me! We're here thanks to me!<br/>
+G: Tell me, where would you be without me?! Gollam, Gollam! I saved you! Yes, me! We can thank me that we are here!<br/>
 Sz: That's not true anymore!<br/>
 G: What did you say?<br/>
 Sz: Master looks after us now, and so you aren't required.<br/>
