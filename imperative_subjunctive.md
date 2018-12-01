@@ -103,7 +103,7 @@ G: Mi?<br/>
 Sz: Menj el és ne gyere többet vissza.<br/>
 G: Nem!<br/>
 Sz: Menj el és ne gyere többet vissza.<br/>
-G: *morog*<br/>
+G: *Morog*<br/>
 Sz: Menj el és ne gyere többé vissza!<br/>
 </div>
 
