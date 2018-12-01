@@ -103,7 +103,7 @@ G: Mi?<br/>
 Sz: Menj el és ne gyere többet vissza.<br/>
 G: Nem!<br/>
 Sz: Menj el és ne gyere többet vissza.<br/>
-G: \*morog\*<br/>
+G: *morog*<br/>
 Sz: Menj el és ne gyere többé vissza!<br/>
 </div>
 
@@ -116,7 +116,7 @@ G: What?<br/>
 Sz: Go away and don't come back anymore.<br/>
 G: No!<br/>
 Sz: Go away and don't come back anymore.<br/>
-G: \*Growls\*<br/>
+G: *Growls*<br/>
 Sz: Go away and don't ever come back!<br/>
 </div>
 
