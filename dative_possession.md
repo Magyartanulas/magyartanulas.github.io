@@ -126,6 +126,86 @@ In Hungarian, there is no verb *to have*, instead you state what belongs to you 
 
 *Alex: Nekem sincs*
 
+### Listening
+
+Shifu Mester and Tai Lung are talking, try to work out what they are saying!
+
+<audio controls><source src="https://magyartanulas.github.io/public/sárkányharcos.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+<script type = "text/javascript">
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
+
+<div id = "transcript" style ="display:none">
+T: Hazatértem, mester.<br/>
+S: Ez már nem az otthonod, és én már nem vagyok a mestered. <br/> 
+T: Á igen, akadt egy új kedvenced. És hol van ez a Po? Elijesztettem?<br/>
+S: Ez a harc, kettőnk közt fog eldőlni.
+T: Szóval, így fog megtörténni...<br/>
+S: Így kell történnie!<br/>
+</div>
+
+<div id = "translation" style ="display:none">
+T: I have arrived home, master.<br/>
+S: This is not your home anymore, and I am not your master anymore. <br/> 
+T: Oh yes, a new favourite of yours occured. And where is this Po? Have I scared him away?<br/>
+S: This fight will be settled between us.
+T: So this is how it will happen...<br/>
+S: This is how it has to happen!<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
 ### Pronouns
 
 You can use pronouns with posessions to stress that the noun belongs to you.
@@ -186,3 +266,4 @@ There are also pronouns not pertaining to location, and so they only have one fo
 ### Yet to Learn
 
 * `ki-` and `meg-` demonstrate [directionality and telicity](https://magyartanulas.github.io/coverbs_telicity/)
+* `kell` is used for [expressing need](https://magyartanulas.github.io/expressing_need/)
