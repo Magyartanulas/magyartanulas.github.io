@@ -183,7 +183,7 @@ function clearAll() {
 T: Hazatértem, mester.<br/>
 S: Ez már nem az otthonod, és én már nem vagyok a mestered. <br/> 
 T: Á igen, akadt egy új kedvenced. És hol van ez a Po? Elijesztettem?<br/>
-S: Ez a harc, kettőnk közt fog eldőlni.
+S: Ez a harc, kettőnk közt fog eldőlni.<br/>
 T: Szóval, így fog megtörténni...<br/>
 S: Így kell történnie!<br/>
 </div>
@@ -192,12 +192,13 @@ S: Így kell történnie!<br/>
 T: I have arrived home, master.<br/>
 S: This is not your home anymore, and I am not your master anymore. <br/> 
 T: Oh yes, a new favourite of yours occured. And where is this Po? Have I scared him away?<br/>
-S: This fight will be settled between us.
+S: This fight will be settled between us.<br/>
 T: So this is how it will happen...<br/>
 S: This is how it has to happen!<br/>
 </div>
 
 <div id = "none" style ="display:block">
+<br/>
 <br/>
 <br/>
 <br/>
