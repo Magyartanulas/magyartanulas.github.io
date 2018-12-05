@@ -186,6 +186,7 @@ T: Á igen, akadt egy új kedvenced. És hol van ez a Po? Elijesztettem?<br/>
 S: Ez a harc, kettőnk közt fog eldőlni.<br/>
 T: Szóval, így fog megtörténni...<br/>
 S: Így kell történnie!<br/>
+<br/>
 </div>
 
 <div id = "translation" style ="display:none">
