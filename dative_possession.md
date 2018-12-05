@@ -267,5 +267,5 @@ There are also pronouns not pertaining to location, and so they only have one fo
 
 ### Yet to Learn
 
-* `ki-` and `meg-` demonstrate [directionality and telicity](https://magyartanulas.github.io/coverbs_telicity/)
+* `ki-` and `meg-, el-` demonstrate [directionality and telicity](https://magyartanulas.github.io/coverbs_telicity/) respectively
 * `kell` is used for [expressing need](https://magyartanulas.github.io/expressing_need/)
