@@ -31,6 +31,7 @@ Compound words are also common and work just like you think they would: take a b
 * `számítógép` >> `számító` (calculating) + `gép` (machine) >> computer
 * `iránytű` >> `irány` (direction) + `tű` (pin/needle) >> compass
 * `vízvezeték-szerelő` > `vízvezeték` (waterway) + `szerelő` (assembler) >> plumber
+* `árvíztűrő tükörfúrógép` > `árvíz` (flood) + `tűrő` (resistant) + `tükör` (mirror) + `fúró` (drilling) + `gép` (machine) >> flood-resistant mirror-drill
 
 
 ***Note:*** it is highly advised not to deconstruct every word you see, lest you get the wrong idea, e.g. beszél does *not* equal be + szél.
