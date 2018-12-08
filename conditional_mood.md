@@ -100,6 +100,95 @@ If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown 
 * Egy nap majd, szeretnék megtanulni egy másik nyelvet. - (Someday I would like to learn another language).
 * Holnap majd hallgatom ezt a dalot. (Sometime tomorrow I'll listen to this song.)
 
+### Listening
+
+Gabriel and Hector are talking, try to work out what they are saying!
+
+<audio controls><source src="https://magyartanulas.github.io/public/anya.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+<script type = "text/javascript">
+
+function check_reveal(button) {
+    
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    var none = document.getElementById("none");
+ 
+    if (button === 'transcript') {
+        
+        if (hun.style.display === "none" && eng.style.display === "none") {
+            none.style.display = "none";
+            hun.style.display = "block";
+        }else if (hun.style.display === "none" && eng.style.display === "block") {
+            none.style.display = "none";
+            eng.style.display = "none";
+            hun.style.display = "block";
+        }
+    }else if (button === 'translation')
+ 
+        if (eng.style.display === "none" && hun.style.display === "none") {
+            none.style.display = "none";
+            eng.style.display = "block";
+        }else if (eng.style.display === "none" && hun.style.display === "block") {
+            none.style.display = "none";
+            hun.style.display = "none";
+            eng.style.display = "block";
+        }
+}
+
+function clearAll() {
+
+    var hun = document.getElementById("transcript");
+    var eng = document.getElementById("translation");
+    hun.style.display = "none";
+    eng.style.display = "none";
+    none.style.display = "block";
+}
+
+</script>
+
+<span>
+<button type="button" onclick="check_reveal('transcript')">Transcript</button>
+<button type="button" onclick="check_reveal('translation')">Translation</button>
+<button type="button" onclick="clearAll()">Clear</button>
+</span>
+
+<div id = "transcript" style ="display:none">
+G: Nem is akartam gyereket.<br/>
+H: Ja.<br/>
+G: És rémés anya lettem volna.<br/>
+H: Ha maga mondja.<br/>
+G: Ha fiú Charlie lett volna.<br/>
+H: Igen?<br/>
+G: És ha lány, Aurora.<br/>
+H: Mindkettő szép név.<br/>
+G: Köszönöm.<br/>
+</div>
+
+<div id = "translation" style ="display:none">
+G: I didn't even want a child.<br/>
+H: Oh.<br/>
+G: And I would have been a terrible mother.<br/>
+H: If you say.<br/>
+G: If it was a boy he would have been Charlie.<br/>
+H: Yes?<br/>
+G: And if it was a girl, Aurora. <br/>
+H: Both are pretty names.<br/>
+G: Thank you.<br/>
+</div>
+
+<div id = "none" style ="display:block">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</div>
+
 ### -hat, -het
 
 To ask for permission, you can add `-hat,-het` to the verb before the conjugation. Vowel harmony determines which one to use.
