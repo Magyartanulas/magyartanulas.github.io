@@ -125,6 +125,8 @@ Some conjugations have been omitted due to prior explanations, to see all of the
 * Péter mindig kedvelte a kockázatot, igaz? - (Péter always enjoyed (taking) risks, right?)
 * De Alex, talán jobban kedvelnének, ha nem lennél mindig annyira mérges. - ( But Alex, maybe they would like you better if you weren't always so angry.)
 
+Another way to translate `kedvel` could be *to fancy* something/someone.
+
 ## Bír - Casual Interest
 ---
 
