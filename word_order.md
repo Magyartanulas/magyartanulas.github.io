@@ -53,7 +53,7 @@ To place emphasis on a word in English, stress it. This emphasis can change the 
 * I didn't give the ***book*** to her. - (I gave her something else.)
 * I didn't give the book to ***her***. - (I gave the book to someone else.)
 
-Because English generally a rigid word order, emphasis only happens through stressing words.
+Because English generally has a rigid word order, emphasis only happens through stressing words.
 
 Hungarian is a topic-prominent language. The topic (what the sentence is about) is placed at the beginning of the sentence, and the rest of the sentence talks about this topic.
 
@@ -84,8 +84,10 @@ This detachment can also be seen when a verb and a telic verb in the infinitive 
 * Próbáltam elnézni. - (I *tried* to look away)
   - El próbáltam nézni. - (I tried to look *away*. Not up, down, out or in.)
   - Elnézni próbáltam - (I tried to *look away*. Not see, listen or speak.)
+  
+Whenever the sentence is negated and/or contains imperatives or subjunctives, the coverb will always be detached.
 
-### Questions + is
+### Questions
 
 Something you'll notice is that the verb almost always follow a question word.
 
@@ -94,7 +96,7 @@ Something you'll notice is that the verb almost always follow a question word.
 * *Milyen volt* a koncert? - (How was the concert?)
 * *Mikor indulunk el?* - (When do we leave?)
 
-An exception: `Milyen napod volt?` (Dues to the focus of *your day*).
+An exception: `Milyen napod volt?` (Due to the focus of *your day*).
 
 **Note:** The verb *may* be omitted in the question word. If that is the case, it usually asks about the general state of something. E.g. `Milyen a leves?` vs `Milyen van a leves?`. The latter would be incorrect, as it asks of the general state of the soup *right now*, as opposed to how the soup is generally (does it taste nice?).
 
