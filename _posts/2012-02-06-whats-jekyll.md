@@ -18,6 +18,8 @@ The grammar will be explained in a progression route with sections from beginner
 
 Starting from Section 2, there will be captioned images with no english translation. Try and see if you can ~~translate~~ understand these `Challenges` using the grammar concepts explained and the context of the images! Sometimes where it makes sense to explain through context, scenarios will be given between people.
 
+At the end of each section there will be a chance for review. Please leave a comment and rating to let us know how we're doing 😀
+
 ### Progression Route
 
 1. The Alphabet & Vowel Harmony
