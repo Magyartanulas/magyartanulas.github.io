@@ -171,7 +171,7 @@ And naturally the other timestamps work with the past-tense.
 * Másnap reggel, nem volt ott semmi! - (The next morning there was nothing there!) 
 * Mit csináltál tegnap? - (What did you do yesterday?)
 * Telihold volt a minap éjszaka. - (There was a full moon the other night.)
-* Nemrég otthon voltam és a karácsonyra. - (I was at home recently for Christmas.)
+* Nemrég otthon voltam karácsonyra. - (I was at home recently for Christmas.)
 
 ### Sibilant verbs
 
