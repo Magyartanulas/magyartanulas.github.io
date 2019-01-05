@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            The Magyar Tanulás Repository
+title:            The Magyar-Tanulás Repository
 tagline:          'Your Number #1 Repository for Hungarian Grammar!'
 description:      'Your Number #1 Repository for Hungarian Grammar!'
 url:              magyartanulas.github.io
 baseurl:          https://magyartanulas.github.io/
 
 author:
-  name:           'The Magyar Tanulás Community'
+  name:           'The Magyar-Tanulás Community'
   url:            https://discord.gg/wSg45QS
 #if error set to 5
 paginate:         5
