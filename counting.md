@@ -123,13 +123,13 @@ And so it goes on... Remember as well as `tíz`, `húsz` becomes `huszadik` and 
 * Hányadik emeleten vagy? - (Which floor are you on?)
 * Hányas ház az? - (What number house is it?) *az is optional*
 * Hányadik sorban ültök? - (Which row are you (guys) sitting in?)
-* Hányas busz megy a Duna Partra? - (What number bus goes to the Danube riverside?)
+* Hányas busz megy a Duna-partra? - (What number bus goes to the Danube riverside?)
 * Hányadik kerületben élsz? - (Which district do you live in?)
 * Hányas lábad van? - (What shoe size are you? lit. What number leg do you have?)
 
 You may be wondering, what about `melyik`? Well this word is typically used when the sequence is unordered.
 
-* Melyik könyvet keresel? - (Which book are you looking for?)
+* Melyik könyvet keresed? - (Which book are you looking for?)
 
 ## Telling the Time
 ---
@@ -176,7 +176,7 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 * Ötször három az tizenöt. - (Five times three is fifteen.)
 * Hat szorozva kilenccel az ötvennégy. - (Six multiplied with nine is fiftyfour.)
 
-* Huszonnégyben nyolc az három. - (Eight in twentyfour is three.)
+* Huszonnégyben a nyolc az három. - (Eight in twentyfour is three.)
 * Harminc osztva hárommal az tíz. - (Thirty shared with three is ten.)
 
 `Challenge!`
@@ -194,4 +194,4 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 * [possesion](https://magyartanulas.github.io/dative_possession/), seen in `éve` and `lábad`
 * `-n` which is a [locative](https://magyartanulas.github.io/locatives/)
 * `-val,-vel` seen in `perccel, kilenccel, hárommal`, these are examples of the [instrumental case](https://magyartanulas.github.io/noun_case_summary/)
-* [definite conjugation](https://magyartanulas.github.io/accusative_plurals/) as seen in `látod`
+* [definite conjugation](https://magyartanulas.github.io/accusative_plurals/) as seen in `látod` and `keresed`
