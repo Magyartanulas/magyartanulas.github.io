@@ -32,11 +32,11 @@ Now that you've mastered pronunciation, here are some basic phrases and words to
 | Szívesen                                           | You're welcome                |
 | Nincs mit                                          | Don't mention it              |
 | Kérem                                              | Please                        |
-| Bocsánát                                           | Sorry                         |
+| Bocsánat                                           | Sorry                         |
 | Elnézést                                           | Excuse me                     |
 | Mennyibe kerül ez?                                 | How much is this?             |
 | Hol van a mosdó?                                   | Where is the toilet?          |
-| Hány órá van? / Mennyi az idő?                     | What's the time?              |
+| Hány óra van? / Mennyi az idő?                     | What's the time?              |
 | Segítség!                                          | Help!                         |
 | Tűz! / Tűz van!                                    | Fire! / There's a fire!       |
 | Beszélsz angolul?                                  | Do you speak English?         |
@@ -125,7 +125,7 @@ Below are some examples of regular verbs, that have the same regular conjugation
 | ő       | örült     | örül    | fog örülni    |
 | mi      | örültünk  | örülünk | fogunk örülni |
 | ti      | örültetek | örültök | fogtok örülni |
-| ők      | örültek   | örülnek | fognak örulni |
+| ők      | örültek   | örülnek | fognak örülni |
 
 `Felkel` - (He/she/it rises or gets up) *Front-vowel (type 2)*
 
