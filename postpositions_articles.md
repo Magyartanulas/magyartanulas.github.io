@@ -40,10 +40,10 @@ Proper nouns don't use an article, except for specifying a type of pronoun. Simi
 
 * A Középkori Európa. - (Medieval Europe.)
 * A Korszerű/Mai Magyarország. - (Modern-day Hungary.)
-* A porcupine is a rodent. - (A tarajos sül rágcsáló.)
-* A wasp is an insect - (A darázs rovar.)
-* A daffodil is a flower - (A nárcisz virág.)
-* A yacht is a boat - (A jacht csónak.)
+* A tarajos sül rágcsáló. - (A porcupine is a rodent.)
+* A darázs rovar. - (A wasp is an insect.)
+* A nárcisz virág. - (A daffodil is a flower.)
+* A jacht csónak. - (A yacht is a boat.)
 
 You can also make generalisations about nouns with the definite article.
 
