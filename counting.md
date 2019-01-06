@@ -23,7 +23,7 @@ Knowing how to count is essential in any language, numbers are absolutely everyw
 
 Also, 0 is `nulla`. If you want to say one hundred, two thousand etc., just follow the number by the quantification.
 
-* Egyszáz. - (One hundred.)
+* Száz. - (One hundred.)
 * Háromezer. - (Three thousand.)
 * Kétmillió. - (Two million.)
 
@@ -90,14 +90,14 @@ The pronoun `mióta` literally means since when. It is important to know that if
 These two words are both used for asking *how much?* but in different ways. `Mennyi?` is generally used for asking things that can be considered uncountable and sometimes for things that are countable, while `hány?` is used specifically for things that can be counted. 
 
 * Hány óra van? - (What hour is it?)
-* Mennyi az Idő? - (What time is it?)
+* Mennyi az idő? - (What time is it?)
 * Hány turista volt a Hősök Terén? - (How many tourists were at Heroes' Square?)
 * Mennyi bort ittál? - (How much wine did you drink?)
 * Most hány éves vagy? - (How old are you now?)
 * Mennyibe kerül ez? - (How much is this around?)
 * Mennyibe fájt? - (How much did it cost? **slang**)
 
-Money is treated as uncountable, hence `mennyi pénz?` and`mennyibe kerül ez?` but if you use forint instead, it becomes countable `hány forint van?` or `hány forintba kerül?`.
+Money is treated as uncountable, hence `mennyi pénz?` and`mennyibe kerül ez?` but if you use forint instead, it becomes countable `hány forint?` or `hány forintba kerül?`.
 
 ### Hányadik & Hányas
 
