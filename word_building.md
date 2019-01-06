@@ -12,7 +12,7 @@ Remember, even if you can see smaller words/root words within the word, the mean
 
 | Word                         | Inverter               | Noun former            | Inverted noun                          |
 |------------------------------|------------------------|------------------------|----------------------------------------|
-| Igaz (true)                  | igaztalan (untrue)     | Igazság (truth)        | igaztalanság (injustice)               |
+| Igaz (true)                  | Igaztalan (untrue)     | Igazság (truth)        | Igaztalanság (injustice)               |
 | Boldog (happy)               | Boldogtalan (unhappy)  | Boldogság (happiness)  | Boldogtalanság (unhappiness)           |
 | Tehet (he/she/it can do/put) | Tehetetlen (powerless) | Tehetség (talent)      | Tehetetlenség (powerlessness, inertia) |
 | Zöngés (voiced)              | Zöngétlen (voiceless)  | Zöngésség (voicedness) | Zöngétlenség (voicelessness)           |
@@ -44,10 +44,10 @@ You may have heard of the famous 44-letter long word `megszentségteleníthetetl
 * `szentség` - holiness/saintliness
 * `szentségtelen` - sacriligious
 * `szentségtelenít` - verb. he/she/it desecrates
-* `szentségteleníhet` - verb. he/she/it can desecrate
+* `szentségteleníthet` - verb. he/she/it can desecrate
 * `szentségteleníthetetlen` - undesecratable
 * `szentségteleníthetetlenséges` - undesecrability-esque
-* `szentségteleníthetetlenségeskedés` - undescrability-esque behaviour
+* `szentségteleníthetetlenségeskedés` - undesecrability-esque behaviour
 * `szentségteleníthetetlenségeskedéseitek` - your undescrability-esque behaviour
 * `szentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour
 * `megszentségteleníthetetlenségeskedéseitekért` - For your undescrability-esque behaviour (until the action is exhausted)
