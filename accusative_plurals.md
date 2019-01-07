@@ -101,9 +101,9 @@ To single them out, one can describe them or use egyik (one of).
 * A bal zokni - (the left sock)
 * Egyik cipő - (one of the shoes)
 
-Last but not least, adjectives before the plural noun are singular, those after are plural.
+Last but not least, if you stress that a noun has a key attribute, the adjective needs to match the amount of nouns.
 
-* A madarak zöldek - (The birds are green)
+* A madarak zöldek/Zöldek a madarak - (The birds are green)
 * Azok a drága autók magyarok - (Those expensive cars are hungarian)
 
 ## The Accusative Case
@@ -176,10 +176,12 @@ This can be done in the format of questions
 
 ## Special conjugation
 
-If the verb is happening between I and you, then we use the special verb conjugation -lak/-lek.
+If the verb is happening between I and you, then we use the special verb conjugation `-lak/-lek`.
 
 * Szeretlek - I love you
 * Látlak - I see you
+
+This conjugation is used with the plural (by adding `titeket`) to address "you guys" as well.
 
 Lastly, the pronouns change when in the accusative case.
 
