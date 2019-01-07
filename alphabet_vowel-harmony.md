@@ -71,9 +71,9 @@ Back:  a á o ó u ú     (A Zuzmó-Háború.)
 * Likewise, if a word contains only back-vowels, then it should be conjugated with back vowels. `darázs`
 * If a word contains a mixture of front and back, the last vowel will specify what kind it is. `dzsungel`
 
-Sometimes, if the word is only one-syllable *and* contains only `i` or `í` then it is considered a back-vowel word. E.g.
+If the word is only one-syllable *and* contains only `i` or `í` then it can be considered a back-voweled or front-voweled. E.g.
 
-* `szív` (considered front-voweled word)
-* `híd` (considered back-voweled word)
+* `szív` - ((the verb) considered front-voweled word)
+* `híd` - (considered back-voweled word)
 
 That's it for now. Check out [wikipedia's article on pronunciation](https://en.wiktionary.org/wiki/Appendix:Hungarian_pronunciation_assimilation) for more information.
