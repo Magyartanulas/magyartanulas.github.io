@@ -57,7 +57,7 @@ If you listen on public transport, the definite article is used when announcing 
 * Sok ember van, a Váci Utcában. - (There are many people on Váci Street.)
 * A Balassi Intézet kiváló hely a magyar nyelvtanuláshoz. - (The Balassi institute is an excellent place for hungarian language learning.)
 
-The zero or "no" article is used often in Hungarian. Aside from the examples mentioned before, all  the times that English uses an indefinite article, Hungarian uses none. also for dates
+The zero or "no" article is used often in Hungarian. Aside from the examples mentioned before, all the times that English uses an indefinite article, Hungarian uses none. It is also used for dates.
 
 * Ma Március 23 van. - (Today is March the 23rd.)
 * Nyelvtanár vagyok. - (I am a language teacher.)
@@ -65,6 +65,8 @@ The zero or "no" article is used often in Hungarian. Aside from the examples men
 * Kicsit jobb lesz holnap. - (It will be a little better tomorrow.)
 * Szép munkát végzel! - (You're doing a nice job!)
 * Kérsz kólát? - (Would you like some coke? lit. You ask for coke?)
+
+These examples show that the quantity is not important.
 
 `Challenge!`
 ![tűzőgép](https://magyartanulas.github.io/public/tűzőgép.png)
