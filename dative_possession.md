@@ -66,10 +66,10 @@ In Hungarian, the possessive is marked with a suffix, and goes on the possessed 
 
 Here are some examples:
 
-* Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myslef, here I stand infront of its gate.)
+* Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myslef, here I stand infront of its gates.)
 * Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
 * A Csend Hangja. - (The Sound of Silence).
-* Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning our time is flexible).
+* Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning we have a lot of time).
 * A kutyáim szomorúak, mert nincs több kajájuk. - (My dogs are sad because they have no more dog-food.)
 * Az egyik hobbim az olvasás. - (One of my hobbies is reading.)
 
