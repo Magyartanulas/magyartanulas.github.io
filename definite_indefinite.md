@@ -82,7 +82,7 @@ So as you can see, the definite conjugation adds a whole new layer to verbs.
 
 **IMPORTANT NOTES**
 
-* The special `én <-> téged` conjugation is definite. Naturally, it won't always make sense to use it.
+* The special `én <-> téged` conjugation is definite. Naturally, it won't always make sense to use it. Remember if you want to address multiple people, you can add `titeket`.
 * The sibilant verbs `olvas` & `néz`, gets a different conjugation in the second person.
 
 If there is an object in the sentence, then the definite conjugation is used when there is `a/az, ez(eke)t a/az, az(oka)t a/az` in a sentence. *Any other time*, the indefinite conjugation is used.
