@@ -158,7 +158,7 @@ Consider these situations, Barnabás could respond with the following:
 
 * Alex: Nem láttad a nyelvtan könyvet? - (Have you (not) seen the grammar book?)
   * Barnabás: Sajnos nem, nincs itt. - (No unfortunately, it isn't here.)
-  * Barnabás: De, az asztal mellett van! - (But it is next to the table!)
+  * Barnabás: De, az asztal mellett van! - (Yes, it is next to the table!)
 
 Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
@@ -167,7 +167,7 @@ Notice how ~~igen~~ `de` (but) is used to counter a negative question.
   * Barnabás: De zavarsz, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy) *zavarsz is optional*.
 
 * Alex: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
-  * Barnabás: Nem, szerintem, hogy ők túl zajos. (No, I think they are too noisy.)
+  * Barnabás: Nem, szerintem, hogy (ők) túl zajosak. (No, I think they are too noisy. lit. No, according to me they are too noisy.)
   * Barnabás: Dehogynem! Imádom őket! (Of course I do! I love (adore) them!)
   
   `Dehogy` is used to counter a positive question whereas `dehogynem/dehogynincs` counters a negative question. They can be used for more passion in a reply. An `is` is added if it is used as a follow up for more emphasis. 
