@@ -17,6 +17,13 @@ Remember, even if you can see smaller words/root words within the word, the mean
 | Tehet (he/she/it can do/put) | Tehetetlen (powerless) | Tehetség (talent)      | Tehetetlenség (powerlessness, inertia) |
 | Zöngés (voiced)              | Zöngétlen (voiceless)  | Zöngésség (voicedness) | Zöngétlenség (voicelessness)           |
 
+Verbs can be formed into nouns using `ás/és` as well
+
+* `tanul` (he/she/it learns) >> `tanulás` (learning)
+* `uralkodik` (he/she/it rules) >> `uralkodás` (dominion)
+* `pihen` (he/she/it rests) >> `pihenés` (respite)
+* `növekedik` (he/she/it grows, increases) >> `növekedés` (growth)
+
 This is scary and there are many more attachments, but as we move on to more sections, all the pieces will slide into place.
 
 ## Compound Words
