@@ -16,12 +16,12 @@ Naturally, there is more conjugation to represent the conditional mood in Hungar
 
 | Pronoun | Past indef. cond. | Past def. cond.   | Present indef. cond. | Present. def. cond. |
 |---------|-------------------|-------------------|----------------------|---------------------|
-| én      | szerettem volna   | szerettem volna   | szeretnék            | szeretném           |
+| én      | szerettem volna   | szerettem volna   | szeret**nék**            | szeretném           |
 | te      | szerettél volna   | szeretted volna   | szeretnél            | szeretnéd           |
 | ő       | szeretett volna   | szerette volna    | szeretne             | szeretné            |
 | mi      | szerettünk volna  | szerettük volna   | szeretnénk           | szeretnénk          |
 | ti      | szerettetek volna | szerettétek volna | szeretnétek          | szeretnétek         |
-| ők      | szerettek volna   | szerették volna   | szeretnének          | szeretnék           |
+| ők      | szerettek volna   | szerették volna   | szeretnének          | szeret**nék**           |
 
 `Csinál` (he/she/it does/makes).
 
@@ -49,6 +49,7 @@ Naturally, there is more conjugation to represent the conditional mood in Hungar
 
 * The past tense conjugations of the conditional is identical to the indicative past tense conjugations + volna
 * Like what we have seen before, there are repeat appearances.
+* Sometimes you'll see repeat conjugations for different pronouns, as emboldened in the `szeret` table. 
 
 **Some sentences**
 
@@ -74,7 +75,7 @@ While using the conditional mood, we can ask hypothetical questions as well. If 
 
 The word `ha` means if, and is not limited to the conditional mood. 
 
-* Mi lenne, ha megnyernék a lottót? - (What would happen if I (would) win the lotto?)
+* Mi lenne, ha megnyerném a lottót? - (What would happen if I (would) win the lotto?)
 * Mi leszel ha nagy leszel? - (What will you be when you grow up?) non-conditional
 * Elmentem volna, ha meghívott volna - (I would have gone if he had invited me).
 
@@ -156,7 +157,7 @@ function clearAll() {
 <div id = "transcript" style ="display:none">
 G: Nem is akartam gyereket.<br/>
 H: Ja.<br/>
-G: És rémés anya lettem volna.<br/>
+G: És rémes anya lettem volna.<br/>
 H: Ha maga mondja.<br/>
 G: Ha fiú Charlie lett volna.<br/>
 H: Igen?<br/>
