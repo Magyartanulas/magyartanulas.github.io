@@ -29,12 +29,14 @@ It is also used to show the language someone speaks.
 Front-voweled words take `-en`, back-voweled words take -an,-on and words ending in vowels take -n. This is done to adjectives.
 
     Gyorsan - (Quickly) From gyors
-    Gyakran - (Frequently) From gyakor
+    Gyakran - (Frequently) From gyakor 
     Csendesen - (Silently) From csend
     Szépen - (Beautifully/Nicely) From szép
     Nagyon - (Very) From nagy
     Gazdagon - (Richly) From gazdag
     Ritkán - (Rarely) From ritka
+
+However `gyakor` is hardly used in practice.
 
 There are some adjectives that can become adverbs from either ending. E.g. `piszkos`
 
