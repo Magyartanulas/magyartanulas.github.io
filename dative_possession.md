@@ -66,7 +66,7 @@ In Hungarian, the possessive is marked with a suffix, and goes on the possessed 
 
 Here are some examples:
 
-* Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myself, here I stand infront of its gates.)
+* Álmodtam egy világot magamnak, itt állok a kapui előtt. - (I dreamt a world for myself, here I stand in front of its gates.)
 * Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
 * A Csend Hangja. - (The Sound of Silence.)
 * Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning we have a lot of time.)
@@ -84,20 +84,19 @@ Here are some examples:
 
 It is ok to drop the accusative if the possessive is the direct object, **but** this can lead to ambiguity if there is not enough context.
 
-* A kutyám üldözi a macskám. - Either animal could be chasing the other.
+* A kutyám üldözi a macskám. - Either of my animals could be chasing the other.
 
 The dative case can be added to the possessor to emphasise who the owner is/stress the point.
 
 * Az egész életüket ennek szentelték. - (They dedicated their whole lives to this.)
 * Dániel kutyájának a lába - (Daniel's dog's leg.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
-* Bátyámnak volt. - (It was my brother's.)
 * A falnak is füle van! - (Idiom: Even the walls have ears!)
 
 `Challenges!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
 
-*- Nem ezek a könyveid?*
+*- Ezek nem a te könyveid?*
 
 <span class="spoiler">Are these not your books?</span>
 
@@ -208,9 +207,9 @@ S: This is how it has to happen!<br/>
 <br/>
 </div>
 
-### Pronouns
+### Pronouns & `-é`
 
-You can use pronouns with posessions to stress that the noun belongs to you.
+You can use pronouns with posessions to stress that the noun belongs to you, without actually attributing it to this noun.
 
 | Pronoun             |
 |---------------------|
@@ -234,6 +233,11 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 
 * Petőfi Rádió, a te slágered. - (Petőfi Radio, your hit.)
 * Ez a toll az enyém - (This pen is mine.)
+
+If you want to show this unattributed belonging without using pronouns, just use `-é`.
+
+* Bátyámé volt - (It was my brother's.)
+* Ez a tányér Marcié, tegnap este itthagyta. - (This plate is Marci's, he left it here last evening.) 
 
 `Challenge!`
 
