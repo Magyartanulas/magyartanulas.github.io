@@ -118,7 +118,7 @@ Recall that `van` is the verb for existence. In Hungarian, ~~nem van~~ `nincs/ni
 
 Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are used for the past and future respectively.
 
-* Nem igaz, hogy nincsen semmi baj. - (It isn't true that there is nothing wrong).
+* Nem igaz, hogy nincsen semmi baj. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/107202/vad-fruttik/jobb-lesz-holnap-zeneszoveg.html) It isn't true that there is nothing wrong).
 * Kávé van? Nincs. Tea van? Az sincs. - (Is there coffee? There is none. Is there tea? None of that either.)
 * Gőzöm sincs. - (I haven't the foggiest idea. lit. I don't even have any steam).
 * Nincs mit. - (Don't mention it. lit. There is no what.)
@@ -146,7 +146,7 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 `Challenge!`
 ![Yoda](https://magyartanulas.github.io/public/yoda.jpeg)
 
-*Tedd, vagy ne tedd, de ne próbáld!*
+*Tedd, vagy ne tedd, de ne próbáld! - Yoda, Star Wars V*
 
 <span class="spoiler">Do or do not, but do not try!</span>
 
@@ -174,7 +174,7 @@ Notice how ~~igen~~ `de` (but) is used to counter a negative question.
  
 ### Listening
 
-Jani and Pisti are talking, try to work out what they are saying!
+Jani and Pisti are talking, try to work out what they are saying! [Source:](https://www.youtube.com/watch?v=LgrBvoSzgHI&)
 
 <audio controls><source src="https://magyartanulas.github.io/public/csatornán.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
