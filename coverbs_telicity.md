@@ -99,7 +99,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 ### Listening
 
-The `kapitány` and the `rabszolgák` are talking, try to work out what they're saying!
+The `kapitány` and the `rabszolgák` are talking, try to work out what they're saying! From the film, Madagaszkár
 
 <audio controls><source src="https://magyartanulas.github.io/public/ship.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
@@ -216,6 +216,8 @@ Kapitány: Well alright, you guys wanted it...Hey hold on!<br/>
 *Aki megtanul egy új nyelvet, megszerez egy új lelket.*
 
 <span class="spoiler">He/she who learns a new language, acquires a new soul.</span>
+
+* Quote in English - Charlemagne, paraphrased.
 
 The topic of telicity is quite hard to wrap the head around, you may want to download this [pdf.](https://www.glossa-journal.org/articles/10.5334/gjgl.52/galley/88/download/) if it helps explain.
 
