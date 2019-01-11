@@ -16,7 +16,7 @@ Hungarian makes the distinction between where you are, where you are going and w
 
 **Note:** `hová` is the alternative form of `hova`.
 
-* Én mindig úgy jutok el oda, ahova tartok, hogy távolodom onnan, ahol voltam. - (I always get to where I'm headed (by) moving away from where I've been.)
+* Én mindig úgy jutok el oda, ahova tartok, hogy távolodom onnan, ahol voltam. - ((Quote: Mackó - Barátom Robert Gida) I always get to where I'm headed (by) moving away from where I've been.)
 
 
 `Challenge!`
@@ -62,7 +62,7 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 * A pingvin a sivatagban áll. - (The penguin stands in the desert.)
 * Úszom a vízben. - (I'm swimming in the water.)
 * Integet egy buszból. - (She waves out of a bus.)
-* Kisétál abból az étteremből. - (He's walking out of that building.)
+* Kisétál abból az étteremből. - (He's walking out of that restaurant.)
 
 **Other uses**
 
@@ -71,7 +71,7 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 * Igazából. - (Truly)
 * A való életben. - (In real life.)
 * Békében élünk. - (We live in peace.)
-* Vert helyzetben vagy! - (You are in a beaten state!)
+* Vert helyzetben vagy! - ((Quote: Obiwan - Star Wars III) You are in a beaten state!)
 
 **Pronouns & Examples**
 
@@ -93,7 +93,7 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 `Challenge!`
 ![zazu](https://magyartanulas.github.io/public/zazu.png)
 
-*Én mondom csapnivalóan rossz király lesz belőled.*
+*Én mondom csapnivalóan rossz király lesz belőled. - Zazu, Oroszlánkirály*
 
 <span class="spoiler">I say an atrociously bad king will become out of you.</span>
 
