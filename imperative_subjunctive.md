@@ -158,7 +158,7 @@ In Hungarian, the subjunctive mood uses the same form as the imperative. It is u
 * A célom az, hogy jó legyek. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/56267/rajzfilm-slagerek/pokemon---indigo-liga---szerezd-meg-hat-mind-zeneszoveg.html) My goal is to be good.)
 * Bogi azt kéri, hogy ne kérdezz annyit. - (Bogi asks that you (should) not question so much.)
 * Menjünk vissza. - (Let's go back.)
-* Idehoztam, hogy lássa amit megcsináltad. - (I brought him/her here so that they could see what you did.)
+* Idehoztam, hogy lássa, amit készítettél. - (I brought him/her here so that they could see what you made.)
 * Vizet kérek, hogy holnap ne legyek másnapos. - (I ask for water, so that tomorrow I don't get a hangover.)
 
 *Alex: Ma mit csináljunk?* - (What should we do today?)
