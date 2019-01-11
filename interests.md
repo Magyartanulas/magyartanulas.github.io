@@ -89,7 +89,7 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 ## Érdekel - Interest
 ---
 
-You can use `érdekel` to show that something intrigues, interests or concerns you. There is no direct or indirect object here, because the verb literally means *it interests*. See also `érdekes` - interesting.
+You can use `érdekel` to show that something intrigues, interests or concerns you. It uses the direct object (usually omitted), as the verb literally means *it interests*. See also `érdekes` - interesting.
 
 Here are the relevant conjugations, to see all of them [click here.](https://cooljugator.com/hu/érdekel)
 
