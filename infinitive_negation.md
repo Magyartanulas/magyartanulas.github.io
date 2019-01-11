@@ -164,9 +164,9 @@ Consider these situations, Barnabás could respond with the following:
 
 Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
-* Alex: Szia, nem zavarlak? - (Hi, am I (not) bothering you?)
-  * Barnabás: Nem, dehogyis! Gyere be! - (No, quite the contrary! Come in!)
-  * Barnabás: De zavarsz, kicsit elfoglalt vagyok. - (But you are, I'm a litle busy) *zavarsz is optional*.
+* Alex: Szia, nem beszélhetsz szabadon? - (Hi, are you free to talk? lit. can you not speak freely?)
+  * Barnabás: Dehogynem! Mi a baj? - (Quite the contrary! What's the matter?)
+  * Barnabás: De (zavarsz), kicsit elfoglalt vagyok. - (But you are, I'm a litle busy.)
 
 * Alex: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
   * Barnabás: Nem, szerintem, hogy (ők) túl zajosak. (No, I think they are too noisy. lit. No, according to me they are too noisy.)
