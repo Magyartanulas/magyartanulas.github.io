@@ -44,7 +44,7 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 * Aludnom kell. - (I need to sleep.)
 * El kell indulnunk a napnyugta előtt. - (We need to leave before sunset.)
 * Holnap este főznöm kell. - (I have to cook tomorrow evening.)
-* Először be kell fejeznem ezeket a házi feladatokat, akkor mehetünk. - (I need to do these exercises first, then we can go.)
+* Először be kell fejeznem ezeket a házi feladatokat, aztán mehetünk. - (I need to do these exercises first, after that we can go.)
 
 `Challenge!`
 
