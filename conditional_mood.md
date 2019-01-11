@@ -214,7 +214,7 @@ Some irregular verbs change unexpectedly when `-hat,-het` is added.
 
 `lehet` is interesting as it is used frequently as it is possible.
 
-*Lehet, hogy nehéz lesz, de nem lehetetlen!* - (It could be/is possible, that it will be hard, but not impossible!)
+*Lehet, hogy nehéz lesz, de nem lehetetlen!* - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/106479/kowalsky-meg-a-vega/lehetetlen-nincs---velunk-kerek-a-vilag-feat-lotfi-begi-zeneszoveg.html) It could be/is possible, that it will be hard, but not impossible!)
 
 Finally, you can combine the conditional mood with `-hat, -het` we get could (lit. would be allowed).
 
