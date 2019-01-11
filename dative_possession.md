@@ -46,7 +46,7 @@ Just like with the accusative case, pronouns change if they are in the dative ca
 | ti      | nektek |
 | ők      | nekik  |
 
-* Sajnos megígértem magamnak, hogy azon a napon megtísztítem a házat. - (Unfortunately I promised myself that I (would) clean up the house that day.)
+* Sajnos megígértem magamnak, hogy azon a napon megtisztítom a házat. - (Unfortunately I promised myself that I (would) clean up the house that day.)
 * December 6-on, adunk apróságokat egymásnak. - (On December 6th, we give little gifts to each other.)
 * Úgy tűnik nekem, hogy ő szerelmes beléd. - (It appears/seems to me that he/she is in love with you.)
 
