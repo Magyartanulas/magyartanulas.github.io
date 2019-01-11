@@ -89,7 +89,7 @@ The word `ha` means if, and is not limited to the conditional mood.
 
 The word `akkor` means then, and is used as an immediate follow-up.
 
-* Ha mindenható lennél, akkor mi lenne az első dolog amit megváltaztotnál a világban? (If you were almighty, then what would be the first thing you would change in the world?)
+* Ha kitalált karakter lennél, akkor ki lennél? - (If you were a fictional character, then who would you be?)
 * Ha azt hiszitek, hogy hazamegyek és feladom, akkor tévedtek! - (If you (guys) believe that I'm going home and giving up, then you are mistaken!)
 
 *Alex: Készen állsz?* - (Are you ready? lit. Do you stand prepared?)
