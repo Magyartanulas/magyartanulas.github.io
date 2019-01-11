@@ -30,7 +30,7 @@ This is the same deal with Hungarian so it's important to get these right. Here 
 | el     | away           |
 
 * Hazamegyek a családomhoz. - (I'm going home to my family.)
-* A távoli fára rámutatott. - (He pointed to the distant tree.)
+* Rámutatott a terv hibáira. - (He pointed out the flaws of the plan.)
 * Bekapcsoltam a számítógépet, aztán lekapcsolt a villany. - (I turned on the computer, then the power turned off.)
 * Soha nem fog felnőni! - (He/She'll never grow up!)
 * De miért hoztad ide őt? - (But why did you bring him/her here?)
