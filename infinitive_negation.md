@@ -164,7 +164,7 @@ Consider these situations, Barnabás could respond with the following:
 
 Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
-* Alex: Szia, nem beszélhetsz szabadon? - (Hi, are you free to talk? lit. can you not speak freely?)
+* Alex: Szia, nem tudunk most beszélni? - (Hi, are you free to talk? lit. are we not able to speak now?)
   * Barnabás: Dehogynem! Mi a baj? - (Quite the contrary! What's the matter?)
   * Barnabás: De (zavarsz), kicsit elfoglalt vagyok. - (But you are, I'm a litle busy.)
 
@@ -285,4 +285,3 @@ P: So now...<br/>
 * `le-`, `ki-` and `el-` are [coverbs](https://magyartanulas.github.io/coverbs_telicity/)
 * the ending `-j` as well as the `-s` in `segíts` mark the [imperative mood](https://magyartanulas.github.io/imperative_subjunctive/)
 * `-n` seen in `ezen` is a [locative](https://magyartanulas.github.io/locatives/)
-* `-het-` seen in `beszélhetsz` is covered in [the conditional mood section](https://magyartanulas.github.io/conditional_mood/)
