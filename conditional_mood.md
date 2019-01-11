@@ -68,6 +68,8 @@ The `-ban,-ben` is a locative case, [this is covered here.](https://magyartanula
 
 <span class="spoiler">I would eat more, but I'm full!</span>
 
+* Image from Youtube video ASDF movie 7 by TomSka
+
 ### Akkor, Ha & Majd
 ---
 
@@ -103,7 +105,7 @@ If the word `akkor` is an immediate follow-up, then `majd` is a distant unknown 
 
 ### Listening
 
-Gabriel and Hector are talking, try to work out what they are saying!
+Gabriel and Hector are talking, try to work out what they are saying! [Source:](https://www.youtube.com/watch?v=RtaywtE9Rkc)
 
 <audio controls><source src="https://magyartanulas.github.io/public/anya.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
