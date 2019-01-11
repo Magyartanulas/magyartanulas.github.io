@@ -38,7 +38,7 @@ And if we translate these to Hungarian
 
 * Ma 9-től 5-ig dolgozott.
 * Két óráig tanultam.
-* Három hetig Budapesten maradtak.
+* Három hétig Budapesten maradtak.
 
 We can add the case onto `ez` and `az` to form `eddig` and `addig`. The word `addig` is often paired with `amíg` meaning *while*.
 
@@ -78,7 +78,7 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 * Az unokahúgom kétnyelvű lesz, ezért majd spanyolul tanulok. - (My niece will be bilingual, that's why I will learn Spanish sometime in the future.)
 * Lement a boltba kenyérért. - (I went down to the store for bread.)
 
-*Barnabás: Miért nem ment el a buliba?* - (Why didn't you go to the party?)
+*Barnabás: Miért nem mentél el a buliba?* - (Why didn't you go to the party?)
 
 *Alex: Azért, mert túl beteg voltam.* - (Because I was too sick.)
 
@@ -94,7 +94,7 @@ Using this, can be thought of as using `mint` for most things. It is used to des
 And in Hungarian:
 
 * Titkárnőként dolgozom.
-* Gyarkolásként írtam egy mondatot.
+* Gyakorlásként írtam egy mondatot.
 * Futótűzként terjedt el a hír.
 * Egyébként
 
@@ -110,10 +110,10 @@ When ever you want to use the word *with*, use the instrumental case. In Hungari
 
 * Mehetek veletek? - (Can I go with you guys?)
 * Ezzel a játékkal nem fogok többet játszani - (I will not play this game anymore.)
-* Megyek suliba metróval. - (I go to school by metro.) *suli is slang*
+* Metróval megyek suliba . - (I go to school by metro.) *suli is slang*
 * És mit csináljak ezzel? - (And what should i do with this?)
 * Milyen ceruzával rajzol? - (What kind of pencil does he/she/it draw with?)
-* kivel táncoltál? - (Who did you dance with?)
+* Kivel táncoltál? - (Who did you dance with?)
 
 `Challenge!`
 
@@ -128,7 +128,7 @@ This case represents the change of state physically or metaphorically. Have a lo
 
 * Mi tesz téged boldoggá? - (What makes you happy?) Remember this?
 * A herceg békává változott. - (The prince turned into a frog.)
-* a jég vízzé megolvadt. - (The ice melted into water.)
+* A jég vízzé megolvadt. - (The ice melted into water.)
 * Mivé lett a világ? - (What has the world become?)
 
 `Challenge!`
@@ -170,7 +170,7 @@ This story uses all the noun cases. All formal conversation has been simplified 
 
 Éva: Nem emlékszel István**ra**?
 
-Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta nekem, hogy bármikor bement az irodá**ba** az emberek rajta átnéztek, mintha levegő**ből** készült volna, kivéve a főnöké**t**. Mindig jó volt beszélgetni vele.
+Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról** beszéltünk. Azt mondta nekem, hogy bármikor bement az irodá**ba**, átnéztek rajta az emberek, mintha levegő**ből** lett volna, kivéve a főnöké**t**. Mindig jó volt beszélgetni vele.
 
 Éva: Várj csak, nem azt kértem, hogy meséld el mesemondó**ként**!
 
