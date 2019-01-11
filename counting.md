@@ -150,10 +150,10 @@ When the time is a nice round number, there are different ways of saying it.
 
 The same goes for when the time isn't, this time there are two ways of saying it.
 
-* Nyolc óra öt perc van || Nyolc óra múlt öt perccel - (8:05)
-* Kilenc óra ötvenöt perc van || Tíz óra lesz öt perc múlva - (9:55)
-* Hét óra tíz perc van || Hét óra múlt tíz perccel - (7:10)
-* Egy óra ötven perc van || Két óra lesz tíz perc múlva - (1:50)
+* Nyolc óra öt perc van >> Nyolc óra múlt öt perccel - (8:05)
+* Kilenc óra ötvenöt perc van >> Tíz óra lesz öt perc múlva - (9:55)
+* Hét óra tíz perc van >> Hét óra múlt tíz perccel - (7:10)
+* Egy óra ötven perc van >> Két óra lesz tíz perc múlva - (1:50)
 
 ## Basic arithmetic
 ---
