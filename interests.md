@@ -169,8 +169,8 @@ To express what you like and love for someone, use `szeret`.
 | ők           | szerettek   | szerették   | szeretnek      | szeretik     | szeretnének          | szeretnék          |
 | én <-> téged | -----       | szerettelek | -----          | szeretlek    | -----                | szeretnélek        |
 
-* János és Zsuzsi egymásba beleszerettek, és született egy kisfiúk, Áron. - (János and Zsuzsi fell in love with each other, and they had (birthed) a little boy, Áron. lit. 
-* A testvérem voltál Anakin. Szerettelek! - (You were my brother (sibling) Anakin. I loved you!)
+* János és Zsuzsi egymásba beleszerettek, és született egy kisfiuk, Áron. - (János and Zsuzsi fell in love with each other, and they had (birthed) a little boy, Áron. lit. 
+* A testvérem voltál Anakin. Szerettelek! - ((Quote: ObiWan - Star Wars III) You were my brother (sibling) Anakin. I loved you!)
 * Szeretem a lovakat, ismerem a szokásaikat és az eszük járását. - (I love horses, I know their ways and how they think (lit. how their minds walk)).
 * Ez azt a komoly kérdést veti fel, hogy milyen jövőt szeretnénk a gyerekeinknek. - (This raises the serious question, what kind of future would we like for our children?)
 
