@@ -95,7 +95,7 @@ These two words are both used for asking *how much?* but in different ways. `Men
 * Mennyi bort ittál? - (How much wine did you drink?)
 * Most hány éves vagy? - (How old are you now?)
 * Mennyibe kerül ez? - (How much is this around?)
-* Mennyibe fájt? - (How much did it cost? **slang**)
+* Mennyibe fájt? - (Slang: How much did it cost?)
 
 Money is treated as uncountable, hence `mennyi pénz?` and`mennyibe kerül ez?` but if you use forint instead, it becomes countable `hány forint?` or `hány forintba kerül?`.
 
