@@ -31,13 +31,13 @@ layout: page
 Adding this on the noun gives the meaning *until* or *for a length of time*, i.e. whenever the action terminates. In English, we would say:
 
 * He worked from 9 to 5 today.
-* I studied for 2 hours.
+* I only studied for 10 minutes before you came.
 * They stayed in Hungary for three weeks.
 
 And if we translate these to Hungarian
 
 * Ma 9-től 5-ig dolgozott.
-* Két óráig tanultam.
+* Csak tíz percig tanultam mielőtt jöttél.
 * Három hétig Budapesten maradtak.
 
 We can add the case onto `ez` and `az` to form `eddig` and `addig`. The word `addig` is often paired with `amíg` meaning *while*.
@@ -75,7 +75,7 @@ Whenever you do something *for* the purpose of something, this case is used. Thi
 
 * Miért vagyunk még mindig itt? Csak azért, hogy szenvedjünk? - (Why are we still here? Just to suffer?)
 * Nem vagyok felelős érte - (I'm not responsible for him/her)
-* Az unokahúgom kétnyelvű lesz, ezért majd spanyolul tanulok. - (My niece will be bilingual, that's why I will learn Spanish sometime in the future.)
+* Az unokahúgom kétnyelvű, ezért lehet, hogy meg fogok tanulni még egy nyelvet. - (My niece is bilingual, thus I might learn another language.)
 * Lement a boltba kenyérért. - (I went down to the store for bread.)
 
 *Barnabás: Miért nem mentél el a buliba?* - (Why didn't you go to the party?)
@@ -128,7 +128,7 @@ This case represents the change of state physically or metaphorically. Have a lo
 
 * Mi tesz téged boldoggá? - (What makes you happy?) Remember this?
 * A herceg békává változott. - (The prince turned into a frog.)
-* A jég vízzé megolvadt. - (The ice melted into water.)
+* A vér nem válik vízzé. - (Idiom: Blood does not become water.)
 * Mivé lett a világ? - (What has the world become?)
 
 `Challenge!`
