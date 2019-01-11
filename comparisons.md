@@ -41,7 +41,7 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 
 *Éva: A kék ing, mert jól megy a többi ruhádhoz.*
 
-<span class="spoiler">Barnabás: What do you think? Which shirt is better?</span>
+<span class="spoiler">Barnabás: According to you which shirt looks better on me?</span>
 
 <span class="spoiler">Éva: The blue shirt, because it goes well with your other clothes.</span>
 
