@@ -69,7 +69,7 @@ Here are some examples:
 * Álmodtam egy világot magamnak, itt állok a kapui előtt. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/10/edda-muvek/almodtam-egy-vilagot-zeneszoveg.html) I dreamt a world for myself, here I stand in front of its gates.)
 * Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
 * A Csend Hangja. - (The Sound of Silence.)
-* Az időnk mint a tenger. - (Our time is like the sea, this is an expression, meaning we have a lot of time.)
+* Az időnk mint a tenger. - (Idiom: Our time is like the sea lit. We have a lot of time.)
 * A kutyáim szomorúak, mert nincs több kajájuk. - (My dogs are sad because they have no more dog-food.)
 * Az egyik hobbim az olvasás. - (One of my hobbies is reading.)
 
@@ -264,7 +264,7 @@ There are also pronouns not pertaining to location, and so they only have one fo
 * ...de nem Alex. Szerinte ez a legviccesebb dolog, amit valaha látott. - (...but not Alex. According to him, this is the funniest thing he's ever seen.)
 * Azt akarod, hogy én vigyem ki helyetted? - (Do you want *me* to carry it instead?)
 * Tegnap kutyákat láttunk a parkban, lehet, hogy miattuk vannak ott azok a lyukak - (Yesterday we saw holes in the park, this could be due to those dogs there.)
-* Ha nem melletem állsz, az ellenségem vagy! - (If you don't stand with (lit. next to) me, you are my enemy!)
+* Ha nem melletem állsz, az ellenségem vagy! - (Quote (Anakin - Star Wars III):If you don't stand with (lit. next to) me, you are my enemy!)
 
 ---
 
