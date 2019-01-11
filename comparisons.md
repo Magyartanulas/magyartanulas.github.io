@@ -106,7 +106,7 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 ![lajcsi](https://magyartanulas.github.io/public/lajcsi.png)
 
-*Ha ezt az egyet megtudom, mint te, olyan leszek!*
+*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/27079/mesedalok/dzsungel-konyve-mint-te-olyan-leszek-zeneszoveg.html) Ha ezt az egyet megtudom, mint te, olyan leszek!*
 
 <span class="spoiler">If I know this one thing, I will be like you!</span>
 
