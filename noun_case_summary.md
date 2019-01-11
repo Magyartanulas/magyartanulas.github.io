@@ -60,7 +60,7 @@ Adding this on to the noun gives the meaning of *at the time of*. Naturally this
 `Ekkor` translates to *at this point*, something that can be used in a narrative. 
 
 * 7-kor reggelizek. - (I have breakfast at 7.)
-* Holnap találkozunk, délkor. - (We're meeting tomorrow, at noon.)
+* Holnap találkozunk, ebédkor. - (We're meeting tomorrow, at lunchtime.)
 * Karácsonykor mindig hideg van. - (It's always cold at Christmas time.)
 * Ekkor meglátott egy pókot, és sikoltozva kirohant a házból. - (At this moment he caught sight of a spider, and ran out of the house, screaming.)
 * Akkor felderül, amikor vége van. - (Then it lights up, when it is finished.)
