@@ -156,7 +156,7 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 `Challenge!`
 ![alien](https://magyartanulas.github.io/public/alien.png)
 
-*Vár rád egy jó barát.*
+*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/56226/rajzfilm-slagerek/toy-story---var-rad-egy-jo-barat-zeneszoveg.html) Vár rád egy jó barát.*
 
 <span class="spoiler">A good friend waits for you.</span>
 
