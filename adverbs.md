@@ -40,5 +40,5 @@ However `gyakor` is hardly used in practice.
 
 There are some adjectives that can become adverbs from either ending. E.g. `piszkos`
 
-* Figyeltem a kresz tablákra piszkosul. - (I paid attention to the traffic signs like crazy!)
+* Figyeltem a kresz tablákra piszkosul. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/105413/pamkutya/luis-fonsi---despacito-parodia-zeneszoveg.html) I paid attention to the traffic signs like crazy!)
 * Figyeltem a kresz tablákra piszkosan. - (I paid attention to the traffic signs dirtily (physically))
