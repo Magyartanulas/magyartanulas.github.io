@@ -88,6 +88,7 @@ It is ok to drop the accusative if the possessive is the direct object, **but** 
 
 The dative case can be added to the possessor to emphasise who the owner is/stress the point.
 
+* A barátom macskájának tálja - (My friend's cat's bowl.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
 * A falnak is füle van! - (Idiom: Even the walls have ears!)
 
