@@ -142,7 +142,7 @@ In English this only happens a few times.
 | Ember                    |                    |                  |                  |                | Ember**t**  |  
 | Kiwi                     |                    |                  |                  |                | Kiwi**t**   |
 | Macska                   |                    |                  |                  |                | Macsk**át** |
-| Férfit                   |                    |                  |                  |                | Férfi**t**  |
+| Férfi                    |                    |                  |                  |                | Férfi**t**  |
 | Fiú                      |                    |                  |                  |                | Fiú**t**    |
 
 ---
