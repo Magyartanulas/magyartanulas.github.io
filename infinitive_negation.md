@@ -140,7 +140,7 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 
 * Ne aggódj! - (Don't worry!)
 * Ne félj, menni fog! - (Don't be afraid, it will go!)
-* Ne szólj! ne is kérdezz! Nézz reám! Akit itt látsz férfi már. - (Don't speak! Don't even question! Look at me! Who you see here is already a man.)
+* Ne szólj! ne is kérdezz! Nézz reám! Akit itt látsz férfi már. - ([Lyric:]([Yoda](https://magyartanulas.github.io/public/yoda.jpeg) Don't speak! Don't even question! Look at me! Who you see here is already a man.)
 
 
 `Challenge!`
