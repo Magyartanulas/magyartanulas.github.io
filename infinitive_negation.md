@@ -133,6 +133,8 @@ Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are us
 * Bal - left
 * Jobb - right
 
+* Credit to HungarianProject
+
 
 ### Negating with ne & se
 
