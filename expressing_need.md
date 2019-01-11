@@ -153,6 +153,6 @@ szükség[possession ending] van [something]-(ra/re)
 * Szedd össze, amire utazásodhoz szükséged van. - (Gather what you need for your journey.)
 
 ![arnold](https://magyartanulas.github.io/public/arnold.png)
-*Szükségem van a ruhádra, a csizmádra és a motorodra.*
+*Szükségem van a ruhádra, a csizmádra és a motorodra. - The Terminator 2*
 
 <span class="spoiler">I need your clothes, your boots and your motorcycle.</span>
