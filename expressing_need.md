@@ -49,7 +49,7 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 `Challenge!`
 
 ![víz](https://magyartanulas.github.io/public/víz.png)
-*Ki kell menned a vízből!*
+*Ki kell jönnöd a vízből!*
 
 <span class="spoiler">You need to get out of the water!</span>
 
