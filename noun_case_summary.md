@@ -176,10 +176,10 @@ Barnabás: Dehogynem! Minap éjszaka söröző**ben** voltunk, a munkáink**ról
 
 Barnabás: Tudom.
 
-Barnabás: Szóval, az épület**től** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ült a pad**on** a fák**nál** a biciklijé**vel**. Egy nap, ülve és színes madarakat nézve, megpróbált emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jutott az eszébe. Hirtelen, látta a főnökét hozzá jönni. \- Miért vagy itt? István kérdezte.<br />
+Barnabás: Szóval, az épület**től** jobbra ahol dolgozott, egy park volt. Mindennap munka után, ott ült a pad**on** a fák**nál** a biciklijé**vel**. Egy nap ahogy ott ült és színes madarakat nézett megpróbált emlékezni az utolsó dologra, ami boldog**gá** tette, de semmi sem jutott az eszébe. Ek**kor** hirtelen meglátta, hogy a főnöke közeledik. \- Miért vagy itt? kérdezte István.<br />
 \- Ezt otthagytad az asztaladon, felelt, átadva egy kék palackot István**nak**.<br />
 \- Köszönöm szépen, motyogta István.<br />
-\- Azt is akartam mondani, hogy emelést kapsz a folytonos kemény munkád**ért**. Itt ültél egy órá**ig**, 5-**kor** van és péntek is, menj haza a családod**hoz**, bíztatott a főnöke.
+\- Azt is akartam mondani, hogy fizetésemelést kapsz a folyamatos kemény munkád**ért**. Itt ültél egy órá**ig**, 5 óra van és péntek is, menj haza a családod**hoz**, bíztatott a főnöke.
 
 Folytatjuk...
 
@@ -197,7 +197,7 @@ Barnabás: Of course I do! The other night we were in a beer house talking about
 <br />
 Barnabás: I know.<br />
 <br />
-Barnabás: So there was a park to the right of the building where he worked. Everyday after work he sat there on the bench by the trees with his bicycle. One day, while sitting and watching colourful birds, he tried to remember the last thing that made him happy, but nothing came to mind. Suddenly he saw his boss coming towards him. "Why are you here?" asked István.<br />
+Barnabás: So there was a park to the right of the building where he worked. Everyday after work he sat there on the bench by the trees with his bicycle. One day, while sitting and watching colourful birds, he tried to remember the last thing that made him happy, but nothing came to mind. At this moment he suddenly caught sight of his boss approaching him. "Why are you here?" asked István.<br />
 "You left this behind on your desk", he/she replied, handing a blue bottle to István.<br />
 "Thank you very much" mumbled István.<br />
 "I also wanted to say that you're getting a raise for your non-stop hard work.<br />
