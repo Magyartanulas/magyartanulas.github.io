@@ -98,11 +98,12 @@ And in Hungarian:
 * Futótűzként terjedt el a hír.
 * Egyébként
 
-*Alex: Ne egyél annyi egésztelen kaját!* - (Don't eat so much junk food!)
+*Alex: Ne egyél annyi egészségtelen kaját!* - (Don't eat so much junk food!)
 
 *Barnabás: Mi..?* - (What..?)
 
-*Alex: Mindennap az ugyanaz. Nem orvosként mondom, hanem barátodként. Leginkább gondolj rá.* - (Everyday it's the same. I'm not saying this as a doctor, but as your friend. Think about it at least.)
+*Alex: Mindig ezt csinálod. Nem orvosként mondom, hanem a barátodként. Legalább gondolj rá.* - (You always do this. I'm not saying this as a doctor, but as your friend. Think about it at least.)
+
 
 ### Instrumental `-val,-vel`
 
