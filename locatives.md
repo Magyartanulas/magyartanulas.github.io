@@ -22,7 +22,7 @@ Hungarian makes the distinction between where you are, where you are going and w
 `Challenge!`
 ![joe](https://magyartanulas.github.io/public/cotton.png)
 
-*Honnan jöttél, hová mentél? honnan jöttél Pamutszem Joe?*
+*[Translated Lyric:](http://www.metrolyrics.com/cotton-eye-joe-lyrics-rednex.html) Honnan jöttél, hová mentél? honnan jöttél Pamutszem Joe?*
 
 <span class="spoiler">Where did you come from, where did you go? Where did you come from Cottoneye Joe?</span>
 
