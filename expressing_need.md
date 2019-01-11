@@ -55,7 +55,7 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 
 ### Listening
 
-The `kapitány` and the `közlegény` are talking, try to work out what they are saying!
+The `kapitány` and the `közlegény` are talking, try to work out what they are saying! From the film, Madagaszkár
 
 <audio controls><source src="https://magyartanulas.github.io/public/code.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
@@ -144,7 +144,7 @@ Another and less used way to express need is to use `muszáj` which basically tr
 ## Szükség
 ---
 
-You could also use `szükség` as a more formal way of needing something. The format (subject to word order) is outlined below:
+You could also use `szükség` as a more formal way of needing something. The format (which is subject to word order) is outlined below:
 
 szükség[possession ending] van [something]-(ra/re)
 
