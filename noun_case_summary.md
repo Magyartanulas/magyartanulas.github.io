@@ -128,7 +128,7 @@ This case represents the change of state physically or metaphorically. Have a lo
 
 * Mi tesz téged boldoggá? - (What makes you happy?) Remember this?
 * A herceg békává változott. - (The prince turned into a frog.)
-* A vér nem válik vízzé. - (Idiom: Blood does not become water.)
+* A vér nem válik vízzé. - (Idiom: Blood does not become water lit. People don't change.)
 * Mivé lett a világ? - (What has the world become?)
 
 `Challenge!`
