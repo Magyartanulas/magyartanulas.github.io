@@ -61,7 +61,7 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 * Sétálok a kertbe. - (I walk into the garden.)
 * A pingvin a sivatagban áll. - (The penguin stands in the desert.)
 * Úszom a vízben. - (I'm swimming in the water.)
-* Integet egy búszból. - (She waves out of a bus.)
+* Integet egy buszból. - (She waves out of a bus.)
 * Kisétál abból az étteremből. - (He's walking out of that building.)
 
 **Other uses**
@@ -120,7 +120,7 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 * Budapestre megyünk. - (We're going to Budapest.)
 * Várok az első emeleten. - (I'm waiting on the first floor.)
 * Állok a hídon. - (I'm standing on the bridge.)
-* Leeset a lóról. - (He/she fell off the horse.)
+* Leesett a lóról. - (He/she fell off the horse.)
 * A zöld béka ül az egykerekűn. - (The green frog sits on the unicycle)
 * Indulok a repülőtérről. - (I'm leaving from the airport.)
 
@@ -151,7 +151,7 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 * Nem rajtam múlik - (It's not up to me.)
 * De miért mindenki rajtunk nevet? - (But why is everyone laughing at us?)
 * Róluk még nem írtak könyvet. - (No book was written about them yet.)
-* Nem ismer róla. - (He/she doesn't know about it.)
+* Nem tud róla. - (He/she doesn't know about it.)
 
 `Challenge!`
 ![alien](https://magyartanulas.github.io/public/alien.png)
@@ -178,7 +178,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 
 **Physical Location Examples**
 
-* Elgyaloglok a hegyhez. - (I walk to the mountain.)
+* Elsétálok a hegyhez. - (I walk to the mountain.)
 * Futottam a kutyához. - (I ran to the dog.)
 * Marcinál vagyok. - (I'm at Marci's.)
 * Az autóknál várt rám. - (He/she waited by the cars for me.)
@@ -207,7 +207,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 | ők      | hozzájuk       | náluk     | tőlük     |
 
 * Mit szólsz hozzá? - (What do you say to that? (giving opinion))
-* Semmi közöd hozzá. - (It's none of your buisness.)
+* Semmi közöd hozzá. - (It's none of your business.)
 * Ez rendes volt tőle. - (That was nice of him/her.)
 
 `Challenge!`
