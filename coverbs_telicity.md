@@ -33,7 +33,7 @@ This is the same deal with Hungarian so it's important to get these right. Here 
 * A távoli fára rámutatott. - (He pointed to the distant tree.)
 * Bekapcsoltam a számítógépet, aztán lekapcsolt a villany. - (I turned on the computer, then the power turned off.)
 * Soha nem fog felnőni! - (He/She'll never grow up!)
-* De miért idehoztad őt? - (But why did you bring him/her here?)
+* De miért hoztad ide őt? - (But why did you bring him/her here?)
 * A vonatablakból nem szabad kihajolni! - (Leaning out of the train window is not allowed (lit. not unrestricted))
 
 **Special case:** Átláttam a szitán. - (I saw past the ruse)
@@ -76,7 +76,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 `Lát` translates to he/she/it sees. It isn't telic, so this is used when you *happen* to see or notice something. One can intentionally `néz` something, but not for `lát`. So because of this, when `meg-` is added, it makes the verb *even more* spontaneous, to catch a glimpse or sight of something.
 
-* Nem látod a híres szobort? - (Have you (not) seen the famous statue?)
+* Nem láttad a híres szobort? - (Have you (not) seen the famous statue?)
 * Meglátott egy rókát az erdőben. - (He/she/it caught sight of a fox in the forest.)
 
 ---
@@ -85,7 +85,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 `Beszél` translates to he/she/it speaks. Being not telic, this is used when you are speaking in general. `Megbeszél` makes the verb telic and is used when the goal is to speak, this changes the verb from speaks to discuss a topic until completion, *to have a talk*.
 
-* Csss! Anyám telefon beszél. - (Shhh! Mother's speaking on the phone.)
+* Csss! Anyám telefonon beszél. - (Shhh! Mother's speaking on the phone.)
 * Majd ezt megbeszélem vele. - (I'll discuss this with him sometime later.)
 
 ---
