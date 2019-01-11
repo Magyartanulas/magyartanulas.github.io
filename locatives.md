@@ -146,7 +146,7 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 
 `-ra/-re` can be used as for, and `-ról,-ről` can be used as about.
 
-* Ezt mindig mondom anyámnak, de soha nem hallgat rá! (I always say this to mother, but she never listens to it!) 
+* Ezt mindig mondom anyámnak, de soha nem hallgat rám! (I always say this to mother, but she never listens to me!) 
 * Számíthatsz rám! (You can count on me!)
 * Nem rajtam múlik - (It's not up to me.)
 * De miért mindenki rajtunk nevet? - (But why is everyone laughing at us?)
