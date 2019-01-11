@@ -25,7 +25,7 @@ To express that you need something, just use `kell`. If you need to emphasise th
 * Kell egy autó. - (I need a car.)
 * Hány tojás kell a süteménybe? - (How many eggs are needed for the cake?)
 * Bármit teszel, az nekem is kell. - (Whatever you do, I need to do as well.)
-* Kell még egy szó. - (I need one more word.)
+* Kell még egy szó. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/5862/demjen-ferenc/kell-meg-egy-szo-zeneszoveg.html) I need one more word.)
 * Új ruhák kellenek. - (I need new clothes.)
 
 To stress that the person/object needs to *do something*, then you can **conjugate the infinitive.**
