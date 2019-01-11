@@ -46,8 +46,7 @@ Just like with the accusative case, pronouns change if they are in the dative ca
 | ti      | nektek |
 | ők      | nekik  |
 
-* Megígértem anyukámnak, hogy segítek neki. - (I promised mother, that I (would) help her.)
-* Boldog szülinapot! Tessék, hoztam neked egy apróságot. - (Happy Birthday! Here, I brought you a little something.) 
+* December 6-on, adunk apróságokat egymásnak. - (On December 6th, we give little gifts to each other.)
 * Úgy tűnik nekem, hogy ő szerelmes beléd. - (It appears/seems to me that he/she is in love with you.)
 
 ## Possession
