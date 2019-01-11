@@ -155,7 +155,7 @@ The Subjunctive mood expresses a wish or a suggestion. Nowadays (in English at l
 In Hungarian, the subjunctive mood uses the same form as the imperative. It is used to suggest or as the structure *x happens/happened so that y will/will not happen.*
 
 * Úgy legyen. - (So be it.)
-* A célom az, hogy jó legyek. - (My goal is to be good.)
+* A célom az, hogy jó legyek. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/56267/rajzfilm-slagerek/pokemon---indigo-liga---szerezd-meg-hat-mind-zeneszoveg.html) My goal is to be good.)
 * Bogi azt kéri, hogy ne kérdezz annyit. - (Bogi asks that you (should) not question so much.)
 * Menjünk vissza. - (Let's go back.)
 * Idehoztam, hogy lássa amit megcsináltad. - (I brought him/her here so that they could see what you did.)
