@@ -43,7 +43,7 @@ Examples:
 
 ### Listening
 
-Gollam and Szméagol are talking, try to work out what they are saying!
+Gollam and Szméagol are talking, try to work out what they are saying! Taken from Lord of The Rings, The Two Towers.
 
 <audio controls><source src="https://magyartanulas.github.io/public/gazda.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
@@ -179,3 +179,4 @@ In Hungarian, the subjunctive mood uses the same form as the imperative. It is u
 ### Yet to Learn
 
 * `szükség` demonstrates one example of [expressing need.](https://magyartanulas.github.io/expressing_need/)
+* `azért` involves `ért`, a [noun case.](https://magyartanulas.github.io/noun_case_summary/)
