@@ -20,7 +20,7 @@ Now that you've mastered pronunciation, here are some basic phrases and words to
 | Nektek is* (to many)                               | to you as well                |
 | Helló/Szia/Szevasz (to one person)                 | Hi/Hey/Bye                    |
 | Helló/Sziasztok/Szevasztok (to many)               | Hi/Hey/Bye                    |
-| Viszlát/Visontlátásra                              | Goodbye                       |
+| Viszlát/Viszontlátásra                             | Goodbye                       |
 | Hogy vagy? (to one person)                         | How are you?                  |
 | Hogy vagytok? (to many)                            | How are you?                  |
 | Igen                                               | Yes                           |
