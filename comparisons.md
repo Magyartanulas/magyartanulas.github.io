@@ -67,12 +67,14 @@ When `úgy` is used, it is followed up with more information either in the sente
 ## ilyen/olyan
 ---
 
-Both `ilyen` and `olyan` on the other hand are adjectival [pronouns.](https://magyartanulas.github.io/pronouns) They both translate roughly into this kind of, or that kind of and go alongside nouns instead. Similar to before, `olyan` is followed up with more information or context, while `ilyen` is typically closer to the speaker and the context or information is more obvious.
+Both `ilyen` and `olyan` on the other hand are adjectival [pronouns.](https://magyartanulas.github.io/pronouns) They both translate roughly into this kind of, or that kind of and go alongside nouns instead. Similar to before, `olyan` requires explicit reference, while `ilyen` is typically closer to the speaker and requires context.
 
-* Olyanok voltunk, amikor fiatalok voltunk. - (We were like that when we were younger.) e.g. talking about crazy kids.
-* Olyan sok munkám van - (I have so much work.)
+* Nincs olyan messze. - (It's not so far.)
+* Nem kerül olyan sokba. - (It doesn't cost that much.)
+* Olyan sok munkám van. - (I have so much work.)
 * Ilyen az élet. - (Such is (the) life.) 
 * Ez lehetetlen ilyen körülmények között - (This is impossibe among such circumstances.)
+* Mi is ilyenek voltunk, amikor fiatalok voltunk. - (We were like that when we were younger.)
 
 *Alex: A házi feladat határideje tegnap volt. - (The deadline of the homework was yesterday.)
 
