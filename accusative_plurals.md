@@ -125,10 +125,10 @@ In English this only happens a few times.
 | Bokor                    | Bokrok**at**       |                  |                  |                |             |
 | Magyarázatok             | Magyarázatok**at** |                  |                  |                |             |
 | Magyarázat (explanation) |                    | Magyarázat**ot** |                  |                |             |
-| Tükrök                   |                    | Tükrök**et**     |                  |                |             |
 | Bagoly                   |                    | Bagly**ot**      |                  |                |             |
-| Polc                     |                    | Polc**ok**       |                  |                |             |
+| Polc                     |                    | Polc**ot**       |                  |                |             |
 | Csillag                  |                    | Csillag**ot**    |                  |                |             |
+| Tükrök                   |                    |                  | Tükrök**et**     |                |             |
 | Gyerek                   |                    |                  | Gyerek**ek**     |                |             |
 | Fű                       |                    |                  | Füv**et**        |                |             |
 | Kövek                    |                    |                  | Kövek**et**      |                |             |
