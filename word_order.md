@@ -144,7 +144,7 @@ The same can be done with `is` (as well) and `sem` (neither).
 
 ---
 
-*György: Szeretem a csoki tortát.* - (I love chocolate cake.)
+*György: Szeretem a csokitortát.* - (I love chocolate cake.)
 
 *Alex: Én is! Ez a kedvencem!* - (Me too! It's my favourite!)
 
@@ -156,10 +156,10 @@ Arrange these words into a neutral sentence. *Remember the position of the topic
 * a
 * 10-kor
 * reggel
-* megbeszélek
+* beszélek
 * holnap
 
-<span class="spoiler">Holnap reggel megbeszélek a főnökömmel 10-kor.</span>
+<span class="spoiler">Holnap reggel beszélek a főnökömmel 10-kor.</span>
 
 ## Further Links
 
