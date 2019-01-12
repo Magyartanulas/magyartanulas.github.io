@@ -134,7 +134,7 @@ The addition of pronouns places the emphasis on that person, generally done as a
 
 *Alex: Hogy vagy ma?* - (How are you today?)
 
-*Barnabás: Nagyon jól vagyok, ma az utolsó vizsgám volt. Te hogy vagy?* - (I'm very well, I had my last exam today. How are *you?*)
+*Barnabás: Nagyon jól vagyok, ma volt az utolsó vizsgám. Te hogy vagy?* - (I'm very well, I had my last exam today. How are *you?*)
 
 The same can be done with `is` (as well) and `sem` (neither).
 
