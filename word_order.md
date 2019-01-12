@@ -37,7 +37,7 @@ If there is no article, the order becomes SOV.
 
 Note the last one doesn't have a direct object, but the same logic applies.
 
-If the sentence is describing something without verbs, (e.g. the ground is wet) the order becomes Adjective-Noun.
+If the sentence is describing something or describing something happening, the order becomes Adjective/Verb-Noun.
 
 * Esik az eső. - (It's raining lit. The rain is falling.)
 * Kék az ég. - (The sky is blue.)
