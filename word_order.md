@@ -26,7 +26,7 @@ In Hungarian neutral sentences, the subject is omitted if it is a personal prono
 * Rúgta a széket.
 * Dobod a követ.
 * A tolvajok ellopták a táskámat.
-* György írta a nevét a homokba.
+* György írta a nevét a homokba. - (Said neutrally, by a narrator.)
 
 If there is no article, the order becomes SOV.
 
@@ -64,6 +64,10 @@ So because the case system in Hungarian frees up the word order, the emphasis no
   - Emphasis: a matek vizsgám
   
 Because the emphasis is on `a matek vizsgám`, this sentence could work as a response to `Tegnap milyen vizsgád volt?`. The topic of conversation would be *when was it* with the emphasis on `what kind of exam?`. With word order, **the answer reflects the question**.
+
+* György a homokba írta a nevét. - (György wrote his name in the sand. As said by someone describing what György is doing.)
+  - Topic: György
+  - Emphasis: a homokba
 
 *Barnabás: Mit szoktál reggelizni?* - (What do you usually have for breakfast?)
 
