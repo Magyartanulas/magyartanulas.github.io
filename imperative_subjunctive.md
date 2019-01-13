@@ -37,7 +37,7 @@ Examples:
 `Challenge!`
 
 ![siet](https://magyartanulas.github.io/public/hurry.png)
-*Siessetek már, mert itthagynak!*
+*Siessetek már, mert itthagynak! (Original image, merging free images together)*
 
 <span class="spoiler">Hurry up (guys), because they're leaving!</span>
 
@@ -170,7 +170,7 @@ In Hungarian, the subjunctive mood uses the same form as the imperative. It is u
 `Challenge!`
 
 ![pingvin](https://magyartanulas.github.io/public/pals.png)
-*Azért jöttem, hogy segítsek.*
+*Azért jöttem, hogy segítsek. (Original image, merging free images together)*
 
 <span class="spoiler">I came to help</span>
 
