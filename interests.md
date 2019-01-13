@@ -28,7 +28,7 @@ The person who it appeals to can be omitted, from which context tells who that p
 * Azt gondoltad, hogy ez tetszene nekem? - (Did you think that I would like this? lit. Did you think that this would appeal to me?)
 
 `Challenge!`
-![Subscribe](https://magyartanulas.github.io/public/subscribe.jpeg)
+![Subscribe](https://magyartanulas.github.io/public/subscribe.png)
 
 *Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel! (Free image fetched from pixabay.com)*
 
@@ -76,9 +76,9 @@ If the direct object is a name, then `vonz` takes on definite conjugation.
 * A trón úgy vonzotta Simbát. (The throne attracted Simba so much.)
 
 `Challenge!`
-![utazás](https://magyartanulas.github.io/public/elutázni.jpg)
+![utazás](https://magyartanulas.github.io/public/travel.jpg)
 
-*Barnabás: Hova szeretnél elutazni?*
+*Barnabás: Hova szeretnél elutazni? (Free photo by Emanuela Picone, fetched from unsplash.com)*
 
 *Alex: Ausztrália és Új Zéland vonzanak engem, mert tetszik az ottani kultúra.*
 
@@ -204,9 +204,9 @@ For people one can use `imád` to worship or express stronger love or cherishmen
 `Szerelem` (noun) is the romantic love reserved only for one's partner. The act of falling in love is expressed with `beleszeret` but the state of being in love is expressed with `szerelmes`. Not to be confused with the verb `szerel`.
 
 `Challenge!`
-![Szerelmes](https://magyartanulas.github.io/public/szerelmes.jpg)
+![Szerelmes](https://magyartanulas.github.io/public/lovers.png)
 
-*Rómeó beleszeretett Júliába.*
+*Rómeó beleszeretett Júliába. (Free image, fetched from pixabay.com)*
 
 <span class="spoiler">Romeó fell in love with Júlia.</span>
 
