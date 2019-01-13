@@ -106,9 +106,9 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 <span class="spoiler">But steel is heavier than feathers!</span>
 
-![lajcsi](https://magyartanulas.github.io/public/louis.png)
+![lajcsi](https://magyartanulas.github.io/public/louis.jpg)
 
-*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/27079/mesedalok/dzsungel-konyve-mint-te-olyan-leszek-zeneszoveg.html) Ha ezt az egyet megtudom, mint te, olyan leszek! (Image by Max Ronnersjö, fetched from Wikimedia Commons)*
+*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/27079/mesedalok/dzsungel-konyve-mint-te-olyan-leszek-zeneszoveg.html) Ha ezt az egyet megtudom, mint te, olyan leszek! (Free image by Max Ronnersjö, fetched from Wikimedia Commons)*
 
 <span class="spoiler">If I know this one thing, I will be like you!</span>
 
