@@ -49,7 +49,7 @@ We can add the case onto `ez` and `az` to form `eddig` and `addig`. The word `ad
 `Challenge!`
 
 ![bell](https://magyartanulas.github.io/public/bell.png)
-*Maradj, ameddig csak akarsz.*
+*Maradj, ameddig csak akarsz. (Free image fetched from pxhere.com)*
 
 <span class="spoiler">Stay (only) for as long as you want.</span>
 
@@ -119,7 +119,7 @@ When ever you want to use the word *with*, use the instrumental case. In Hungari
 `Challenge!`
 
 ![kamera](https://magyartanulas.github.io/public/kamera.jpeg)
-*Tegnap moziban voltam a barátaimmal.*
+*Tegnap moziban voltam a barátaimmal. (Free image by GDJ, fetched from pixabay.com)*
 
 <span class="spoiler">Yesterday I was at the movies with my friends.</span>
 
@@ -137,7 +137,7 @@ This case represents the change of state physically or metaphorically. Have a lo
 ![ketté](https://magyartanulas.github.io/public/ketté.png)
 *A villám kettévágta a sziklát.*
 
-<span class="spoiler">The lightning split the rock into two.</span>
+<span class="spoiler">The lightning split the rock into two. (Original image, merging free images together)</span>
 
 ---
 
