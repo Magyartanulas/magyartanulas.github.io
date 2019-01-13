@@ -76,7 +76,7 @@ The same kind of deal applies in Hungarian, but to a whole lot more verbs. Typic
 
 `Lát` translates to he/she/it sees. It isn't telic, so this is used when you *happen* to see or notice something. One can intentionally `néz` something, but not for `lát`. So because of this, when `meg-` is added, it makes the verb *even more* spontaneous, to catch a glimpse or sight of something.
 
-* Nem láttad a híres szobort? - (Have you (not) seen the famous statue?)
+* Nem láttad a híres szobrot? - (Have you (not) seen the famous statue?)
 * Meglátott egy rókát az erdőben. - (He/she/it caught sight of a fox in the forest.)
 
 ---
