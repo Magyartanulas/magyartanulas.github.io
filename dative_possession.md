@@ -31,7 +31,7 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 `Challenge!`
 ![A Duna](https://magyartanulas.github.io/public/Duna.jpg)
 
-*Ezt a folyót Dunának hívják. (Photo by Daniel Olah, fetched from unsplash.com)*
+*Ezt a folyót Dunának hívják. (Free photo by Daniel Olah, fetched from unsplash.com)*
 
 <span class="spoiler">They call this river the Duna.</span>
 
