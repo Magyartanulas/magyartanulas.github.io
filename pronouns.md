@@ -66,7 +66,7 @@ Examples:
 `Challenge!`
 ![üres](https://magyartanulas.github.io/public/jajj.png)
 
-*Kiderült, nem én voltam az első, aki erre rátalálta.*
+*Kiderült, nem én voltam az első, aki erre rátalálta. (Original image, merging free images together)*
 
 <span class="spoiler">It turned out I was not the first to discover this.</span>
 
