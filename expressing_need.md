@@ -49,7 +49,7 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 `Challenge!`
 
 ![víz](https://magyartanulas.github.io/public/víz.png)
-*Ki kell jönnöd a vízből!*
+*Ki kell jönnöd a vízből! (Original image, merging free images together)*
 
 <span class="spoiler">You need to get out of the water!</span>
 
@@ -136,8 +136,8 @@ Another and less used way to express need is to use `muszáj` which basically tr
 
 `Challenge!`
 
-![varázsló](https://magyartanulas.github.io/public/varázsló.png)
-*Muszáj elpusztítanod a gyűrűt, hogy megmentse a világot.*
+![varázsló](https://magyartanulas.github.io/public/wizard.jpg)
+*Muszáj elpusztítanod a gyűrűt, hogy megmentse a világot. (Free image by NidoArt, fetched from Wikimedia Commons)*
 
 <span class="spoiler">You must destroy the ring to save the world.</span>
 
@@ -153,6 +153,6 @@ szükség[possession ending] van [something]-(ra/re)
 * Szedd össze, amire utazásodhoz szükséged van. - (Gather what you need for your journey.)
 
 ![arnold](https://magyartanulas.github.io/public/arnold.png)
-*Szükségem van a ruhádra, a csizmádra és a motorodra. - The Terminator 2*
+*Szükségem van a ruhádra, a csizmádra és a motorodra. - Arnold Schwarzenegger, The Terminator 2 (Free image by OpenClipart-Vectors, fetched from pixabay.com)*
 
 <span class="spoiler">I need your clothes, your boots and your motorcycle.</span>
