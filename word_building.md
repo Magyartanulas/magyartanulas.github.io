@@ -70,7 +70,7 @@ You may have heard of the famous 44-letter long word `megszentségteleníthetetl
 
 ![kerékpár](https://magyartanulas.github.io/public/kerékpár.png)
 
-*kerék + pár = kerékpár*
+*kerék + pár = kerékpár (Original image, merging free images together)*
 
 <span class="spoiler">wheel + couple = bicycle</span>
 
