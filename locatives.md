@@ -20,9 +20,9 @@ Hungarian makes the distinction between where you are, where you are going and w
 
 
 `Challenge!`
-![joe](https://magyartanulas.github.io/public/cotton.png)
+![joe](https://magyartanulas.github.io/public/CottonPlant.JPG)
 
-*[Translated Lyric:](http://www.metrolyrics.com/cotton-eye-joe-lyrics-rednex.html) Honnan jöttél, hová mentél? honnan jöttél Pamutszem Joe?*
+*[Translated Lyric:](http://www.metrolyrics.com/cotton-eye-joe-lyrics-rednex.html) Honnan jöttél, hová mentél? honnan jöttél Pamutszem Joe? (Free photo by H2O-C, fetched from Wikimedia Commons)*
 
 <span class="spoiler">Where did you come from, where did you go? Where did you come from Cottoneye Joe?</span>
 
@@ -43,6 +43,8 @@ A noun can be interpreted in more than one way depending on the context.
 ---
 
 ![ajtók](https://magyartanulas.github.io/public/doors.png)
+
+*(Original image, merging free images together)*
 
 *From left to right: Illative (into `-ba\-be`), Inessive (in `-ban\-ben`), Elative (out of `-ból\-ből`)*
 
@@ -91,9 +93,9 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 * Tanultam belőle. - (I've learned from it.)
 
 `Challenge!`
-![zazu](https://magyartanulas.github.io/public/zazu.png)
+![zazu](https://magyartanulas.github.io/public/lionking.png)
 
-*Én mondom csapnivalóan rossz király lesz belőled. - Zazu, Oroszlánkirály*
+*Én mondom csapnivalóan rossz király lesz belőled. - Zazu, Oroszlánkirály (Image by raymondsanti, fetched from sketchport.com)*
 
 <span class="spoiler">I say an atrociously bad king will become out of you.</span>
 
@@ -101,6 +103,8 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 ---
 
 ![tutajok](https://magyartanulas.github.io/public/surfaces_enlarged.png)
+
+*(Original image, merging free images together)*
 
 *From left to right: Sublative (onto `-ra\-re`), Superessive (on `-en\-on\-ön\-n`), Delative (off of `-ról\-ről`)*
 
@@ -154,9 +158,9 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 * Nem tud róla. - (He/she doesn't know about it.)
 
 `Challenge!`
-![alien](https://magyartanulas.github.io/public/alien.png)
+![alien](https://magyartanulas.github.io/public/luxo.png)
 
-*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/56226/rajzfilm-slagerek/toy-story---var-rad-egy-jo-barat-zeneszoveg.html) Vár rád egy jó barát.*
+*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/56226/rajzfilm-slagerek/toy-story---var-rad-egy-jo-barat-zeneszoveg.html) Vár rád egy jó barát. (Original image)*
 
 <span class="spoiler">A good friend waits for you.</span>
 
@@ -164,6 +168,8 @@ Naturally, surfaces get these endings and for abstract things, they can be used 
 ---
 
 ![fák](https://magyartanulas.github.io/public/solids.png)
+
+*(Original image, merging free images together)*
 
 *From left to right: Allative (towards `-hez\-hoz\-höz`), Adessive (by,at `-nál\-nél`), Ablative (away from `-tól, -től`)
 
@@ -213,7 +219,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 `Challenge!`
 ![interview](https://magyartanulas.github.io/public/interview.png)
 
-*Szeretném tőled megkérdezni, hogy...*
+*Szeretném tőled megkérdezni, hogy... (Image by Tumisu, fetched from pixabay.com)*
 
 <span class="spoiler">I would like to ask of you....</span>
 
