@@ -170,7 +170,7 @@ This can be done in the format of questions
 `Challenge!`
 ![vadászik](https://magyartanulas.github.io/public/vadászik.PNG)
 
-*Két kutya üldöz egy szarvast.*
+*Két kutya üldöz egy szarvast. (Original image, merging free images together)*
 
 <span class="spoiler">Two dogs chase a deer.</span>
 
