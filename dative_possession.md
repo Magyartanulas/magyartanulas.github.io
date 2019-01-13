@@ -29,9 +29,9 @@ Similar to how `azt,ezt` is the accusative of that and this, `annak, ennek` is t
 * Hála Istennek! - (Thank God! lit. Gratitude to God!)
 
 `Challenge!`
-![A Duna](https://magyartanulas.github.io/public/duna.JPG)
+![A Duna](https://magyartanulas.github.io/public/Duna.jpg)
 
-*Ezt a folyót Dunának hívják.*
+*Ezt a folyót Dunának hívják. (Photo by Daniel Olah, fetched from unsplash.com)*
 
 <span class="spoiler">They call this river the Duna.</span>
 
@@ -95,7 +95,7 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 `Challenges!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
 
-*- Ezek nem a te könyveid?*
+*- Ezek nem a te könyveid? (Original image, merging free images together)*
 
 <span class="spoiler">Are these not your books?</span>
 
@@ -240,9 +240,9 @@ If you want to show this unattributed belonging without using pronouns, just use
 
 `Challenge!`
 
-![Consequences](https://magyartanulas.github.io/public/consequences.png)
+![Consequences](https://magyartanulas.github.io/public/sonic.png)
 
-*- Mikor tanulod már meg végre? Mikor tanulod már meg végre, hogy a tetteidnek következményei vannak?*
+*- Mikor tanulod már meg végre? Mikor tanulod már meg végre, hogy a tetteidnek következményei vannak?  (Free image fetched from clker.com)*
 
 <span class="spoiler">When will you learn? When will you learn that your actions have consequences?</span>
 
