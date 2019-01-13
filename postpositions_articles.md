@@ -71,7 +71,7 @@ These examples show that the quantity is not important.
 `Challenge!`
 ![tűzőgép](https://magyartanulas.github.io/public/tűzőgép.png)
 
-*Itt van Éva, ő titkárnő. Keres egy tűzőgépet. Amikor megtalálta a tűzőgépet, boldog volt.*
+*Itt van Éva, ő titkárnő. Keres egy tűzőgépet. Amikor megtalálta a tűzőgépet, boldog volt. (Original image, merging free images together)*
 
 <span class="spoiler">Here is Éva, she is a secretary. She is looking for a stapler. When she found the stapler, she was happy.</span>
 
@@ -93,7 +93,7 @@ In Hungarian, there are postpositions. They are placed after the noun relationsh
 `Challenge!`
 ![A kutya és a lány](https://magyartanulas.github.io/public/ülnek.jpg)
 
-*A kutya a lány mellett ül.*
+*A kutya a lány mellett ül. (Original image, merging free images together)*
 
 <span class="spoiler">The dog sits next to the girl.</span>
 
