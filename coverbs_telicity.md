@@ -43,7 +43,7 @@ Even though `át-` means through/across, when the noun has `-n` attached, the me
 `Challenge!`
 ![háború](https://magyartanulas.github.io/public/showdown.png)
 
-*A kő legyőzi az ollót!*
+*A kő legyőzi az ollót! (Original image, merging free images together)*
 
 <span class="spoiler">Rock beats scissors!</span>
 
@@ -211,9 +211,9 @@ Kapitány: Well alright, you guys wanted it...Hey hold on!<br/>
 * Ezek a vésetek egy történetet mesélnek el. - (These carvings tell a story.)
 
 `Challenge!`
-![nyelvek](https://magyartanulas.github.io/public/üdv.png)
+![nyelvek](https://magyartanulas.github.io/public/peace.png)
 
-*Aki megtanul egy új nyelvet, megszerez egy új lelket.*
+*Aki megtanul egy új nyelvet, megszerez egy új lelket. (Image by GDJ, fetched from pixabay.com)*
 
 <span class="spoiler">He/she who learns a new language, acquires a new soul.</span>
 
