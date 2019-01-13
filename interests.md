@@ -30,7 +30,7 @@ The person who it appeals to can be omitted, from which context tells who that p
 `Challenge!`
 ![Subscribe](https://magyartanulas.github.io/public/subscribe.jpeg)
 
-*Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel!*
+*Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel! (Free image fetched from pixabay.com)*
 
 <span class="spoiler">If you liked this video, liked, comment and subscribe!</span>
 
@@ -53,7 +53,7 @@ Here are the relevant conjugations, to see all of them [click here.](https://coo
 `Challenge!`
 ![Túró rudi](https://magyartanulas.github.io/public/rudi.jpg)
 
-*Kinek ízlik a túró rudi?*
+*Kinek ízlik a túró rudi? (Free photo by Uhi, fetched from hu.wikipedia.org)*
 
 <span class="spoiler">Who likes túró rudi?</span>
 
