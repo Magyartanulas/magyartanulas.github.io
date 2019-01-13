@@ -43,7 +43,7 @@ Examples:
 
 ### Listening
 
-Gollam and Szméagol are talking, try to work out what they are saying! Taken from Lord of The Rings, The Two Towers.
+Gollam and Szméagol are talking, try to work out what they are saying! Taken from Lord of The Rings, The Two Towers (film).
 
 <audio controls><source src="https://magyartanulas.github.io/public/gazda.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
