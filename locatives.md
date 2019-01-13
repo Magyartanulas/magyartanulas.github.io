@@ -219,7 +219,7 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 `Challenge!`
 ![interview](https://magyartanulas.github.io/public/interview.png)
 
-*Szeretném tőled megkérdezni, hogy... (Image by Tumisu, fetched from pixabay.com)*
+*Szeretném tőled megkérdezni, hogy... (Free image by Tumisu, fetched from pixabay.com)*
 
 <span class="spoiler">I would like to ask of you....</span>
 
