@@ -37,7 +37,7 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 `Challenge!`
 ![ingek](https://magyartanulas.github.io/public/együtt.png)
 
-*Barnabás: Szerinted melyik ing jobban néz ki rám??*
+*Barnabás: Szerinted melyik ing jobban néz ki rám?? (Original image, merging free images together)*
 
 *Éva: A kék ing, mert jól megy a többi ruhádhoz.*
 
@@ -102,13 +102,13 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 
 ![nehéz](https://magyartanulas.github.io/public/nehéz.jpg)
 
-*De az acél nehezebb a tollnál!*
+*De az acél nehezebb a tollnál! (Image fetched from Limmy's Show, Series 3 Episode 3)*
 
 <span class="spoiler">But steel is heavier than feathers!</span>
 
-![lajcsi](https://magyartanulas.github.io/public/lajcsi.png)
+![lajcsi](https://magyartanulas.github.io/public/louis.png)
 
-*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/27079/mesedalok/dzsungel-konyve-mint-te-olyan-leszek-zeneszoveg.html) Ha ezt az egyet megtudom, mint te, olyan leszek!*
+*[Lyric:](http://www.zeneszoveg.hu/dalszoveg/27079/mesedalok/dzsungel-konyve-mint-te-olyan-leszek-zeneszoveg.html) Ha ezt az egyet megtudom, mint te, olyan leszek! (Image by Max Ronnersjö, fetched from Wikimedia Commons)*
 
 <span class="spoiler">If I know this one thing, I will be like you!</span>
 
