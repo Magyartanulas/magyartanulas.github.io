@@ -206,7 +206,7 @@ For people one can use `imád` to worship or express stronger love or cherishmen
 `Challenge!`
 ![Szerelmes](https://magyartanulas.github.io/public/lovers.png)
 
-*Rómeó beleszeretett Júliába. (Free image, fetched from pixabay.com)*
+*Rómeó beleszeretett Júliába. (Free image by Alexas Fotas, fetched from pixabay.com)*
 
 <span class="spoiler">Romeó fell in love with Júlia.</span>
 
