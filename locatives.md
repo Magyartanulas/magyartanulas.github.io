@@ -95,7 +95,7 @@ Physically speaking, structures, rooms and vehicles are the go-to hollow box nou
 `Challenge!`
 ![zazu](https://magyartanulas.github.io/public/lionking.png)
 
-*Én mondom csapnivalóan rossz király lesz belőled. - Zazu, Oroszlánkirály (Image by raymondsanti, fetched from sketchport.com)*
+*Én mondom csapnivalóan rossz király lesz belőled. - Zazu, Oroszlánkirály (Free image by raymondsanti, fetched from sketchport.com)*
 
 <span class="spoiler">I say an atrociously bad king will become out of you.</span>
 
