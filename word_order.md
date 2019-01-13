@@ -124,7 +124,7 @@ Recall the listening when we first covered [negation](https://magyartanulas.gith
 [...]
 
 * Pisti: Mármint mi nincs?
-* Jani: Videó nincs.
+* Jani: **Videó nincs**
 
 The original topic was asking about the issue, the issue is that there is no video. The next topic asks what is missing, the *video* is missing.
 
