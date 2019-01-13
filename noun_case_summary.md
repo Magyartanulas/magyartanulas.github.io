@@ -118,7 +118,7 @@ When ever you want to use the word *with*, use the instrumental case. In Hungari
 
 `Challenge!`
 
-![kamera](https://magyartanulas.github.io/public/kamera.jpeg)
+![kamera](https://magyartanulas.github.io/public/kamera.png)
 *Tegnap moziban voltam a barátaimmal. (Free image by GDJ, fetched from pixabay.com)*
 
 <span class="spoiler">Yesterday I was at the movies with my friends.</span>
