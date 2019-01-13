@@ -126,7 +126,7 @@ In Hungarian, there is no verb *to have*, instead you state what belongs to you 
 
 ### Listening
 
-Shifu Mester and Tai Lung are talking, try to work out what they are saying! Taken from Kung Fu Panda.
+Shifu Mester and Tai Lung are talking, try to work out what they are saying! Taken from Kung Fu Panda (film).
 
 <audio controls><source src="https://magyartanulas.github.io/public/sárkányharcos.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
