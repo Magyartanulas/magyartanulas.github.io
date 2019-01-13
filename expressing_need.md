@@ -55,7 +55,7 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 
 ### Listening
 
-The `kapitány` and the `közlegény` are talking, try to work out what they are saying! From the film, Madagaszkár
+The `kapitány` and the `közlegény` are talking, try to work out what they are saying! Taken from Madagascar (film).
 
 <audio controls><source src="https://magyartanulas.github.io/public/code.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
