@@ -64,7 +64,7 @@ The `-ban,-ben` is a locative case, [this is covered here.](https://magyartanula
 `Challenge!`
 ![muffin](https://magyartanulas.github.io/public/muffin.png)
 
-*- Ennék többet, de tele vagyok!*
+*- Ennék többet, de tele vagyok! (Image fetched from Tomska's asdfmovie 7)*
 
 <span class="spoiler">I would eat more, but I'm full!</span>
 
