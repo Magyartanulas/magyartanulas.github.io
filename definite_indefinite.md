@@ -176,7 +176,7 @@ Harold: That too.<br/>
 `Challenge!`
 ![két ember meg egy tóll](https://magyartanulas.github.io/public/keres.jpg)
 
-*- Mit csinálsz?*
+*- Mit csinálsz? (Original image, merging free images together)*
 
 *- Keresem a kék tollat.*
 
