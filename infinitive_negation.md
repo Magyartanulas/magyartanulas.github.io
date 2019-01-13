@@ -126,7 +126,7 @@ Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are us
 `Challenge!`
 ![Frodo](https://magyartanulas.github.io/public/one_ring.png)
 
-*Ha van Balrog, miért nincsen Jobbrog? (Image by Yukatan, fetched from Wikimedia Commons)*
+*Ha van Balrog, miért nincsen Jobbrog? (Free image by Yukatan, fetched from Wikimedia Commons)*
 
 <span class="spoiler">If there is a Balrog/Leftrog, why is there no Rightrog?</span>
 
