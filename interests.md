@@ -30,7 +30,7 @@ The person who it appeals to can be omitted, from which context tells who that p
 `Challenge!`
 ![Subscribe](https://magyartanulas.github.io/public/subscribe.png)
 
-*Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel! (Free image fetched from pixabay.com)*
+*Ha tetszett ez a videó, lájkolj, kommentelj és iratkozz fel! (Free image by Michael Hiraeth, fetched from pixabay.com)*
 
 <span class="spoiler">If you liked this video, liked, comment and subscribe!</span>
 
