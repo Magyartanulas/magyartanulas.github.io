@@ -68,7 +68,7 @@ When answering, you don't have to answer with a precise number, you could instea
 `Challenge!`
 
 ![alkoholista](https://magyartanulas.github.io/public/alkoholista.png)
-*Látod azt a két fát odakint? Az alkoholista négyet lát.*
+*Látod azt a két fát odakint? Az alkoholista négyet lát. (Original image, merging free images together)*
 
 <span class="spoiler">Do you see those two tress over there? The alcoholic sees four.</span>
 
@@ -182,7 +182,7 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 `Challenge!`
 
 ![számít](https://magyartanulas.github.io/public/matter.png)
-*Nem oszt, nem szoroz.*
+*Nem oszt, nem szoroz. (Original image, merging free images together)*
 
 <span class="spoiler">Idiom: It doesn't matter (literally: It doesn't divide, it doesn't multiply)</span>
 
