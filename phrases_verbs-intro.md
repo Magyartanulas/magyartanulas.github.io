@@ -55,7 +55,7 @@ Now that you've mastered pronunciation, here are some basic phrases and words to
 `Challenge!`
 ![bomba](https://magyartanulas.github.io/public/bomba.png)
 
-*- Hát, ez nem jó!*
+*- Hát, ez nem jó! (Free image fetched from ardiafm.com)*
 
 <span class="spoiler">Well this isn't good!</span>
 
@@ -100,7 +100,7 @@ There are two things to notice here:
 `Challenge!`
 ![Ki vagy?](https://magyartanulas.github.io/public/ki_vagy.png)
 
-*- János vagyok, ki vagy?*
+*- János vagyok, ki vagy? (Free image fetched from kisspng.com)*
 
 <span class="spoiler">I'm János, who are you?</span>
 
@@ -193,7 +193,7 @@ There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of 
 `Challenge!`
 ![Hol leszel?](https://magyartanulas.github.io/public/hol_leszel.jpg)
 
-*- És hol leszel holnap?*
+*- És hol leszel holnap? (Free image retrieved from dreamstime.com)*
 
 <span class="spoiler">And where will you be tomorrow?</span>
 
