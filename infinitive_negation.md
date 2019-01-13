@@ -124,9 +124,9 @@ Although `nincs` is used for the present tense, `nem volt` and `nem lesz` are us
 * Nincs mit. - (Don't mention it. lit. There is no what.)
 
 `Challenge!`
-![Frodo](https://magyartanulas.github.io/public/Frodo.jpg)
+![Frodo](https://magyartanulas.github.io/public/one_ring.png)
 
-*Ha van Balrog, miért nincsen Jobbrog?*
+*Ha van Balrog, miért nincsen Jobbrog? (Image by Yukatan, fetched from Wikimedia Commons)*
 
 <span class="spoiler">If there is a Balrog/Leftrog, why is there no Rightrog?</span>
 
@@ -146,9 +146,9 @@ With the imperative and subjunctive mood, the negation becomes `ne` and `se`. So
 
 
 `Challenge!`
-![Yoda](https://magyartanulas.github.io/public/yoda.jpeg)
+![Yoda](https://magyartanulas.github.io/public/lightsaber.png)
 
-*Tedd, vagy ne tedd, de ne próbáld! - Yoda, Star Wars V*
+*Tedd, vagy ne tedd, de ne próbáld! - Yoda, Star Wars V (Original Image)*
 
 <span class="spoiler">Do or do not, but do not try!</span>
 
