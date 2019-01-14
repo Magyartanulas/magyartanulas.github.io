@@ -102,7 +102,7 @@ If there is an object in the sentence, then the definite conjugation is used whe
 ## Listening
 ---
 
-Harold and the interviewer are talking, try to work out what they are saying! [Source:](https://www.youtube.com/watch?v=agYIUXymVAw)
+András and the interviewer are talking, try to work out what they are saying! Taken from the show Mindent vagy semmit, 1996
 
 <audio controls><source src="https://magyartanulas.github.io/public/tej.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
@@ -154,15 +154,15 @@ function clearAll() {
 </span>
 
 <div id = "transcript" style ="display:none">
-Harold: Én nagyon szeretem a tejet.<br/>
+András: Én nagyon szeretem a tejet.<br/>
 Interviewer: Igen és a kakáót is?<br/> 
-Harold: Azt is.<br/>
+András: Azt is.<br/>
 </div>
 
 <div id = "translation" style ="display:none">
-Harold: I love milk very much.<br/>
+András: I love milk very much.<br/>
 Interviewer: Yes and cocao as well?<br/> 
-Harold: That too.<br/>
+András: That too.<br/>
 </div>
 
 <div id = "none" style ="display:block">
