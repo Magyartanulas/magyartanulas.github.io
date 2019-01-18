@@ -31,8 +31,8 @@ Whenever a sentence is negated, the coverbs are always detached.
 * Megtaláltam a kulcsot. (I found my key. Neutral)
 * Nem  találtam meg a kulcsot. - (I didn't find the key. Negated)
 
-* György megoldta a keresztrejtvényt. - (György solved the crossword. Neutral)
-* György nem oldta meg a keresztrejtvényt. - (György didn't solve the crossword. Negated)
+* György megoldotta a keresztrejtvényt. - (György solved the crossword. Neutral)
+* György nem oldotta meg a keresztrejtvényt. - (György didn't solve the crossword. Negated)
 
 Because of the coverb always separating when present in a negated sentence, negated verbs are a kind of emphasis.
 
@@ -40,9 +40,9 @@ Because of the coverb always separating when present in a negated sentence, nega
 
 Likewise the detachment is present when using `fog` as well. The position of the coverb can be placed before a word that is before `fog`.
 
-A mohó róka meg fogja enni a csirkét. - (The greedy fox will eat the chicken. Neutral)
-A mohó róka fogja megenni a csirkét. - (Emphasis on the greedy fox)
-A  csirkét meg fogja enni a mohó róka. (Emphasis on the verb megeszik)
+* A mohó róka meg fogja enni a csirkét. - (The greedy fox will eat the chicken. Neutral)
+* A mohó róka fogja megenni a csirkét. - (Emphasis on the greedy fox)
+* A  csirkét meg fogja enni a mohó róka. (Emphasis on the verb megeszik)
 
 ### In Questions
 
@@ -58,7 +58,7 @@ When coverbs are present in a non yes-no question, they are usually separated (r
 In the imperative mood, the coverb is always detached.
 
 * Hívj fel, ha van időd. - (Ring me if you have time.)
-* Kapcsoljatok le a villanyt mielőtt mentetek aludni! ((2nd Person) Turn off the lights before you go to sleep!)
+* Kapcsoljátok le a villanyt mielőtt mentek aludni! ((2nd Person) Turn off the lights before you go to sleep!)
 
 In the subjunctive mood, the coverb is almost always detached, unless you want to emphasise the verb, here are a couple of rare cases.
 
