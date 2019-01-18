@@ -69,7 +69,7 @@ Here are some examples:
 * Álmodtam egy világot magamnak, itt állok a kapui előtt. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/10/edda-muvek/almodtam-egy-vilagot-zeneszoveg.html) I dreamt a world for myself, here I stand in front of its gates.)
 * Milyen napod volt? - (How was your day? lit. What kind of day did you have?)
 * A Csend Hangja. - (The Sound of Silence.)
-* Az időnk mint a tenger. - (Idiom: Our time is like the sea lit. We have a lot of time.)
+* Az időnk mint a tenger. - (Idiom: We have a lot of time lit. Our time is like the sea.)
 * A kutyáim szomorúak, mert nincs több kajájuk. - (My dogs are sad because they have no more dog-food.)
 * Az egyik hobbim az olvasás. - (One of my hobbies is reading.)
 
@@ -91,6 +91,11 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 * A barátom macskájának tálja - (My friend's cat's bowl.)
 * Ennek semmi értelme. - (This makes no sense. lit. This has no sense.)
 * A falnak is füle van! - (Idiom: Even the walls have ears!)
+
+Using [demonstrative pronouns](https://magyartanulas.github.io/pronouns/), with possession markers forces you to use the dative case, lest the meaning be changed.
+
+* Annak a mókusnak makka. - (That squirrel's acorn.)
+* Az a mókus makka. - (That's the squirrel's acorn.)
 
 `Challenges!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
