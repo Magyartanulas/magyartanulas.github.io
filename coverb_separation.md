@@ -16,4 +16,4 @@ Arrange these words into a sentence that puts focus on `észak`.
 * észak
 * madarak
 
-<span>A madarak észak felé repülnek vissza nyáron.</span>
+<span class="spoiler">A madarak észak felé repülnek vissza nyáron.</span>
