@@ -1,5 +1,5 @@
 ---
-title: Word Order
+title: Word Order (1/2)
 
 layout: page
 ---
@@ -75,22 +75,6 @@ Because the emphasis is on `a matek vizsgám`, this sentence could work as a res
 
 * Topic + Emphasis: Mit? Két szendvicset
 
-### The effect of coverbs
-
-There's a simple rule when it comes to coverbs. While the coverb remains attached to the verb, the verb is emphasised and the sentence remains neutral. However, when the coverb is detached, the word order can change and thus different things can become emphasised. For example:
-
-* A mohó róka megette a csirkét. - (The greedy fox at the chicken. NEUTRAL)
-  - A mohó **róka** ette meg a csirkét. - (It was the *fox* that ate the chicken.)
-  - A **csirkét** ette meg a mohó róka.  - (It was the *chicken* that the fox ate.)
-  
-This detachment can also be seen when a verb and a telic verb in the infinitive are used together.
-
-* Próbáltam elnézni. - (I *tried* to look away)
-  - El próbáltam nézni. - (I tried to look *away*. Not up, down, out or in.)
-  - Elnézni próbáltam - (I tried to *look away*. Not see, listen or speak.)
-  
-Whenever the sentence is negated and/or contains imperatives or subjunctives, the coverb will always be detached.
-
 ### Questions
 
 Something you'll notice is that the verb almost always follow a question word.
@@ -101,8 +85,6 @@ Something you'll notice is that the verb almost always follow a question word.
 * *Mikor indulunk el?* - (When do we leave?)
 
 An exception: `Milyen napod volt?` (Due to the focus of *your day*).
-
-**Note:** The verb *may* be omitted in the question word. If that is the case, it usually asks about the general state of something. E.g. `Milyen a leves?` vs `Milyen van a leves?`. The latter would be incorrect, as it asks of the general state of the soup *right now*, as opposed to how the soup is generally (does it taste nice?).
 
 ### Negation
 
