@@ -120,7 +120,7 @@ The addition of pronouns places the emphasis on that person, generally done as a
 
 The same can be done with `is` (as well) and `sem` (neither).
 
-*Péter: Nem szeretek halászni, annyira unalmas!* - (I don't like fishing, it's so boring!)
+*Péter: Nem szeretek horgászni, annyira unalmas!* - (I don't like fishing, it's so boring!)
 
 *Barnabás: Én sem, túl sokáig tart.* - (Neither do I, it takes too long.)
 
