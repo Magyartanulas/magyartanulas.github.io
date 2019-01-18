@@ -41,7 +41,8 @@ At the end of each section there will be a chance for review. Please leave a com
 17. The Imperative & Subjunctive Mood
 18. More Noun Cases
 19. The Conjugated Infinitive & Expressing need
-20. Word Order
+20. Word Order (1/2)
+21. Coverb Separation (2/2)
 
 Stay tuned for more!
 
