@@ -67,14 +67,17 @@ In the subjunctive mood, the coverb is almost always detached, unless you want t
 
 `Challenge!`
 
-Arrange these words into a sentence that puts focus on `észak`.
+Arrange these words into a sentence that puts focus on `észak`. Decide if the coverb should be separated.
 
-* vissza
-* felé
+* ügyetlen
+* ötször
+* labdát
 * a
-* nyáron
-* repülnek
-* észak
-* madarak
+* olyan
+* már
+* fiú
+* a
+* elejtette 
+* az
 
-<span class="spoiler">A madarak észak felé repülnek vissza nyáron.</span>
+<span class="spoiler">Az a fiú olyan ügyeten, már ötször ejtette el a labdát.</span>
