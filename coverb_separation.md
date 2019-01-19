@@ -18,11 +18,23 @@ Here is how the situation goes dow generally.
   - A mohó **róka** ette meg a csirkét. - (It was the *fox* that ate the chicken.)
   - A **csirkét** ette meg a mohó róka.  - (It was the *chicken* that the fox ate.)
   
-This detachment can also be seen when a verb and a telic verb in the infinitive are used together.
+This detachment can also be seen when a verb and a telic verb in the infinitive are used together. Whatever is in front, is emphasised.
 
 * Próbáltam elnézni. - (I *tried* to look away)
   - El próbáltam nézni. - (I tried to look *away*. Not up, down, out or in.)
   - Elnézni próbáltam - (I tried to *look away*. Not see, listen or speak.)
+  
+It's the same deal with the conjugated infinitive.
+
+* Fel kell kelnem. - (I need to get *up*. Not `átkel` or `egybekel`)
+  - Felkelnem kell. - (I need to *get up*. Not lie down)
+  - Kell felkelnem. - (I *need* to get up. It's really important)
+  
+Whatever precedes `kell` or starts the sentence is emphasised. This separation isn't seen when using `sikerült` and the conjugated infinitive however. E.g.
+
+* Sikerült megoldanunk. - (We managed to solve it.)
+  - ~~Megoldanunk sikerült.
+  - ~~Meg sikerült oldanunk.~~
   
 ### Negated Sentences
 
