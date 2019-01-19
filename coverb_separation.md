@@ -44,6 +44,11 @@ Likewise the detachment is present when using `fog` as well. The position of the
 * A mohó róka fogja megenni a csirkét. - (Emphasis on the greedy fox)
 * A  csirkét meg fogja enni a mohó róka. (Emphasis on the verb megeszik)
 
+Adding `fog` into a present tense sentence with coverbs changes thinsg up.
+
+* elmegyek » el fogok menni
+* megyek el » fogok elmenni
+
 ### In Questions
 
 When coverbs are present in a non yes-no question, they are usually separated (regardless if negation is present or not).
