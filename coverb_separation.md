@@ -68,7 +68,7 @@ When coverbs are present in a non yes-no question, they are usually separated (r
 * Mikor indulunk el? - (When do we leave?)
 * Hol találtad meg? - (Where did you find it?)
 * Miért nem jött vissza sohasem? (Why did he never even come back?)
-* Kiket nem hívtatok meg? - (Who (plural) didn't you invite?
+* Kiket nem hívtatok meg? - (Who (plural) didn't you invite?)
 
 ### In Imperative or Subjunctive Mood
 
