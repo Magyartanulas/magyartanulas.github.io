@@ -83,7 +83,7 @@ There's a lot to be taken away from here. We can make some rules, but **there wi
 
 But wait, there's more!
 
-In Hungarian, when a noun becomes quaintified (either by numbers or by adjectives) it becomes singular.
+In Hungarian, when a noun becomes quantified (either by numbers or by adjectives) it becomes singular.
 
 * Fák - (trees)
 * Két fa - (Two trees)
