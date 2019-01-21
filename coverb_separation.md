@@ -12,7 +12,7 @@ But it isn't *that* simple, let's explore all the different scenarios.
 
 ### General Sentence Emphasis
 
-Here is how the situation goes dow generally.
+Here is how the situation goes down generally.
 
 * A mohó róka megette a csirkét. - (The greedy fox at the chicken. NEUTRAL)
   - A mohó **róka** ette meg a csirkét. - (It was the *fox* that ate the chicken.)
