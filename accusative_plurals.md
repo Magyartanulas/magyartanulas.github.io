@@ -6,7 +6,7 @@ title: The Accusative Case & Plurals
 ## Plurals
 ---
 
-In English, the plural form of a noun is generally given by adding an `-s` onto the end of a word, in Hungarian 
+In English, the plural form of a noun is generally given by adding an `-s` onto the end of a word. In Hungarian 
 this is done by adding `-k`.
 
 > Watch out! Some nouns end in `-k` in their base state (nominal). E.g. gyerek (child), játék (toy, game).
@@ -112,7 +112,7 @@ Last but not least, if you stress that a noun has a key attribute, the adjective
 The accusative case marks the direct object. Whenever something/someone does `something/someone else`, 
 the `something/someone else` becomes the direct object. The accusative case is simply marked with a -t at the end.
 
-In English this only happens a few times. 
+In English, there are only a few situations in which a noun uses a different form when it becomes a direct object.
 
 * Can you see me? (me is the direct object)
 * Whom did you see? (whom is the direct object)
@@ -176,7 +176,7 @@ This can be done in the format of questions
 
 ## Special conjugation
 
-If the verb is happening between I and you, then we use the special verb conjugation `-lak/-lek`.
+If the subject of the verb is I, and the object is you, then we use the special verb conjugation `-lak/-lek`.
 
 * Szeretlek - I love you
 * Látlak - I see you
@@ -196,7 +196,7 @@ Lastly, the pronouns change when in the accusative case.
 Examples:
 
 * Engem keresel? - Are you looking for me?
-* Mi tesz téged boldoggá? What makes you happy?
+* Mi tesz téged boldoggá? - What makes you happy?
 
 ---
 
