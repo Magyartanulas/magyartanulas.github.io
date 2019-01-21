@@ -84,7 +84,7 @@ In the subjunctive mood, the coverb is almost always detached, unless you want t
 
 `Challenge!`
 
-Arrange these words into a sentence that puts focus on `észak`. Decide if the coverb should be separated.
+Arrange these words into a sentence that puts focus on `ötször`. Decide if the coverb should be separated.
 
 * ügyetlen
 * ötször
