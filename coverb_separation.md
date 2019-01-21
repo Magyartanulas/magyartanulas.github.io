@@ -8,7 +8,7 @@ Recall from the last section:
 
 > The topic goes first, and the thing that is to be emphasised goes before the verb.
 
-So While the coverb remains attached to the verb, the verb is emphasised and the sentence remains neutral. However, when the coverb is detached (and moves to the right), it is no longer *blocking* the emphasis from the word before. Thus the word order may change and different things can be emphasised.
+So while the coverb remains attached to the verb, the verb is emphasised and the sentence remains neutral. However, when the coverb is detached (and moves to the right), it is no longer *blocking* the emphasis from the word before. Thus the word order may change and different things can be emphasised.
 
 But it isn't *that* simple, let's explore all the different scenarios.
 
