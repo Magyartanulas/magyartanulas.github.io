@@ -156,7 +156,7 @@ Also, just because the future tense is structured like this in the table, doesn'
 | ti      | sírtatok | sírtok  | fogtok sírni |
 | ők      | sírtak   | sírnak  | fognak sírni |
 
-Keep track of the similarities and differences. Strictly speaking there is no future tense in Hungarian, the auxiliary verb `fog` is used with the verb in infinitive form alongside it.
+Keep track of the similarities and differences of the front-vowel and back-vowel conjugations. Strictly speaking there is no future tense in Hungarian, the auxiliary verb `fog` is conjugated and used with the verb in infinitive form alongside it.
 
 ### Quicknote on time-referencing
 
