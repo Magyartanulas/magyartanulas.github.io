@@ -6,8 +6,8 @@ title: The Alphabet & Vowel Harmony
 ## The Alphabet
 ---
 
-The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants
-the Hungarian Alphabet is a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
+The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants,
+the Hungarian alphabet contains a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
 every word that you can read first time every time!
 
 ```
@@ -52,7 +52,7 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 ## Vowel Harmony
 ---
 
-Grammarwise, Hungarian solves all their problems with prefixes and suffixes, the way these attachments sound depends on vowel harmony. 
+Grammarwise, Hungarian solves all their problems with prefixes and suffixes. The way these attachments sound depends on vowel harmony. 
 
 The vowels in Hungarian are paired. The second row marks elongation on the vowels (and a change in sound for á and é).
 ```
@@ -71,7 +71,7 @@ Back:  a á o ó u ú     (A Zuzmó-Háború.)
 * Likewise, if a word contains only back-vowels, then it should be conjugated with back vowels. `darázs`
 * If a word contains a mixture of front and back, the last vowel will specify what kind it is. `dzsungel`
 
-If the word is only one-syllable *and* contains only `i` or `í` then it can be considered a back-voweled or front-voweled. E.g.
+If the word is only one-syllable *and* contains only `i` or `í` then it can be considered back-voweled or front-voweled. E.g.
 
 * `szív` - ((the verb) considered front-voweled word)
 * `híd` - (considered back-voweled word)
