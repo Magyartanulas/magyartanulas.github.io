@@ -129,7 +129,7 @@ In English, there are only a few situations in which a noun uses a different for
 | Polc                     |                    | Polc**ot**       |                  |                |             |
 | Csillag                  |                    | Csillag**ot**    |                  |                |             |
 | Tükrök                   |                    |                  | Tükrök**et**     |                |             |
-| Gyerek                   |                    |                  | Gyerek**ek**     |                |             |
+| Gyerek                   |                    |                  | Gyerek**et**     |                |             |
 | Fű                       |                    |                  | Füv**et**        |                |             |
 | Kövek                    |                    |                  | Kövek**et**      |                |             |
 | Festmények (paintings)   |                    |                  | Festmények**et** |                |             |
