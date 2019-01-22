@@ -112,7 +112,7 @@ Last but not least, if you stress that a noun has a key attribute, the adjective
 The accusative case marks the direct object. Whenever something/someone does `something/someone else`, 
 the `something/someone else` becomes the direct object. The accusative case is simply marked with a -t at the end.
 
-In English, there are only a few situations in which a noun uses a different form when it becomes a direct object.
+In English, there are only a few situations in which a noun uses a different form as a direct object.
 
 * Can you see me? (me is the direct object)
 * Whom did you see? (whom is the direct object)
