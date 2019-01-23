@@ -94,8 +94,9 @@ You may have noticed that the third person present tenses have been omitted, thi
 
 There are two things to notice here:
 
-1. When stating someone's occupation, we don't need to say a.
-2. Plural adjectives are used to describe groups of people.
+1. When stating someone's occupation, we don't need to say a. 
+2. When describing groups of people, plural adjectives are used.
+E.g. ügyes (singular) - ügyesek (plural)
 
 `Challenge!`
 ![Ki vagy?](https://magyartanulas.github.io/public/ki_vagy.png)
