@@ -11,7 +11,7 @@ this is done by adding `-k`.
 
 > Watch out! Some nouns end in `-k` in their base state (nominal). E.g. gyerek (child), játék (toy, game).
 
-Naturally, when adding the plural to our nominal noun, we have to obey vowel harmony. Here's a collection of nouns.
+Naturally, when adding the plural to our nominal noun, we have to obey vowel harmony. Here's a collection of nouns to familiarise you with the usage.
 
 | Noun                | -ak         | -ok           | -ek          | -ök            | -k                   |
 |---------------------|-------------|---------------|--------------|----------------|----------------------|
