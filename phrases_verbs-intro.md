@@ -75,7 +75,7 @@ Now that you've mastered pronunciation, here are some basic phrases and words to
 | ti (you pl.)     | voltatok | vagytok    | lesztek |
 | ők (they)        | voltak   | ~~vannak~~ | lesznek |
 
-`én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns aren't used except for emphasis or describing a third person.
+`én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns are generally not used, except for emphasis or describing a third person, because the subject (me, you, they, etc.) can be identified by the conjugation of the verb. This is different to English, in which a pronoun is required to identify the subject.
 
 > Hungarian does not distinguish between he or she, ő is used to describe both.
 
@@ -94,8 +94,9 @@ You may have noticed that the third person present tenses have been omitted, thi
 
 There are two things to notice here:
 
-1. When stating someone's occupation, we don't need to say a.
-2. Plural adjectives are used to describe groups of people.
+1. When stating someone's occupation, we don't need to say a. 
+2. When describing groups of people, plural adjectives are used.
+E.g. ügyes (singular) - ügyesek (plural)
 
 `Challenge!`
 ![Ki vagy?](https://magyartanulas.github.io/public/ki_vagy.png)
@@ -138,9 +139,9 @@ Below are some examples of regular verbs, that have the same regular conjugation
 | ti      | felkeltetek | felkeltek  | fogtok felkelni |
 | ők      | felkeltek   | felkelnek  | fognak felkelni |
 
-Note the different times that `felkeltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
+Note that `felkeltek` is used for both ők past tense, and ti present tense. When talking it will be clear from context if `ti` or `ők` is being talked about.
 
-Also, just because the future tense is structured like this in the table, doesn't always mean it sounds the most natural. E.g. `örülni fogok`sounds better than `fogok örülni`.
+Also, just because the future tense is structured like this in the table, doesn't always mean that this is the most natural word order. Word order can change depending on the situation and emphasis. E.g. `örülni fogok`sounds better than `fogok örülni`.
 
 ### Back vowel conjugation
 ---
@@ -156,7 +157,7 @@ Also, just because the future tense is structured like this in the table, doesn'
 | ti      | sírtatok | sírtok  | fogtok sírni |
 | ők      | sírtak   | sírnak  | fognak sírni |
 
-Keep track of the similarities and differences. Strictly speaking there is no future tense in Hungarian, the auxiliary verb `fog` is used with the verb in infinitive form alongside it.
+Keep track of the similarities and differences of the front-vowel and back-vowel conjugations. Strictly speaking there is no future tense in Hungarian, the auxiliary verb `fog` is conjugated and used with the verb in infinitive form alongside it.
 
 ### Quicknote on time-referencing
 
