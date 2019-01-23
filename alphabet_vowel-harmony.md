@@ -8,7 +8,7 @@ title: The Alphabet & Vowel Harmony
 
 The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants,
 the Hungarian alphabet contains a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
-every word that you can read first time every time!
+every word that you can read first time every time! Note that every word in Hungarian is stressed on the first syllable.
 
 ```
 A Á B C Cs D Dz Dzs E É F
@@ -23,9 +23,10 @@ ny o ó ö ő p q r s sz t
 Ty U Ú Ü Ű V W X Y Z Zs
 ty u ú ü ű v w x y z zs
 ```
+Some of the letters consist of more than one character. These are called digraphs if there are two characters creating the sound, or trigraphs if there are three (There is just one trigraph in Hungarian - dzs). They are treated as distinct letters in the Hungarian language, and have their own specific sounds.
 
-It should be noted that the Hungarian Language has **gemination**, or consonant lengthening.
-Consonants can be paired together for a longer consonant sound. Every word in Hungarian is stressed on the first syllable.
+It should be noted that the Hungarian language has **gemination**, or consonant lengthening.
+Consonants can be paired together for a longer consonant sound. 
 
 * Legsze**bb** - (Most beautiful)
 * U**jj** - (Finger)
@@ -34,9 +35,9 @@ Consonants can be paired together for a longer consonant sound. Every word in Hu
 * Sebe**ss**ég - (Speed)
 * A**ssz**ony - - (Mrs. (long sz))
 
-See how only the first letter of a digraph (double-letter) is lengthened.
+See how only the first letter of a digraph is lengthened. For example, instead of **szsz** we write **ssz**.
 
-When some consonants are combined, the pronunciation changes slightly. Try to recognise the base words to see which consonants really are there.
+When some consonants are combined, the pronunciation changes slightly to become more natural. Try to recognise the base words to see which consonants are really there.
 
 * Igazság (Igaz - true) becomes [Iga*ss*ág]
 * Állj meg! (Áll) becomes [Á*jj* meg!]
