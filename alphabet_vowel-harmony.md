@@ -35,7 +35,7 @@ Consonants can be paired together for a longer consonant sound.
 * Sebe**ss**ég - (Speed)
 * A**ssz**ony - - (Mrs. (long sz))
 
-See how only the first letter of a digraph is lengthened. For example, instead of **szsz** we write **ssz**.
+See how only the first letter of a digraph is lengthened. For example, instead of `szsz` we write `ssz`.
 
 When some consonants are combined, the pronunciation changes slightly to become more natural. Try to recognise the base words to see which consonants are really there.
 
