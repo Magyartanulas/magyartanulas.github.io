@@ -139,9 +139,9 @@ Below are some examples of regular verbs, that have the same regular conjugation
 | ti      | felkeltetek | felkeltek  | fogtok felkelni |
 | ők      | felkeltek   | felkelnek  | fognak felkelni |
 
-Note the different times that `felkeltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
+Note that `felkeltek` is used for both ők past tense, and ti present tense. When talking it will be clear from context if `ti` or `ők` is being talked about.
 
-Also, just because the future tense is structured like this in the table, doesn't always mean it sounds the most natural. E.g. `örülni fogok`sounds better than `fogok örülni`.
+Also, just because the future tense is structured like this in the table, doesn't always mean that this is the most natural word order. Word order can change depending on the situation and emphasis. E.g. `örülni fogok`sounds better than `fogok örülni`.
 
 ### Back vowel conjugation
 ---
