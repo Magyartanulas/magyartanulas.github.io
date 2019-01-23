@@ -49,5 +49,5 @@ Stay tuned for more!
 ### Further Resources
 
 * [Babadum - Fun monolingual minigames!](https://babadum.com/)
-* [The Magyartanulás Community on discord! - Talk with native speakers and other learners!](https://discord.gg/eVPbcEc)
-* [The Goldlist Method - Alternative Memorisng system to Anki that uses long-term memory](https://www.youtube.com/watch?v=Ixxq8moh4pg)
+* [The Magyartanulás Community on Discord! - Talk with native speakers and other learners!](https://discord.gg/eVPbcEc)
+* [The Goldlist Method - Alternative memorising system to Anki that uses long-term memory](https://www.youtube.com/watch?v=Ixxq8moh4pg)
