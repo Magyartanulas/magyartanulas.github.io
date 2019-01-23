@@ -33,14 +33,14 @@ Consonants can be paired together for a longer consonant sound.
 * Á**ll** - (Stand)
 * Kö**nny** - (Tear (long ny))
 * Sebe**ss**ég - (Speed)
-* A**ssz**ony - - (Mrs. (long sz))
+* A**ssz**ony - (Mrs. (long sz))
 
 See how only the first letter of a digraph is lengthened. For example, instead of `szsz` we write `ssz`.
 
 When some consonants are combined, the pronunciation changes slightly to become more natural. Try to recognise the base words to see which consonants are really there.
 
 * Igazság (Igaz - true) becomes [Iga*ss*ág]
-* Állj meg! (Áll) becomes [Á*jj* meg!]
+* Állj meg! (Áll - stand) becomes [Á*jj* meg!]
 * Egészség (Egész - whole) becomes [Egé*ss*ég] 
 * Ne haragudj! (Haragszik - he/she is angry) becomes [Ne haragu*ggy*!]
 
