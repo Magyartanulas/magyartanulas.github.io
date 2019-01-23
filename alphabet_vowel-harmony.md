@@ -6,9 +6,9 @@ title: The Alphabet & Vowel Harmony
 ## The Alphabet
 ---
 
-The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants
-the Hungarian Alphabet is a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
-every word that you can read first time every time!
+The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants,
+the Hungarian alphabet contains a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
+every word that you can read first time every time! Note that every word in Hungarian is stressed on the first syllable.
 
 ```
 A Á B C Cs D Dz Dzs E É F
@@ -23,23 +23,24 @@ ny o ó ö ő p q r s sz t
 Ty U Ú Ü Ű V W X Y Z Zs
 ty u ú ü ű v w x y z zs
 ```
+Some of the letters consist of more than one character. These are called digraphs if there are two characters creating the sound, or trigraphs if there are three (There is just one trigraph in Hungarian - dzs). They are treated as distinct letters in the Hungarian language, and have their own specific sounds.
 
-It should be noted that the Hungarian Language has **gemination**, or consonant lengthening.
-Consonants can be paired together for a longer consonant sound. Every word in Hungarian is stressed on the first syllable.
+It should be noted that the Hungarian language has **gemination**, or consonant lengthening.
+Consonants can be paired together for a longer consonant sound. 
 
 * Legsze**bb** - (Most beautiful)
 * U**jj** - (Finger)
 * Á**ll** - (Stand)
 * Kö**nny** - (Tear (long ny))
 * Sebe**ss**ég - (Speed)
-* A**ssz**ony - - (Mrs. (long sz))
+* A**ssz**ony - (Mrs. (long sz))
 
-See how only the first letter of a diagraph (double-letter) is lengthened.
+See how only the first letter of a digraph is lengthened. For example, instead of `szsz` we write `ssz`.
 
-When some consonants are combined, the pronunciation changes slightly. Try to recognise the base words to see which consonants really are there.
+When some consonants are combined, the pronunciation changes slightly to become more natural. Try to recognise the base words to see which consonants are really there.
 
 * Igazság (Igaz - true) becomes [Iga*ss*ág]
-* Állj meg! (Áll) becomes [Á*jj* meg!]
+* Állj meg! (Áll - stand) becomes [Á*jj* meg!]
 * Egészség (Egész - whole) becomes [Egé*ss*ég] 
 * Ne haragudj! (Haragszik - he/she is angry) becomes [Ne haragu*ggy*!]
 
@@ -52,7 +53,7 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 ## Vowel Harmony
 ---
 
-Grammarwise, Hungarian solves all their problems with prefixes and suffixes, the way these attachments sound depends on vowel harmony. 
+Grammarwise, Hungarian solves all their problems with prefixes and suffixes. The vowels these attachments use depends on vowel harmony. 
 
 The vowels in Hungarian are paired. The second row marks elongation on the vowels (and a change in sound for á and é).
 ```
@@ -71,7 +72,7 @@ Back:  a á o ó u ú     (A Zuzmó-Háború.)
 * Likewise, if a word contains only back-vowels, then it should be conjugated with back vowels. `darázs`
 * If a word contains a mixture of front and back, the last vowel will specify what kind it is. `dzsungel`
 
-If the word is only one-syllable *and* contains only `i` or `í` then it can be considered a back-voweled or front-voweled. E.g.
+If the word is only one-syllable *and* contains only `i` or `í` then it can be considered back-voweled or front-voweled. E.g.
 
 * `szív` - ((the verb) considered front-voweled word)
 * `híd` - (considered back-voweled word)

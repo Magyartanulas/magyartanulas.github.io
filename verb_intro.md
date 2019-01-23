@@ -1,66 +1,8 @@
 ---
 layout: page
-title: Phrases & Introduction to Verbs
+title: Verb Introduction
 ---
 
-## Phrases & Words
----
-
-Now that you've mastered pronunciation, here are some basic phrases and words to get you started! Be aware that everything here is simplified and not much is explained, but if you keep coming back to here, everything will start to click.
-
-| Magyar                                             | English                       |
-|----------------------------------------------------|-------------------------------|
-| Jó reggelt (kívánok)                               | Good morning                  |
-| Jó napot  (kívánok)                                | Good day                      |
-| Jó estét  (kívánok)                                | Good evening                  |
-| Jó éjszakát                                        | Good night                    |
-| Jó étvágyat                                        | Bon Appetit                   |
-| Szép napot                                         | Have a nice day               |
-| Neked is* (to one person)                          | to you as well                |
-| Nektek is* (to many)                               | to you as well                |
-| Helló/Szia/Szevasz (to one person)                 | Hi/Hey/Bye                    |
-| Helló/Sziasztok/Szevasztok (to many)               | Hi/Hey/Bye                    |
-| Viszlát/Viszontlátásra                             | Goodbye                       |
-| Hogy vagy? (to one person)                         | How are you?                  |
-| Hogy vagytok? (to many)                            | How are you?                  |
-| Igen                                               | Yes                           |
-| Nem                                                | No/Not                        |
-| Talán                                              | Maybe                         |
-| (Nem) tudom                                        | I (don't) know                |
-| (Nem) értem                                        | I (don't) understand          |
-| Köszönöm/köszi (szépen)                            | Thank you (very much)         |
-| Szívesen                                           | You're welcome                |
-| Nincs mit                                          | Don't mention it              |
-| Kérem                                              | Please                        |
-| Bocsánat                                           | Sorry                         |
-| Elnézést                                           | Excuse me                     |
-| Mennyibe kerül ez?                                 | How much is this?             |
-| Hol van a mosdó?                                   | Where is the toilet?          |
-| Hány óra van? / Mennyi az idő?                     | What's the time?              |
-| Segítség!                                          | Help!                         |
-| Tűz! / Tűz van!                                    | Fire! / There's a fire!       |
-| Beszélsz angolul?                                  | Do you speak English?         |
-| Igen, csak egy kicsit*                             | Yes, only a little             | 
-| Ez                                                 | This                          |
-| Az                                                 | That                          |
-| És                                                 | And                           |
-| Ma                                                 | Today                         |
-| Holnap                                             | Tomorrow                      |
-| Tegnap                                             | Yesterday                     |
-
-
-* `Neked/nektek is` are responses to thoses phrases beginning with `jó` or `szép`.
-* `Igen, csak egy kicsit` is a reponse to `beszélsz angolul/magyarul?`
-
-`Challenge!`
-![bomba](https://magyartanulas.github.io/public/bomba.png)
-
-*- Hát, ez nem jó! (Free image fetched from ardiafm.com)*
-
-<span class="spoiler">Well this isn't good!</span>
-
-## Introduction to Verbs
----
 
 `Van` is the verb for existence. Naturally, it is an irregular verb, but one of the most important as well.
 
@@ -75,7 +17,7 @@ Now that you've mastered pronunciation, here are some basic phrases and words to
 | ti (you pl.)     | voltatok | vagytok    | lesztek |
 | ők (they)        | voltak   | ~~vannak~~ | lesznek |
 
-`én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns aren't used except for emphasis or describing a third person.
+`én, te, ő` are singular, and `mi, ti, ők` are their respective plurals. These pronouns are generally not used, except for emphasis or describing a third person, because the subject (me, you, they, etc.) can be identified by the conjugation of the verb. This is different to English, in which a pronoun is required to identify the subject.
 
 > Hungarian does not distinguish between he or she, ő is used to describe both.
 
@@ -94,8 +36,9 @@ You may have noticed that the third person present tenses have been omitted, thi
 
 There are two things to notice here:
 
-1. When stating someone's occupation, we don't need to say a.
-2. Plural adjectives are used to describe groups of people.
+1. When stating someone's occupation, we don't need to say a. 
+2. When describing groups of people, plural adjectives are used.
+E.g. ügyes (singular) - ügyesek (plural)
 
 `Challenge!`
 ![Ki vagy?](https://magyartanulas.github.io/public/ki_vagy.png)
@@ -138,9 +81,9 @@ Below are some examples of regular verbs, that have the same regular conjugation
 | ti      | felkeltetek | felkeltek  | fogtok felkelni |
 | ők      | felkeltek   | felkelnek  | fognak felkelni |
 
-Note the different times that `felkeltek` is used, when talking it will be clear from context if `ti` or `ők` is being talked about.
+Note that `felkeltek` is used for both ők past tense, and ti present tense. When talking it will be clear from context if `ti` or `ők` is being talked about.
 
-Also, just because the future tense is structured like this in the table, doesn't always mean it sounds the most natural. E.g. `örülni fogok`sounds better than `fogok örülni`.
+Also, just because the future tense is structured like this in the table, doesn't always mean that this is the most natural word order. Word order can change depending on the situation and emphasis. E.g. `örülni fogok`sounds better than `fogok örülni`.
 
 ### Back vowel conjugation
 ---
@@ -156,7 +99,7 @@ Also, just because the future tense is structured like this in the table, doesn'
 | ti      | sírtatok | sírtok  | fogtok sírni |
 | ők      | sírtak   | sírnak  | fognak sírni |
 
-Keep track of the similarities and differences. Strictly speaking there is no future tense in Hungarian, the auxiliary verb `fog` is used with the verb in infinitive form alongside it.
+Keep track of the similarities and differences of the front-vowel and back-vowel conjugations. Strictly speaking there is no future tense in Hungarian, the auxiliary verb `fog` is conjugated and used with the verb in infinitive form alongside it.
 
 ### Quicknote on time-referencing
 
@@ -210,11 +153,6 @@ Stay tuned for more verbs in upcoming sections!
 Naturally because phrases have been introduced, the list will be long, but eventually these will all be covered.
 
 * `-k,-t` which mark the [plural and accusative](https://magyartanulas.github.io/accusative_plurals/)
-* `-nak,-nek` which marks the [dative case](https://magyartanulas.github.io/dative_possession/)
-* `hány,mennyi` used for [counting](https://magyartanulas.github.io/counting/)
-* several [pronouns](https://magyartanulas.github.io/pronouns/) were mentioned
-* The use of `nem` and `nincs` for [negation](https://magyartanulas.github.io/infinitive_negation/)
-* The use of `-be` which is a [locative](https://magyartanulas.github.io/locatives/)
+* The use of `nem` indicating [negation](https://magyartanulas.github.io/infinitive_negation/)
 * The use of `fel-` which is a [coverb](https://magyartanulas.github.io/coverbs_telicity) used to add directionality.
 * The use of `meg-`, a [telicity marker](https://magyartanulas.github.io/coverbs_telicity)
-

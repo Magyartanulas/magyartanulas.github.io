@@ -4,9 +4,11 @@ title: Coverb Separation (2/2)
 layout: page
 ---
 
-More regarding Word Order!
+Recall from the last section:
 
-There's a simple rule when it comes to coverbs. While the coverb remains attached to the verb, the verb is emphasised and the sentence remains neutral. However, when the coverb is detached, the word order can change and thus different things can become emphasised.
+> The topic goes first, and the thing that is to be emphasised goes before the verb.
+
+So while the coverb remains attached to the verb, the verb is emphasised and the sentence remains neutral. However, when the coverb is detached (and moves to the right), it is no longer *blocking* the emphasis from the word before. Thus the word order may change and different things can be emphasised.
 
 But it isn't *that* simple, let's explore all the different scenarios.
 
@@ -33,7 +35,7 @@ It's the same deal with the conjugated infinitive.
 Whatever precedes `kell` or starts the sentence is emphasised. This separation isn't seen when using `sikerült` and the conjugated infinitive however. E.g.
 
 * Sikerült megoldanunk. - (We managed to solve it.)
-  - ~~Megoldanunk sikerült.
+  - ~~Megoldanunk sikerült.~~
   - ~~Meg sikerült oldanunk.~~
   
 ### Negated Sentences

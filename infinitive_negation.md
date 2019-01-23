@@ -7,9 +7,9 @@ title: Infinitive + Negation
 
 ---
 
-The infinitive form of a verb conveys a verb that has no mood, tense or relation to a noun.
+The infinitive mood conveys a verb that has no tense or relation to a noun.
 
-In English, if you look up a verb in the dictionary, it will give you the verb in infinitive form. These verbs can be either preceded 
+In English, if you look up a verb in the dictionary, it will give you the verb in the infinitive mood. These verbs can be either preceded 
 by `to`, succeeded by `ing` or not at all.
 
 * I need *to go*.
@@ -22,7 +22,7 @@ In Hungarian, the base-verb (taken from the 3rd person singular indefinite) is o
 * Holnap tudok *menni* - (I can go tomorrow)
 * Mikor foglak *látni*? - (When will I see you?)
 
-When using the infinitive, be aware that it won't always line up with the base-verb. There are two cases:
+When using the infinitive mood, be aware that it won't always line up with the base-verb. There are two cases:
 
 **Case 1: Vowel Harmony**
 
@@ -44,7 +44,7 @@ Or if the verb ends in two consonants it will also receive a linking vowel.
 
 **Case 2: Irregular verb**
 
-The verb that you are using could in fact be an irregular verb, in which case it will have different conjugations and possibly a different infinitive form). 
+The verb that you are using could in fact be an irregular verb, in which case it will have different conjugations and possibly a different infinitive mood). 
 Here is a list of all the irregular verbs, bolds and italics are there to help indicate pattern.
 
 | Irregular verb                           | Infinitve     |
@@ -166,7 +166,7 @@ Notice how ~~igen~~ `de` (but) is used to counter a negative question.
 
 * Alex: Szia, nem tudunk most beszélni? - (Hi, are you free to talk? lit. are we not able to speak now?)
   * Barnabás: Dehogynem! Mi a baj? - (Quite the contrary! What's the matter?)
-  * Barnabás: De (zavarsz), kicsit elfoglalt vagyok. - (But you are, I'm a litle busy.)
+  * Barnabás: De (zavarsz), kicsit elfoglalt vagyok. - (But you are, I'm a little busy.)
 
 * Alex: Te nem szereted az AWS-t, igaz? (You don't like AWS, right?)
   * Barnabás: Nem, szerintem, hogy (ők) túl zajosak. (No, I think they are too noisy. lit. No, according to me they are too noisy.)
