@@ -153,7 +153,6 @@ Stay tuned for more verbs in upcoming sections!
 Naturally because phrases have been introduced, the list will be long, but eventually these will all be covered.
 
 * `-k,-t` which mark the [plural and accusative](https://magyartanulas.github.io/accusative_plurals/)
-* several [pronouns](https://magyartanulas.github.io/pronouns/) were mentioned
 * The use of `nem` indicating [negation](https://magyartanulas.github.io/infinitive_negation/)
 * The use of `fel-` which is a [coverb](https://magyartanulas.github.io/coverbs_telicity) used to add directionality.
 * The use of `meg-`, a [telicity marker](https://magyartanulas.github.io/coverbs_telicity)
