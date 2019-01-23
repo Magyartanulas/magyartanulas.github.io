@@ -6,7 +6,7 @@ title: The Accusative Case & Plurals
 ## Plurals
 ---
 
-In English, the plural form of a noun is generally given by adding an `-s` onto the end of a word, in Hungarian 
+In English, the plural form of a noun is generally given by adding an `-s` onto the end of a word. In Hungarian 
 this is done by adding `-k`.
 
 > Watch out! Some nouns end in `-k` in their base state (nominal). E.g. gyerek (child), játék (toy, game).
@@ -196,7 +196,7 @@ Lastly, the pronouns change when in the accusative case.
 Examples:
 
 * Engem keresel? - Are you looking for me?
-* Mi tesz téged boldoggá? What makes you happy?
+* Mi tesz téged boldoggá? - What makes you happy?
 
 ---
 
