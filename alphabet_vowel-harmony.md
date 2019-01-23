@@ -52,7 +52,7 @@ When some consonants are combined, the pronunciation changes slightly. Try to re
 ## Vowel Harmony
 ---
 
-Grammarwise, Hungarian solves all their problems with prefixes and suffixes, the way these attachments sound depends on vowel harmony. 
+Grammarwise, Hungarian solves all their problems with prefixes and suffixes. The vowels these attachments use depends on vowel harmony. 
 
 The vowels in Hungarian are paired. The second row marks elongation on the vowels (and a change in sound for á and é).
 ```
