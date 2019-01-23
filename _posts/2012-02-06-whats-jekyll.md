@@ -23,26 +23,27 @@ At the end of each section there will be a chance for review. Please leave a com
 ### Progression Route
 
 1. The Alphabet & Vowel Harmony
-2. Phrases & Introduction to Verbs
-3. Introduction to Postpositions & Articles
-4. Introduction to Word Building
-5. Pronouns
-6. Counting
-7. The Accusative Case & Plurals
-8. Definite vs Indefinite Conjugation
-9. Common Adverbs
-10. Infinitive + Negation
-11. The Conditional Mood
-12. The Dative Case & Possession
-13. Expressing Interest
-14. Expressing Location
-15. Making Comparisons
-16. Coverbs + Telicity
-17. The Imperative & Subjunctive Mood
-18. More Noun Cases
-19. The Conjugated Infinitive & Expressing need
-20. Word Order (1/2)
-21. Coverb Separation (2/2)
+2. Phrases
+3. Introduction to Verbs
+4. Introduction to Postpositions & Articles
+5. Introduction to Word Building
+6. Pronouns
+7. Counting
+8. The Accusative Case & Plurals
+9. Definite vs Indefinite Conjugation
+10. Common Adverbs
+11. Infinitive + Negation
+12. The Conditional Mood
+13. The Dative Case & Possession
+14. Expressing Interest
+15. Expressing Location
+16. Making Comparisons
+17. Coverbs + Telicity
+18. The Imperative & Subjunctive Mood
+19. More Noun Cases
+20. The Conjugated Infinitive & Expressing need
+21. Word Order (1/2)
+22. Coverb Separation (2/2)
 
 Stay tuned for more!
 
