@@ -34,7 +34,7 @@ Consonants can be paired together for a longer consonant sound. Every word in Hu
 * Sebe**ss**ég - (Speed)
 * A**ssz**ony - - (Mrs. (long sz))
 
-See how only the first letter of a diagraph (double-letter) is lengthened.
+See how only the first letter of a digraph (double-letter) is lengthened.
 
 When some consonants are combined, the pronunciation changes slightly. Try to recognise the base words to see which consonants really are there.
 
