@@ -26,7 +26,7 @@ Similar to English, `a` is used when the noun begins with a consonant and `az` w
 Just like in English, the indefinite article is used to specify just one thing and to introduce a new noun to the conversation. As soon as this noun becomes known to the conversation, the definite article is used. 
 
 * Ez az ember itt dolgozik. - (This person works here.)
-* Ez egy régi fa. - (This is an old tree.)
+* Ez egy öreg fa. - (This is an old tree.)
 * Az a fiú mindig panszkodik. - (That boy is always complaining.)
 * Az egy híres épület. - (That's a famous building.) 
 
