@@ -253,7 +253,7 @@ If you want to show this unattributed belonging without using pronouns, just use
 
 ### More on Postpositions
 
-[Recall the introduction to postpositions.](https://magyartanulas.github.io/postpositions_articles/) If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
+[Recall the section on spatial postpositions.](https://magyartanulas.github.io/postpositions/) If the relationship involves pronouns, then you attach the pronoun-possession ending onto the pronoun. 
 
 There are also pronouns not pertaining to location, and so they only have one form alongside pronoun endings. Here are some examples:
 
