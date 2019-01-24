@@ -194,7 +194,7 @@ G: Thank you.<br/>
 
 ### -hat, -het
 
-To ask for permission, you can add `-hat,-het` to the verb before the conjugation. Vowel harmony determines which one to use.
+To show possibility or ask for it, you can add `-hat,-het` to the verb before the conjugation. Vowel harmony determines which one to use.
 
 * Segíthetek? - (Can I / am I allowed to help?)
 * Mehetek? - (Can I / am I allowed to go?)
@@ -218,7 +218,7 @@ Some irregular verbs change unexpectedly when `-hat,-het` is added.
 
 *Lehet, hogy nehéz lesz, de nem lehetetlen!* - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/106479/kowalsky-meg-a-vega/lehetetlen-nincs---velunk-kerek-a-vilag-feat-lotfi-begi-zeneszoveg.html) It could be/is possible, that it will be hard, but not impossible!)
 
-Finally, you can combine the conditional mood with `-hat, -het` we get could (lit. would be allowed).
+Finally, you can combine the conditional mood with `-hat, -het` we get could (lit. would be possible).
 
 * Találkozhatnánk? - (Could we meet up?)
 * De azt hiszem, hogy igazán megcsinálhatnád. - (But I believe you could really do it.)
