@@ -31,7 +31,7 @@ if (choice)
 document.write(
 `//
 - title: ${i+1}. ${elem[0]}
-  url: ${https:/\/magyartanulas.github.io/${elem[1]}/}//
+  url: https:/\/magyartanulas.github.io/${elem[1]}/}//
 `
 );
 else
