@@ -24,6 +24,9 @@ Expressing Need$expressing_need
 Word Order (1/2)$word_order
 Coverb Separation (2/2)$coverb_separation
 `;
+chapters=chapters.split('\n');
+chapters.pop();
+chapters.shift();
 let yaml='';
 let md='';
 for (let i=0;i<chapters.length;i++) {
