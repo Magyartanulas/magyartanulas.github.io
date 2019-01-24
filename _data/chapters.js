@@ -24,16 +24,15 @@ Expressing Need$expressing_need
 Word Order (1/2)$word_order
 Coverb Separation (2/2)$coverb_separation
 `;
-let choice = confirm('OK = links YAML\nCANCEL = chapters in md');
+let yaml='';
+let md='';
 for (let i=0;i<chapters.length;i++) {
 let elem=chapters[i].split('$');
-if (choice)
-document.write(
-`//
+yaml+=`
 - title: ${i+1}. ${elem[0]}
-  url: https:/\/magyartanulas.github.io/${elem[1]}/}//
-`
-);
-else
-document.write(`${i+1}. ${elem[0]}`);
+  url: https:/\/magyartanulas.github.io/${elem[1]}/}
+`;
+md+=`${i+1}. ${elem[0]}`;
 }
+console.log(yaml);
+console.log(md);
