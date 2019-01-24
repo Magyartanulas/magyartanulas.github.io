@@ -28,7 +28,7 @@ Just like in English, the indefinite article is used to specify just one thing a
 * Ez az ember itt dolgozik. - (This person works here.)
 * Ez egy régi fa. - (This is an old tree.)
 * Az a fiú mindig panszkodik. - (That boy is always complaining.)
-* Az egy híres épület. - (That's a famous building.)
+* Az egy híres épület. - (That's a famous building.) 
 
 The definite article is also used before abstract nouns.
 
@@ -118,7 +118,7 @@ Postpositions cannot be used with standalone pronouns, you have to attach the pe
   * ~~István én mellé ült.~~
   * István mellé**m** ült. (Sitting implies moving to sit somewhere, thus mellém is used instead of melletem)
   
-* The man came out from behind you
+* The man came out from behind you.
   * ~~A férfi te mögül kijött~~
   * A férfi kijött mögül**ed**.
 
