@@ -89,7 +89,7 @@ insert second usage
 
 ### Modification of `ez/az` with Suffixes
 
-The noun suffixes of Hungarian will be explained further in later sections. There is a rule here: **whenever a case suffix is attached to a noun, it is also attached to `ez` and `az` if they are describing the noun.** 
+The noun suffixes of Hungarian will be explained further in later sections. (link plural/acc and spatial) There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** 
 
 
 
