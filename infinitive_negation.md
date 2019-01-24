@@ -7,9 +7,9 @@ title: Infinitive + Negation
 
 ---
 
-The infinitive mood conveys a verb that has no tense or relation to a noun.
+The infinitive conveys a verb that has no tense or relation to a noun.
 
-In English, if you look up a verb in the dictionary, it will give you the verb in the infinitive mood. These verbs can be either preceded 
+In English, if you look up a verb in the dictionary, it will give you the verb in the infinitive. These verbs can be either preceded 
 by `to`, succeeded by `ing` or not at all.
 
 * I need *to go*.
@@ -22,7 +22,7 @@ In Hungarian, the base-verb (taken from the 3rd person singular indefinite) is o
 * Holnap tudok *menni* - (I can go tomorrow)
 * Mikor foglak *látni*? - (When will I see you?)
 
-When using the infinitive mood, be aware that it won't always line up with the base-verb. There are two cases:
+When using the infinitive, be aware that it won't always line up with the base-verb. There are two cases:
 
 **Case 1: Vowel Harmony**
 
@@ -44,7 +44,7 @@ Or if the verb ends in two consonants it will also receive a linking vowel.
 
 **Case 2: Irregular verb**
 
-The verb that you are using could in fact be an irregular verb, in which case it will have different conjugations and possibly a different infinitive mood). 
+The verb that you are using could in fact be an irregular verb, in which case it will have different conjugations and possibly a different infinitive). 
 Here is a list of all the irregular verbs, bolds and italics are there to help indicate pattern.
 
 | Irregular verb                           | Infinitve     |
