@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Introduction to Postpositions & Articles
----
-
-## Articles
+title: Articles
 ---
 
 An article specifies if a noun is a definite thing or an indefinite thing.
@@ -27,7 +24,7 @@ Just like in English, the indefinite article is used to specify just one thing a
 
 * Ez az ember itt dolgozik. - (This person works here.)
 * Ez egy öreg fa. - (This is an old tree.)
-* Az a fiú mindig panszkodik. - (That boy is always complaining.)
+* Az a fiú mindig panaszkodik. - (That boy is always complaining.)
 * Az egy híres épület. - (That's a famous building.) 
 
 The definite article is also used before abstract nouns.
