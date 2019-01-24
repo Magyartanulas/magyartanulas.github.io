@@ -32,7 +32,7 @@ yaml+=`
 - title: ${i+1}. ${elem[0]}
   url: https:/\/magyartanulas.github.io/${elem[1]}/}
 `;
-md+=`${i+1}. ${elem[0]}`;
+md+=`${i+1}. ${elem[0]}\n`;
 }
 console.log(yaml);
 console.log(md);
