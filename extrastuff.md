@@ -69,21 +69,21 @@ Front-voweled words take `-ás`, back-voweled words take `-és`.
 
 ### This/That
 
-In English, we use the pronoun/definite article **this** when we are talking about something near to us, in either space or time, and **that** when it is further away. Hungarian uses `ez` and `az` similarly. Take note that the one used in each specific situation can vary slightly from English; familiarity will come with practice.
+In English, we use the pronoun/definite article "this" when we are talking about something near to us, in either space or time, and "that" when it is further away. Hungarian uses `ez` and `az` similarly. Take note that the one used in each specific situation can vary slightly from English; familiarity will come with practice.
 
 ez - this  
 az - that
 
-Just like English, these can be used in different ways. Firstly, its use as a definite article: 
+Just like English, these can be used in different ways. Firstly, its use as a definite article, to specify proximity of a noun to the speaker: 
 
 * ez a kutyá - (this dog)
 * ez az alma - (this apple)
 * az a fá - (that tree)
 * az az óra - (that clock)
 
-There are two things to be noted from these examples:
-1.
-2.
+There are two things to be noted from these examples.
+1. Unlike in Engish, the definite article `a/az` must also be used. 
+2. In the previous section, we explained how when the following word starts with a vowel sound, the definite article `a` becomes `az`. Therefore, note that `az` can have two meanings, and a phrase such as `az az óra` (that clock) is possible. 
 
 
 
