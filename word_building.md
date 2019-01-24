@@ -78,5 +78,5 @@ You may have heard of the famous 44-letter long word `megszentségteleníthetetl
 
 ### Yet to Learn
 
-* `-het` appears, which indicates [permission](https://magyartanulas.github.io/conditional_mood/)
+* `-het` appears, which indicates [possibility](https://magyartanulas.github.io/conditional_mood/)
 * `meg-` the prefix that adds [telicity](https://magyartanulas.github.io/coverbs_telicity/)
