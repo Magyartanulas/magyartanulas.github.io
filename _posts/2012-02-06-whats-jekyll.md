@@ -25,25 +25,26 @@ At the end of each section there will be a chance for review. Please leave a com
 1. The Alphabet & Vowel Harmony
 2. Phrases
 3. Introduction to Verbs
-4. Introduction to Postpositions & Articles
-5. Introduction to Word Building
-6. Pronouns
-7. Counting
-8. The Accusative Case & Plurals
-9. Definite vs Indefinite Conjugation
-10. Common Adverbs
-11. Infinitive + Negation
-12. The Conditional Mood
-13. The Dative Case & Possession
-14. Expressing Interest
-15. Expressing Location
-16. Making Comparisons
-17. Coverbs + Telicity
-18. The Imperative & Subjunctive Mood
-19. More Noun Cases
-20. The Conjugated Infinitive & Expressing need
-21. Word Order (1/2)
-22. Coverb Separation (2/2)
+4. Articles
+5. Spatial Postpositions
+6. Introduction to Word Building
+7. Pronouns
+8. Counting
+9. The Accusative Case & Plurals
+10. Definite vs Indefinite Conjugation
+11. Common Adverbs
+12. Infinitive + Negation
+13. The Conditional Mood
+14. The Dative Case & Possession
+15. Expressing Interest
+16. Expressing Location
+17. Making Comparisons
+18. Coverbs + Telicity
+19. The Imperative & Subjunctive Mood
+20. More Noun Cases
+21. The Conjugated Infinitive & Expressing need
+22. Word Order (1/2)
+23. Coverb Separation (2/2)
 
 Stay tuned for more!
 
