@@ -33,18 +33,19 @@ At the end of each section there will be a chance for review. Please leave a com
 9. The Accusative Case & Plurals
 10. Definite vs Indefinite Conjugation
 11. Common Adverbs
-12. Infinitive + Negation
-13. The Conditional Mood
-14. The Dative Case & Possession
-15. Expressing Interest
-16. Expressing Location
-17. Making Comparisons
-18. Coverbs + Telicity
-19. The Imperative & Subjunctive Mood
-20. More Noun Cases
-21. The Conjugated Infinitive & Expressing need
-22. Word Order (1/2)
-23. Coverb Separation (2/2)
+12. Infinitive Verb Form
+13. Negation
+14. The Conditional Mood
+15. The Dative Case & Possession
+16. Expressing Interest
+17. Expressing Location
+18. Making Comparisons
+19. Coverbs + Telicity
+20. The Imperative & Subjunctive Mood
+21. More Noun Cases
+22. The Conjugated Infinitive & Expressing need
+23. Word Order (1/2)
+24. Coverb Separation (2/2)
 
 Stay tuned for more!
 
