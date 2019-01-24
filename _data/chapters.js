@@ -30,8 +30,10 @@ let elem=chapters[i].split('$');
 if (choice)
 document.write(
 `//
-- title: ${elem[0]}
-  url: ${https://github.com/}//
+- title: ${i+1}. ${elem[0]}
+  url: ${https:/\/magyartanulas.github.io/${elem[1]}/}//
 `
 );
+else
+document.write(`${i+1}. ${elem[0]}`);
 }
