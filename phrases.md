@@ -69,5 +69,5 @@ Naturally because phrases have been introduced, the list will be long, but event
 * `-nak,-nek` which marks the [dative case](https://magyartanulas.github.io/dative_possession/)
 * `hány,mennyi` used for [counting](https://magyartanulas.github.io/counting/)
 * `ez, az` are [pronouns](https://magyartanulas.github.io/pronouns/) were mentioned
-* The use of `nem` and `nincs` for [negation](https://magyartanulas.github.io/infinitive_negation/)
+* The use of `nem` and `nincs` for [negation](https://magyartanulas.github.io/negation/)
 * The use of `-be` which is a [locative](https://magyartanulas.github.io/locatives/)
