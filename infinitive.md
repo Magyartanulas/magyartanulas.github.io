@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Infinitive + Negation
+title: The Infinitive Verb Form
 ---
 
-## The Infinitive
-
----
 
 The infinitive conveys a verb that has no tense or relation to a noun.
 
