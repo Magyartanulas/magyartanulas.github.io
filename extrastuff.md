@@ -87,10 +87,18 @@ There are two things to be noted from these examples.
 
 insert second usage
 
-### Modification of `ez/az` with Suffixes
+### Modification of `ez/az` with Suffixes/Plural
 
-The noun suffixes of Hungarian will be explained further in later sections. (link plural/acc and spatial) There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** 
+The noun suffixes of Hungarian are explained further in later sections. (link plural/acc and spatial) There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** Vowel harmony (link) must be obeyed, as well as (consonant assimilation thing)
 
 
 
+| Suffix  | Meaning        | ez           |  az            | Example              |
+|---------|----------------|--------------|----------------|----------------------|
+|         |                |              |                |                      |
+|         |                |              |                |                      |
+|         |                |              |                |                      |
+
+
+(this is a little advanced but i think its good to have in this section because its where people would look if they wanted to learn this)
 
