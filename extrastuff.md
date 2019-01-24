@@ -82,8 +82,8 @@ Just like English, these can be used in different ways. Firstly, its use as a de
 * az az óra - (that clock)
 
 There are two things to be noted from these examples.
-1. Unlike in Engish, the definite article `a/az` must also be used. 
-2. In the previous section, we explained how when the following word starts with a vowel sound, the definite article `a` becomes `az`. Therefore, note that `az` can have two meanings, and a phrase such as `az az óra` (that clock) is possible. 
+1. Unlike in Engish, the definite article `a/az` must also be used.
+2. In the previous section, we explained how when the next word starts with a vowel sound, the definite article `a` becomes `az`. Therefore, `az` can have two meanings, and a phrase such as `az az óra` (that clock) is possible. The first `az` means "that" and the second means "the."
 
 
 
