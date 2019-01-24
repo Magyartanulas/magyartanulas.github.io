@@ -1,3 +1,4 @@
+let chapters = `
 ABC + Vowel Harmony$alphabet_vowel-harmony
 Phrases$phrases
 Verb Intro$verb_intro
@@ -22,3 +23,15 @@ Noun Case Summary$noun_case_summary
 Expressing Need$expressing_need
 Word Order (1/2)$word_order
 Coverb Separation (2/2)$coverb_separation
+`;
+let choice = confirm('OK = links YAML\nCANCEL = chapters in md');
+for (let i=0;i<chapters.length;i++) {
+let elem=chapters[i].split('$');
+if (choice)
+document.write(
+`//
+- title: ${elem[0]}
+  url: ${https://github.com/}//
+`
+);
+}
