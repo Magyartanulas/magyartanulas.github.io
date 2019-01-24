@@ -85,7 +85,9 @@ There are two things to be noted from these examples.
 1. Unlike in Engish, the definite article `a/az` must also be used.
 2. In the previous section, we explained how when the next word starts with a vowel sound, the definite article `a` becomes `az`. Therefore, `az` can have two meanings, and a phrase such as `az az óra` (that clock) is possible. The first `az` means "that" and the second means "the."
 
+## Modification of `ez/az` with Suffixes
 
+The noun suffixes of Hungarian will be explained further in later sections. There is a rule here: **whenever a case suffix is attached to a noun, it is also attached to `ez` and `az` if they are describing the noun.** 
 
 
 
