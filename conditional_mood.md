@@ -33,7 +33,7 @@ Naturally, there is more conjugation to represent the conditional mood in Hungar
 | mi           | csináltunk volna   | csináltuk volna   | csinálnánk           | csinálnánk         |
 | ti           | csináltatok volna  | csináltátok volna | csinálnátok          | csinálnátok        |
 | ők           | csináltak volna    | csinálták volna   | csinálnának          | csinálnák          |
-| én <-> téged | -----              | csináltalak volna | -----                | csinálnálak()      |
+| én <-> téged | -----              | csináltalak volna | -----                | csinálnálak        |
 
 `Lesz` (he/she/it becomes). Remember this is an intransitive verb so it only gets the indefinite conjugation!
 
