@@ -102,7 +102,11 @@ In this usage, `egy` is optional and is used to emphasise that fact that there i
 
 ### Modification of `ez/az` with Suffixes/Plural
 
-The noun suffixes of Hungarian are explained further in later sections: [Accusative & Plural](https://magyartanulas.github.io/accusative_plurals/) There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** Vowel harmony (link) must be obeyed, as well as (consonant assimilation thing)
+Hungarian solves everything with suffixes, and `ez/az` is no exception. 
+
+>The noun suffixes of Hungarian are explained further in later sections: [Accusative & Plural](https://magyartanulas.github.io/accusative_plurals/) 
+
+There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** Vowel harmony (link) must be obeyed, as well as (consonant assimilation thing)
 
 Here are some common suffixes and how they affect `ez` and `az`.
 
