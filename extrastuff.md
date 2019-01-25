@@ -18,7 +18,7 @@ There are two things to be noted from these examples.
 1. Unlike in Engish, the definite article `a/az` must also be used.
 2. In the section above, we explained how when the next word starts with a vowel sound, the definite article `a` becomes `az`. Therefore, `az` can have two meanings, and a phrase such as `az az óra` (that clock) is possible. The first `az` means "that" and the second means "the."
 
-Secondly, it is used as a pronoun and can be used in place of a noun.
+Secondly, it is used as a pronoun and can be used in place of a noun:
 
 * ez kutyá - (this is a dog)
 * az víz - (that is water)
@@ -29,25 +29,24 @@ Secondly, it is used as a pronoun and can be used in place of a noun.
 
 * Mi ez? Ez egy asztal. - (What's this? It is a table.)
 
-Note that in English where there would be "is," in Hungarian there is nothing.
+In this usage, `egy` is optional and is used to emphasise that fact that there is one. (and not a different number?) (is this right?) Note that in English, where there would be "is," in Hungarian there is nothing.
 
-In this usage, `egy` is optional and is used to emphasise that fact that there is one. (and not a different number?) (is this right?)
 
 ### Modification of `ez/az` with Suffixes/Plural
 
 Hungarian solves everything with suffixes, and `ez/az` is no exception. 
 
->The noun suffixes of Hungarian are explained further here: [Plural & Accusative](https://magyartanulas.github.io/accusative_plurals/), [Locative](https://magyartanulas.github.io/locatives/), [Noun Case Summary](https://magyartanulas.github.io/noun_case_summary/)
+>The noun suffixes of Hungarian are explained further here: [Plural & Accusative](https://magyartanulas.github.io/accusative_plurals/), [Dative](https://magyartanulas.github.io/dative_possession/), [Locative](https://magyartanulas.github.io/locatives/), [Noun Case Summary](https://magyartanulas.github.io/noun_case_summary/)
 
 There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** Vowel harmony (link) must be obeyed, as well as (consonant assimilation thing)
 
 Here are some common suffixes and how they affect `ez` and `az`.
 
-| Suffix  | Meaning        | ez     |  az    | Example              |
-|---------|----------------|--------|--------|----------------------|
-| -k      | [plural](https://magyartanulas.github.io/accusative_plurals/)       | ezek   | azok   | Ezek a kutyák zöldek - (These dogs are green   |
-| -t      | [accusative](https://magyartanulas.github.io/accusative_plurals/)   | ezt    | azt    | Látod azt? - (Do you see that?)
-|         |                |        |        |                      |
+| Suffix   | Meaning        | ez     |  az    | Example              |
+|----------|----------------|--------|--------|----------------------|
+| -k       | [plural](https://magyartanulas.github.io/accusative_plurals/)                    | ezek   | azok   | Ezek a kutyák zöldek - (These dogs are green   |
+| -t       | [accusative](https://magyartanulas.github.io/accusative_plurals/) (direct object)| ezt    | azt    | Látod azt? - (Do you see that?)
+| -nak/-nek| [dative](https://magyartanulas.github.io/dative_possession/) (indirect object)   | ennek  | annak  |                      |
 
 They can be combined too:
 
