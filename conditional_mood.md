@@ -21,18 +21,19 @@ Naturally, there is more conjugation to represent the conditional mood in Hungar
 | mi           | szerettünk volna  | szerettük volna   | szeretnénk           | szeretnénk          |
 | ti           | szerettetek volna | szerettétek volna | szeretnétek          | szeretnétek         |
 | ők           | szerettek volna   | szerették volna   | szeretnének          | szeret**nék**       |
-| én <-> téged | -----             | szerettenélek     | -----                | szeretnélek         |
+| én <-> téged | -----             | szerettelek volna | -----                | szeretnélek         |
 
 `Csinál` (he/she/it does/makes).
 
-| Pronoun | Past indef. cond.  | Past def. cond.   | Present indef. cond. | Present def. cond. |
-|---------|--------------------|-------------------|----------------------|--------------------|
-| én      | csináltam volna    | csináltam volna   | csinálnék            | csinálnám          |
-| te      | csináltál volna    | csináltad volna   | csinálnál            | csinálnád          |
-| ő       | csinált volna      | csinálta volna    | csinálna             | csinálná           |
-| mi      | csináltunk volna   | csináltuk volna   | csinálnánk           | csinálnánk         |
-| ti      | csináltatok volna  | csináltátok volna | csinálnátok          | csinálnátok        |
-| ők      | csináltak volna    | csinálták volna   | csinálnának          | csinálnák          |
+| Pronoun      | Past indef. cond.  | Past def. cond.   | Present indef. cond. | Present def. cond. |
+|--------------|--------------------|-------------------|----------------------|--------------------|
+| én           | csináltam volna    | csináltam volna   | csinálnék            | csinálnám          |
+| te           | csináltál volna    | csináltad volna   | csinálnál            | csinálnád          |
+| ő            | csinált volna      | csinálta volna    | csinálna             | csinálná           |
+| mi           | csináltunk volna   | csináltuk volna   | csinálnánk           | csinálnánk         |
+| ti           | csináltatok volna  | csináltátok volna | csinálnátok          | csinálnátok        |
+| ők           | csináltak volna    | csinálták volna   | csinálnának          | csinálnák          |
+| én <-> téged | -----              | csináltalak volna | -----                | csinálnálak()      |
 
 `Lesz` (he/she/it becomes). Remember this is an intransitive verb so it only gets the indefinite conjugation!
 
