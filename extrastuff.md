@@ -85,7 +85,19 @@ There are two things to be noted from these examples.
 1. Unlike in Engish, the definite article `a/az` must also be used.
 2. In the previous section, we explained how when the next word starts with a vowel sound, the definite article `a` becomes `az`. Therefore, `az` can have two meanings, and a phrase such as `az az óra` (that clock) is possible. The first `az` means "that" and the second means "the."
 
-insert second usage
+Secondly, it is used as a pronoun.
+
+* ez kutyá - (this is a dog)
+* az víz - (that is water)
+* ez egy macska - (this is a cat)
+
+`ez` and `az` can be used to ask a question about the identity of an object.
+
+* Mi ez? Ez egy ..
+
+Note that where in English there would be "is," in Hungarian there is nothing.
+
+In this usage, `egy` is optional and is used to emphasise that fact that there is one. (and not a different number?) (is this right?)
 
 ### Modification of `ez/az` with Suffixes/Plural
 
@@ -100,5 +112,5 @@ The noun suffixes of Hungarian are explained further in later sections. (link pl
 |         |                |              |                |                      |
 
 
-(this is a little advanced but i think its good to have in this section because its where people would look if they wanted to learn this)
+(this is a little advanced for the progression but i think its good to have in this section because its where people would expect to find it)
 
