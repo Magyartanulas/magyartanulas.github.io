@@ -124,6 +124,14 @@ Kapitány: I don't need an excuse! I need a result!<br/>
 <br/>
 </div>
 
+### Expressing Should
+
+If you want to express "should", rather than "have/need to" then use the conditional of `kell`, `kellene` or `kéne` as a short slang. 
+
+* Most már azt kéne csinálnom. - (I should be doing that right now.)
+* Mit kellene mondanam? - (What should I say?)
+* Óvatosabban kellett volna lennem. - (I should have been more careful.)
+
 ## Muszáj
 ---
 
