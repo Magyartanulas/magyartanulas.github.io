@@ -104,7 +104,7 @@ In this usage, `egy` is optional and is used to emphasise that fact that there i
 
 Hungarian solves everything with suffixes, and `ez/az` is no exception. 
 
->The noun suffixes of Hungarian are explained further here: [Accusative & Plural](https://magyartanulas.github.io/accusative_plurals/), [Locative](https://magyartanulas.github.io/locatives/), [Summary](https://magyartanulas.github.io/noun_case_summary/)
+>The noun suffixes of Hungarian are explained further here: [Plural & Accusative](https://magyartanulas.github.io/accusative_plurals/), [Locative](https://magyartanulas.github.io/locatives/), [Noun Case Summary](https://magyartanulas.github.io/noun_case_summary/)
 
 There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** Vowel harmony (link) must be obeyed, as well as (consonant assimilation thing)
 
