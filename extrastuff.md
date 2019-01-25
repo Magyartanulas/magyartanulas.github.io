@@ -23,7 +23,7 @@ Secondly, it is used as a pronoun and can be used in place of a noun.
 * ez kutyá - (this is a dog)
 * az víz - (that is water)
 * ez egy macska - (this is a cat)
-* látom azt - (I see that) (note the [accusative case](https://magyartanulas.github.io/accusative_plurals/) used here)
+* látom azt - (I see that) note the [accusative case](https://magyartanulas.github.io/accusative_plurals/) used here
 
 `ez` and `az` can be used to ask a question about the identity of an object.
 
