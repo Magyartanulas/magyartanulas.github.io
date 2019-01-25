@@ -32,11 +32,12 @@ It's the same deal with the conjugated infinitive.
   - Felkelnem kell. - (I need to *get up*. Not lie down)
   - Kell felkelnem. - (I *need* to get up. It's really important)
   
-Whatever precedes `kell` or starts the sentence is emphasised. This separation isn't seen when using `sikerült` and the conjugated infinitive however. E.g.
+Whatever precedes `kell` or starts the sentence is emphasised. Similar ordering is seen using `sikerült` and the conjugated infinitive.
 
-* Sikerült megoldanunk. - (We managed to solve it.)
-  - ~~Megoldanunk sikerült.~~
-  - ~~Meg sikerült oldanunk.~~
+* Megoldtuk. - (We solved it.)
+  - Sikerült megoldanunk. - (We managed to *successfully* solve it.)
+  - Meg sikerült oldanunk. - (We *managed* to solve it successfully.)
+  - Megoldanunk sikerült. - (We managed to *solve it* successfully.)
   
 ### Negated Sentences
 
