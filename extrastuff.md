@@ -44,7 +44,7 @@ Here are some common suffixes and how they affect `ez` and `az`.
 
 | Suffix   | Meaning        | ez     |  az    | Example              |
 |----------|----------------|--------|--------|----------------------|
-| -k       | [plural](https://magyartanulas.github.io/accusative_plurals/)                    | ezek   | azok   | Ezek a kutyák zöldek - (These dogs are green   |
+| -k       | [plural](https://magyartanulas.github.io/accusative_plurals/)                    | ezek   | azok   | Ezek a kutyák zöldek - (These dogs are green)|
 | -t       | [accusative](https://magyartanulas.github.io/accusative_plurals/) (direct object)| ezt    | azt    | Látod azt? - (Do you see that?)
 | -nak/-nek| [dative](https://magyartanulas.github.io/dative_possession/) (indirect object)   | ennek  | annak  |                      |
 
