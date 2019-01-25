@@ -13,15 +13,15 @@ The conditional mood indicates what *would* happen if certain conditions are met
 
 Naturally, there is more conjugation to represent the conditional mood in Hungarian. Here is the front and back vowel harmony.
 
-
-| Pronoun | Past indef. cond. | Past def. cond.   | Present indef. cond. | Present. def. cond. |
-|---------|-------------------|-------------------|----------------------|---------------------|
-| én      | szerettem volna   | szerettem volna   | szeret**nék**            | szeretném           |
-| te      | szerettél volna   | szeretted volna   | szeretnél            | szeretnéd           |
-| ő       | szeretett volna   | szerette volna    | szeretne             | szeretné            |
-| mi      | szerettünk volna  | szerettük volna   | szeretnénk           | szeretnénk          |
-| ti      | szerettetek volna | szerettétek volna | szeretnétek          | szeretnétek         |
-| ők      | szerettek volna   | szerették volna   | szeretnének          | szeret**nék**           |
+| Pronoun      | Past indef. cond. | Past def. cond.   | Present indef. cond. | Present. def. cond. |
+|--------------|-------------------|-------------------|----------------------|---------------------|
+| én           | szerettem volna   | szerettem volna   | szeret**nék**        | szeretném           |
+| te           | szerettél volna   | szeretted volna   | szeretnél            | szeretnéd           |
+| ő            | szeretett volna   | szerette volna    | szeretne             | szeretné            |
+| mi           | szerettünk volna  | szerettük volna   | szeretnénk           | szeretnénk          |
+| ti           | szerettetek volna | szerettétek volna | szeretnétek          | szeretnétek         |
+| ők           | szerettek volna   | szerették volna   | szeretnének          | szeret**nék**       |
+| én <-> téged | -----             | szerettenélek     | -----                | szeretnélek         |
 
 `Csinál` (he/she/it does/makes).
 
@@ -49,7 +49,8 @@ Naturally, there is more conjugation to represent the conditional mood in Hungar
 
 * The past tense conjugations of the conditional is identical to the indicative past tense conjugations + volna
 * Like what we have seen before, there are repeat appearances.
-* Sometimes you'll see repeat conjugations for different pronouns, as emboldened in the `szeret` table. 
+* Sometimes you'll see repeat conjugations for different pronouns, as emboldened in the `szeret` table.
+* `-lak,-lek` as mentioned when talking about the [definite and indefinite conjugation](https://magyartanulas.github.io/definite_indefinite/) it isn't always applicable.
 
 **Some sentences**
 
