@@ -4,8 +4,8 @@ Here is some stuff that may go into the website later
 
 In English, we use the pronoun/definite article "this" when we are talking about something near to us, in either space or time, and "that" when it is further away. Hungarian uses `ez` and `az` similarly. Take note that the one used in each specific situation can vary slightly from English; familiarity will come with practice.
 
-ez - this  
-az - that
+`ez` - this  
+`az` - that
 
 Just like English, these can be used in different ways. Firstly, its use as a definite article, to specify proximity of a noun to the speaker: 
 
