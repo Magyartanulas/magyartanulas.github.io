@@ -33,7 +33,7 @@ for (let i=0;i<chapters.length;i++) {
 let elem=chapters[i].split('$');
 yaml+=`
 - title: ${i+1}. ${elem[0]}
-  url: https:/\/magyartanulas.github.io/${elem[1]}/}
+  url: https:/\/magyartanulas.github.io/${elem[1]}/
 `;
 md+=`${i+1}. ${elem[0]}\n`;
 }
