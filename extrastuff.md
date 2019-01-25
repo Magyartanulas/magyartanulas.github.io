@@ -105,11 +105,11 @@ The noun suffixes of Hungarian are explained further in later sections. (link pl
 
 
 
-| Suffix  | Meaning        | ez           |  az            | Example              |
-|---------|----------------|--------------|----------------|----------------------|
-|         |                |              |                |                      |
-|         |                |              |                |                      |
-|         |                |              |                |                      |
+| Suffix  | Meaning        | ez     |  az    | Example              |
+|---------|----------------|--------|--------|----------------------|
+| -k      | plural         | ezek   | azok   | Ezek a kutyák zöldek - (These dogs are green   |
+| -t      | accusative     |        |        |                      |
+|         |                |        |        |                      |
 
 
 (this is a little advanced for the progression but i think its good to have in this section because its where people would expect to find it)
