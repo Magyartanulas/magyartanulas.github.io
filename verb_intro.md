@@ -120,7 +120,7 @@ And naturally the other timestamps work with the past-tense.
 
 ### Sibilant verbs
 
-There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is changed.
+There are other verbs that end with sibilant endings `s, sz, z, zs`. Because of this, some of the conjugation is assimilated into these endings.
 
 `Lesz` (he/she/it becomes) *front-vowel*
 
