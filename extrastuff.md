@@ -4,9 +4,13 @@ Here is some stuff that may go into the website later
 
 In Hungarian, there are certain consonants that, when used as part of an attachment to another word, will change, or assimilate, to the adjacent consonant. This is simply to make the language more natural-sounding and easier to say.
 
+The consonants that can undergo assimilation are `v` and `z`.
+
 Let's take, for example, the [instrumental] noun case `-val` or `-vel` (the one that is used depends on [vowel harmony]), meaning "with." This is attached to the end of a noun.
 
 >For more information on noun cases and their uses, see [] []
+
+You may be wondering: "what happens if two of these assimilatable consonants are next to each other?" Idk what happensz
 
 Yet to learn:
 
