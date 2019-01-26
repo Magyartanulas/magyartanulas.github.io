@@ -15,7 +15,7 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 | root + suffix|combined              | meaning   |
 |--------------|----------------------|-----------|
 | tej + vel    | ~~tejvel~~  tejjel   | with milk |
-| barátom + val|~~barátomval~~  barátommal| with my friend |([possessive suffix](https://magyartanulas.github.io/dative_possession/) used here)
+| barátom + val|~~barátomval~~  barátommal| with my friend |([possessive suffix](https://magyartanulas.github.io/dative_possession/) used here) |
 | boldog + vá  |~~boldogvá~~  boldoggá| become happy|
 | gyerek + vé  | ~~gyerekvé~~ gyerekké| become child|
 
