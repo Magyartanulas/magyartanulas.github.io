@@ -125,7 +125,7 @@ When ever you want to use the word *with*, use the instrumental case. In Hungari
 
 ### Translative `-vá,-vé`
 
-This case represents the change of state physically or metaphorically. Have a look at these examples to see what I mean, oh an by the way the endings become assimilated just like with the instrumental (i.e. `ezzé` and `azzá`).
+This case represents the change of state physically or metaphorically. Have a look at these examples to see what I mean, oh and by the way the endings become assimilated just like with the instrumental (i.e. `ezzé` and `azzá`).
 
 * Mi tesz téged boldoggá? - (What makes you happy?) Remember this?
 * A herceg békává változott. - (The prince turned into a frog.)
