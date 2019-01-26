@@ -6,9 +6,17 @@ In Hungarian, there are certain consonants that, when used as part of an attachm
 
 The consonants that can undergo assimilation are `v` and `z`.
 
-Let's take, for example, the [instrumental] noun case `-val` or `-vel` (the one that is used depends on [vowel harmony]), meaning "with." This is attached to the end of a noun.
+There are two noun cases in Hungarian that begin with `v`, `-vá, -vé` ([translative]) and `-val, -vel` ([instrumental]). These are attached to the end of a noun.
 
->For more information on noun cases and their uses, see [] []
+>For more information on these noun cases and their uses, refer to [noun case summary](https://magyartanulas.github.io/noun_case_summary/).
+
+Another way for **consonant assimilation** to occur in Hungarian, is with the articles/pronouns `ez` and `az`. Because these end with `z`, when they are modified with a suffix starting with a consonant, the `z` will assimilate to the adjacent consonant.
+
+***Note the exception: when the suffix begins with `v`,***
+
+
+
+>For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/)
 
 You may be wondering: "what happens if two of these assimilatable consonants are next to each other?" Idk what happensz
 
