@@ -22,6 +22,7 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 Another scenario in which **consonant assimilation** occurs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end with "z", the "z" will assimilate to the adjacent consonant in a suffix. **With an exception: if the suffix starts with "v," the "z" will dominate.**
 
 | ez + ben  | ~~ezben~~ e**b**ben | in this   |
+|-----------|---------------------|-----------|
 | az + tól  | ~~aztól~~ a**t**tól | from that |
 | ez + vel  | ~~ezvel~~ ez**z**el | with this |
 
