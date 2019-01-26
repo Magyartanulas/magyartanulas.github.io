@@ -1,5 +1,16 @@
 Here is some stuff that may go into the website later
 
+## Consonant Assimilation
+
+In Hungarian, there are certain consonants that, when used as part of an attachment to another word, will change, or assimilate, to the adjacent consonant. This is simply to make the language more natural-sounding and easier to say.
+
+Let's take, for example, the [instrumental] noun case `-val` or `-vel`, meaning "with." This is attached to the end of a noun.
+
+>For more information on noun cases and their uses, see [] []
+
+Yet to learn:
+
+
 ## This/That
 
 In English, we use the pronoun/definite article "this" when we are talking about something near to us, in either space or time, and "that" when it is further away. Hungarian uses `ez` and `az` similarly. Take note that the one used in each specific situation can vary slightly from English; familiarity will come with practice.
