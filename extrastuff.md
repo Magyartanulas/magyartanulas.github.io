@@ -12,10 +12,12 @@ There are two noun (adjective as well??) cases in Hungarian that begin with "v",
 
 When one of these suffixes is added to a word, **if the word ends in a consonant, the "v" will change and become that consonant**.
 
-| root word| suffix   |combined              | meaning   |
-|----------|----------|----------------------|-----------|
-| tej      | -vel     | ~~tejvel~~  tejjel    | with milk |
-| boldog   | -vá      |~~boldogvá~~  boldoggá | make/become happy|
+| root + suffix|combined              | meaning   |
+|--------------|----------------------|-----------|
+| tej + vel    | ~~tejvel~~  tejjel   | with milk |
+| barátom + val|~~barátomval~~  barátommal| with my friend |([possessive suffix](https://magyartanulas.github.io/dative_possession/) used here)
+| boldog + vá  |~~boldogvá~~  boldoggá| become happy|
+| gyerek + vé  | ~~gyerekvé~~ gyerekké| become child|
 
 Another way for **consonant assimilation** to occur in Hungarian, is with the articles/pronouns `ez` and `az`. Because these end with `z`, when they are modified with a suffix starting with a consonant, the `z` will assimilate to the adjacent consonant.
 
