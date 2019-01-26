@@ -6,9 +6,11 @@ In Hungarian, there are certain consonants that, when used as part of an attachm
 
 The consonants that can undergo assimilation are `v`, `z` and `j`. (?) (talk about verbs???)
 
-There are two noun (adjective as well??) cases in Hungarian that begin with "v", `-vá, -vé` ([translative]) and `-val, -vel` ([instrumental]). These are attached to the end of a noun.
+There are two noun (adjective as well??) cases in Hungarian that begin with "v", `-vá, -vé` (translative) and `-val, -vel` (instrumental). These are attached to the end of a noun.
 
 >For more information on these noun cases and their uses, refer to [noun case summary](https://magyartanulas.github.io/noun_case_summary/).
+
+When one of these suffixes is added to a word, **if the word ends in a consonant, the "v" will change and become that consonant**.
 
 | root word| suffix   |combined              | meaning   |
 |----------|----------|----------------------|-----------|
