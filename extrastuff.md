@@ -4,11 +4,16 @@ Here is some stuff that may go into the website later
 
 In Hungarian, there are certain consonants that, when used as part of an attachment to another word, will change, or assimilate, to the adjacent consonant. This is simply to make the language more natural-sounding and easier to say.
 
-The consonants that can undergo assimilation are `v` and `z`.
+The consonants that can undergo assimilation are `v`, `z` and `j`. (?) (talk about verbs???)
 
-There are two noun cases in Hungarian that begin with "v", `-vá, -vé` ([translative]) and `-val, -vel` ([instrumental]). These are attached to the end of a noun.
+There are two noun (adjective as well??) cases in Hungarian that begin with "v", `-vá, -vé` ([translative]) and `-val, -vel` ([instrumental]). These are attached to the end of a noun.
 
 >For more information on these noun cases and their uses, refer to [noun case summary](https://magyartanulas.github.io/noun_case_summary/).
+
+| root word| suffix   |combined              | meaning   |
+|----------|----------|----------------------|-----------|
+| tej      | -vel     | ~~tejvel~~ tejjel    | with milk |
+| boldog   | -vá      |~~boldogvá~~ boldoggá | make/become happy|
 
 Another way for **consonant assimilation** to occur in Hungarian, is with the articles/pronouns `ez` and `az`. Because these end with `z`, when they are modified with a suffix starting with a consonant, the `z` will assimilate to the adjacent consonant.
 
