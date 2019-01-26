@@ -40,15 +40,19 @@ Hungarian solves everything with suffixes, and `ez/az` is no exception.
 
 There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** Vowel harmony (link) must be obeyed, as well as (consonant assimilation thing)
 
-Here are some common suffixes and how they affect `ez` and `az`.
+Here are a few common suffixes and how they affect `ez` and `az`.
 
 | Suffix   | Meaning        | ez     |  az    | Example              |
 |----------|----------------|--------|--------|----------------------|
 | -k       | [plural](https://magyartanulas.github.io/accusative_plurals/)                    | ezek   | azok   | Ezek a kutyák zöldek - (These dogs are green)|
 | -t       | [accusative](https://magyartanulas.github.io/accusative_plurals/) (direct object)| ezt    | azt    | Látod azt? - (Do you see that?)
-| -nak/-nek| [dative](https://magyartanulas.github.io/dative_possession/) (indirect object)   | ennek  | annak  |                      |
+| -nak,-nek| [dative](https://magyartanulas.github.io/dative_possession/) (indirect object)   | ennek  | annak  |                      |
+| -val,-vel| [instrumental](https://magyartanulas.github.io/noun_case_summary/) (with)        | ez**z**el| az**z**al|
+|-ban,-ben | [inessive](https://magyartanulas.github.io/locatives/) (in)                      | e**b**ben| a**b**ban|
 
-They can be combined too:
+>Note the [consonant assimilation](insert link here) occuring with the last two. With `-val,-vel` the `v` assimilates and becomes `z`, and with `-ban,-ben`, the `z` becomes `b`.
+
+The suffixes can be combined, too:
 
 * Látom azokat a macskákat. - (I see those cats.)
 
