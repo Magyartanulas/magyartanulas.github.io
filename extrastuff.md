@@ -14,8 +14,8 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 
 | root word| suffix   |combined              | meaning   |
 |----------|----------|----------------------|-----------|
-| tej      | -vel     | ~~tejvel~~ tejjel    | with milk |
-| boldog   | -vá      |~~boldogvá~~ boldoggá | make/become happy|
+| tej      | -vel     | ~~tejvel~~  tejjel    | with milk |
+| boldog   | -vá      |~~boldogvá~~  boldoggá | make/become happy|
 
 Another way for **consonant assimilation** to occur in Hungarian, is with the articles/pronouns `ez` and `az`. Because these end with `z`, when they are modified with a suffix starting with a consonant, the `z` will assimilate to the adjacent consonant.
 
