@@ -17,7 +17,8 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 | boldog + vá  |~~boldogvá~~  boldog**g**á| become happy|
 | gyerek + vé  | ~~gyerekvé~~ gyerek**k**é| become child|
 
-Another scenario in which **consonant assimilation** occurs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end with "z", the "z" will assimilate to the adjacent consonant in a suffix. **With an exception: if the suffix starts with "v," the "z" will dominate.**
+Another scenario in which **consonant assimilation** 
+urs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end with "z", the "z" will assimilate to the adjacent consonant in a suffix. **With an exception: if the suffix starts with "v," the "z" will dominate.**
 
 | root + suffix| combined         | meaning   |
 |-----------|---------------------|-----------|
@@ -47,7 +48,7 @@ Just like English, these can be used in different ways. Firstly, its use as a de
 * az az óra - (that clock)
 
 There are two things to be noted from these examples.
-1. Unlike in Engish, the definite article `a/az` must also be used.
+1. Unlike in English, the definite article `a/az` must also be used.
 2. In the section above, we explained how when the next word starts with a vowel sound, the definite article `a` becomes `az`. Therefore, `az` can have two meanings, and a phrase such as `az az óra` (that clock) is possible. The first `az` means "that" and the second means "the."
 
 Secondly, it is used as a pronoun and can be used in place of a noun:
@@ -82,7 +83,7 @@ Here are a few common suffixes and how they affect `ez` and `az`.
 | -val,-vel| [instrumental](https://magyartanulas.github.io/noun_case_summary/) (with)        | ez**z**el| az**z**al|
 |-ban,-ben | [inessive](https://magyartanulas.github.io/locatives/) (in)                      | e**b**ben| a**b**ban|
 
->Note the [consonant assimilation](insert link here) occuring with the last two. With `-val,-vel` the `v` assimilates and becomes `z`, and with `-ban,-ben`, the `z` becomes `b`.
+>Note the [consonant assimilation](insert link here) occurring with the last two. With `-val,-vel` the `v` assimilates and becomes `z`, and with `-ban,-ben`, the `z` becomes `b`.
 
 The suffixes can be combined, too:
 
@@ -98,7 +99,7 @@ Here are two common adverb-making suffixes.
 
 ### Essive-Modal (-l/ul/-ül)
 
-Front-voweled words take `-ül`, back-voweled words take `-ul` and words ending in vowels take `-l`
+Front-vowelled words take `-ül`, back-vowelled words take `-ul` and words ending in vowels take `-l`
 
 ***Essively***, meaning that a noun is given a role to fulfill, *as something*. This is done to nouns.
 
@@ -122,7 +123,7 @@ It is also used to show the language someone speaks.
 
 ### Adverbial (-n/-an/-en/-on)
 
-Front-voweled words take `-en`, back-voweled words take `-an,-on` and words ending in vowels take `-n`. This is done to adjectives.
+Front-vowelled words take `-en`, back-vowelled words take `-an,-on` and words ending in vowels take `-n`. This is done to adjectives.
 
 * Gyorsan - (Quickly) From `gyors`
 * Gyakran - (Frequently) From `gyakor`
@@ -132,7 +133,7 @@ Front-voweled words take `-en`, back-voweled words take `-an,-on` and words endi
 * Gazdagon - (Richly) From `gazdag`
 * Ritkán - (Rarely) From `ritka`
 
-Look out for irregularites!
+Look out for irregularities!
 
 * Lassan - (Slowly) From `lassú`
 
@@ -143,7 +144,7 @@ There are two ways of creating nouns, the former deals with adjectives/nouns/ver
 
 ### "-ness"(-ság/-ség)
 
-Front-voweled words take `-ség`, back-voweled words take `-ság`. Crudely speaking, this can be thought of as a "-ness" ending, but it also turns nouns and verbs into nouns.
+Front-vowelled words take `-ség`, back-vowelled words take `-ság`. Crudely speaking, this can be thought of as a "-ness" ending, but it also turns nouns and verbs into nouns.
 
 * Sötétség - (Darkness) From `sötét`
 * Segítség - (Help) From `segít`
@@ -154,7 +155,7 @@ Front-voweled words take `-ség`, back-voweled words take `-ság`. Crudely speak
 
 ### Verb to Noun (-ás/-és)
 
-Front-voweled words take `-ás`, back-voweled words take `-és`.
+Front-vowelled words take `-ás`, back-vowelled words take `-és`.
 
 * Utazás - (Journey) From `utaz`
 
