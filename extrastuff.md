@@ -2,17 +2,15 @@ Here is some stuff that may go into the website later
 
 ## Consonant Assimilation
 
-In Hungarian, there are certain consonants that, when used as part of an attachment to another word, will change, or assimilate, to the adjacent consonant. This is simply to make the language more natural-sounding and easier to say.
+In Hungarian, there are certain suffixes that, when used as an attachment to another word, will change, or assimilate, to the adjacent consonant. This is simply to make the language more natural-sounding and easier to say.
 
-The consonants that can undergo assimilation are `v`, `z` and `j`. (?) (talk about verbs??? I don't know the rules on which scenarios this occurs in etc. I dont think i covered it well)
-
-There are two noun (adjective as well??) cases in Hungarian that begin with "v", `-vá, -vé` (translative) and `-val, -vel` (instrumental). These are attached to the end of a noun.
+There are two noun cases in Hungarian that do this assimilation: `-vá, -vé` (translative) and `-val, -vel` (instrumental).
 
 >For more information on these noun cases and their uses, refer to [noun case summary](https://magyartanulas.github.io/noun_case_summary/).
 
 When one of these suffixes is added to a word, **if the word ends in a consonant, the "v" will change and become that consonant**.
 
-| root + suffix|combined              | meaning   |
+| root + suffix| combined             | meaning   |
 |--------------|----------------------|-----------|
 | tej + vel    | ~~tejvel~~  tej**j**el | with milk |
 | barátom + val|~~barátomval~~  barátom**m**al| with my friend |[possessive suffix](https://magyartanulas.github.io/dative_possession/) used here
@@ -21,17 +19,15 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 
 Another scenario in which **consonant assimilation** occurs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end with "z", the "z" will assimilate to the adjacent consonant in a suffix. **With an exception: if the suffix starts with "v," the "z" will dominate.**
 
-| ez + ben  | ~~ezben~~ e**b**ben | in this   |
+| root + suffix| combined         | meaning   |
 |-----------|---------------------|-----------|
+| ez + ben  | ~~ezben~~ e**b**ben | in this   |
 | az + tól  | ~~aztól~~ a**t**tól | from that |
 | ez + vel  | ~~ezvel~~ ez**z**el | with this |
 
 >For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/)
 
 >For more information on the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
-
-
-You may be wondering: "what happens if two of these assimilatable consonants are next to each other?" Idk what happensz
 
 Yet to learn:
 
