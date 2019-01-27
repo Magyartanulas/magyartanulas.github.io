@@ -13,7 +13,7 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 | root + suffix| combined             | meaning   |
 |--------------|----------------------|-----------|
 | tej + vel    | ~~tejvel~~  tej**j**el | with milk |
-| barátom + val|~~barátomval~~  barátom**m**al| with my friend |[possessive suffix](https://magyartanulas.github.io/dative_possession/) used here
+| barátom + val|~~barátomval~~  barátom**m**al| with my friend |[possessive suffix](https://magyartanulas.github.io/dative_possession/) used here (fix this)
 | boldog + vá  |~~boldogvá~~  boldog**g**á| become happy|
 | gyerek + vé  | ~~gyerekvé~~ gyerek**k**é| become child|
 
@@ -24,6 +24,7 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 | ez + ben  | ~~ezben~~ e**b**ben | in this   |
 | az + tól  | ~~aztól~~ a**t**tól | from that |
 | ez + vel  | ~~ezvel~~ ez**z**el | with this |
+| az + vá   | ~~azvá~~ az**z**á   | turn into that|
 
 >For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
 
