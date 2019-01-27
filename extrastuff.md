@@ -25,7 +25,7 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 | az + tól  | ~~aztól~~ a**t**tól | from that |
 | ez + vel  | ~~ezvel~~ ez**z**el | with this |
 
->For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for more on the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
+>For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
 
 Yet to learn:
 
