@@ -22,6 +22,7 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 | root + suffix| combined         | meaning   |
 |-----------|---------------------|-----------|
 | ez + ben  | ~~ezben~~ e**b**ben | in this   |
+| az + ra   | ~~azra~~ a**r**ra   | onto that |
 | az + tól  | ~~aztól~~ a**t**tól | from that |
 | ez + vel  | ~~ezvel~~ ez**z**el | with this |
 | az + vá   | ~~azvá~~ az**z**á   | turn into that|
