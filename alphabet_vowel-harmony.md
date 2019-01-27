@@ -68,13 +68,13 @@ Front: e é i í ö ő ü ű (Öt üveg-űző épít itt.)
 Back:  a á o ó u ú     (A Zuzmó-Háború.)
 ```
 
-* If a word contains only front-vowels, then it should be conjugated with front-vowels. `épület`
-* Likewise, if a word contains only back-vowels, then it should be conjugated with back vowels. `darázs`
+* If a word contains only front vowels, then it should be conjugated with front vowels. `épület`
+* Likewise, if a word contains only back vowels, then it should be conjugated with back vowels. `darázs`
 * If a word contains a mixture of front and back, the last vowel will specify what kind it is. `dzsungel`
 
-If the word is only one-syllable *and* contains only `i` or `í` then it can be considered back-voweled or front-voweled. E.g.
+If the word is only one-syllable *and* contains only `i` or `í` then it can be considered back-vowelled or front-vowelled. E.g.
 
-* `szív` - ((the verb) considered front-voweled word)
-* `híd` - (considered back-voweled word)
+* `szív` - ((the verb) considered front-vowelled word)
+* `híd` - (considered back-vowelled word)
 
 That's it for now. Check out [wikipedia's article on pronunciation](https://en.wiktionary.org/wiki/Appendix:Hungarian_pronunciation_assimilation) for more information.
