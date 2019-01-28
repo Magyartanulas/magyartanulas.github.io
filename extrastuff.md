@@ -17,8 +17,7 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 | boldog + vá  |~~boldogvá~~  boldog**g**á| become happy|
 | gyerek + vé  | ~~gyerekvé~~ gyerek**k**é| become child|
 
-Another scenario in which **consonant assimilation** 
-urs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end with "z", the "z" will assimilate to the adjacent consonant in a suffix. **With an exception: if the suffix starts with "v," the "z" will dominate.**
+Another scenario in which **consonant assimilation** occurs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end with "z," the "z" will assimilate to the adjacent consonant in a suffix. **With an exception: if the suffix starts with "v," the "z" will dominate.**
 
 | root + suffix| combined         | meaning   |
 |-----------|---------------------|-----------|
@@ -29,6 +28,8 @@ urs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end 
 | az + vá   | ~~azvá~~ az**z**á   | turn into that|
 
 >For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
+
+Verbs 
 
 Yet to learn:
 
