@@ -82,7 +82,7 @@ Here are a few common suffixes and how they affect `ez` and `az`.
 | -t       | [accusative](https://magyartanulas.github.io/accusative_plurals/) (direct object)| ezt    | azt    | Látod azt? - (Do you see that?)
 | -nak,-nek| [dative](https://magyartanulas.github.io/dative_possession/) (indirect object)   | ennek  | annak  |                      |
 | -val,-vel| [instrumental](https://magyartanulas.github.io/noun_case_summary/) (with)        | ez**z**el| az**z**al|
-|-ban,-ben | [inessive](https://magyartanulas.github.io/locatives/) (in)                      | e**b**ben| a**b**ban|
+|-ban,-ben | [inessive](https://magyartanulas.github.io/locatives/) (in)                      | e**b**ben| a**b**ban| Ebben a házban sok ember él. - (Many people live in this house.) 
 
 >Note the [consonant assimilation](insert link here) occurring with the last two. With `-val,-vel` the `v` assimilates and becomes `z`, and with `-ban,-ben`, the `z` becomes `b`.
 
