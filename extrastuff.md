@@ -72,7 +72,7 @@ Hungarian solves everything with suffixes, and `ez/az` is no exception.
 
 >The noun suffixes of Hungarian are explained further here: [Plural & Accusative](https://magyartanulas.github.io/accusative_plurals/), [Dative](https://magyartanulas.github.io/dative_possession/), [Locative](https://magyartanulas.github.io/locatives/), [Noun Case Summary](https://magyartanulas.github.io/noun_case_summary/)
 
-There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** Vowel harmony (link) must be obeyed, as well as (consonant assimilation thing)
+There is a rule here: **whenever a suffix is attached to a noun, it is also attached to `ez` and `az` when they are describing the noun.** [Vowel harmony](https://magyartanulas.github.io/alphabet_vowel-harmony/) must be obeyed, as well as consonant assimilation of the "z."
 
 Here are a few common suffixes and how they affect `ez` and `az`.
 
