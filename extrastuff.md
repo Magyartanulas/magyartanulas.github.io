@@ -92,7 +92,7 @@ Note the [consonant assimilation](insert link here) occurring with the last two.
 
 The suffixes can be combined, too:
 
-* Látom azokat a macskákat. - (I see those cats. ([plural + accusative](https://magyartanulas.github.io/accusative_plurals/))
+* Látom azokat a macskákat. - (I see those cats. ([plural + accusative](https://magyartanulas.github.io/accusative_plurals/)))
 
 (this is a little advanced for the progression but i think its good to have in this section because its where people would expect to find it)
 
