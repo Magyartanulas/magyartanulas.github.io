@@ -88,11 +88,11 @@ Here are a few common suffixes and how they affect `ez` and `az`.
 | -val,-vel| [instrumental](https://magyartanulas.github.io/noun_case_summary/) (with)        | ez**z**el| az**z**al| Mit csinálsz ezzel? - (What are you doing with this?)
 |-ban,-ben | [inessive](https://magyartanulas.github.io/locatives/) (in)                      | e**b**ben| a**b**ban| Ebben a házban sok ember él. - (Many people live in this house.) 
 
->Note the [consonant assimilation](insert link here) occurring with the last two. With `-val,-vel` the `v` assimilates and becomes `z`, and with `-ban,-ben`, the `z` becomes `b`.
+Note the [consonant assimilation](insert link here) occurring with the last two. With `-val,-vel` the `v` assimilates and becomes `z`, and with `-ban,-ben`, the `z` becomes `b`.
 
 The suffixes can be combined, too:
 
-* Látom azokat a macskákat. - (I see those cats.)
+* Látom azokat a macskákat. - (I see those cats. ([plural + accusative](https://magyartanulas.github.io/accusative_plurals/))
 
 (this is a little advanced for the progression but i think its good to have in this section because its where people would expect to find it)
 
