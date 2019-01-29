@@ -4,7 +4,7 @@ Here is some stuff that may go into the website later
 
 In Hungarian, there are certain suffixes that, when used as an attachment to another word, will change, or assimilate, to the adjacent consonant. This is simply to make the language more natural-sounding and easier to say.
 
-### Assimilation with Noun Cases
+### Assimilation of Noun Cases
 
 There are two noun cases in Hungarian that do this assimilation: `-vá, -vé` (translative) and `-val, -vel` (instrumental).
 
@@ -19,7 +19,7 @@ When one of these suffixes is added to a word, **if the word ends in a consonant
 | boldog + vá  |~~boldogvá~~  boldog**g**á| become happy|
 | gyerek + vé  | ~~gyerekvé~~ gyerek**k**é| become child|
 
-### Assimilation with `ez/az`
+### Assimilation of `ez/az`
 
 Another scenario in which **consonant assimilation** occurs in Hungarian is with the articles/pronouns `ez` and `az`. Because these end with "z," the "z" will assimilate to the adjacent consonant in a suffix. **With an exception: if the suffix starts with "v," the "z" will dominate.**
 
@@ -33,7 +33,7 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 
 >For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
 
-### Assimilation with Verbs 
+### Assimilation of Verb Conjugation
 
 Yet to learn:
 
