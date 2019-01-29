@@ -80,13 +80,13 @@ There is a rule here: **whenever a suffix is attached to a noun, it is also atta
 
 Here are a few common suffixes and how they affect `ez` and `az`.
 
-| Suffix   | Meaning        | ez     |  az    | Example              |
-|----------|----------------|--------|--------|----------------------|
-| -k       | [plural](https://magyartanulas.github.io/accusative_plurals/)                    | ezek   | azok   | Azok kutyák - (Those are dogs)|
-| -t       | [accusative](https://magyartanulas.github.io/accusative_plurals/) (direct object)| ezt    | azt    | Látod azt? - (Do you see that?)
-| -nak,-nek| [dative (indirect object), possessor](https://magyartanulas.github.io/dative_possession/)| ennek  | annak  | Mi a neve ennek a madárnak magyarul? - (What is the name of this bird in Hungarian?)                     |
-| -val,-vel| [instrumental](https://magyartanulas.github.io/noun_case_summary/) (with)        | ez**z**el| az**z**al| Mit csinálsz ezzel? - (What are you doing with this?)
-|-ban,-ben | [inessive](https://magyartanulas.github.io/locatives/) (in)                      | e**b**ben| a**b**ban| Ebben a házban sok ember él. - (Many people live in this house.) 
+| Suffix     | Meaning        | ez     |  az    | Example              |
+|------------|----------------|--------|--------|----------------------|
+| -k         | [plural](https://magyartanulas.github.io/accusative_plurals/)                    | ezek   | azok   | Azok kutyák - (Those are dogs)|
+| -t         | [accusative](https://magyartanulas.github.io/accusative_plurals/) (direct object)| ezt    | azt    | Látod azt? - (Do you see that?)
+| -nak,-nek  | [dative (indirect object), possessor](https://magyartanulas.github.io/dative_possession/)| ennek  | annak  | Mi a neve ennek a madárnak magyarul? - (What is the name of this bird in Hungarian?)                     |
+| -val,-vel  | [instrumental](https://magyartanulas.github.io/noun_case_summary/) (with)        | ez**z**el| az**z**al| Mit csinálsz ezzel? - (What are you doing with this?)
+|-ban,-ben   | [inessive](https://magyartanulas.github.io/locatives/) (in)                      | e**b**ben| a**b**ban| Ebben a házban sok ember él. - (Many people live in this house.) 
 
 Note the [consonant assimilation](insert link here) occurring with the last two. With `-val,-vel` the `v` assimilates and becomes `z`, and with `-ban,-ben`, the `z` becomes `b`.
 
