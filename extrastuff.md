@@ -29,14 +29,14 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 | az + ra   | ~~azra~~ a**r**ra   | onto that |
 | az + tól  | ~~aztól~~ a**t**tól | from that |
 | ez + vel  | ~~ezvel~~ ez**z**el | with this |
-| az + vá   | ~~azvá~~ az**z**á   | turn into that|
+| az + vá   | ~~azvá~~ az**z**á   | become that|
 
 >For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
 
-### Assimilation of Verb Conjugation
+### Assimilation with Imperative Verb Conjugation
+
 
 Yet to learn:
-
 
 ## This/That
 
