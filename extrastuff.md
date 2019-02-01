@@ -33,10 +33,23 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 
 >For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
 
-### Assimilation with Imperative Verb Conjugation
+### Assimilation with the Imperative Mood
 
+Basically the imperative mood is turning verbs into orders/commands. You can identify this in sentences by seeing a `-j` directly after the verb (don't confuse this with the indicative mood, though!). Depending on the ending of the verb, this `-j` gets assimilated into a different form.
 
-Yet to learn:
+| root + suffix | 2nd person indef.      | meaning      |
+|---------------|------------------------|--------------|
+| vigyáz + j    | ~~vigyázj~~ vigyázz!   | watch out!   |
+| keres + j     | ~~keresj~~ keress!     | look for me! |
+| hisz + j      | ~~hiszj~~ higgy nekem! | believe me!  |
+| segít + j     | ~~segítj~~ segíts!     | help!        |
+|               |  -ss                   |              |
+
+If it ends in `-z` or `-s` it's a simple lengthening, if it ends in `-sz` you take it away and replace it with `-ggy`. However if it ends in `-t`, we have a problem Houston.
+
+WIP
+
+> For a more comprehensive explanation, check out the section on [imperatives](https://magyartanulas.github.io/imperative_subjunctive/)
 
 ## This/That
 
