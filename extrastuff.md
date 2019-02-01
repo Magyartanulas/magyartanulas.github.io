@@ -35,9 +35,9 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 
 `Challenge!`
 
-*Kávét szeretnék, tejjel és cukorral.*
+*Szeretnék egy kávét tejjel és cukorral.*
 
-<span class="spoiler">I would like coffee, with milk and sugar.</span>
+<span class="spoiler">I would like a coffee with milk and sugar.</span>
 
 ### Assimilation with the Imperative Mood
 
