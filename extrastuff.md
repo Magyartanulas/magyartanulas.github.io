@@ -33,6 +33,12 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 
 >For more information on `ez` and `az`, refer to [articles](https://magyartanulas.github.io/articles/); for the locative cases in this example, see [locatives](https://magyartanulas.github.io/locatives/)
 
+`Challenge!`
+
+*Szeretnék kávét, tejjel és cukorral.*
+
+<span class="spoiler">I would like coffee, with milk and sugar.</span>
+
 ### Assimilation with the Imperative Mood
 
 Basically the imperative mood is turning verbs into orders/commands. You can identify this in sentences by seeing a `-j` directly after the verb (don't confuse this with the indicative mood, though!). Depending on the ending of the verb, this `-j` gets assimilated into a different form.
