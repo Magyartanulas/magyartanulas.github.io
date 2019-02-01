@@ -116,7 +116,7 @@ Using [demonstrative pronouns](https://magyartanulas.github.io/pronouns/), with 
 
 ### Stating possessions
 
-In Hungarian, there is no verb *to have*, instead you state what belongs to you through the verb `van`. So it follows that you can state what does not belong to you with `nincs,sincs`. Stating multiple possessions requires using `vannak` as well.
+In Hungarian, there is no verb *to have*, instead you state what belongs to you through the verb `van`. So it follows that you can state what does not belong to you with `nincs,sincs`. Stating multiple possessions requires using `vannak` as well as the appropriate ending, so there's a handshake that goes on.
 
 * Van egy macskám. - (I have a cat.)
 * Bárcsak lenne egy kutyám! - (I wish I had a dog!)
