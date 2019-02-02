@@ -11,13 +11,7 @@
     <div class="content container">
       {{ content }}
     </div>
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js">
-anchors.options = {
-  visible: 'always',
-  placement: 'left'
-};
-anchors.add('h3');
-     </script>
+
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
