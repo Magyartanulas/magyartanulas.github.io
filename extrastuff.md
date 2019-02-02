@@ -4,6 +4,8 @@ Abbreviations
 
 This is some text.[^1]. Other text.[^footnote].
 
+1 This is [a link](http://google.com){:target="_blank"} that opens in a new window.
+
 [^1]: Some *crazy* footnote definition.
 
 
