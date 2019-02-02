@@ -200,3 +200,4 @@ Front-vowelled words take `-ás`, back-vowelled words take `-és`.
 
 * Utazás - (Journey) From `utaz`
 
+*[Abbreviations]: This is an abbreviation
