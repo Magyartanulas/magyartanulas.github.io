@@ -1,5 +1,6 @@
 # Dependencies
 markdown:         kramdown
+  auto_ids: true # for heading links
 highlighter:      rouge
 
 # Permalinks 
