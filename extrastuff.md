@@ -1,4 +1,11 @@
-Here is some stuff that may go into the website later Abbreviations
+Here is some stuff that may go into the website later 
+
+Abbreviations
+
+This is some text.[^1]. Other text.[^footnote].
+
+[^1]: Some *crazy* footnote definition.
+
 
 ## Consonant Assimilation
 
