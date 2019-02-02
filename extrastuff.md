@@ -24,7 +24,7 @@ This is some text.[^1]. Other text.[^footnote].
 [^1]: Some *crazy* footnote definition.
 
 
-## [#](#consonant-assimilation) Consonant Assimilation
+## [#](##-consonant-assimilation) Consonant Assimilation
 
 In Hungarian, there are certain suffixes that, when used as an attachment to another word, will change, or assimilate, to the adjacent consonant. This is simply to make the language more natural-sounding and easier to say.
 
