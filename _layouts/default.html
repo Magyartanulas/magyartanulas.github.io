@@ -11,7 +11,10 @@
     <div class="content container">
       {{ content }}
     </div>
-     <script src="https://magyartanulas.github.io/anchor.js/">anchors.add();</script>
+     <script src="https://magyartanulas.github.io/anchor.js/">
+      anchors.add();
+      anchors.options.visible = 'always';
+     </script>
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
