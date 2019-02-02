@@ -2,7 +2,7 @@ let chapters = `
 ABC + Vowel Harmony$alphabet_vowel-harmony
 Phrases$phrases
 Verb Intro$verb_intro
-Articles$articles
+This-That & Articles$this_that_articles
 Spatial Postpositions$postpositions
 Word Building$word_building
 Pronouns$pronouns
