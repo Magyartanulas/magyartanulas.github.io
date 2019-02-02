@@ -11,7 +11,7 @@
 
 Here is some stuff that may go into the website later 
 
-Abbreviations
+[#](#abbreviations) Abbreviations
 
 This is some text.[^1]. Other text.[^footnote].
 
