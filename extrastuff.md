@@ -41,21 +41,38 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 
 ### Assimilation with the Imperative Mood
 
-Basically the imperative mood is turning verbs into orders/commands. You can identify this in sentences by seeing a `-j` directly after the verb (don't confuse this with the indicative mood, though!). Depending on the ending of the verb, this `-j` gets assimilated into a different form.
+Basically the imperative mood is turning verbs into orders/commands. You can identify this in sentences by seeing a `-j` directly after the verb (don't confuse this with the indicative mood, though!). Depending on the ending of the verb, this `-j` gets assimilated into a different form. Check out these imperatives in the second person.
 
-| root + suffix | 2nd person indef.      | meaning      |
-|---------------|------------------------|--------------|
-| vigyáz + j    | ~~vigyázj~~ vigyázz!   | watch out!   |
-| keres + j     | ~~keresj~~ keress!     | look for me! |
-| hisz + j      | ~~hiszj~~ higgy nekem! | believe me!  |
-| segít + j     | ~~segítj~~ segíts!     | help!        |
-|               |  -ss                   |              |
+| [sibilant]                             | [sibilant] + t               | [short vowel] + t                           | [long vowel/normal consonant] + t    | meaning                              |
+|----------------------------------------|------------------------------|---------------------------------------------|--------------------------------------|--------------------------------------|
+| ~~vigyázj~~ vigyázz!                   |                              |                                             |                                      | watch out!                           |
+| ~~játszj~~ játssz  velem!              |                              |                                             |                                      | play with me!                        |
+| ~~ásj~~ áss!                           |                              |                                             |                                      | dig!                                 |
+| először ~~edzj~~ eddz, aztán elmehetsz |                              |                                             |                                      | first train, then you can leave      |
+|                                        | bölcsen ~~választj~~ válassz |                                             |                                      | choose wisely                        |
+|                                        | ~~festj~~ fess le valamit!   |                                             |                                      | paint something!                     |
+|                                        |                              | ne ~~zavargatj~~ zavargass!                 |                                      | don't bother me!                     |
+|                                        |                              | ~~sietj~~ siess már!                        |                                      | hurry up!                            |
+|                                        |                              | ~~sütj~~ süss egy tortát nekem!             |                                      | bake a cake for me!                  |
+|                                        |                              | te kölyök ne ~~ugratj~~ ugrass, rossz vicc! |                                      | bad joke you kid, don't pull my leg! |
+|                                        |                              |                                             | gyújts meg a tüzet!                  | light the fire!                      |
+|                                        |                              |                                             | ~~tartj~~ tarts ki!                  | hold on!                             |
+|                                        |                              |                                             | ~~bocsátj~~ bocsáss meg! (exception) | forgive me!                          |
+|                                        |                              |                                             | ~~látj~~ láss (exception)            | see                                  |
 
-If it ends in `-z` or `-s` it's a simple lengthening, if it ends in `-sz` you take it away and replace it with `-ggy`. However if it ends in `-t`, we have a problem Houston.
+There are also seven irregular verbs that take a `-gy` ending.
 
-WIP
+| Verb                        | Assimilated   |
+|-----------------------------|---------------|
+| lesz                        | legyél/légy   |
+| vesz (he/she/it buys/takes) | vegyél/végy   |
+| tesz (he/she/it puts/does)  | tegyél/tégy   |
+| hisz (he/she/it believes)   | higgyél/higgy |
+| visz (he/she/it brings)     | viggyél/viggy |
+| eszik (he/she/it eats)      | egyél         |
+| iszik (he/she/it drinks)    | igyál         |
 
-> For a more comprehensive explanation, check out the section on [imperatives](https://magyartanulas.github.io/imperative_subjunctive/)
+> For more, check out the section on [imperatives](https://magyartanulas.github.io/imperative_subjunctive/)
 
 ## This/That
 
