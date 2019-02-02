@@ -1,7 +1,42 @@
 ---
 layout: page
-title: Articles
+title: This-That & Articles
 ---
+
+## This/That
+
+In English, we use the demonstrative pronoun "this" when we are talking about something near to us, in either space or time, and "that" when it is further away. Hungarian uses `ez` and `az` similarly. Take note that the one used in each specific situation can vary slightly from English; familiarity will come with practice.
+
+`Ez` - This  
+`Az` - That
+
+Just like English, these can be used in different ways. Firstly, its use in conjunction with a definite article, to specify proximity of a noun to the speaker: 
+
+* Ez a kutyá. - (This dog.)
+* Az az alma. - (This apple.)
+* Az a fá. - (That tree.)
+* Az az óra. - (That clock.)
+
+**Note:**
+
+* Unlike in English, the definite article `a/az` must also be used.
+* If the noun begins with a vowel, `a` changes to `az`.
+
+Secondly, it is used to introduce new information.
+
+* ez kutyá - (this is a dog)
+* az víz - (that is water)
+* ez egy macska - (this is a cat)
+* látom azt - (I see that)
+
+`Ez` and `az` can be used to ask a question about the identity of an object.
+
+* Mi ez? Ez egy asztal. - (What's this? This is a table.)
+
+In this usage, `egy` is only used to specify that there is just one. Note that in English, where there would be "is," in Hungarian there is nothing.
+
+----------------------------------------------------------------------------
+## Articles
 
 An article specifies if a noun is a definite thing or an indefinite thing.
 
@@ -37,10 +72,10 @@ Proper nouns don't use an article, except for specifying a type of pronoun. Simi
 
 * A Középkori Európa. - (Medieval Europe.)
 * A Korszerű/Mai Magyarország. - (Modern-day Hungary.)
-* A tarajos sül rágcsáló. - (A porcupine is a rodent.)
-* A darázs rovar. - (A wasp is an insect.)
-* A nárcisz virág. - (A daffodil is a flower.)
-* A jacht csónak. - (A yacht is a boat.)
+* A tarajos sül rágcsáló. - (Porcupines are rodent.)
+* A darázs rovar. - (Wasps are insects.)
+* A nárcisz virág. - (Daffodils are flowers.)
+* A jacht csónak. - (Yachts are boats.)
 
 You can also make generalisations about nouns with the definite article.
 
@@ -72,10 +107,12 @@ These examples show that the quantity is not important.
 
 <span class="spoiler">Here is Éva, she is a secretary. She is looking for a stapler. When she found the stapler, she was happy.</span>
 
+---
+
 ### Yet to Learn
 
 * `-e` marking the [possession suffix](https://magyartanulas.github.io/dative_possession/)
-* `-k` the [plural ending](https://magyartanulas.github.io/accusative_plurals/)
+* `-k` and `-t` which function as the [plural and accusative endings](https://magyartanulas.github.io/accusative_plurals/) respectively
 * `-ban`, `-hoz` which are [locatives](https://magyartanulas.github.io/locatives/)
 * `meg`, marking [telicity](https://magyartanulas.github.io/coverbs_telicity/)
 * `jobb`, an example of a [comparative](https://magyartanulas.github.io/comparisons/)
