@@ -3,7 +3,7 @@ anchors.options = {
   visible: 'always',
   placement: 'left'
 };
-anchors.add('h3');
+anchors.add();
 </script>
 Here is some stuff that may go into the website later 
 
