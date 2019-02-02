@@ -1,12 +1,10 @@
-
-
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js">
 anchors.options = {
   visible: 'always',
   placement: 'left'
 };
 anchors.add('h3');
-     </script>
+</script>
 Here is some stuff that may go into the website later 
 
  Abbreviations
