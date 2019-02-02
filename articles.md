@@ -14,7 +14,7 @@ and *an* is used when that noun begins with a vowel (an icecream).
 In Hungarian the articles are `egy` and `a/az`. Article `egy` is indefinite (it is also the number one as well), whereas `a/az` is definite.
 Similar to English, `a` is used when the noun begins with a consonant and `az` with a noun beginning with a vowel.
 
->Just like in English, the indefinite article `egy` is used to specify just one thing and to introduce a new noun to the conversation. As soon as this noun becomes known to the conversation, the definite article `a` or `az` is used. 
+> Just like in English, the indefinite article `egy` is used to specify just one thing and to introduce a new noun to the conversation. As soon as this noun becomes known to the conversation, the definite article `a` or `az` is used. 
 
 * a kutya - (the dog)
 * az autó - (the car)
@@ -31,10 +31,10 @@ Proper nouns don't use an article, except for specifying a type of pronoun. Simi
 
 * A Középkori Európa. - (Medieval Europe.)
 * A Mai Magyarország. - (Modern-day Hungary.)
-* A macska állat. - (A cat is an animal.)
-* A fa növény. - (A tree is a plant.)
-* A nárcisz virág. - (A daffodil is a flower.)
-* A jacht csónak. - (A yacht is a boat.)
+* A macska állat. - (Cats are animals.)
+* A fa növény. - (Trees are plants.)
+* A nárcisz virág. - (Daffodils are flowers.)
+* A jacht csónak. - (Yachts are boats.)
 
 You can also make generalisations about nouns with the definite article.
 
