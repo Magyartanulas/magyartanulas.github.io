@@ -1,6 +1,12 @@
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js">anchors.add()</script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js">
+anchors.options = {
+  visible: 'always',
+  placement: 'left'
+};
+anchors.add('h3');
+     </script>
 Here is some stuff that may go into the website later 
 
  Abbreviations
@@ -12,6 +18,7 @@ This is some text.[^1]. Other text.[^footnote].
 * first item
 * second item
 {:toc}
+
 
 [^1]: Some *crazy* footnote definition.
 
