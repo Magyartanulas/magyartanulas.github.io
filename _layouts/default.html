@@ -8,7 +8,7 @@
     {% include sidebar.html %}
 
     <div class="content container">
-      {{ {% include anchor_headings.html html=content %}}}
+      {{ content }}
     </div>
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
