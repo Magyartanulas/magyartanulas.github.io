@@ -25,7 +25,7 @@ At the end of each section there will be a chance for review. Please leave a com
 1. The Alphabet & Vowel Harmony
 2. Phrases
 3. Introduction to Verbs
-4. Articles
+4. This-That & Articles
 5. Spatial Postpositions
 6. Introduction to Word Building
 7. Pronouns
