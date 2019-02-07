@@ -62,7 +62,7 @@ Another scenario in which **consonant assimilation** occurs in Hungarian is with
 
 ### Assimilation with the Imperative Mood
 
-Basically the imperative mood is turning verbs into orders/commands. You can identify this in sentences by seeing a `-j` directly after the verb (don't confuse this with the indicative mood, though!). Depending on the ending of the verb, this `-j` gets assimilated into a different form. Check out these imperatives in the second person.
+Basically the [imperative mood](https://magyartanulas.github.io/imperative_subjunctive/) is turning verbs into orders/commands. You can identify this in sentences by seeing a `-j` directly after the verb (don't confuse this with the indicative mood, though!). Depending on the ending of the verb, this `-j` can get assimilated into a different form. Check out these imperatives in the second person.
 
 | [sibilant]                             | [sibilant] + t               | [short vowel] + t                           | [long vowel/normal consonant] + t    | meaning                              |
 |----------------------------------------|------------------------------|---------------------------------------------|--------------------------------------|--------------------------------------|
