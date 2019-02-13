@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.js">
 var anchorJS = require('anchor-js');
 var anchors = new anchorJS();
@@ -11,13 +16,7 @@ anchors.options = {
   placement: 'left'
 };  
 anchors.add('h3');
-
 </script>
-
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</div>
 
 <div id="disqus_thread"></div>
 <script>
