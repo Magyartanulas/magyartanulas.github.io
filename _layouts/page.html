@@ -2,7 +2,16 @@
 layout: default
 ---
 
-<script>
+<script src="anchor.js">
+var anchorJS = require('anchor-js');
+var anchors = new anchorJS();
+anchors.options = {
+  visible: 'always',
+  icon: '#',
+  placement: 'left'
+};  
+anchors.add();
+
 </script>
 
 <div class="page">
