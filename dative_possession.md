@@ -94,8 +94,8 @@ The dative case can be added to the possessor to emphasise who the owner is/stre
 
 Using [demonstrative pronouns](https://magyartanulas.github.io/pronouns/), with possession markers forces you to use the dative case, lest the meaning be changed.
 
-* Annak a mókusnak makka. - (That squirrel's acorn.)
-* Az a mókus makka. - (That's the squirrel's acorn.)
+* Annak a mókusnak makkja. - (That squirrel's acorn.)
+* Az a mókus makkja. - (That's the squirrel's acorn.)
 
 `Challenges!`
 ![Könyvek](https://magyartanulas.github.io/public/könyvek.jpg)
