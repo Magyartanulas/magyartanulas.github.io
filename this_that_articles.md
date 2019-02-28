@@ -5,7 +5,7 @@ title: This-That & Articles
 
 ## This/That
 
-In English, we use the demonstrative pronoun "this" when we are talking about something near to us, in either space or time, and "that" when it is further away. Hungarian uses `ez` and `az` similarly. Take note that the one used in each specific situation can vary slightly from English; familiarity will come with practice.
+In English, we use the demonstrative pronoun "this" when we are talking about something near to us, in either space or time, and "that" when it is further away. Hungarian uses `ez` and `az` similarly. Take note that the one used in each specific situation can vary slightly from English; generally `ez` is used more in Hungarian, than `this` is used in English. Familiarity will come with practice.
 
 `Ez` - This  
 `Az` - That
