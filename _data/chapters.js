@@ -21,8 +21,8 @@ Coverbs + Telicity$coverbs_telicity
 Imperative + Subjunctive$imperative_subjunctive
 Noun Case Summary$noun_case_summary
 Expressing Need$expressing_need
-Word Order (1/2)$word_order
-Coverb Separation (2/2)$coverb_separation
+Word Order (1/3)$word_order
+Coverb Separation (2/3)$coverb_separation
 `;
 chapters=chapters.split('\n');
 chapters.pop();
