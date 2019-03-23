@@ -12,10 +12,12 @@ Remember, even if you can see smaller words/root words within the word, the mean
 
 | Word                         | Inverter               | Noun former            | Inverted noun                          |
 |------------------------------|------------------------|------------------------|----------------------------------------|
-| Igaz (true)                  | Igaztalan (untrue)     | Igazság (truth)        | Igaztalanság (injustice)               |
+| Igaz (true)                  | Igaztalan (untrue)     | Igazság (truth)        | Igaztalanság* (injustice)              |
 | Boldog (happy)               | Boldogtalan (unhappy)  | Boldogság (happiness)  | Boldogtalanság (unhappiness)           |
 | Tehet (he/she/it can do/put) | Tehetetlen (powerless) | Tehetség (talent)      | Tehetetlenség (powerlessness, inertia) |
 | Zöngés (voiced)              | Zöngétlen (voiceless)  | Zöngésség (voicedness) | Zöngétlenség (voicelessness)           |
+
+\* `Igaztalanság` is rare, usually `igazságtalanság` is said instead.
 
 Verbs can be formed into nouns using `ás/és` as well
 
