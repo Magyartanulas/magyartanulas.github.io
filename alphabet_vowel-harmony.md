@@ -74,7 +74,7 @@ Back:  a á o ó u ú     (A Zuzmó-Háború.)
 
 If the word is only one-syllable *and* contains only `i` or `í` then it can be considered back-vowelled or front-vowelled. E.g.
 
-* `szív` - ((the verb) considered front-vowelled word)
+* `szív` - ((the noun) considered front-vowelled word)
 * `híd` - (considered back-vowelled word)
 
 That's it for now. Check out [wikipedia's article on pronunciation](https://en.wiktionary.org/wiki/Appendix:Hungarian_pronunciation_assimilation) for more information.
