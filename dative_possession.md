@@ -230,11 +230,13 @@ Naturally, there are pronouns for the possessives as well, these are equivalent 
 | Pronoun | Single Possession | Multiple Possessions |
 |---------|-------------------|----------------------|
 | én      | az enyém          | az enyéim            |
-| te      | a tiéd            | a tieid              |
+| te      | a tiéd            | a tiéid              |
 | ő       | az övé            | az övéi              |
-| mi      | a mienk           | a mieink             |
-| ti      | a tietek          | a tieitek            |
+| mi      | a miénk           | a miéink             |
+| ti      | a tiétek          | a tiéitek            |
 | ők      | az övék           | az övéik             |
+
+* All possessive pronouns excluding `az enyém, az enyéim`can be said without accents.
 
 * Petőfi Rádió, a te slágered. - (Petőfi Radio, your hit.)
 * Ez a toll az enyém - (This pen is mine.)
