@@ -101,7 +101,7 @@ The accusative, plural and other things have been omitted for simplicity, natura
 
 * Ott lakunk ahol akarunk. - (We live where we want.)
 * Amilyen az apa, olyan a fiú. - (Like Father, like son.)
-* Az vagyok, aki magyarul tanulok. - (I am he/she who learns hungarian.)
+* Az vagyok, aki magyarul tanul. - (I am he/she who learns hungarian.)
 * Akik nem óvónők, azok nem madarak. - ((they) who are not kindergarten teachers, are (those that are) not birds.)
 * Igyál annyit, amennyi  jólesik! - (Drink as much as you want! (lit. as it falls well))
 
