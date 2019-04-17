@@ -54,3 +54,5 @@ Stay tuned for more!
 * [Babadum - Fun monolingual minigames!](https://babadum.com/)
 * [The Magyartanulás Community on Discord! - Talk with native speakers and other learners!](https://discord.gg/eVPbcEc)
 * [The Goldlist Method - Alternative memorising system to Anki that uses long-term memory](https://www.youtube.com/watch?v=Ixxq8moh4pg)
+* [A Kis Herceg (Translated from Hungarian to English) Comments](https://docs.google.com/spreadsheets/d/1klT2mr61jbPe0QKcvWCd306wKieV7OO1Px9b5OnWV70/edit?usp=sharing)
+* [A Kis Herceg (Translated from Hungarian to English) Published: View only](https://docs.google.com/spreadsheets/d/e/2PACX-1vSIcCaSGyLq7O7U3lEibLbkOWAcKZOys3ybksnxxQxtAtPOUYF7jg1Mvlb3QNv8umIR3XOpgSbkfm0w/pubhtml)
