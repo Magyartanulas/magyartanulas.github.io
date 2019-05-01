@@ -14,8 +14,6 @@ shall be explained where relevant.
 
 The grammar will be explained in a progression route with sections from beginner to advanced. Feel free to skip ahead, but be awarw that understanding of the prior sections is assumed. Although there is an order, some concepts will be introduced earlier and explained later as grammar is actually a web rather than a linear pathway. These will be noted at the end of each section as **Yet to Learn** starting from section 2.
 
-
-
 Starting from Section 2, there will be captioned images with no english translation. Try and see if you can ~~translate~~ understand these `Challenges` using the grammar concepts explained and the context of the images! When it makes sense to explain the context, scenarios will be given between people.
 
 At the end of each section there will be a chance for review. Please leave a comment and rating to let us know how we're doing 😀
