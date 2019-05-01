@@ -23,7 +23,7 @@ The default order for neutral sentences is **S**ubject**V**erb**O**bject (SVO). 
 
 In Hungarian neutral sentences, the subject is omitted if it is a personal pronoun. This is because the subject is implicitly stated in the conjugation.
 
-* Megúgta a széket.
+* Megrúgta a széket.
 * Eldobtad a követ.
 * A tolvajok ellopták a táskámat.
 * György írta a nevét a homokba. - (Said neutrally, by a narrator.)
