@@ -17,27 +17,27 @@ But it isn't *that* simple, let's explore all the different scenarios.
 Here is how the situation goes down generally.
 
 * A mohó róka megette a csirkét. - (The greedy fox at the chicken. NEUTRAL)
-  - A mohó **róka** ette meg a csirkét. - (It was the *fox* that ate the chicken.)
-  - A **csirkét** ette meg a mohó róka.  - (It was the *chicken* that the fox ate.)
+  - A mohó **róka** ette meg a csirkét. - (Focus: `a mohó róka`)
+  - A **csirkét** ette meg a mohó róka.  - (Focus: `a csirkét`)
   
 This detachment can also be seen when a verb and a telic verb in the infinitive are used together. Whatever is in front, is emphasised.
 
 * Próbáltam elnézni. - (I *tried* to look away)
-  - El próbáltam nézni. - (I tried to look *away*. Not up, down, out or in.)
-  - Elnézni próbáltam - (I tried to *look away*. Not see, listen or speak.)
+  - El próbáltam nézni. - (Focus: `el`. Not `fel`, `le`, or `ki`.)
+  - Elnézni próbáltam - (Focus: `elnéz`. Not `lát`, `hallgat` or `mond`.)
   
 It's the same deal with the conjugated infinitive.
 
-* Fel kell kelnem. - (I need to get *up*. Not `átkel` or `egybekel`)
-  - Felkelnem kell. - (I need to *get up*. Not lie down)
-  - Kell felkelnem. - (I *need* to get up. It's really important)
+* Fel kell kelnem. - (Focus: `fel`. Not `át` or `egybe`)
+  - Felkelnem kell. - (Focus: `felkel`. Not `lefekszik`)
+  - Kell felkelnem. - (Focus: `kell`. As opposed to not needing to.)
   
 Whatever precedes `kell` or starts the sentence is emphasised. Similar ordering is seen using `sikerült` and the conjugated infinitive.
 
 * Megoldtuk. - (We solved it.)
-  - Sikerült megoldanunk. - (We managed to *successfully* solve it.)
-  - Meg sikerült oldanunk. - (We *managed* to solve it successfully.)
-  - Megoldanunk sikerült. - (We managed to *solve it* successfully.)
+  - Sikerült megoldanunk. - (Focus: `sikerült`. It didn't fail.)
+  - Meg sikerült oldanunk. - (Focus: `meg`. We set out to solve it, and it was solved.)
+  - Megoldanunk sikerült. - (Focus: `megold`. Not `megcsinál`.)
   
 ### Negated Sentences
 
@@ -56,13 +56,15 @@ Because of the coverb always separating when present in a negated sentence, nega
 Likewise the detachment is present when using `fog` as well. The position of the coverb can be placed before a word that is before `fog`.
 
 * A mohó róka meg fogja enni a csirkét. - (The greedy fox will eat the chicken. Neutral)
-* A mohó róka fogja megenni a csirkét. - (Emphasis on the greedy fox)
-* A  csirkét meg fogja enni a mohó róka. (Emphasis on the verb megeszik)
+* A mohó róka fogja megenni a csirkét. - (Focus: `a mohó róka`)
+* A csirkét meg fogja enni a mohó róka. - (Topic: `a csirkét`, Focus: `megeszik`)
 
 Adding `fog` into a present tense sentence with coverbs changes things up.
 
 * elmegyek » el fogok menni
 * megyek el » fogok elmenni
+
+We saw here that a coverb has to jump in front of **both** verbs, if it wants to be emphasised. 
 
 ### In Questions
 
