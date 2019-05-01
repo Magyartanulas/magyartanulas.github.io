@@ -57,27 +57,27 @@ Because English generally has a rigid word order, emphasis only happens through 
 
 Hungarian is a topic-prominent language. The topic (what the sentence is about) is placed at the beginning of the sentence, and the rest of the sentence talks about this topic.
 
-So because the case system in Hungarian frees up the word order, the emphasis now becomes based upon word order. The topic goes first, and the thing that is to be emphasised goes before the verb.
+So because the case system in Hungarian frees up the word order, the focus (what is emphasised) now becomes based upon word order. The topic goes first, and the focus goes before the verb.
 
 * Tegnap a matek vizsgám volt. - (Yesterday I had my *maths exam*.)
   - Topic: Tegnap
   - Emphasis: a matek vizsgám
   
-Because the emphasis is on `a matek vizsgám`, this sentence could work as a response to `Tegnap milyen vizsgád volt?`. The topic of conversation would be *when was it* with the emphasis on `what kind of exam?`. With word order, **the answer reflects the question**.
+Because the focus is `a matek vizsgám`, this sentence could work as a response to `Tegnap milyen vizsgád volt?`. The topic of conversation would be *when was it* with the emphasis on `what kind of exam?`. With word order, **the answer reflects the question**.
 
 * György a homokba írta a nevét. - (György wrote his name in the sand. As said by someone describing what György is doing.)
   - Topic: György
-  - Emphasis: a homokba
+  - Focus: a homokba
 
 *Barnabás: Mit szoktál reggelizni?* - (What do you usually have for breakfast?)
 
 *Alex: Csak két szendvicset szoktam.* - (Usually just two sandwiches.)
 
-* Topic + Emphasis: Mit? Két szendvicset
+* Topic + Focus: Mit? Két szendvicset
 
 ### Questions
 
-Something you'll notice is that the verb almost always follow a question word.
+Something you'll notice is that the verb almost always follows a question word.
 
 * *Hol van* a tollam? - (Where is my pen?)
 * *Mit csináltál* tegnap? - (What did you do yesterday?)
@@ -88,17 +88,42 @@ An exception: `Milyen napod volt?` (Due to the focus of *your day*).
 
 ### Negation
 
-The negative word always comes first when negating the sentence. The word directly after the negative word is emphasised.
+There are three ways negation occurs in Hungarian. It is understood that the topic is taken up by `nem`, but **the focus is free to change.**
+
+#### Verb Is Negated
+
+Format: `nem` + verb
+
+1. There is a focus.
+
+* Azt a fát még soha nem láttam. - (I've never seen *that tree.*)
+    * Focus - `azt a fát`
+    * Verb - `lát`
+
+2. There is no focus.
 
 * Nem vagyok magyar. - (I'm not Hungarian.)
-* Nem magyar vagyok. - (I'm not *Hungarian.*)
+    * Focus - None
+    * Verb - `van`
 
-Now the second sentence is incomplete. The emphasis has been placed on `magyar` which leads people to believe you are going to give them more information. Here are two ways you could complete the sentence.
+#### Verb Is Not Negated
+
+Format: `nem` + focus
+
+3. Focus is negated.
+
+* Nem magyar vagyok. - (I'm not *Hungarian.*)
+    * Focus - `magyar`
+    * Verb - `van`
+
+Now because you've negated the focus, it sounds incomplete, leading people to belive there's more information coming. Here are a couple of ways this can be done.
 
 * Nem magyar vagyok, hanem angol. - (I'm not Hungarian but (rather) I'm English)
 * Nem magyar vagyok, de angol sem. - (I'm not Hungarian, but I'm not English either.)
 
-Recall the listening when we first covered [negation](https://magyartanulas.github.io/infinitive_negation/). Pay attention to the word order as the topic changes.
+#### Change of Topic
+
+Recall [the listening](https://magyartanulas.github.io/negation/#listening) when we first covered negation. Pay attention to the word order as the topic changes.
 
 * Pisti: Segíts, mi a gond?
 * Jani: A gond az, hogy **nincs videó**
@@ -145,8 +170,7 @@ Arrange these words into a neutral sentence. *Remember the position of the topic
 
 ## Further Links
 
-Naturally, this can be a difficult topic to grasp, as it differs a lot from English. Here are some videos on youtube that may help you.
+Naturally, this can be a difficult idea to grasp, as it differs a lot from English. Here are some videos on youtube that may help you.
 
 * [Explained with HungarianProject](https://www.youtube.com/watch?v=iYT7Cju3ZX4&t=611s)
 * [Explained with HungarianOnline](https://www.youtube.com/watch?v=o54E33Rw9Sk&t=4s)
-
