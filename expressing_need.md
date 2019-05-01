@@ -51,7 +51,7 @@ Remember the [infinitive](https://magyartanulas.github.io/infinitive_negation/)?
 ![víz](https://magyartanulas.github.io/public/víz.png)
 *Ki kell jönnöd a vízből! (Original image, merging free images together)*
 
-<span class="spoiler">You need to get out of the water!</span>
+<span class="spoiler">You need to come out of the water!</span>
 
 ### Listening
 
