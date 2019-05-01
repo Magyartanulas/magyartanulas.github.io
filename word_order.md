@@ -17,14 +17,14 @@ This isn't strictly true. While words can be rearranged, there are always except
 The default order for neutral sentences is **S**ubject**V**erb**O**bject (SVO). The subject does something (the verb) to the object. In English, personal pronouns or nouns are generally the subject.
 
 * He kicked the chair.
-* You threw the rock.
+* You threw the rock away.
 * The thieves stole my bag.
 * György wrote his name in the sand.
 
 In Hungarian neutral sentences, the subject is omitted if it is a personal pronoun. This is because the subject is implicitly stated in the conjugation.
 
-* Rúgta a széket.
-* Dobod a követ.
+* Megúgta a széket.
+* Eldobtad a követ.
 * A tolvajok ellopták a táskámat.
 * György írta a nevét a homokba. - (Said neutrally, by a narrator.)
 
