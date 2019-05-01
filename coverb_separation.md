@@ -1,5 +1,5 @@
 ---
-title: Coverb Separation (2/2)
+title: Coverb Separation (2/3)
 
 layout: page
 ---
@@ -100,4 +100,4 @@ Arrange these words into a sentence that puts focus on `ötször`. Decide if the
 * elejtette 
 * az
 
-<span class="spoiler">Az a fiú olyan ügyeten, már ötször ejtette el a labdát.</span>
+<span class="spoiler">Az a fiú olyan ügyetlen, már ötször ejtette el a labdát.</span>
