@@ -99,7 +99,7 @@ Notice how ~~igen~~ `de` (but) is used to counter a negative question.
  
 ### Listening
 
-Jani and Pisti are talking, try to work out what they are saying! [Source:](https://www.youtube.com/watch?v=LgrBvoSzgHI&)
+Jani and Pisti are talking, try to work out what they are saying! [Source:](https://youtu.be/LgrBvoSzgHI?t=165)
 
 <audio controls><source src="https://magyartanulas.github.io/public/csatornán.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
