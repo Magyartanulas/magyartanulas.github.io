@@ -60,9 +60,9 @@ When `úgy` is used, it is followed up with more information either in the sente
 
 *Context: Alex and Barnabás are talking about their group project over the phone.*
 
-*Alex: Mi a terv a feladatra? Hogyan csináljuk meg? - (What's the plan for the task? How should we do it?
+*Alex: Mi a terv a feladatra? Hogyan csináljuk meg? - (What's the plan for the task? How should we do it?*
 
-*Barnabás: Együtt fogjuk megcsinálni, úgy könnyebb.* - (We'll do it together, it'll be easier this way.)*
+*Barnabás: Együtt fogjuk megcsinálni, úgy könnyebb. - (We'll do it together, it'll be easier this way.)*
 
 ## ilyen/olyan
 ---
@@ -76,9 +76,9 @@ Both `ilyen` and `olyan` on the other hand are adjectival [pronouns.](https://ma
 * Ez lehetetlen ilyen körülmények között - (This is impossibe among such circumstances.)
 * Mi is ilyenek voltunk, amikor fiatalok voltunk. - (We were like that when we were younger.)
 
-*Alex: A házi feladat határideje tegnap volt. - (The deadline of the homework was yesterday.)
+*Alex: A házi feladat határideje tegnap volt. - (The deadline of the homework was yesterday.)*
 
-*Barnabás: Ilyen nincs! - (That can't be possible! lit. There is no such (thing))
+*Barnabás: Ilyen nincs! - (That can't be possible! lit. There is no such (thing))*
 
 ## mint
 ---
