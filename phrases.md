@@ -50,7 +50,7 @@ Now that you've mastered pronunciation, here are some basic phrases and words to
 
 
 * `Neked/nektek is` are responses to thoses phrases beginning with `jó` or `szép`.
-* `Igen, csak egy kicsit` is a reponse to `beszélsz angolul/magyarul?`
+* `Igen, csak egy kicsit` is a response to `beszélsz angolul/magyarul?`
 
 `Challenge!`
 ![bomba](https://magyartanulas.github.io/public/bomba.png)
