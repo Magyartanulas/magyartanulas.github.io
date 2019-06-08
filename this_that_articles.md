@@ -12,9 +12,9 @@ In English, we use the demonstrative pronoun "this" when we are talking about so
 
 Just like English, these can be used in different ways. Firstly, its use in conjunction with a definite article, to specify proximity of a noun to the speaker: 
 
-* Ez a kutyá. - (This dog.)
+* Ez a kutya. - (This dog.)
 * Ez az alma. - (This apple.)
-* Az a fá. - (That tree.)
+* Az a fa. - (That tree.)
 * Az az óra. - (That clock.)
 
 **Note:**
@@ -24,7 +24,7 @@ Just like English, these can be used in different ways. Firstly, its use in conj
 
 Secondly, it is used to introduce new information.
 
-* ez kutyá - (this is a dog)
+* ez kutya - (this is a dog)
 * az víz - (that is water)
 * ez egy macska - (this is a cat)
 * látom azt - (I see that)
