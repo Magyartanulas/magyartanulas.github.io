@@ -37,7 +37,7 @@ To use the comparative, attach `-bb` to the end of a noun, and to make that comp
 `Challenge!`
 ![ingek](https://magyartanulas.github.io/public/együtt.png)
 
-*Barnabás: Szerinted melyik ing jobban néz ki rám?? (Original image, merging free images together)*
+*Barnabás: Szerinted melyik ing áll jobban nekem?? (Original image, merging free images together)*
 
 *Éva: A kék ing, mert jól megy a többi ruhádhoz.*
 
