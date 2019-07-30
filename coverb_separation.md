@@ -80,7 +80,7 @@ When coverbs are present in a non yes-no question, they are usually separated (r
 In the imperative mood, the coverb is always detached.
 
 * Hívj fel, ha van időd. - (Ring me if you have time.)
-* Kapcsoljátok le a villanyt mielőtt mentek aludni! ((2nd Person) Turn off the lights before you go to sleep!)
+* Kapcsoljátok le a villanyt, mielőtt mentek aludni! ((2nd Person) Turn off the lights before you go to sleep!)
 
 In the subjunctive mood, the coverb is almost always detached, unless you want to emphasise the verb, here are a couple of rare cases.
 
