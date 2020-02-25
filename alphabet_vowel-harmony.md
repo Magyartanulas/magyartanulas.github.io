@@ -61,11 +61,11 @@ a e i o ö u ü
 á é í ó ő ú ű
 ```
 
-For vowel harmony, these vowels are sorted as either front or back (Hungarians refer to these as deep or high). Here are some non-sensical sentences to remember each.
+For vowel harmony, these vowels are sorted as either front or back. Hungarians refer to these as mély (deep) or magas (high) and use the words `teniszütő` and `autó`to remember which is which.
 
 ```
-Front: e é i í ö ő ü ű (Öt üveg-űző épít itt.)
-Back:  a á o ó u ú     (A Zuzmó-Háború.)
+Front: e é i í ö ő ü ű (teniszütő)
+Back:  a á o ó u ú     (autó)
 ```
 
 * If a word contains only front vowels, then it should be conjugated with front vowels. `épület`
