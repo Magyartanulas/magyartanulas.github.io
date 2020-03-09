@@ -76,7 +76,7 @@ Here are some examples:
 **Things to note:**
 
 * Possessions are usually referred to with the definite article.
-* Multiple possessions is almost the same, just with an addied `-i`.
+* Multiple possessions is almost the same, just with an added `-i`.
 * Because of this, plural case is not used with the possessive.
 * There are some similarities with indicative verb conjugation. E.g. `-nk` endings match 1st person plural indef present conjugation `-nk`.
 * Some nouns will change with possessives. E.g. In the 3rd person `idő --> ideje`.
