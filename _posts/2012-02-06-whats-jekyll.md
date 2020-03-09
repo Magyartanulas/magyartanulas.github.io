@@ -18,32 +18,9 @@ Starting from Section 2, there will be captioned images with no english translat
 
 At the end of each section there will be a chance for review. Please leave a comment and rating to let us know how we're doing 😀
 
-### Progression Route
+### Planned Future Sections
 
-1. The Alphabet & Vowel Harmony
-2. Phrases
-3. Introduction to Verbs
-4. This-That & Articles
-5. Spatial Postpositions
-6. Introduction to Word Building
-7. Pronouns
-8. Counting
-9. The Accusative Case & Plurals
-10. Definite vs Indefinite Conjugation
-11. Common Adverbs
-12. Infinitive Verb Form
-13. Negation
-14. The Conditional Mood
-15. The Dative Case & Possession
-16. Expressing Interest
-17. Expressing Location
-18. Making Comparisons
-19. Coverbs + Telicity
-20. The Imperative & Subjunctive Mood
-21. More Noun Cases
-22. The Conjugated Infinitive & Expressing need
-23. Word Order (1/3)
-24. Coverb Separation (2/3)
+25. Extra and Emphasis (3/3)
 
 Stay tuned for more!
 
