@@ -271,7 +271,7 @@ There are also pronouns not pertaining to location, and so they only have one fo
 
 * ...de nem Alex. Szerinte ez a legviccesebb dolog, amit valaha látott. - (...but not Alex. According to him, this is the funniest thing he's ever seen.)
 * Azt akarod, hogy én vigyem ki helyetted? - (Do you want *me* to carry it instead?)
-* Tegnap kutyákat láttunk a parkban, lehet, hogy miattuk vannak ott azok a lyukak - (Yesterday we saw dogs in the park. It's possible that those holes there are due to *them*.)
+* Tegnap kutyákat láttunk a parkban, lehet, hogy miattuk vannak ott azok a lyukak - (Yesterday we saw dogs in the park. It's possible that those holes are there due to *them*.)
 * Ha nem melletem állsz, az ellenségem vagy! - (Quote (Anakin - Star Wars III):If you don't stand with (lit. next to) me, you are my enemy!)
 
 ---
