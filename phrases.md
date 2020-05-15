@@ -6,7 +6,7 @@ title: Phrases
 ## Phrases & Words
 ---
 
-Now that you've mastered pronunciation, here are some basic phrases and words to get you started! Be aware that everything here is simplified and not much is explained, but if you keep coming back to here, everything will start to click.
+Now that you've mastered pronunciation, here are some basic phrases and words to get you started! Be aware that everything here is simplified and not much is explained, but if you keep coming back here, everything will start to click.
 
 | Magyar                                             | English                       |
 |----------------------------------------------------|-------------------------------|
