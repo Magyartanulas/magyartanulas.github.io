@@ -10,7 +10,7 @@ In English, we use the demonstrative pronoun "this" when we are talking about so
 `Ez` - This  
 `Az` - That
 
-Just like English, these can be used in different ways. Firstly, its use in conjunction with a definite article, to specify proximity of a noun to the speaker: 
+Just like English, these can be used in different ways. Firstly, their use in conjunction with a definite article, to specify proximity of a noun to the speaker: 
 
 * Ez a kutya. - (This dog.)
 * Ez az alma. - (This apple.)
@@ -22,9 +22,9 @@ Just like English, these can be used in different ways. Firstly, its use in conj
 * Unlike in English, the definite article `a/az` must also be used.
 * If the noun begins with a vowel, `a` changes to `az`.
 
-Secondly, it is used to introduce new information.
+Secondly, thez are used to introduce new information.
 
-* ez kutya - (this is a dog)
+* ez egy kutya - (this is a dog)
 * az víz - (that is water)
 * ez egy macska - (this is a cat)
 * látom azt - (I see that)
@@ -81,7 +81,7 @@ You can also make generalisations about nouns with the definite article.
 If you listen on public transport, the definite article is used when announcing the next stop (as a street/square) or you can hear it used for institutions and organisations.
 
 * A következő megálló a Hősök Tere. - (The next stop is Hero's Square.)
-* Sok ember van, a Váci Utcában. - (There are many people on Váci Street.)
+* Sok ember van a Váci Utcában. - (There are many people on Váci Street.)
 * A Balassi Intézet kiváló hely a magyar nyelvtanuláshoz. - (The Balassi institute is an excellent place for Hungarian language learning.)
 
 The article is often omitted in certain situations in Hungarian. Aside from the examples mentioned before, all the times that English uses an indefinite article, Hungarian uses none. It is also omitted for dates.
