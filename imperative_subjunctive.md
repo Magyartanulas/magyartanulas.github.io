@@ -133,20 +133,6 @@ G: *Growls*<br/>
 Sz: Go away and don't ever come back!<br/>
 </div>
 
-<div id = "none" style ="display:block">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-</div>
-
 ### Use of nouns
 
 Hungarian makes the distinction between addressing someone (with imperatives) and specifying the action to do. The latter is achieved by using verbs that are formed into nouns using `-ás,-és`. You are more likely to hear this in the army and also when you change your device's language to Hungarian, as options will be displayed this way.
