@@ -10,7 +10,7 @@ layout: page
 * The conditional mood depends on *conditions* to occur. - If he finishes his homework, then he can come over.
 * The imperative mood commands people, it is *imperative* you do this. - Come over!
 
-The imperative mood can be expressed by adding on `-j` to the end of the verb unless it's an [irregular verb](https://magyartanulas.github.io/infinitive/). Here are some examples:
+The imperative mood can be expressed by adding on `-j` before the verb conjugation unless it's an [irregular verb](https://magyartanulas.github.io/infinitive/). Here are some examples:
 
 Format: indef. -- def.
 
