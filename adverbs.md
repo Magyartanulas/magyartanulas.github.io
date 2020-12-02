@@ -42,3 +42,5 @@ There are some adjectives that can become adverbs from either ending. E.g. `pisz
 
 * Figyeltem a kresz tablákra piszkosul. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/105413/pamkutya/luis-fonsi---despacito-parodia-zeneszoveg.html) I paid attention to the traffic signs like crazy!)
 * Figyeltem a kresz tablákra piszkosan. - (I paid attention to the traffic signs dirtily (physically))
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
