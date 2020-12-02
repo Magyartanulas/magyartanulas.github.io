@@ -31,10 +31,12 @@ See how for the most part, in the second person there is a short and a long way 
 
 Examples:
 
-* Gyertek gyerekek, az ugrálóvár erre van! - (Come kids, the bouncy castle is this way!)
-* Hagyd abba! - (Quit it!)
-* Na mondjad, mi újság? - (So tell me, what's up?)
-* Menj a szobádba! - (Go to your room!)
+* **Légy szíves!** - Please! (lit. Be kind!)
+* **Maradjanak otthon!** - Stay home!
+* **Gyertek gyerekek, az ugrálóvár erre van!** - Come kids, the bouncy castle is this way!
+* **Hagyd abba!** - Quit it!
+* **Na mondjad, mi újság?** - So tell me, what's up?
+* **Menj a szobádba!** - Go to your room!
 
 **Note:** `Mi újság` is often shortened to `mizu`
 
