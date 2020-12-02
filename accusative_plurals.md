@@ -205,4 +205,4 @@ Examples:
 * [definite conjugation](https://magyartanulas.github.io/definite_indefinite/) seen in `látom`
 * the [translative case](https://magyartanulas.github.io/noun_case_summary/) seen in `boldoggá`
 
-Got questions? Join our discord server!: https://discord.gg/7ayenQx2JY
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
