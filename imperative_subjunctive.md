@@ -23,7 +23,7 @@ Format: indef. -- def.
 | ti      | mondjatok--mondjátok  | legyetek    | gyertek  | menjetek |  nézzetek--nézzétek |
 | ők      | mondjanak--mondják    | legyenek    | jöjjenek | menjenek |  nézzenek--nézzék   |
 
-See how for the most part, verbs have a short and long form in the second person.
+See how for the most part, in the second person there is a short and a long way of conjugation. The difference is mostly stylistic, but in most cases the shorter form tends to be used.
 
 Examples:
 
