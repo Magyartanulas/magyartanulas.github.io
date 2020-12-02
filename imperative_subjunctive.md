@@ -17,7 +17,7 @@ Format: indef. -- def.
 | Pronoun | Mond                  | Van/Lesz    | Jön      | Megy     | Néz                 |
 |---------|-----------------------|-------------|----------|----------|---------------------|
 | én      | mondjak--mondjam      | legyek      | jöjjek   | menjek   |  nézzek--nézzem     |
-| te      | mondj--mondjad/mondd  | légy/legyél | gyere    | menj     |  nézz--nézzed/nézd  |
+| te      | mondj (mondjál)--mondd (mondjad) | légy (legyél) | gyere    | menj (menjél)|  nézz (nézzél)--nézd (nézzed) |
 | ő       | mondjon--mondja       | legyen      | jöjjön   | menjen   |  nézzen--nézze      |
 | mi      | mondjunk--mondjuk     | legyünk     | jöjjünk  | menjünk  |  nézzünk--nézzük    |
 | ti      | mondjatok--mondjátok  | legyetek    | gyertek  | menjetek |  nézzetek--nézzétek |
