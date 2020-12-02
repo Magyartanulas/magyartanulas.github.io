@@ -16,12 +16,12 @@ Format: indef. -- def.
 
 | Pronoun | Mond                  | Van/Lesz    | Jön      | Megy     | Néz                 |
 |---------|-----------------------|-------------|----------|----------|---------------------|
-| én      | mondjak--mondjam      | legyek      | jöjjek   | Menjek   |  nézzek--nézzem     |
-| te      | mondj--mondjad/mondd  | légy/legyél | gyere    | Menj     |  nézz--nézzed/nézd  |
-| ő       | mondjon--mondja       | legyen      | jöjjön   | Menjen   |  nézzen--nézze      |
-| mi      | mondjunk--mondjuk     | legyünk     | jöjjünk  | Menjünk  |  nézzünk--nézzük    |
-| ti      | mondjatok--mondjátok  | legyetek    | gyertek  | Menjetek |  nézzetek--nézzétek |
-| ők      | mondjanak--mondják    | legyenek    | jöjjenek | Menjenek |  nézzenek--nézzék   |
+| én      | mondjak--mondjam      | legyek      | jöjjek   | menjek   |  nézzek--nézzem     |
+| te      | mondj--mondjad/mondd  | légy/legyél | gyere    | menj     |  nézz--nézzed/nézd  |
+| ő       | mondjon--mondja       | legyen      | jöjjön   | menjen   |  nézzen--nézze      |
+| mi      | mondjunk--mondjuk     | legyünk     | jöjjünk  | menjünk  |  nézzünk--nézzük    |
+| ti      | mondjatok--mondjátok  | legyetek    | gyertek  | menjetek |  nézzetek--nézzétek |
+| ők      | mondjanak--mondják    | legyenek    | jöjjenek | menjenek |  nézzenek--nézzék   |
 
 See how for the most part, verbs have a short and long form in the second person.
 
