@@ -78,3 +78,5 @@ If the word is only one-syllable *and* contains only `i` or `í` then it can be 
 * `híd` - (considered back-vowelled word)
 
 That's it for now. Check out [wikipedia's article on pronunciation](https://en.wiktionary.org/wiki/Appendix:Hungarian_pronunciation_assimilation) for more information.
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
