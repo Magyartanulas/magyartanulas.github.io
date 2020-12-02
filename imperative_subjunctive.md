@@ -33,12 +33,19 @@ Examples:
 
 * **Légy szíves!** - Please! (lit. Be kind!)
 * **Maradjanak otthon!** - Stay home!
-* **Gyertek gyerekek, az ugrálóvár erre van!** - Come kids, the bouncy castle is this way!
-* **Hagyd abba!** - Quit it!
 * **Na mondjad, mi újság?** - So tell me, what's up?
 * **Menj a szobádba!** - Go to your room!
+* **Hagyd abba!** - Quit it!
+* **Menjünk vissza.** - Let's go back.
 
-**Note:** `Mi újság` is often shortened to `mizu`
+*Alex: Ma mit csináljunk?* - (What should we do today?)
+
+*Barnabás: Menjünk az állatkertbe.* - (Let's go to the zoo.)
+
+*Alex: Jó ötlet.* - (Good idea.)
+
+
+**Note:** `Mi újság` is often shortened to `mizu` in casual speech. 
 
 `Challenge!`
 
@@ -163,15 +170,9 @@ In Hungarian, the subjunctive mood uses the same form as the imperative. It is u
 * Úgy legyen. - (So be it.)
 * A célom az, hogy jó legyek. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/56267/rajzfilm-slagerek/pokemon---indigo-liga---szerezd-meg-hat-mind-zeneszoveg.html) My goal is to be good.)
 * Bogi azt kéri, hogy ne kérdezz annyit. - (Bogi asks that you (should) not question so much.)
-* Menjünk vissza. - (Let's go back.)
 * Idehoztam, hogy megnézze, amit készítettél. - (I brought him/her here so that they could check out what you made.)
 * Vizet kérek, hogy holnap ne legyek másnapos. - (I ask for water, so that tomorrow I don't get a hangover.)
-
-*Alex: Ma mit csináljunk?* - (What should we do today?)
-
-*Barnabás: Menjünk az állatkertbe.* - (Let's go to the zoo.)
-
-*Alex: Jó ötlet.* - (Good idea.)
+* Sokat kell tanulni ahhoz, hogy megtanulj egy új nyelvet - (You need to learn a lot, to learn a new language.) 
 
 `Challenge!`
 
