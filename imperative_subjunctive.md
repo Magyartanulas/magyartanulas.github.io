@@ -10,11 +10,15 @@ layout: page
 * The conditional mood depends on *conditions* to occur. - If he finishes his homework, then he can come over.
 * The imperative mood commands people, it is *imperative* you do this. - Come over!
 
-The imperative mood can be expressed by adding on `-j` before the verb conjugation unless it's an [irregular verb](https://magyartanulas.github.io/infinitive/). Here are some examples:
+The imperative mood can be expressed by adding on `-j` before the verb conjugation unless it's an [irregular verb](https://magyartanulas.github.io/infinitive/). 
+
+In some cases, the `-j` changes to fit the letter before it. For example, instead of `nézjek` we get `nézzek`. This applies to all verbs ending in `z`.
+
+Here are some examples:
 
 Format: indef. -- def.
 
-| Pronoun | Mond                  | Van/Lesz    | Jön      | Megy     | Néz                 |
+| Pronoun | Mond (regular conjugation)| Van/Lesz    | Jön      | Megy     | Néz                 |
 |---------|-----------------------|-------------|----------|----------|---------------------|
 | én      | mondjak--mondjam      | legyek      | jöjjek   | menjek   |  nézzek--nézzem     |
 | te      | mondj (mondjál)--mondd (mondjad) | légy (legyél) | gyere    | menj (menjél)|  nézz (nézzél)--nézd (nézzed) |
