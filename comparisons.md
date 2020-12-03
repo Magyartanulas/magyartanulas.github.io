@@ -117,3 +117,5 @@ When `mint`is used with `olyan` or `úgy`, it translates to as.
 ### Yet to Learn
 
 * Using `meg-` to mark [telicity](https://magyartanulas.github.io/coverbs_telicity/)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
