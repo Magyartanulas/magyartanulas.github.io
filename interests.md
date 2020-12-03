@@ -304,3 +304,5 @@ B: So you're in love. You're in love! You're in love!<br/>
 ### Yet to Learn
 
 * `bele-` is a [coverb](https://magyartanulas.github.io/coverbs_telicity/)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
