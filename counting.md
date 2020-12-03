@@ -195,3 +195,5 @@ All the simple equations shown below follow a simple formula. [number] [operatio
 * `-n` which is a [locative](https://magyartanulas.github.io/locatives/)
 * `-val,-vel` seen in `perccel, kilenccel, hárommal`, these are examples of the [instrumental case](https://magyartanulas.github.io/noun_case_summary/)
 * [definite conjugation](https://magyartanulas.github.io/accusative_plurals/) as seen in `látod` and `keresed`
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
