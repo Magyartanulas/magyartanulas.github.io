@@ -235,3 +235,5 @@ Bárcsak means if only/I wish and it is considered conditional. When it is used,
 * `szeret` is only one way of [expressing interest](https://magyartanulas.github.io/interests/)
 * `-re` seen in `mire` is a [locative](https://magyartanulas.github.io/locatives/)
 * the coverb `haza-` as well as `meg-` and `el-` are explained in [coverbs & telicity](https://magyartanulas.github.io/coverbs_telicity/)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
