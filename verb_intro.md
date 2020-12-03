@@ -4,7 +4,7 @@ title: Verb Introduction
 ---
 
 
-`Van` is the verb for existence. Naturally, it is an irregular verb, but one of the most important as well.
+`Van` is the verb for existence, similar to `to be` in English. Naturally, it is an irregular verb, but one of the most important as well.
 
 ### Conjugation
 
@@ -156,3 +156,5 @@ Naturally because phrases have been introduced, the list will be long, but event
 * The use of `nem` indicating [negation](https://magyartanulas.github.io/negation/)
 * The use of `fel-` which is a [coverb](https://magyartanulas.github.io/coverbs_telicity) used to add directionality.
 * The use of `meg-`, a [telicity marker](https://magyartanulas.github.io/coverbs_telicity)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
