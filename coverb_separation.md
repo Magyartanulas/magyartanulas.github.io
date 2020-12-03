@@ -83,7 +83,7 @@ In the [imperative mood](https://magyartanulas.github.io/imperative_subjunctive/
 * Hívj fel, ha van időd. - (Ring me if you have time.)
 * Kapcsoljátok le a villanyt, mielőtt mentek aludni! ((2nd Person) Turn off the lights before you go to sleep!)
 
-In the subjunctive mood, the coverb is usually attached.
+In the [subjunctive mood](https://magyartanulas.github.io/imperative_subjunctive/#the-subjunctive-mood), the coverb is usually attached.
 
 * Azt akarom, hogy kipróbáljátok ezt. - (I want you guys to *try this out*.)
 * Az a célom, hogy átmenjek a vizsgán. - (My goal is to *pass the exam*.)
