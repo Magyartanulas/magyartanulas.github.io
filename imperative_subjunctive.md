@@ -174,4 +174,4 @@ In Hungarian, the subjunctive mood uses the same verb conjugation as the imperat
 * `szükség` demonstrates one example of [expressing need.](https://magyartanulas.github.io/expressing_need/)
 * `azért` involves `ért`, a [noun case.](https://magyartanulas.github.io/noun_case_summary/)
 
-Got questions? Join our discord server!: https://discord.gg/7ayenQx2JY 
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
