@@ -151,7 +151,7 @@ The Subjunctive mood expresses a wish or a suggestion. Nowadays (in English at l
 * She demands that he leave at once.
 * God save the Queen.
 
-In Hungarian, the subjunctive mood uses the same form as the imperative. It is used to suggest or as the structure *x happens/happened so that y will/will not happen.*
+In Hungarian, the subjunctive mood uses the same verb conjugation as the imperative, shown above. It is used to suggest, or as the structure *x happens/happened so that y will/will not happen.*
 
 * Úgy legyen. - (So be it.)
 * A célom az, hogy jó legyek. - ([Lyric:](http://www.zeneszoveg.hu/dalszoveg/56267/rajzfilm-slagerek/pokemon---indigo-liga---szerezd-meg-hat-mind-zeneszoveg.html) My goal is to be good.)
