@@ -225,12 +225,14 @@ For the most part, these suffixes can be used as a general to & from (Allative,a
 
 ***As a final note:*** keep your eye out for phrases that naturally take a locative case as its argument. For examples:
 
-* Elegem van belőle. - (I've had enough of it.)
-* Ebben nem vagyok túl biztos. - (I'm not too sure (about) this.)
-* Mennyibe kerül ez? - (How much is this around?)
+* Elegem van belőle. - (I've had enough of it (lit. from it).)
+* Ebben nem vagyok túl biztos. - (I'm not too sure about (lit. in) this.)
+* Ez mennyibe kerül? - (How much does this cost?)
 
 ---
 
 ### Yet to Learn
 
 * A few [coverbs](https://magyartanulas.github.io/coverbs_telicity/) are seen in this section
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
