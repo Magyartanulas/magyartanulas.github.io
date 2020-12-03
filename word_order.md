@@ -6,15 +6,15 @@ layout: page
 
 First, before we explain anything, let's clear up this misconception.
 
-> Hungarian has a free order.
+> Hungarian has a free word order.
 
-This isn't strictly true. While words can be rearranged, there are always exceptions.
+This isn't strictly true. While Hungarian doesn't have a set order in which we place the parts of speech, the word order can significantly change the meaning or the implication of a sentence.
 
 ## Neutral Sentences
 
 ### SVO
 
-The default order for neutral sentences is **S**ubject**V**erb**O**bject (SVO). The subject does something (the verb) to the object. In English, personal pronouns or nouns are generally the subject.
+The default order for neutral sentences in English is **S**ubject**V**erb**O**bject (SVO). The subject does something (the verb) to the object. In English, personal pronouns or nouns are generally the subject.
 
 * He kicked the chair.
 * You threw the rock away.
@@ -174,3 +174,5 @@ Naturally, this can be a difficult idea to grasp, as it differs a lot from Engli
 
 * [Explained with HungarianProject](https://www.youtube.com/watch?v=iYT7Cju3ZX4&t=611s)
 * [Explained with HungarianOnline](https://www.youtube.com/watch?v=o54E33Rw9Sk&t=4s)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
