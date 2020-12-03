@@ -164,3 +164,5 @@ szükség[possession ending] van [something]-(ra/re)
 *Szükségem van a ruhádra, a csizmádra és a motorodra. - Arnold Schwarzenegger, The Terminator 2 (Free image by OpenClipart-Vectors, fetched from pixabay.com)*
 
 <span class="spoiler">I need your clothes, your boots and your motorcycle.</span>
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
