@@ -80,3 +80,5 @@ They literally mean *it will go* and *it will succeed* respectively.
 ### Yet to Learn
 
 * `le-` and `ki-` are [coverbs](https://magyartanulas.github.io/coverbs_telicity/)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
