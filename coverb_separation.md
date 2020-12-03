@@ -75,17 +75,18 @@ When coverbs are present in a non yes-no question, they are usually separated (r
 * Miért nem jött vissza sohasem? (Why did he never even come back?)
 * Kiket nem hívtatok meg? - (Who (plural) didn't you invite?)
 
-### In Imperative or Subjunctive Mood
+### In Imperative or Subjunctive Mood 
 
-In the imperative mood, the coverb is always detached.
+In the [imperative mood](https://magyartanulas.github.io/imperative_subjunctive/#the-imperative-mood), the coverb is always detached.
+
 
 * Hívj fel, ha van időd. - (Ring me if you have time.)
 * Kapcsoljátok le a villanyt, mielőtt mentek aludni! ((2nd Person) Turn off the lights before you go to sleep!)
 
-In the subjunctive mood, the coverb is almost always detached, unless you want to emphasise the verb, here are a couple of rare cases.
+In the subjunctive mood, the coverb is usually attached.
 
 * Azt akarom, hogy kipróbáljátok ezt. - (I want you guys to *try this out*.)
-* A célom az, hogy átmenjek a vizsgán. - (My goal is to *pass the exam*.)
+* Az a célom, hogy átmenjek a vizsgán. - (My goal is to *pass the exam*.)
 
 `Challenge!`
 
@@ -103,3 +104,5 @@ Arrange these words into a sentence that puts focus on `ötször`. Decide if the
 * az
 
 <span class="spoiler">Az a fiú olyan ügyetlen, már ötször ejtette el a labdát.</span>
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
