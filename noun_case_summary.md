@@ -208,27 +208,5 @@ To be continued...
 </div>
 
 <div id = "none" style ="display:block">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 </div>
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
