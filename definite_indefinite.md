@@ -185,3 +185,5 @@ András: That too.<br/>
 <span class="spoiler">I'm searching for the blue pen.</span>
 
 Aren't you loving all these verb tables? 🙃
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
