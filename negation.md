@@ -3,11 +3,11 @@ layout: page
 title: Negation
 ---
 
-Negation is basically puts *don't* or *did not* into the sentence, making it negative (hence the name).
+Negation is basically putting *don't* or *did not* into the sentence, making it negative (hence the name).
 
 ### Negating with nem & sem
 
-You can negate most sentences with `nem`, it means no, or not. Nem almost always starts at the beginning of the sentence.
+You can negate most sentences with `nem`, it means no, or not. As a rule, `nem` comes directly before the part of the phrase you are negating, in most cases the verb.
 
 * Nem tudom - (I don't know)
 * Nem értem - (I don't understand)
@@ -32,8 +32,8 @@ It should be noted that English treats the sentence as one whole value whereas H
 
 **Useful negations**
 
-* mindenki (everyone) senki (nobody)
 * valami (something) semmi (nothing)
+* mindenki (everyone) senki (nobody)
 
 ### Negating with nincs & sincs
 
@@ -208,3 +208,5 @@ P: So now...<br/>
 * `el-` is a [coverb](https://magyartanulas.github.io/coverbs_telicity/)
 * the ending `-j` as well as the `-s` in `segíts` mark the [imperative mood](https://magyartanulas.github.io/imperative_subjunctive/)
 * `-n` seen in `ezen` is a [locative](https://magyartanulas.github.io/locatives/)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
