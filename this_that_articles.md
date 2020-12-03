@@ -109,3 +109,5 @@ These examples show that the quantity is not important.
 * `-ban`, `-hoz` which are [locatives](https://magyartanulas.github.io/locatives/)
 * `meg`, marking [telicity](https://magyartanulas.github.io/coverbs_telicity/)
 * `jobb`, an example of a [comparative](https://magyartanulas.github.io/comparisons/)
+
+Got questions? Join our discord server!: https://discord.gg/VsqppQ6
