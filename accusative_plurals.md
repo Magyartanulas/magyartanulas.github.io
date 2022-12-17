@@ -190,6 +190,7 @@ Lastly, the pronouns change when in the accusative case.
 | én      | engem      |
 | te      | téged      |
 | ő       | őt         |
+| mi      | minket     |
 | ti      | titeket    |
 | ők      | őket       |
 
